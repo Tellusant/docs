@@ -1,2 +1,2 @@
-# publications
+# Publications
 Tellusant team member publications
