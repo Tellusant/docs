@@ -12,7 +12,7 @@ The main point is that we received an excellent score because of external valida
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
 [USPTO Certificate](https://tsdr.uspto.gov/documentviewer?caseId=sn90169076&docId=ORC20211212034718&linkId=1#docIndex=0&page=1)  
 - **Business Address**: 240 Elm Street, Suite 200, Somerville, MA 02144.  
-- **Website**: tellusant.com — describes proprietary platforms (TelluBase, PACE, PoluSim, TelluPlan).
+- **Website**: tellusant.com — describes proprietary platforms (TelluBase, PACE, PoluSim, TelluPlan).  
 [Tellusant Website](https://tellusant.com/)
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
@@ -75,3 +75,4 @@ The main point is that we received an excellent score because of external valida
 ---
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
