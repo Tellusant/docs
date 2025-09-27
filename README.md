@@ -1,2 +1,2 @@
-# Publications
-Tellusant team member publications
+# Tellusant Publications
+Repository for our team members' publications
