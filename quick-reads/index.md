@@ -2,21 +2,24 @@
 This page gives descriptions and links to our extensive library of Tellusant Quick Reads—mostly two-pagers on important management topics relating to our expertise.  
 
 
-[Analyzing Data-Poor Countries - The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
+### [Analyzing Data-Poor Countries - The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
+The Democratic Republic of the Congo (DRC) may be the world’s second most difficult country to analyze (after North Korea). This *Quick Read* shows that every country’s economic conditions can be quantified at the subnational level.  
 [China Geographic Breakdown](Tellusant-Quick-Read-China-Geographic-Breakdown.pdf)  
 [What Is Our Competitive Set? The Pepsi Example](Tellusant-Quick-Read-Competitive-Set-Pepsi-Example.pdf)  
 Who do we compete with? We use the Pepsi brand to expand the definition from the obvious to the sublime. We divide the reasoning into a qualitative example and a mathematical theory.  
 
 [Corporate Renewal](Tellusant-Quick-Read-Corporate-Renewal.pdf)  
 [Defining and Quantifying Socioeconomic Levels](Tellusant-Quick-Read-Socioeconomic-Levels.pdf)  
-[Developing Subnational Strategies](Tellusant-Quick-Read-Subnational-Strategies.pdf)  
+### [Developing Subnational Strategies](Tellusant-Quick-Read-Subnational-Strategies.pdf)  
+Why are subnational data valuable? Research shows that around ⅓ of corporate profitability is determined by the quality of subnational adjustments.  
 [Copy — Tabulate — Analyze: Advice for Business Analysts](Tellusant-Quick-Read-Copy-Tabulate-Analyze.pdf)  
 [Effective Decision Making](Tellusant-Quick-Read-Effective-Decision-Making.pdf)  
 [Fruhan’s Markers for Corporate Success](Tellusant-Quick-Read-Fruhan-Success-Markers.pdf)  
 [How The Engel Curve Shapes Global Food Spending](Tellusant-Quick-Read-Engel-Curve.pdf)  
 [Income Elasticity — The Global Beer Example](Tellusant-Quick-Read-Income-Elasticity-Beer-Example.pdf)  
 [Introducing DuPont Curves](Tellusant-Quick-Read-DuPont-Curves.pdf)  
-[Introduction to TelluBase](Tellusant-Quick-Read-TelluBase-Intro.pdf)  
+### [Introduction to TelluBase](Tellusant-Quick-Read-TelluBase-Intro.pdf)  
+TelluBase is the underlying macro database that feeds into our products. It covers 218 countries, 2,600 cities, and 2,500 subdivisions (states, provinces, etc.).  
 [Predicting Exchange Rates](Tellusant-Quick-Read-Exchange-Rate-Predictions.pdf)  
 ### [Predicting Is not Forecasting](Tellusant-Quick-Read-Predicting-vs-Forecasting.pdf)  
 Creating a forecast is only one part of prediction. We illustrate with an example of how a country’s market for a category will evolve.
