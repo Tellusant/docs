@@ -17,7 +17,8 @@ Why are subnational data valuable? Research shows that around ⅓ of corporate p
 [Fruhan’s Markers for Corporate Success](Tellusant-Quick-Read-Fruhan-Success-Markers.pdf)  
 [How The Engel Curve Shapes Global Food Spending](Tellusant-Quick-Read-Engel-Curve.pdf)  
 [Income Elasticity — The Global Beer Example](Tellusant-Quick-Read-Income-Elasticity-Beer-Example.pdf)  
-[Introducing DuPont Curves](Tellusant-Quick-Read-DuPont-Curves.pdf)  
+### [Introducing DuPont Curves](Tellusant-Quick-Read-DuPont-Curves.pdf)  
+DuPont analysis is one of the most fundamental concepts in financial theory. Here is a new take using what we call DuPont curves.  
 ### [Introduction to TelluBase](Tellusant-Quick-Read-TelluBase-Intro.pdf)  
 TelluBase is the underlying macro database that feeds into our products. It covers 218 countries, 2,600 cities, and 2,500 subdivisions (states, provinces, etc.).  
 [Predicting Exchange Rates](Tellusant-Quick-Read-Exchange-Rate-Predictions.pdf)  
@@ -37,8 +38,10 @@ Tellusant’s first official Roaring Forty list is out. It ranks the largest U.S
 
 ### [The Furst Food Choice Framework](Tellusant-Quick-Read-Furst-Food-Choice-Framework.pdf)
 Tellusant applies Tanis Furst’s food choice framework when trying to understand consumer behavior. We use it to design consumer surveys, to specify statistical analysis, and to have informed discussions.  
-[The Four Sources of Corporate Profits](Tellusant-Quick-Read-Makadok-Four-Profit-Sources.pdf)  
-[Managing Through Corporate Crises](Tellusant-Quick-Read-Managing-Corporate-Crises.pdf)  
+### [The Four Sources of Corporate Profits](Tellusant-Quick-Read-Makadok-Four-Profit-Sources.pdf)  
+Why are companies profitable? It is a fundamental question and yet few executives have good answers. There are verily four sources of corporate profits.
+### [Managing Through Corporate Crises](Tellusant-Quick-Read-Managing-Corporate-Crises.pdf)
+What should large companies do when experiencing a performance crisis? The answers are situational, but we have some general observations based on a simple framework.  
 ### [Principles of Strategic Forecasting](Tellusant-Quick-Read-Strategic-Forecasting-Principles.pdf)  
 Strategic forecasting is a new field in management. The strategic forecast makes 5–10-year predictions on demand, consumer groups, and other factors critical to strategic plans.  
 ### [Uses of Tellubase](Tellusant-Quick-Read-TelluBase-Uses.pdf)  
