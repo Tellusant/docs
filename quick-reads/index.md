@@ -28,8 +28,8 @@ Who do we compete with? We use the Pepsi brand to expand the definition from the
 [Unbundling Demand Drivers Using Path Diagrams](Tellusant-Quick-Read-Path-Diagrams.pdf)  
 [Using the Correct Macro Metrics: Avoid GDP per Capita](Tellusant-Quick-Read-Correct-Macro-Metrics.pdf)  
 
-####The Furst Food Choice Framework
-Tellusant applies Tanis Furst’s food choice framework when trying to understand consumer behavior. We use it to design consumer surveys, to specify statistical analysis, and to have informed discussions.
+#### The Furst Food Choice Framework
+Tellusant applies Tanis Furst’s food choice framework when trying to understand consumer behavior. We use it to design consumer surveys, to specify statistical analysis, and to have informed discussions.  
 [The Furst Food Choice Framework](Tellusant-Quick-Read-Furst-Food-Choice-Framework.pdf) 
 
 [The Four Sources of Corporate Profits](Tellusant-Quick-Read-Makadok-Four-Profit-Sources.pdf)  
