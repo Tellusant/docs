@@ -1,5 +1,5 @@
 # Tellusant Quick Reads
-This page gives descriptions and links to our extensive library of Tellusant Quick Reads—mostly two-pagers on important management topics relating to our expertise.  
+This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 
 ### [Analyzing Data-Poor Countries - The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
 The Democratic Republic of the Congo (DRC) may be the world’s second most difficult country to analyze (after North Korea). This *Quick Read* shows that every country’s economic conditions can be quantified at the subnational level.  
