@@ -15,7 +15,8 @@ Nothing is forever, not even giant companies. It is well known that companies gr
 The middle class is often talked about but seldom well defined. Before we embark on an exposé on trends, we therefore define socioeconomic levels—what we call the ‘Income Level Standard’. We then show trends.  
 ### [Developing Subnational Strategies](Tellusant-Quick-Read-Subnational-Strategies.pdf)  
 Why are subnational data valuable? Research shows that around ⅓ of corporate profitability is determined by the quality of subnational adjustments.  
-[Copy — Tabulate — Analyze: Advice for Business Analysts](Tellusant-Quick-Read-Copy-Tabulate-Analyze.pdf)  
+### [Copy — Tabulate — Analyze: Advice for Business Analysts](Tellusant-Quick-Read-Copy-Tabulate-Analyze.pdf)  
+Here is advice for current and future business analysts at large corporations or consulting firms. Your most important goal is to add value. This means thinking long and hard about whether you copy, tabulate or analyze information. Only analysis truly adds value.  
 ### [Effective Decision Making](Tellusant-Quick-Read-Effective-Decision-Making.pdf)  
 Companies are often described as decision factories. Based on the academic literature and extensive interviews, we created this decision-making framework that can be used to organize the strategic management process, and more.  
 ### [Fruhan’s Markers for Corporate Success](Tellusant-Quick-Read-Fruhan-Success-Markers.pdf)  
@@ -63,8 +64,8 @@ How are TelluBase data used? We highlight six examples in this Quick Read. They 
 In the evening of Wednesday, April 2, 2025, the White House announced global tariffs. This is an event analysis that quantifies impact on GDP growth.  
 ### [The Risk of Nations](Tellusant-Quick-Read-Risk-of-Nations.pdf)  
 How should we look at country risk? We present the risk of nations based on a quantitative analysis. We divide risk into financial and market (demand) components. Looking at risk this way gives a strict definition to what is meant by risk. It is in line with Frank Knight’s observation: Risk is a knowable probability distribution.  
-
-[How Much Is Spent on Marketing in the U.S.?](Tellusant-Quick-Read-US-Marketing-Spend)  
+### [How Much Is Spent on Marketing in the U.S.?](Tellusant-Quick-Read-US-Marketing-Spend)  
+Surprisingly, marketing spend is not a widely tracked metric. As part of building a model for the cost of forecasting errors, we needed this, R&D spend, and capex. Therefore, data were collected for large U.S. companies, one by one.  
  
 
 
