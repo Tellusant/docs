@@ -11,7 +11,8 @@ Who do we compete with? We use the Pepsi brand to expand the definition from the
 
 ### [Corporate Renewal](Tellusant-Quick-Read-Corporate-Renewal.pdf)  
 Nothing is forever, not even giant companies. It is well known that companies grow, plateau, and fade or disappear. In the short term, the Fortune top 10 US companies in 2022 saw seven new entrants and seven exits compared to 2012. This is not unique to the tech era. Churn is the norm decade after decade.  
-[Defining and Quantifying Socioeconomic Levels](Tellusant-Quick-Read-Socioeconomic-Levels.pdf)  
+### [Defining and Quantifying Socioeconomic Levels](Tellusant-Quick-Read-Socioeconomic-Levels.pdf)  
+The middle class is often talked about but seldom well defined. Before we embark on an exposé on trends, we therefore define socioeconomic levels—what we call the ‘Income Level Standard’. We then show trends.  
 ### [Developing Subnational Strategies](Tellusant-Quick-Read-Subnational-Strategies.pdf)  
 Why are subnational data valuable? Research shows that around ⅓ of corporate profitability is determined by the quality of subnational adjustments.  
 [Copy — Tabulate — Analyze: Advice for Business Analysts](Tellusant-Quick-Read-Copy-Tabulate-Analyze.pdf)  
@@ -41,8 +42,10 @@ How will the global middle class evolve over the next 20 years. At a torrid pace
 How to supercharge growth is an eternal issue for CEOs, especially in mature industries like FMCG. Here are the fundamentals The Quick Read is based on our academic research.  
 ### [The Largest U.S. Companies in 2023](Tellusant-Quick-Read-US-Largest-Companies-2023.pdf)  
 Tellusant’s first official Roaring Forty list is out. It ranks the largest U.S. companies by value added—economists’ preferred way to measure size. Alphabet rose to the top in 2023, overtaking Apple.
-[The Meaning of Market Share](Tellusant-Quick-Read-Market-Share-Meaning.pdf)  
-[Unbundling Demand Drivers Using Path Diagrams](Tellusant-Quick-Read-Path-Diagrams.pdf)  
+### [The Meaning of Market Share](Tellusant-Quick-Read-Market-Share-Meaning.pdf)  
+Why is market share important? This Quick Read presents compelling answers to this question based on research by Bhattacharya et al.  
+### [Unbundling Demand Drivers Using Path Diagrams](Tellusant-Quick-Read-Path-Diagrams.pdf)  
+Household income is the most important driver of demand for almost all categories globally. It is so overwhelmingly important that other demand drivers seemingly pale in comparison. However, this is only partially true. Path diagrams explain why.  
 ### [Using the Correct Macro Metrics: Avoid GDP per Capita](Tellusant-Quick-Read-Correct-Macro-Metrics.pdf)  
 It is bad practice to evaluate consumer goods markets based on gross domestic product (GDP) per capita. Why should GDP have anything to do with consumer demand?
 ### [The Furst Food Choice Framework](Tellusant-Quick-Read-Furst-Food-Choice-Framework.pdf)
