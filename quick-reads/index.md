@@ -2,7 +2,7 @@
 
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 
-[Return to home](../index.md)  
+#### [Return to home](../index.md)  
 
 ---
 ### [Analyzing Data-Poor Countries - The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
@@ -70,7 +70,7 @@ How should we look at country risk? We present the risk of nations based on a qu
 Surprisingly, marketing spend is not a widely tracked metric. As part of building a model for the cost of forecasting errors, we needed this, R&D spend, and capex. Therefore, data were collected for large U.S. companies, one by one.  
 
 ---
-[Return to home](../index.md)
+#### [Return to home](../index.md)  
  
 
 
