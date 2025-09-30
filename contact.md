@@ -1,4 +1,4 @@
-# Tellusant contact information:  
+# Tellusant contact information  
 
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [info@tellusant](mailto:info@tellusant)  
 **Tel**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +1-617-394-1800  
