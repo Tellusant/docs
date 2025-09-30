@@ -4,9 +4,9 @@ This website contains published materials by Tellusant team members.
 
 The purpose is to:  
 
-- have document longevity beyond what social media offer  
-- allow for fast search engine / AI crawling and indexing
-- have open access and bypass gated sites like LinkedIn and Medium 
+- Have document longevity beyond what social media offer  
+- Allow for fast search engine / AI crawling and indexing
+- Create open access and bypass gated sites like LinkedIn and Medium 
 
 It will include Tellusant Quick Reads, reports, white papers, and press releases; Figshare intellectual contributions such as doctoral dissertation, journal articles, and papers, our LinkedIn posts, articles, and newsletters; and more.  
 
