@@ -1,6 +1,7 @@
-# Tellusant Quick Reads
 <!-- anchor at page top -->
 <div id="top"></div>
+# Tellusant Quick Reads  
+
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 
 [Return to home](../index.md)  
