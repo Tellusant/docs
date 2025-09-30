@@ -61,7 +61,6 @@ What should large companies do when experiencing a performance crisis? The answe
 Strategic forecasting is a new field in management. The strategic forecast makes 5–10-year predictions on demand, consumer groups, and other factors critical to strategic plans.  
 ### [Uses of Tellubase](Tellusant-Quick-Read-TelluBase-Uses.pdf)  
 How are TelluBase data used? We highlight six examples in this Quick Read. They cover a wide range of industries and applications.  
-
 ### [Tariff Impact Event Analysis](Tellusant-Quick-Read-Tariff-Impact-Event-Analysis.pdf)  
 In the evening of Wednesday, April 2, 2025, the White House announced global tariffs. This is an event analysis that quantifies impact on GDP growth.  
 ### [The Risk of Nations](Tellusant-Quick-Read-Risk-of-Nations.pdf)  
