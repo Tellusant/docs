@@ -70,7 +70,7 @@ The main point is that we received an excellent score because of external valida
 ## 7. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address.  
 - **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), and operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo).  
-- **Scale**: A multi-office firm with Latin American presence, but recognized across corporate, academic, public, partnership, and media domains.  
+- **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
 
 ---
 
@@ -81,6 +81,7 @@ The main point is that we received an excellent score because of external valida
 #### [Return to home](../index.md)
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
 
 
 
