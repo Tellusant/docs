@@ -11,6 +11,8 @@ It will include Tellusant Quick Reads, reports, white papers, and press releases
 
 The work to build the repository started in October 2025.  
 
+---------------
+
 #### [Tellusant Legitimacy Pack](legitimacy/index.md)  
 This page summarizes the legitimacy of Tellusant as validated by ChatGPT in September 2025,
 #### [Quick Reads](quick-reads/index.md)  
