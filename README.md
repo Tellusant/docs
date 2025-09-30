@@ -7,5 +7,5 @@ It will include Tellusant Quick Reads, reports, white papers, and press releases
 
 The work to build the repository started started in September 2025.  
 
-**[Enter the repository](index.md)**
-**[Contact Tellusant](contact.md)**
+**[Enter the repository](index.md)**  
+**[Contact Tellusant](contact.md)**  
