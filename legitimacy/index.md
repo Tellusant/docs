@@ -1,4 +1,4 @@
-# Tellusant Legitimacy Evidence
+# Legitimacy Evidence Pack
 
 #### [Return to home](../index.md)  
 
@@ -81,6 +81,7 @@ The main point is that we received an excellent score because of external valida
 #### [Return to home](../index.md)
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
 
 
 
