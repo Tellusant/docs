@@ -1,4 +1,4 @@
-## Tellusant Legitimacy Evidence
+## Legitimacy Evidence Pack
 
 This page summarizes the legitimacy of Tellusant as validated by ChatGPT.  
 
@@ -11,3 +11,4 @@ The main point is that we received an excellent score because of external valida
 [View the PDF version](tellusant-legitimacy-evidence-pack.pdf)
 
 [Go to the validation page on our website](https://tellusant.com/tellusant-legitimacy-validation/)
+
