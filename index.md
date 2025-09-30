@@ -11,5 +11,5 @@ It will include Tellusant Quick Reads, reports, white papers, and press releases
 
 The work to build the repository started in October 2025.  
 
-#### [Tellusant Legitimacy Pack](tellusant.github.io/publications/legitimacy)  
-#### [Quick Reads](tellusant.github.io/publications/quick-read)
+#### [Tellusant Legitimacy Pack](legitimacy)  
+#### [Quick Reads](quick-reads)
