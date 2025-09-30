@@ -9,6 +9,7 @@ It is the result of a multi-step process where ChatGPT was asked to review vario
 
 The main point is that we received an excellent score because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
 
+---
 ## 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Massachusetts Business Entity Record](https://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=aiV0rR.eAhNaReMSXwsptjSFjT0Haq02lzmnVnjPoL8-)  
@@ -80,6 +81,7 @@ The main point is that we received an excellent score because of external valida
 #### [Return to home](../index.md)
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
 
 
 
