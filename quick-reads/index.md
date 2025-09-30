@@ -5,7 +5,7 @@ This page gives descriptions and links to our extensive library of **Tellusant Q
 #### [Return to home](../index.md)  
 
 ---
-### [Analyzing Data-Poor Countries - The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
+### [Analyzing Data-Poor Countries – The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
 The Democratic Republic of the Congo (DRC) may be the world’s second most difficult country to analyze (after North Korea). This *Quick Read* shows that every country’s economic conditions can be quantified at the subnational level.  
 ### [China Geographic Breakdown](Tellusant-Quick-Read-China-Geographic-Breakdown.pdf)  
 Tellusant covers China with income distribution and other metrics at a detailed level. China’s 1st level subdivisions are the 31 provinces and equivalent units. However, the average province has a population of 45 million people. Too many for good analyses and insights. We therefore work at the 2nd level subdivisions with 343 entities.  
@@ -25,7 +25,7 @@ Companies are often described as decision factories. Based on the academic liter
 How do we evaluate whether a company is successful? There are many frameworks but let us draw attention to our chairman’s Harvard Business School professor William Fruhan’s markers of success, from his brilliant book ‘Financial Strategy’.  
 ### [How The Engel Curve Shapes Global Food Spending](Tellusant-Quick-Read-Engel-Curve.pdf)  
 Ernst Engel, a German economist and statistician, published what is now known as the Engel curve in 1857. He found that as household’s income increased, the share of the income spent on food decreased.  
-### [Income Elasticity — The Global Beer Example](Tellusant-Quick-Read-Income-Elasticity-Beer-Example.pdf)  
+### [Income Elasticity—The Global Beer Example](Tellusant-Quick-Read-Income-Elasticity-Beer-Example.pdf)  
 How does demand for a category or industry change with disposable income and how do you go from analysis to strategic implications? We use global beer demand to illustrate.  
 ### [Introducing DuPont Curves](Tellusant-Quick-Read-DuPont-Curves.pdf)  
 DuPont analysis is one of the most fundamental concepts in financial theory. Here is a new take using what we call DuPont curves.  
