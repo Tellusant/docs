@@ -1,7 +1,10 @@
 # Tellusant Quick Reads
+<!-- anchor at page top -->
+<div id="top"></div>
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 
 [Return to home](../index.md)  
+
 ---
 ### [Analyzing Data-Poor Countries - The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
 The Democratic Republic of the Congo (DRC) may be the world’s second most difficult country to analyze (after North Korea). This *Quick Read* shows that every country’s economic conditions can be quantified at the subnational level.  
@@ -66,8 +69,37 @@ In the evening of Wednesday, April 2, 2025, the White House announced global tar
 How should we look at country risk? We present the risk of nations based on a quantitative analysis. We divide risk into financial and market (demand) components. Looking at risk this way gives a strict definition to what is meant by risk. It is in line with Frank Knight’s observation: Risk is a knowable probability distribution.  
 ### [How Much Is Spent on Marketing in the U.S.?](Tellusant-Quick-Read-US-Marketing-Spend)  
 Surprisingly, marketing spend is not a widely tracked metric. As part of building a model for the cost of forecasting errors, we needed this, R&D spend, and capex. Therefore, data were collected for large U.S. companies, one by one.  
+
 ---
 [Return to home](../index.md)
  
+<!-- floating back-to-top button -->
+<a href="#top" class="back-to-top" aria-label="Back to top" title="Back to top">↑ Top</a>
 
+<style>
+  html { scroll-behavior: smooth; }
+  .back-to-top {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    padding: .5rem .75rem;
+    text-decoration: none;
+    background: #0969da; /* GitHub blue-ish */
+    color: #fff;
+    border-radius: .5rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,.2);
+    font-weight: 600;
+    display: none;
+  }
+  .back-to-top.show { display: inline-block; }
+</style>
+
+<script>
+  document.addEventListener('scroll', function () {
+    const btn = document.querySelector('.back-to-top');
+    if (!btn) return;
+    if (window.scrollY > 300) btn.classList.add('show');
+    else btn.classList.remove('show');
+  });
+</script>
 
