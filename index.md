@@ -21,6 +21,6 @@ This page gives descriptions and links to our extensive library of **Tellusant Q
 #### [Social Media Posts & Articles](posts/index.md)  
 TBD   
 #### [Videos on Vimeo](videos/index.md)  
-TBD   
+Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 #### [Academic and Business Papers](papers/index.md)  
 TBD   
