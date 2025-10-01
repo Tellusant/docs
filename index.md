@@ -18,7 +18,7 @@ The work to build the repository started in October 2025.
 This page summarizes the legitimacy of Tellusant as validated by ChatGPT in September 2025,
 #### [Quick Reads](quick-reads/index.md)  
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.
-#### [LinkedIn Posts & Articles](posts/index.md)  
+#### [Social Media Posts & Articles](posts/index.md)  
 TBD   
 #### [Videos on Vimeo](posts/index.md)  
 TBD   
