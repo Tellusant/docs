@@ -4,7 +4,7 @@ This rpository will over time contain all our substance-oriented posts and artic
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
 ---
-#### [FMCG Demand Drivers](../fmcg-demand-drivers.md)
+#### [FMCG Demand Drivers](../posts/fmcg-demand-drivers.md)
 
 TBD
 
