@@ -3,6 +3,8 @@ This rpository will over time contain all our substance-oriented posts and artic
 
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
+#### [Return to home](../index.md)   
+
 ---
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  
 
