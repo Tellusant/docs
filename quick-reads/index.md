@@ -5,6 +5,8 @@ This page gives descriptions and links to our extensive library of **Tellusant Q
 #### [Return to home](../index.md)  
 
 ---
+### [Data Unification Methods](Tellusant-Quick-Read-Data-Unification-Methods.pdf)  
+Effective data unification is key to corporate performance and represnts a significant profit and growth potential. However, most firms do not realize this and delegate these efforts, if any exist, to low-level employees.  
 ### [Analyzing Data-Poor Countries – The Democratic Republic of Congo Example](Tellusant-Quick-Read-Analyzing-Data-Poor-Countries-DRC-Example.pdf)  
 The Democratic Republic of the Congo (DRC) may be the world’s second most difficult country to analyze (after North Korea). This *Quick Read* shows that every country’s economic conditions can be quantified at the subnational level.  
 ### [China Geographic Breakdown](Tellusant-Quick-Read-China-Geographic-Breakdown.pdf)  
