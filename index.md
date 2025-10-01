@@ -20,7 +20,7 @@ This page summarizes the legitimacy of Tellusant as validated by ChatGPT in Sept
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.
 #### [Social Media Posts & Articles](posts/index.md)  
 TBD   
-#### [Videos on Vimeo](posts/index.md)  
+#### [Videos on Vimeo](videos/index.md)  
 TBD   
 #### [Academic and Business Papers](papers/index.md)  
 TBD   
