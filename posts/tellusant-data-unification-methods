@@ -1,0 +1,31 @@
+Data harmonization and cleaning is of paramount importance before you start analyzing and looking for insights.
+
+In particular, it would seem almost all companies and their analysts think that harmonization is about tagging, so that datasets can connect with each other.
+
+Important, but if you do only this, your company will be in deep trouble over time. Harmonization is so much more. Yet, in 21 years of dealing with these issues at the world's largest companies, we have yet to encounter a single company that does this well and systematically. A shocking state of affairs.
+
+The good news that this is a large opportunity for the bottom line. This is because the precision in predictions will increase if harmonization is done well. The problem is that it is alien territory for executives who mostly think about traditional issues.
+
+The graph shows the IMF's six archetypes of data adjustments (can also be found in most text books).
+
+❶ Shifts in time series is the most common adjustments to be made. It needs to be done in almost 100% of cases we have encountered, but we have never seen it. The IMF notes that it takes experience to do this right, but is not that difficult.
+
+❷ Temporary shifts are common. Covid led to a negative temporary shift in 2020, and a positive shift in 2021 in most countries. This can be handled systematically with well established methods, but what we have seen are mostly amateur patches.
+
+❸ Ramping is a variant of shift. It happens when a phenomenon id building gradually. Take GLP-1's gradual impact on junk food and junk beverages.
+
+❹ Shocks can for example be an increase in VAT. It has an immediate effect in the short term, then tends to peter. Shocks can have four shapes, not shown here.
+
+❺ Seasonality should always be adjusted for in short term models, but sometimes also in models with strategic horizons (5-10 years) even though they seem to have no seasonal element.
+
+❻ Finally, outliers will always exist. They sometimes need to be adjusted for, but not always. It depends on whether they influence the analysis or not.
+
+At Tellusant, Inc. we spend a lot of time making these adjustment. And we have found that data harmonization is a business in its own right. We have therefore introduced the 𝗨𝗻𝗶𝗳𝗶𝗲𝗱 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 (UDM) product.
+
+Tellusant UDM is is a key part of our app solutions, but is also a standalone product. It is based on decades of experience and work with dozens of large companies.
+
+We innovate with the most modern technologies to make UDM work efficient and scalable. This includes utilizing linear algebra for calculation efficiency and robustness, and AI to spot trend breaks.
+
+— — —
+
+[2025-09-16]
