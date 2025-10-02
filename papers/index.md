@@ -1,5 +1,5 @@
 # Scientific Papers et Plus
-This page covers academic and nabnagement-orented papers by Tellusant members and our chairman's doctoral dissertation.  
+This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation.  
 
 ---
 #### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
