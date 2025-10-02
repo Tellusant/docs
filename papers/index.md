@@ -13,7 +13,7 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 
 In addition to the subject matter, the dissertation deploys **sophisticated statistical analysis methods later used within Tellusant**. In particular, structural equation modeling.
 
-#### [Canback: Bureaucratic Limits of Firm Size - Practioner Summary](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
+#### [Canback: Bureaucratic Limits of Firm Size - Practitioner Summary](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
 #### [Canback: The Growth Tesseract: A Scientific View of Firms’ Growth Opportunities ](Canback-Growth-Tesseract.pdf)
