@@ -5,3 +5,4 @@ url: "https://tellusant.github.io"   # no trailing slash
 baseurl: "/docs"                     # omit if site is at the root
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
