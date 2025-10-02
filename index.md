@@ -1,10 +1,3 @@
----
-title: "Getting Started"
-description: "Install, configure, and deploy Tellusant in minutes."
----
-# Getting Started
-...
-
 # Tellusant Publications Repository
 
 This website contains published materials by Tellusant team members.  
