@@ -16,4 +16,4 @@ For example, it is impossible to premiumize a product if it is not improved in s
 
 Tellusant, Inc.'s strategic forecasting app hashtag#PolusSim takes these levers into account. How many are included depend on user needs.  
 
-We have worked with these levers since the 2000s, so this is not a "I got inspired at the white board" type of framework. In fact, we wrote about it in 2022 in light of high inflation: [Test](https://medium.com/tellusant/pricing-mechanisms-for-managing-through-inflation-8e9eb1d9f33). We have also used it in a myriad of client discussions.  
+We have worked with these levers since the 2000s, so this is not a "I got inspired at the white board" type of framework. In fact, we wrote about it in 2022 in light of high inflation: [Pricing Mechanisms for Managing Through Inflation](https://medium.com/tellusant/pricing-mechanisms-for-managing-through-inflation-8e9eb1d9f33). We have also used it in a myriad of client discussions.  
