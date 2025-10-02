@@ -5,9 +5,9 @@ The graph summarizes the seven levers that always apply. Most readers will recog
 
 We trust each of the levers is self explanatory. The main observations are instead:  
 
-The levers feed into the value proposition. That is: value = consumer benefits minus consumer price. A certain combination of levers define current — **Is** — and future — **Wish** — states (Is-Wish from control theory).  
+The levers feed into the value proposition. That is: value = consumer benefits minus consumer price. A certain combination of levers define current — **IS** — and future — **WISH** — states (Is-Wish from control theory).  
 
-The should state leads to higher level product ideas. Is the best offering a brand extension, a new brand, a new positioning, and so on?  
+The **WISH** state leads to higher level product ideas. Is the best offering a brand extension, a new brand, a new positioning, and so on?  
 
 This in turn leads to marketing messaging.  
 
