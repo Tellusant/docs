@@ -20,7 +20,7 @@ This page summarizes the legitimacy of Tellusant as validated by ChatGPT in Sept
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.
 #### [Social Media Posts & Articles](posts/index.md)  
 TBD   
-#### [Videos on Vimeo](videos/index.md)  
+#### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
-#### [Academic and Business Papers](papers/index.md)  
-TBD   
+#### [Scientific Papers et Plus](papers/index.md)  
+Here we share academic and business papers (journal articles, white papers, dissertation and more) by our members
