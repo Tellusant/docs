@@ -14,7 +14,7 @@ The work to build the repository started in October 2025.
 
 ---------------
 
-#### [Tellusant Legitimacy Pack](legitimacy/index.md)  
+#### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT in September 2025  
 #### [Social Media Posts & Articles](posts/index.md)  
 This is the main purpose of the site. We have hundreds of LinkedIn and Medium posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.  
