@@ -1,9 +1,8 @@
 # FMCG Demand Levers
 The graph summarizes the seven levers that always apply. Most readers will recognize them; the framework just creates a coherent whole.  
-<img src="./assets/images/tellusant-fmcg-demand-levers.svg" width="400" alt="FMCG demand levers">  
-We trust each of the levers is self explanatory.  
 
-The main observations are instead:  
+<img src="./assets/images/tellusant-fmcg-demand-levers.svg" width="400" alt="FMCG demand levers">  
+We trust each of the levers is self explanatory. The main observations are instead:  
 
 The levers feed into the value proposition. That is: value = consumer benefits minus consumer price. A certain combination of levers define current (Is) and future (should) states.  
 
