@@ -3,6 +3,7 @@ The graph summarizes the seven levers that always apply. Most readers will recog
 
 
 ![FMCG demand levers](./assets/images/tellusant-fmcg-demand-levers.svg)  
+<img src="./assets/images/tellusant-fmcg-demand-levers.svg" width="500" alt="FMCG demand levers">  
 We trust each of the levers is self explanatory.  
 
 The main observations are instead:  
