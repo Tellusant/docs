@@ -11,3 +11,4 @@ The work to build the repository started starts in October 2025.
 
 **[Enter the repository](index.md)**  
 **[Contact Tellusant](contact.md)**  
+**[About Tellusant](about.md)**
