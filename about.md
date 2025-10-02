@@ -1,4 +1,4 @@
-# About  
+# About Tellusant
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the  strategic and commercial areas. Our enterprise strategic planning applications are unique in the field of quantitative strategy tools.  
 
 These cloud-based applications have an installed base of subscribers and clients in more than 100 countries.  
