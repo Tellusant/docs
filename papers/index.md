@@ -1,4 +1,4 @@
-# Academic Papers et Plus
+# Scientific Papers et Plus
 This page covers academic papers by Tellusant members and our chairman's doctoral dissertation  
 
 ---
