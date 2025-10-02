@@ -1,4 +1,4 @@
-# Tellusant Publications Repository
+# Publications Repository
 
 This website contains published materials by Tellusant team members.  
 
