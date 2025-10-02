@@ -1,6 +1,8 @@
 # Scientific Papers et Plus
 This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation.  
 
+#### [Return to home](../index.md)
+
 ---
 #### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
@@ -24,3 +26,6 @@ to an inability to identify, quantify, and capture growth opportunities. This pa
 Strategic planning often suffers from inconsistencies by cycle and business unit, a slow process, and a lack of faith in results. Companies need to find solutions to improve this critical aspect of their business.
 
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
+
+---
+#### [Return to home](../index.md)
