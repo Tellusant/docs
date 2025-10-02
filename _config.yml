@@ -1,5 +1,7 @@
 title: "TELLUSANT, INC."
 description: "Publications"
-
+url: "https://tellusant.github.io"   # no trailing slash
+# If your site lives at /docs on that host (project page):
+baseurl: "/docs"                     # omit if site is at the root
 plugins:
   - jekyll-sitemap
