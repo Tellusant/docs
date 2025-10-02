@@ -8,4 +8,5 @@ His seminal dissertation outlines a theory of scale diseconomies in large firms 
 #### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](./Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
 
-#### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](./Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
+#### [Burginyoung et al.: The Consumer Impact of Pricing Actions](./Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
+Consumer goods companies have increasingly been in the news for raising prices in today’s high global inflationary environment. With uncertainty about the true size and effect of these price increases, we examine how pricing is impacting both company volumes and consumer ability to pay on a global scale.  
