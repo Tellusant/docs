@@ -1,5 +1,5 @@
 # Scientific Papers et Plus
-This page covers academic papers by Tellusant members and our chairman's doctoral dissertation  
+This page covers academic and nabnagement-orented papers by Tellusant members and our chairman's doctoral dissertation  
 
 ---
 [Dr. Canback's Doctoral Dissertation](index.md)  
