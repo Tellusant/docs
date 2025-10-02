@@ -23,4 +23,4 @@ TBD
 #### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 #### [Scientific Papers et Plus](papers/index.md)  
-Here we share academic and business papers (journal articles, white papers, dissertation and more) by our members
+Here we share academic and business papers (journal articles, white papers, dissertation and more) by our members.
