@@ -1,5 +1,7 @@
+remote_theme: just-the-docs/just-the-docs
+
 title: "TELLUSANT, INC."
-description: "This website contains published materials by Tellusant team members."
+description: "Published materials by Tellusant team members."
 url: "https://tellusant.github.io"   # no trailing slash
 # If your site lives at /docs on that host (project page):
 baseurl: "/docs"                     # omit if site is at the root
