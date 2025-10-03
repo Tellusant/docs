@@ -10,5 +10,6 @@ Its purpose is to:
 
 **[Enter the repository](index.md)**  
 
-**[Contact Tellusant](contact.md)**  
 **[About Tellusant](about.md)**  
+**[Contact Tellusant](contact.md)**  
+
