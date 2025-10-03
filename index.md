@@ -1,3 +1,9 @@
+---
+title: Overview
+nav_order: 1
+has_children: true   # only if this is the parent landing page
+---
+
 # Publications Repository
 
 This website contains published materials by Tellusant team members.  
