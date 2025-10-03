@@ -32,3 +32,20 @@ StratboardIQ provides substantial productivity benefits to organizations utilizi
 ---
 
 PoluSim: From Polus in Greek mythology, the Titan of intelligence and query, and Simulator.
+
+---
+
+**Philip Burginyoung**
+Chief Ecexutive Officer
+Tellusant, Inc.  
++1-617-394-1800  
+info@tellusant.com  
+
+Visit us on social media:  
+LinkedIn  
+Vimeo  
+Instagram  
+Figshare
+
+---
+
