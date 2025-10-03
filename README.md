@@ -1,3 +1,8 @@
+---
+title: README
+nav_order: 1
+---
+
 # Tellusant Publications
 This repository contains various published materials by Tellusant team members.  
 
