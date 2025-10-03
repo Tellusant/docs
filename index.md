@@ -8,9 +8,7 @@ The purpose is to:
 - Allow for fast search engine / AI crawling and indexing
 - Create open access and bypass gated sites like LinkedIn and Medium 
 
-It will include Tellusant Quick Reads, reports, white papers, and press releases; Figshare intellectual contributions such as doctoral dissertation, journal articles, and papers, our LinkedIn posts, articles, and newsletters; and more.  
-
-The work to build the repository started in October 2025.  
+It includes Tellusant Quick Reads, reports, white papers, and press releases; Figshare intellectual contributions such as doctoral dissertation, journal articles, and papers, our LinkedIn posts, articles, and newsletters; and more.  
 
 ---------------
 
@@ -27,5 +25,5 @@ Our videos cover our company and products, trade visits, travel experiences, and
 
 ---
 
-#top
+
 
