@@ -12,6 +12,4 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 #### [Return to home](../index.md)  
 
----
-
 
