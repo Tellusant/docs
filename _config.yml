@@ -8,12 +8,12 @@ plugins:
 - jekyll-seo-tag
 
 collections:
-  publications:
+  docs:
     output: true
 
 just_the_docs:
   collections:
-    publications:
+    docs:
       name: "Tellusant Publications"
 
 ---
