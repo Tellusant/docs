@@ -6,3 +6,32 @@ baseurl: "/docs"                     # omit if site is at the root
 plugins:
   - jekyll-sitemap
 - jekyll-seo-tag
+
+collections:
+  publications:
+    output: true
+
+just_the_docs:
+  collections:
+    publications:
+      name: "Tellusant Publications"
+
+---
+title: Overview
+nav_order: 1
+has_children: true
+parent: Tellusant Publications
+permalink: /docs/
+
+---
+title: README
+nav_order: 2
+parent: Tellusant Publications
+permalink: /docs/overview/
+---
+
+---
+title: Some Paper
+nav_order: 10
+parent: Tellusant Publications
+---
