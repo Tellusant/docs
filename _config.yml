@@ -1,17 +1,6 @@
-# _config.yml
-
-# Use the Just the Docs theme
 remote_theme: just-the-docs/just-the-docs
-
-# Site settings
 title: "Tellusant Publications"
-description: "Published materials by Tellusant team members"
-
-# Optional: logo and favicon (if you have them in /assets/images)
-# logo: "/assets/images/logo.png"
-# favicon_ico: "/assets/images/favicon.ico"
-
-# Enable search
+description: "Published materials by Tellusant team members NEW"
 search_enabled: true
 
 # Default ordering behavior
