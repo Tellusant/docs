@@ -5,7 +5,7 @@ The purpose is to make our publications
 - have longevity beyond what social media offer  
 - allow for fast search engine / AI crawling and indexing    
 
-It includes Tellusant Quick Reads, reports, white papers, and press releases; Figshare intellectual contributions such as doctoral dissertation, journal articles, and papers, our LinkedIn posts, articles, and newsletters; and more.  
+It includes Tellusant Quick Reads, reports, white papers, and press releases; Figshare intellectual contributions such as doctoral dissertation, journal articles, and papers, our social media posts, articles, and newsletters; and more.  
 
 ---
 
