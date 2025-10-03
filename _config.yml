@@ -1,7 +1,25 @@
+# _config.yml
+
+# Use the Just the Docs theme
 remote_theme: just-the-docs/just-the-docs
 
-title: "TELLUSANT, INC."
-description: "Published materials by Tellusant team members."
+# Site settings
+title: "Tellusant Publications"
+description: "Published materials by Tellusant team members"
+
+# Optional: logo and favicon (if you have them in /assets/images)
+# logo: "/assets/images/logo.png"
+# favicon_ico: "/assets/images/favicon.ico"
+
+# Enable search
+search_enabled: true
+
+# Default ordering behavior
+# When nav_order is missing, pages are sorted alphabetically
+# Lower nav_order numbers float higher
+
+# title: "TELLUSANT, INC."
+# description: "Published materials by Tellusant team members."
 url: "https://tellusant.github.io"   # no trailing slash
 # If your site lives at /docs on that host (project page):
 baseurl: "/docs"                     # omit if site is at the root
