@@ -1,4 +1,6 @@
-remote_theme: just-the-docs/just-the-docs
+## remote_theme: just-the-docs/just-the-docs
 title: "Tellusant Publications"
 description: "Published materials by Tellusant team members NEW"
 search_enabled: true
+
+
