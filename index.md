@@ -7,6 +7,7 @@ This repository contains the **complete** published materials by Tellusant team 
 - Create open access and bypass gated sites like LinkedIn and Medium 
 It ranges from scientific papers to social media posts. 
 
+#### [Return to home](../index.md)
 ---
 
 #### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
@@ -21,6 +22,8 @@ Here we share academic and business papers (journal articles, working papers, di
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 
 ---
+
+#### [Return to home](../index.md)
 
 
 
