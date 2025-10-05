@@ -6,7 +6,7 @@ News Provided By Tellusant, Inc. May 08, 2025, 13:00 GMT
 
 *PoluSim, Tellusant's strategic forecasting solution, now has the capability to automatically generate PowerPoint slides from its web interface.*
 
-BOSTON, MA, UNITED STATES, May 8, 2025 /EINPresswire.com/ -- Tellusant has vastly enhanced PoluSim's capabilities by adding StratboardIQ to the product. StratboardIQ is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides.  
+BOSTON, MA, UNITED STATES, May 8, 2025 /[EINPresswire.com](https://www.einpresswire.com/)/ -- Tellusant has vastly enhanced PoluSim's capabilities by adding StratboardIQ to the product. StratboardIQ is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides.  
 
 ### ABOUT POLUSIM
 PoluSim is the world's leading strategic forecasting application. It was launched in 2021 and currently has subscribers in more than 100 countries.  
