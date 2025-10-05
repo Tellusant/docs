@@ -15,7 +15,7 @@ The partnership was negotiated between Tellusant’s Chief Executive Officer, Ph
 
 Pictured are Edmundo Berumen, Chair of Berumen y Asociados, and Francisco Maciel, Country Manager for Tellusant Mexico.  
 
-𝗔𝗕𝗢𝗨𝗧 𝗧𝗘𝗟𝗟𝗨𝗦𝗔𝗡𝗧  
+### ABOUT TELLUSANT  
 
 Tellusant, based in Boston, Massachusetts, with offices in Mexico City and Bogota, is the world’s leading company in managed services for strategic planning and adjacent functions. The company was founded in 2020 with a bold vision: to transform global corporate decision-making using scientific approaches to tackle management issues.  
 
@@ -23,7 +23,7 @@ Its founders are uniquely qualified to achieve this, bringing strong top managem
 
 Today, that vision is becoming a reality. Tellusant offers a range of cloud-based products including PoluSim, TelluBase, and PACE (Pricing Aligned with Consumer Economics). It serves clients around the world and has earned an outstanding reputation in the corporate sector.  
 
-𝗔𝗕𝗢𝗨𝗧 𝗕𝗘𝗥𝗨𝗠𝗘𝗡 𝗬 𝗔𝗦𝗢𝗖𝗜𝗔𝗗𝗢𝗦  
+### ABOUT BERUMEN Y ASOCIADOS
 
 Berumen, based in Mexico City, Monterrey, and Guadalajara, was founded in 1992 by Edmundo Berumen. It offers market and consumer research and public opinion services for the private and public sectors in Mexico, Central America, and other countries. It counts some of the largest Mexican companies as clients, as well as major government and international institutions.  
 
@@ -31,7 +31,7 @@ Edmundo Berumen is a distinguished research professional who has played pivotal 
 
 Berumen aims to be the leading company in the market research and public opinion sector in Mexico, by integrating cutting-edge technical and human elements for the formation of high-level work teams. It successfully introduced Berumen Customer Centricity in 2021 that creates a flexible, client-oriented, rigorous work process.  
 
-𝗖𝗢𝗡𝗧𝗔𝗖𝗧  
+### CONTACT  
 
 **Tellusant, Inc**  
 Philip Burgin-Young, Chief Executive Officer  
