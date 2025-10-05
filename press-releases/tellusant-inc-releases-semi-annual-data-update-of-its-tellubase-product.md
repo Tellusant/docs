@@ -16,7 +16,7 @@ Further, Tellusant has developed a robust algorithm for changing the relationshi
 
 >*"Once again, we have taken fragmented data and created a coherent whole that is comparable between geographies and over time.”*— Shane Ezepik
 
-## ABOUT TELLUBASE  
+### ABOUT TELLUBASE  
 
 **TelluBase** is the external information hub every company and organization needs. It is the only database in world that breaks down consumer groups by classes and age level across countries, cities, subnational divisions, and years.  
 
@@ -28,7 +28,7 @@ With **TelluBase** your perspective on the world will change forever. It is trul
 
 **TelluBase** stems from an initiative started in 1992 by Dr. Staffan Canback (our executive chair). Over the years, the database has been enhanced from national to subnational data; from historical perspective to forward looking; from static dataset to interactive web-based interface, and much more.  
 
-𝗔𝗕𝗢𝗨𝗧 𝗧𝗘𝗟𝗟𝗨𝗦𝗔𝗡𝗧
+### ABOUT TELLUSANT
 
 Tellusant, based in Boston, Massachusetts, with offices in Mexico City and Bogota, is the world’s leading company in managed services for strategic planning and adjacent functions. The company was founded in 2020 with a bold vision: to transform global corporate decision-making using scientific approaches to tackle management issues.  
 
