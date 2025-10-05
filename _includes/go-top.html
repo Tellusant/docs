@@ -1,0 +1,40 @@
+<!-- _includes/go-top.html -->
+<a href="#" id="goTopBtn" title="Go to top">⬆️</a>
+
+<style>
+#goTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9999;
+  font-size: 22px;
+  background: #24292e;
+  color: #fff;
+  padding: 12px 16px;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,.3);
+  transition: transform .2s ease, background .2s ease;
+}
+#goTopBtn:hover { background:#0366d6; transform: translateY(-2px); }
+</style>
+
+<script>
+(function () {
+  const onReady = (fn) => (document.readyState !== 'loading') ? fn() : document.addEventListener('DOMContentLoaded', fn);
+  onReady(() => {
+    const btn = document.getElementById('goTopBtn');
+    const toggle = () => {
+      const scrolled = document.documentElement.scrollTop || document.body.scrollTop;
+      btn.style.display = scrolled > 120 ? 'block' : 'none';
+    };
+    window.addEventListener('scroll', toggle, { passive: true });
+    toggle();
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+})();
+</script>
