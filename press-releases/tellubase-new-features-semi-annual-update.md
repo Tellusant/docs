@@ -40,4 +40,4 @@ With TelluBase, your perspective on the world will change forever. It’s not ju
 Shane Ezepik  
 Tellusant, Inc.  
 +1 617-394-1800  
-[mailto:info@tellusant.com]
+(info@tellusant.com)[mailto:info@tellusant.com]
