@@ -1,6 +1,8 @@
 # Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method
 
-***Staffan Canback***  
+***Dr. Staffan Canback***  
+
+---
 
 This short document describes how sophisticated and careful our long-term predictive models are and allows readers to glean under the hood.  
 
@@ -10,7 +12,7 @@ We do not build models for customers, per se. We use them to support our strateg
 
 Having said this, our predictive models are as good or better than anything else in the world. The latest example is PACE (Pricing Aligned with Consumer Economics), which builds on what we describe here, and more.
 
-## ONE
+## One
 
 Having said this, our predictive models are as good or better than anything else in the world. The latest example is PACE (Pricing Aligned with Consumer Economics), which builds on what we describe here, and more.  
 
