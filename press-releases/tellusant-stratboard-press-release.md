@@ -22,7 +22,8 @@ PoluSim includes access to TelluBase, which provides consistent global data on G
 
 PoluSim increases accuracy, reduces cost, and speeds up decision making.  
 
-### About StratboardIQ
+### ABOUT STRATBOARD
+
 StratboardIQ is Tellusant's advanced automation tool, converts PoluSim information and forecasts into PowerPoint slides. It delivers structured, consistent, and comprehensive presentations on strategic topics, leveraging the latest and most accurate data available.  
 > *"StratboardIQ swiftly creates market overviews and forecasts in PowerPoint, leveraging PoluSim’s information. This reduces the need for manual slide making, thereby saving time and effort.”* — Bobo Shen, Chief Product Officer
 
