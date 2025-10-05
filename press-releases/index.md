@@ -9,6 +9,8 @@ View our press releases covering important news from our company.
 
 #### [Tellusant, Inc. Releases Semi-Annual Data Update of Its TelluBase Product](tellusant-inc-releases-semi-annual-data-update-of-its-tellubase-product.md)  
 
+Tellusant, Inc. Welcomes Daniel Amaro Garcia as Commercial Director Mexico
+
 #### [Announcing Strategic Partnership Between Tellusant, Inc. & Berumen y Asociados](tellusant-berumen-strategic-partnership.md)  
 
 ---
