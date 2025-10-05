@@ -4,7 +4,8 @@ News Provided By Tellusant, Inc. November 25, 2024, 13:45 GMT
 ---
 *TelluBase contains consumer classes, socioeconomic, economic, and demographic data for 218 countries, 2,600 cities and 2,500 subdivisions, 2000–2050.*  
 
-BOSTON, MA, UNITED STATES, November 25, 2024 /EINPresswire.com/ -- Tellusant today released the November 2024 update of **TelluBase**. This is the fifth major update.  
+BOSTON, MA, UNITED STATES, November 25, 2024 /EINPresswire.com/ --  
+Tellusant today released the November 2024 update of **TelluBase**. This is the fifth major update.  
 
 The update incorporates new global data such as the International Monetary Fund's October 2024 country forecasts, the US government's Economic Research Service's long-term economic growth forecasts, the United Nation's 2024 edition of World Population Prospects demographic data.  
 
