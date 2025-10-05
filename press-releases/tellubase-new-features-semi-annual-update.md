@@ -24,6 +24,8 @@ The update to TelluBase further integrates the latest most authoritative global 
 
 All data have been meticulously harmonized to a single global standard—ensuring that every country, city, and subnational region can be compared directly and meaningfully across time and geography.  
 
+> *Shane and the team have taken TelluBase to a whole new level. We're revolutionizing access to subnational data—giving companies unprecedented precision in where and how they compete.”*— Bobo Shen, Chief Product Officer
+
 ### ABOUT TELLUBASE
 TelluBase is the world’s most comprehensive economic and demographic database for strategic decision-making. With 30+ years of development, TelluBase is the only database that breaks down consumer groups by class and age across 218 countries, 2600 cities, 2500 primary and 25000 secondary subdivisions, spanning from the year 2000 to 2050.  
 
