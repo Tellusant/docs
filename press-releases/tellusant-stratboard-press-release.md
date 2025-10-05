@@ -1,4 +1,4 @@
-## PoluSim Adds StratboardIQ to Its Capabilities
+## PoluSim Adds Stratboard to Its Capabilities
 
 News Provided By Tellusant, Inc. May 08, 2025, 13:00 GMT  
 
