@@ -37,7 +37,7 @@ TelluBase includes AI capabilities within our StratboardIQ framework to generate
 
 With TelluBase, your perspective on the world will change forever. It’s not just a database—it’s the world as no one has seen it before.  
 
-Shane Ezepik
-Tellusant, Inc.
-+1 617-394-1800
+Shane Ezepik  
+Tellusant, Inc.  
++1 617-394-1800  
 [mailto:info@tellusant.com]
