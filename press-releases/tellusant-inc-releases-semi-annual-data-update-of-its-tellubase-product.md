@@ -14,6 +14,8 @@ There are some definitional changes in **TelluBase**. We have expanded Thailand 
 
 Further, Tellusant has developed a robust algorithm for changing the relationship between purchasing power parity dollars and market exchange rate dollars (PPP/USD ratio). No other institution has this (notably not IMF and World Bank), which leads to major errors in the long run.  
 
+>*"Once again, we have taken fragmented data and created a coherent whole that is comparable between geographies and over time.”*— Shane Ezepik
+
 ## ABOUT TELLUBASE  
 
 **TelluBase** is the external information hub every company and organization needs. It is the only database in world that breaks down consumer groups by classes and age level across countries, cities, subnational divisions, and years.  
