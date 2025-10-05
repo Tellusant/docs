@@ -5,7 +5,8 @@ News Provided By Tellusant, Inc. July 08, 2025, 12:00 GMT
 ---
 *TelluBase is the subnational income distribution database from Tellusant, covering 218 countries, 2600 cities, and 2500 subdivisions 2000–2050.*  
 
-BOSTON, MA, UNITED STATES, July 8, 2025 /[EINPresswire.com](https://www.einpresswire.com/)/ -- Tellusant is proud to announce a major expansion of **TelluBase**, the company’s global data and forecasting platform, with the introduction of new scenario modeling capabilities designed to provide deeper insight into future demographic, economic, and climate outcomes.  
+BOSTON, MA, UNITED STATES, July 8, 2025 /EINPresswire.com/ --  
+Tellusant is proud to announce a major expansion of **TelluBase**, the company’s global data and forecasting platform, with the introduction of new scenario modeling capabilities designed to provide deeper insight into future demographic, economic, and climate outcomes.  
 
 The update introduces three new demographic scenarios alongside the existing base case:  
 
