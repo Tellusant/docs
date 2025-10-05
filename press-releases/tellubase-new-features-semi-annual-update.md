@@ -36,3 +36,8 @@ TelluBase becomes even more powerful when combined with product or category data
 TelluBase includes AI capabilities within our StratboardIQ framework to generate contextual country reports to complement the data series in TelluBase, presentation-ready PowerPoint decks extracted from the data, and a natural language-based query approach to summarize information quickly.  
 
 With TelluBase, your perspective on the world will change forever. It’s not just a database—it’s the world as no one has seen it before.  
+
+Shane Ezepik
+Tellusant, Inc.
++1 617-394-1800
+[mailto:info@tellusant.com]
