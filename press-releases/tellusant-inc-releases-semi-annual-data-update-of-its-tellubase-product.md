@@ -40,7 +40,8 @@ Today, the vision is becoming a reality. Tellusant offers a range of cloud-based
 **Shane Ezepik**  
 Tellusant, Inc.  
 +1-617-394-1800  
-(mailto:info@tellusant.com)  
+[info@tellusant.com](mailto:info@tellusant.com)  
+
 Visit us on social media:  
 LinkedIn  
 Vimeo  
