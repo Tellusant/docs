@@ -19,7 +19,7 @@ The main point is that we received an excellent score because of external valida
 [Massachusetts Business Entity Record](https://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=aiV0rR.eAhNaReMSXwsptjSFjT0Haq02lzmnVnjPoL8-)  
 Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.  
 *Prestigious Chapultepec Uno tower*  
-[Mexico tax ID](https://siat.sat.gob.mx/app/qr/faces/pages/mobile/validadorqr.jsf?D1=10&D2=1&D3=22080273644_TME220629J28)  
+[Mexico SAT tax ID](https://siat.sat.gob.mx/app/qr/faces/pages/mobile/validadorqr.jsf?D1=10&D2=1&D3=22080273644_TME220629J28)  
 - **Website**: tellusant.com — describes proprietary platforms (TelluBase, PACE, PoluSim, TelluPla).  
 [Tellusant Website](https://tellusant.com/)
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
@@ -89,6 +89,7 @@ Finally, we reversed the process by asking ChatGPT whether this page reflects Ch
 #### [Return to home](../index.md)
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
 
 
 
