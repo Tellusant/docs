@@ -19,7 +19,7 @@ Having said this, our predictive models are as good or better than anything else
 
 Long-term predictions (3–10 years out) need to be anchored in a view of the future. There are only a few such data series available.  
 <div style="text-align:center;">
-<img  src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="400" alt="">  
+<img  src="assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="300" alt="">  
 </div>
 
 To predict only using historical data is a fool’s errand. We know more about the future than such an approach suggests.
@@ -28,7 +28,7 @@ To predict only using historical data is a fool’s errand. We know more about t
 ## Two
 The tools for long-term predictions are different than those for short-term predictions. Income elasticity is of fundamental importance. Price elasticity less so.  
 
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-2.svg" width="400" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-2.svg" width="500" alt="">
 
 Often, analysts extend existing short-term models when senior management requests a long-term perspective. This is often a bad idea.  
 
@@ -36,7 +36,7 @@ Often, analysts extend existing short-term models when senior management request
 ## Three
 Income distribution says much more about the future than using averages. This is called distributional economics and enhances accuracy significantly.  
 
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-3.svg" width="400" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-3.svg" width="500" alt="">
 
 Too often, analysts use antiquated concepts like averages in their models, thereby reducing believability and precision.  
 
@@ -44,7 +44,7 @@ Too often, analysts use antiquated concepts like averages in their models, there
 ## Four
 The work effort required to buy a product is of fundamental importance in long-term models. This effort is usually measured in work minutes.  
 
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-4.svg" width="400" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-4.svg" width="500" alt="">
 
 Most demand models do not take the work effort into account, statically or dynamically. It helps explain why some markets suddenly take off.  
 
@@ -52,7 +52,7 @@ Most demand models do not take the work effort into account, statically or dynam
 ## Five
 Nonlinear models are more powerful than standard linear regressions. S-curves typically depict demand well and are mathematically related to elasticities.  
 
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-5.svg" width="400" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-5.svg" width="500" alt="">
 
 Income elasticity usually declines over the predicted horizon. Using lnear models therefore leads to exaggerated views of future demand.  
 
@@ -60,7 +60,7 @@ Income elasticity usually declines over the predicted horizon. Using lnear model
 ## Six
 Purchasing power parity-adjusted prices are a better predictor than standard exchange rate-based prices. This is especially true in less affluent countries.  
 
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-6.svg" width="400" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-6.svg" width="500" alt="">
 
 Many companies underestimate market opportunities in emerging countries based on a flawed exchange rate assumption in demand models.  
 
@@ -68,6 +68,6 @@ Many companies underestimate market opportunities in emerging countries based on
 ## Seven
 Pooling of data between countries is a powerful technique. It also applies to logical thinking. Use as many countries as possible in the analyses.  
 
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-7.svg" width="400" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-7.svg" width="500" alt="">
 
 Often, analysts in their home country model only their home country. Not good. Much insight applicable to the home country comes from comparison countries.  
