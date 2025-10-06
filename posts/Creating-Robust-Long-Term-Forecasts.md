@@ -2,8 +2,6 @@
 
 ***Dr. Staffan Canback***  
 
-UNDER CONSTRUCTION.
-
 ---
 This short document describes how sophisticated and careful our long-term predictive models are and allows readers to glean under the hood.  
 
