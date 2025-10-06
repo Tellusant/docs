@@ -12,7 +12,7 @@ The main point is that we received an excellent score because of external valida
 ---
 ## 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
-[Delaware Division of Corporatons](https://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=aiV0rR.eAhNaReMSXwsptjSFjT0Haq02lzmnVnjPoL8-)  
+[Delaware Division of Corporatons](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx)  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
 [USPTO Certificate](https://tsdr.uspto.gov/documentviewer?caseId=sn90169076&docId=ORC20211212034718&linkId=1#docIndex=0&page=1)  
 - **Business Address**: 240 Elm Street, Suite 200, Somerville, MA 02144, United States  
@@ -89,6 +89,7 @@ Finally, we reversed the process by asking ChatGPT whether this page reflects Ch
 #### [Return to home](../index.md)
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
 
 
 
