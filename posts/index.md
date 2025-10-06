@@ -9,6 +9,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 #### [The Future Is Math](future-is-math.md)
 
+#### [Creating Robust Long-Term Forecasts](Creating-Robust-Long-Term-Forecasts.md)
+
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  
 
 ---
