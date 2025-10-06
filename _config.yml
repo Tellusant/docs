@@ -5,6 +5,3 @@ description: "Published materials by Tellusant team members"
 
 url: "https://tellusant.github.io"   # no trailing slash
 baseurl: "/docs"                      # because site lives under /docs
-
-plugins:
-  - jekyll-sitemap
