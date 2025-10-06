@@ -28,7 +28,7 @@ To predict only using historical data is a fool’s errand. We know more about t
 ## Two
 The tools for long-term predictions are different than those for short-term predictions. Income elasticity is of fundamental importance. Price elasticity less so.  
 
-<img src="assets/images/tellusant-creating-robust-long-term-forecasts-2.svg" width="500" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-2.svg" width="550" alt="">
 
 Often, analysts extend existing short-term models when senior management requests a long-term perspective. This is often a bad idea.  
 
