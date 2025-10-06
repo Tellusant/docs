@@ -38,7 +38,7 @@ Income distribution says much more about the future than using averages. This is
 Too often, analysts use antiquated concepts like averages in their models, thereby reducing believability and precision.  
 
 ---
-# Four
+## Four
 The work effort required to buy a product is of fundamental importance in long-term models. This effort is usually measured in work minutes.  
 
 Press enter or click to view image in full size  
@@ -46,7 +46,7 @@ Press enter or click to view image in full size
 Most demand models do not take the work effort into account, statically or dynamically. It helps explain why some markets suddenly take off.  
 
 ---
-# Five
+## Five
 Nonlinear models are more powerful than standard linear regressions. S-curves typically depict demand well and are mathematically related to elasticities.  
 
 Press enter or click to view image in full size  
@@ -54,7 +54,7 @@ Press enter or click to view image in full size
 Income elasticity usually declines over the predicted horizon. Using lnear models therefore leads to exaggerated views of future demand.  
 
 ---
-# Six
+## Six
 Purchasing power parity-adjusted prices are a better predictor than standard exchange rate-based prices. This is especially true in less affluent countries.  
 
 Press enter or click to view image in full size  
@@ -62,7 +62,7 @@ Press enter or click to view image in full size
 Many companies underestimate market opportunities in emerging countries based on a flawed exchange rate assumption in demand models.  
 
 ---
-# Seven
+## Seven
 Pooling of data between countries is a powerful technique. It also applies to logical thinking. Use as many countries as possible in the analyses.  
 
 Press enter or click to view image in full size  
