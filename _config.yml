@@ -1,7 +1,5 @@
-## remote_theme: just-the-docs/just-the-docs
 title: "TELLUSANT, INC."
 description: "Published materials by Tellusant team members"
-# search_enabled: true
 
-url: "https://tellusant.github.io"   # no trailing slash
-baseurl: "/docs"                      # because site lives under /docs
+url: "https://tellusant.github.io"
+baseurl: "/docs"
