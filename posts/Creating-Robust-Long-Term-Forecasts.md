@@ -44,7 +44,7 @@ Too often, analysts use antiquated concepts like averages in their models, there
 ## Four
 The work effort required to buy a product is of fundamental importance in long-term models. This effort is usually measured in work minutes.  
 
-<img src="assets/images/tellusant-creating-robust-long-term-forecasts-4.svg" width="500" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-4.svg" width="550" alt="">
 
 Most demand models do not take the work effort into account, statically or dynamically. It helps explain why some markets suddenly take off.  
 
@@ -68,6 +68,6 @@ Many companies underestimate market opportunities in emerging countries based on
 ## Seven
 Pooling of data between countries is a powerful technique. It also applies to logical thinking. Use as many countries as possible in the analyses.  
 
-<img src="assets/images/tellusant-creating-robust-long-term-forecasts-7.svg" width="500" alt="">
+<img src="assets/images/tellusant-creating-robust-long-term-forecasts-7.svg" width="550" alt="">
 
 Often, analysts in their home country model only their home country. Not good. Much insight applicable to the home country comes from comparison countries.  
