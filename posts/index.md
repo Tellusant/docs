@@ -6,6 +6,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [Return to home](../index.md)   
 
 ---
+
+#### [The Future Is Math](future-is-math.md)
+
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  
 
 ---
