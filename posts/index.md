@@ -3,7 +3,7 @@ This repository will over time contain all our substance-oriented posts and arti
 
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
-#### [Return to home](../index.md)   
+##### [Return to home](../index.md)   
 
 ---
 
@@ -13,6 +13,6 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ---
 
-#### [Return to home](../index.md)  
+##### [Return to home](../index.md)  
 
 
