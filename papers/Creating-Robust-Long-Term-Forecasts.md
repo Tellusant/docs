@@ -18,8 +18,9 @@ Having said this, our predictive models are as good or better than anything else
 Having said this, our predictive models are as good or better than anything else in the world. The latest example is PACE (Pricing Aligned with Consumer Economics), which builds on what we describe here, and more.    
 
 Long-term predictions (3–10 years out) need to be anchored in a view of the future. There are only a few such data series available.  
-
-<img src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="400" alt="">  
+<div style="text-align:center;">
+<img  src="../posts/assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="400" alt="">  
+</div>
 
 To predict only using historical data is a fool’s errand. We know more about the future than such an approach suggests.
 
