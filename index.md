@@ -20,6 +20,7 @@ This page gives descriptions and links to our extensive library of **Tellusant Q
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
 #### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
+#### [Maps TBD]
 #### [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
 
