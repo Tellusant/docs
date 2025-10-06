@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tellusant.github.io/docs/sitemap.xml
