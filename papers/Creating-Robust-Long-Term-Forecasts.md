@@ -3,8 +3,8 @@
 ***Dr. Staffan Canback***  
 
 UNDER CONSTRUCTION
----
 
+---
 This short document describes how sophisticated and careful our long-term predictive models are and allows readers to glean under the hood.  
 
 Each step may look easy, but in combination we are unique in the world to make long-term models like these. How we do it in practice is proprietary to us. What you see here are some of the building blocks, at a high level. 
