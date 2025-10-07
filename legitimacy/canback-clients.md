@@ -3,17 +3,20 @@ This list shows the depth and breadth of our experiences. In the vast majority, 
 
 ---
 - ABB  
-- AB InBev  
+- AB InBev
+- A.P. Møller – Mærsk
 - Diageo  
 - Distell  
 - Electrolux  
 - Ericsson  
 - Essity
+- Fiskars
 - Hasselblad
 - HSBC
 - Kraft Heinz
 - Mastercard
 - Mondelez
+- Maersk
 - PepsiCo
 - Pfizer
 - Pohjola
