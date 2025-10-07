@@ -21,6 +21,7 @@ This list shows the depth and breadth of our experiences. This is mainly at the 
 - Imperial Brands
 - Kraft Heinz
 - Mastercard
+- Mediclinic
 - Mondelez
 - Maersk
 - PepsiCo
