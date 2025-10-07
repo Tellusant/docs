@@ -15,14 +15,14 @@ This list shows the depth and breadth of our experiences. In the vast majority, 
 - Mastercard
 - Mondelez
 - PepsiCo
-Pfizer
-Pohjola
-Saab
-Scandinavian Airlines
-SEB
-Skandia
-Skanska
-Telia
-T-Mobile
-United States Postal Service
-Volvo
+- Pfizer
+- Pohjola
+- Saab
+- Scandinavian Airlines
+- SEB
+- Skandia
+- Skanska
+- Telia
+- T-Mobile
+- United States Postal Service
+- Volvo
