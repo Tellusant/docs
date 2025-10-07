@@ -25,6 +25,7 @@ This list shows the depth and breadth of our experiences. This is mainly at the 
 - PepsiCo
 - Pfizer
 - Pohjola
+- Procter & Gamble
 - Saab
 - Scandinavian Airlines
 - SEB
