@@ -6,6 +6,7 @@ This list shows the depth and breadth of our experiences. This is mainly at the 
 - AB InBev
 - AT&T
 - Beam Suntory
+- Colgate-Palmolive
 - Diageo  
 - Distell  
 - Electrolux  
