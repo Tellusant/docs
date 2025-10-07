@@ -28,6 +28,7 @@ This list shows the depth and breadth of our experiences. This is mainly at the 
 - Pfizer
 - Pohjola
 - Procter & Gamble
+- Rémy Cointreau
 - Saab
 - Scandinavian Airlines
 - SEB
