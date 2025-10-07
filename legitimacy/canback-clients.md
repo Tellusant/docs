@@ -1,5 +1,5 @@
-# Staffan Canback's Clients Before Tellusant
-This list shows the depth and breadth of our experiences. This is mainly at the CEO level.
+# Clients Before Tellusant
+This list shows the depth and breadth of our experiences. This is mainly at the CEO level. Current Tellusant clients not shown to preserve confidentiality.
 
 ---
 - ABB  
