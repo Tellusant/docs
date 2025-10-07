@@ -1,4 +1,4 @@
-# Tellusant at the Forefront of AI Revolution
+# Tellusant at the Forefront of the AI Revolution
 
 *Tellusant, Inc.*
 
