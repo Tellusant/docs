@@ -4,7 +4,6 @@ This list shows the depth and breadth of our experiences. In the vast majority, 
 ---
 - ABB  
 - AB InBev
-- A.P. Møller – Mærsk
 - Diageo  
 - Distell  
 - Electrolux  
