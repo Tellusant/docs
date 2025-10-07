@@ -11,7 +11,9 @@ This list shows the depth and breadth of our experiences. This is mainly at the 
 - Electrolux  
 - Ericsson  
 - Essity
+- FEMSA
 - Fiskars
+- Gloria
 - Hasselblad
 - HSBC
 - Imperial Brands
