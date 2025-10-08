@@ -1,4 +1,4 @@
-# Clients Before Tellusant
+# Clients Pre-Tellusant
 This list shows the depth and breadth of our experiences. This is mainly at the CEO level. Current Tellusant clients not shown to preserve confidentiality.
 
 ---
