@@ -1,2 +1,5 @@
 title: "TELLUSANT, INC."
 description: "Published materials by Tellusant team members"
+
+plugins:
+  - jekyll-sitemap
