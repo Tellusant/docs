@@ -22,8 +22,10 @@ We set as our objective to identify the internet over- and under-penetration for
 1. Develop the internet penetration metric. ICASA did not have this in a clean fashion. We therefore used AND and OR statements to combine ICASA data into a singular metric.
 2. Match the entities in the ICASA report to TelluBase. This was easy because the cities in ICASA were covered in **TelluBase**
 3. Establish which part of the population uses the internet. We knew from prior experience that this correpnded to the middle class and above.
-   - We used various **TelluBase**'s income brackets to find the highest goodness-of-fit (R2) for various
-
+   - We tested various **TelluBase**'s income brackets to find the highest goodness-of-fit (R²). It turned out that our existing global middle class definition worked best. This was a nice confirmation of what we already knew.
+   - We ran a regression with internet penetration as a function of middle class share of total population. It is typically better to run on absloute values (i.e. total number of households with internet vs total number of middle class households) but in this case results were similar.
+   - R² was 0.8 and there was no heteroscedasticity
+4. er
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
