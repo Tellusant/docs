@@ -11,6 +11,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 #### [Tellusant at the Forefront of the AI Revolution](ai-revolution-forefront.md)
 
+#### [South Africa ICT Opportunities](south-africa-subnational-ict-opportunities.md)
+
 #### [Creating Robust Long-Term Forecasts](Creating-Robust-Long-Term-Forecasts.md)
 
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  
