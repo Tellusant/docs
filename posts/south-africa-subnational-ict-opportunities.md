@@ -41,11 +41,16 @@ The graph below applies the percentages to the number of households (a simple mu
 2. 89% of the opportunity comes from half of the entities. This is below the often used (but incorrect) 80/20 rule.
 3. The potential of 1.7 million households represent 10% of all households. This means that South Africa is highly penetrated and close to the top of the s-curve.
 
-4.  Compare this to what meets the eye. Median and average internet penetration is 34%. A **superficial analysis** based on this indicates a large upside. But the **comprehensive analysis** above proves that the upside is moderate to low.
+Compare this to what meets the eye. Median and average internet penetration is 34%. A **superficial analysis** based on this indicates a large upside. But the **comprehensive analysis** above proves that the upside is moderate to low.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only strong economic development over coming years, with a rapidly growing middle class, can change this conclusion. But this is not in site. 
+Only strong economic development over coming years, with a rapidly growing middle class, can change this conclusion. But this is not in sight. 
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
+---
+
+We have deployed variants of these analyses in hundreds, if not thousands, of cases in multiple industries, especially consumer goods. The case shown is static (one year) but typically we build dynamic models and forecasts based on the same logic.
+
+As far as we know, **no other company in the world has this capability**.
 
 ---
 This effort built on Tellusant's long and deep telecom knowledge (see [Staffan Canback](https:https://www.linkedin.com/in/scanback/) and [Kennet Rådne](https://www.linkedin.com/in/kennetradne/)).  
