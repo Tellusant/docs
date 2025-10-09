@@ -37,7 +37,7 @@ The graph above shows percentages. More important is the absolute opportunities 
 
 The graph below applies the percentages to the number of households (a simple multiplication).
 
-1. The largest opportunity by far is still in the greater Johannesburg area. However, non-city areas in KwaZulu Natal (Durban is capital) and Western Cape (Cape Town is capital).
+1. The largest opportunity by far is still in the greater Johannesburg area. However, non-city areas in KwaZulu-Natal (capital: Durban) and Western Cape (capital: Cape Town).
 2. 89% of the opportunity comes from half of the entities. This is below the often used (but incorrect) 80/20 rule.
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
