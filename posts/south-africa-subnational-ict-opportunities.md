@@ -17,11 +17,12 @@ We did however find a public report in South Africa when working for an investme
 
 The ICASA report [*The State of the ICT Sector*](assets/support/State-of-ICT-Sector-Report-March-2022.pdf) among other things showed the number of internet users for major cities and all states. How is this converted into something analytically useful?  
 
-We set as our objective to identify the internet over- and under-penetration for each of these geographic entities and then derive the latent market opportunity. The process was:
+We set as our objective to identify the internet over- and under-penetration for each of these geographic entities and then derive the latent market opportunity. The process was to:
 
 1. Develop the internet penetration metric. ICASA did not have this in a clean fashion. We therefore used AND and OR statements to combine ICASA data into a singular metric.
 2. Match the entities in the ICASA report to TelluBase. This was easy because the cities in ICASA were covered in **TelluBase**
-3. 
+3. Establish which part of the population uses the internet. We knew from prior experience that this correpnded to the middle class and above.
+   - We used various **TelluBase**'s income brackets to find the highest goodness-of-fit (R2) for various
 
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
