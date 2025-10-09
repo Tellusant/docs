@@ -9,7 +9,7 @@ The power of TelluBase is when its statistically data are combined with industry
 
 To illustrate with numbers, we turn to South Africa. 
 
-#### The South African Internet Opportunity
+### The South African Internet Opportunity
 
 It is rare to find subnational industry or category data in the public domain. We always source this from our clients with requisite permissions.  
 
@@ -39,6 +39,11 @@ The graph below applies the percentages to the number of households (a simple mu
 
 1. The largest opportunity by far is still in the greater Johannesburg area. However, non-city areas in KwaZulu-Natal (capital: Durban) and Western Cape (capital: Cape Town).
 2. 89% of the opportunity comes from half of the entities. This is below the often used (but incorrect) 80/20 rule.
+3. The potential of 1.7 million households represent 10% of all households. This means that South Africa is highly penetrated and close to the top of the s-curve.
+
+4.  Compare this to what meets the eye. Median and average internet penetration is 34%. **Superficially**, this indicates a large upside. But the detailed analysis above proves that the upside is moderate to low.
+
+  Only strong economic development over coming years, with a rapidly growing middle class, can change this conclusion. But this is not in site. 
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
 
