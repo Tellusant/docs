@@ -1,5 +1,5 @@
 # Subnational ICT opportunities in South Africa
-## Short Case Example for How to Use TelluBase Data  
+## Case Example for How to Use TelluBase Income Distribution Data  
 
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
