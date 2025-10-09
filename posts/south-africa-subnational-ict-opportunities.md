@@ -29,9 +29,13 @@ We set as our objective to identify the internet over- and under-penetration for
 
 The graph below shows the finished analysis. The vertical distance between the envelope and the entities plot point is the opportunity.
 
+Note that Johannesburg and Cape Town, while most affluent among South African cities, still rpresent opportunities.
+
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
-Note that 
+The graphs show percentages. More important is the absolute opportunities.
+
+
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
 
