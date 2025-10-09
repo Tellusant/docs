@@ -7,7 +7,13 @@ There is a strong trend among global companies toward understanding markets at s
 
 The power of TelluBase is when its statistically data are combined with industry and category. The data on their own can be illuminating ("the middle class and above in Lima is growing at 8% per year"), but the combination with other data is what leads to true insights and action ("we see an untapped market opportunity for our toothpaste at a mainstream price point of 200 million people in 2035, up from 80 million today").
 
+To illustrate in mumbers, we turn to South Africa.
 
+#### The South African Internet Opportunity
+
+It is rare to find subnational industry or category data in the public domain. We always source this from our clients with requisite permissions.
+
+We did however find a public report in South Africa when working for an investment bank on local ICT opportunities. This built on Tellusant's long and deep telecom knowledge (see [Staffan Canback](https:https://www.linkedin.com/in/scanback/) and [Kennet Rådne](https://www.linkedin.com/in/kennetradne/)).
 
 
 
