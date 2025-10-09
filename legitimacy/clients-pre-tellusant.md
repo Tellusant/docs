@@ -31,7 +31,6 @@ This list shows the depth and breadth of our experiences, usually at the CEO lev
 - Scandinavian Airlines
 - SEB
 - Skandia
-- Skanska
 - Suntory
 - Swedbank
 - Telia
