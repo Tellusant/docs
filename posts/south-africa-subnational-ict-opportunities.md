@@ -29,13 +29,16 @@ We set as our objective to identify the internet over- and under-penetration for
 
 The graph below shows the finished analysis. The vertical distance between the envelope and the entities plot point is the opportunity.
 
-Note that Johannesburg and Cape Town, while most affluent among South African cities, still rpresent opportunities.
+Note that Johannesburg and Cape Town, while most affluent among South African cities, still represent opportunities.
 
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
-The graphs show percentages. More important is the absolute opportunities.
+The graph above shows percentages. More important is the absolute opportunities in number of households.
 
+The graph below applies the percentages to the number of households (a simple multiplication).
 
+1. The largest opportunity by far is still in the greater Johannesburg area. However, non-city areas in KwaZulu Natal (Durban is capital) and Western Cape (Cape Town is capital).
+2. 89% of the opportunity comes from half of the entities. This is below the often used (but incorrect) 80/20 rule.
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
 
