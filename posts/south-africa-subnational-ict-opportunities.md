@@ -48,7 +48,7 @@ Only strong economic development over coming years, with a rapidly growing middl
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
 
 ---
-We have deployed variants of these analyses in hundreds, if not thousands, of cases in multiple industries, especially consumer goods. The case shown is static (one year) but typically we build dynamic models and forecasts based on the same logic.
+We have deployed variants of these analyses in hundreds, if not thousands, of cases in multiple industries, especially consumer goods. The case shown is static (one year) but typically we build dynamic models and forecasts based on the same logic and with more explanatory variables.
 
 As far as we know, **no other company in the world has Tellusant's capability**.
 
