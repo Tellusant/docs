@@ -13,7 +13,7 @@ To illustrate with numbers, we turn to South Africa.
 
 It is rare to find subnational industry or category data in the public domain. We always source this from our clients with requisite permissions.  
 
-We did however find a public report in South Africa when working for an investment bank on local ICT opportunities.
+We did however find a public report in South Africa when working with an investment bank on local ICT opportunities.
 
 The ICASA report [*The State of the ICT Sector*](assets/support/State-of-ICT-Sector-Report-March-2022.pdf) among other things showed the number of internet users for major cities and all states. How is this converted into something analytically useful?  
 
