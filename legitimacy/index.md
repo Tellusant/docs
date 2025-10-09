@@ -76,9 +76,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), and operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo).  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
 
----
-
-*Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, and multi-channel product platforms.*
+■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, and multi-channel product platforms.*
 
 ---
 
@@ -95,6 +93,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 #### [Return to home](../index.md)
 
 This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+
 
 
 
