@@ -1,8 +1,10 @@
 # Tellusant Maps
-These are maps that for one reason or another have proved useful to us. They are all in full resolution SVG. Underlying shapefiles are available on request.
+These are maps based on TelluBase. They are all in full resolution SVG. Underlying shapefiles are available on request.  
+
+We create a large amount of maps. Some interesting ones are shown in this sub-repo.
 
 ---
-#### <img  src="tellusant-british-middle-class-distribution-2025-map.svg" width="600" alt="British Middle Class Distribution in 2025">
+#### [British Middle Class Distribution in 2025](tellusant-british-middle-class-distribution-2025-map.md)
 
 ---
 
