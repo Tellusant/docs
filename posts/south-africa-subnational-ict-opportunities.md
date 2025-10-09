@@ -25,7 +25,7 @@ We set as our objective to identify the internet over- and under-penetration for
    - We tested various **TelluBase**'s income brackets to find the highest goodness-of-fit (R²). It turned out that our existing global middle class definition worked best. This was a nice confirmation of what we already knew.
    - We ran a regression with internet penetration as a function of middle class share of total population. It is typically better to run on absloute values (i.e. total number of households with internet vs total number of middle class households) but in this case results were similar.
    - R² was 0.8 and there was no heteroscedasticity
-4. er
+4. Establish the **envelope**. The trendline does not show what is possible, it just shows the fitted curve. The envelope on the other hand establishes what is possible. It typically one standard deviation from the trendline, or 
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
 <img  src="assets/images/tellusant-south-africa-ict-market-opportunities.svg" width="400" alt="South Africa ICT Market Opportunities">  
