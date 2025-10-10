@@ -2,8 +2,6 @@
 
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 
-#### [Return to home](../index.md)  
-
 ---
 ### [Data Unification Methods](Tellusant-Quick-Read-Data-Unification-Methods.pdf)  
 Effective data unification is key to corporate performance and represnts a significant profit and growth potential. However, most firms do not realize this and delegate these efforts, if any exist, to low-level employees.  
@@ -71,7 +69,7 @@ How should we look at country risk? We present the risk of nations based on a qu
 Surprisingly, marketing spend is not a widely tracked metric. As part of building a model for the cost of forecasting errors, we needed this, R&D spend, and capex. Therefore, data were collected for large U.S. companies, one by one.  
 
 ---
-#### [Return to home](../index.md)  
+##### [Return to home](../index.md)  
  
 
 
