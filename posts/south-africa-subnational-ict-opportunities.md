@@ -9,10 +9,9 @@ The power of TelluBase is when its statistically data are combined with industry
 
 Yet, the combination with other data is what leads to true insights and action: "We see an untapped market opportunity for our toothpaste in India secondary cities of 200 million people in 2035, up from 80 million today".  
 
-To illustrate with numbers, we turn to South Africa. 
-
-### Find the relationships
-
+To illustrate with numbers, we turn to South Africa.   
+  
+### FIND THE RELATIONSHIPS
 It is rare to find subnational industry or category data in the public domain. We always source this from our clients with requisite permissions.  
 
 We did however find a public report in South Africa when working with an investment bank on local ICT opportunities.
@@ -39,8 +38,8 @@ Note that Johannesburg and Cape Town, while most affluent among South African ci
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
 The graph above shows percentages. More important is the absolute opportunities in number of households.  
-
-### Quantify the Opportunity
+  
+### QUANTIFY THE OPPORTUNITY
 
 The graph below applies the percentages to the number of households (a simple multiplication).  
 
