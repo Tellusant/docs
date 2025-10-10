@@ -1,8 +1,6 @@
 # Videos  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website). 
 
-#### [Return to home](../index.md)   
-
 ---  
 #### [Introduction to Tellusant](https://vimeo.com/1114671864)  
 This video describes Tellusant's mission, who we are, our global reach, and our focus. It was created in August 2025.  
@@ -18,6 +16,6 @@ Do you know who, where, and when your consumers are buying your products? The PA
 
 ---
 
-#### [Return to home](../index.md)  
+##### [Return to home](../index.md)  
 
 
