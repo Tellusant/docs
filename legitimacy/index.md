@@ -44,11 +44,11 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [Statista example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
 
 ## 4. Strategic Partnerships and Collaborations
-- NorthLight Analytic Partners (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
+- **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
 [Sharat Mathur Comment](https://www.linkedin.com/posts/sharat-mathur-8994b41_i-am-so-delighted-to-announce-northlight-activity-7308488160966062080-P6Sq/)  
-- Berumen y Asociados (Mexico, 2024): Strategic partnership for joint client development and research.  
+- **Berumen y Asociados** (Mexico, 2024): Strategic partnership for joint client development and research.  
 [Press Release](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)  
-- AllianceBernstein (Hong Kong, 2023): Collaboration on China consumer analysis, co-presented at investor conference.  
+- **AllianceBernstein** (Hong Kong, 2023): Collaboration on China consumer analysis, co-presented at investor conference.  
 [Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)
 
 ## 5. Media Coverage
@@ -58,16 +58,11 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
 ## 6. Digital Platforms
-- tellubase.com — Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.  
-[TelluBase On-Demand](https://tellubase.com/)  
-- tellubase.telluplan.com — Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
-[TelluBase Subscriptions](https://polusim.telluplan.com/)  
-- polusim.telluplan.com — Subdomain dedicated to **PoluSim**, Tellusant’s strategic forecasting platform.  
-[PoluSim](https://polusim.telluplan.com/)  
-- pace.telluplan.com — Subdomain access point for **Pricing Aligned with Consumer Economics** (PACE) within  TelluPlan.  
-[PACE](https://pace.telluplan.com/)  
-- vimeo.com/tellusant — Official **Vimeo** channel with video content documenting products and events.
-[Tellusant on Vimeo](https://vimeo/tellusant.com)  
+- [tellubase.com](https://tellubase.com/) — Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.    
+- [tellubase.telluplan.com](https://polusim.telluplan.com/) — Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
+- [polusim.telluplan.com](https://polusim.telluplan.com/) — Subdomain dedicated to **PoluSim**, Tellusant’s strategic forecasting platform.  
+- [pace.telluplan.com](https://pace.telluplan.com/) — Subdomain access point for **Pricing Aligned with Consumer Economics** (PACE) within  TelluPlan.  
+- [vimeo.com/tellusant](https://vimeo/tellusant.com) — Official **Vimeo** channel with video content documenting products and events.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
@@ -93,6 +88,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 This page can also be seen on our [**website**](https://tellusant.com/tellusant-legitimacy-validation/)  
 
 ##### [Return to home](../index.md)
+
 
 
 
