@@ -10,6 +10,8 @@ This is my inaugural speech for the Harvard Club of Boston's new business intere
 #### [Staffan Canbäck: Where in the World Is the Market? Real World Meets Math — and Math Wins](S.Canback-Harvard-Club-Boston-Speech.pdf)  
 This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students in three groups. The materials were used at a lecture at Lund University for master's students in May 2024.
 
+[Staffan Canbäck: Where in the World Is the Market? Real World Meets Math — and Math Wins](S.Canback-Greenlands-Tellusant.pdf)
+
 ---
 
 #### [Return to home](../index.md)  
