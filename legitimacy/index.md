@@ -58,11 +58,16 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
 ## 6. Digital Platforms
-- [tellubase.com](https://tellubase.com/) — Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.    
-- [tellubase.telluplan.com](https://polusim.telluplan.com/) — Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
-- [polusim.telluplan.com](https://polusim.telluplan.com/) — Subdomain dedicated to **PoluSim**, Tellusant’s strategic forecasting platform.  
-- [pace.telluplan.com](https://pace.telluplan.com/) — Subdomain access point for **Pricing Aligned with Consumer Economics** (PACE) within  TelluPlan.  
-- [vimeo.com/tellusant](https://vimeo/tellusant.com) — Official **Vimeo** channel with video content documenting products and events.
+- Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.  
+  [tellubase.com](https://tellubase.com/)    
+- Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
+  [tellubase.telluplan.com](https://polusim.telluplan.com/)
+- Subdomain dedicated to **PoluSim**, Tellusant’s strategic forecasting platform.  
+  [polusim.telluplan.com](https://polusim.telluplan.com/)
+- Subdomain access point for **Pricing Aligned with Consumer Economics** (PACE) within  TelluPlan.  
+  [pace.telluplan.com](https://pace.telluplan.com/)
+- Official **Vimeo** channel with video content documenting products and events.  
+  [vimeo.com/tellusant](https://vimeo/tellusant.com)
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
@@ -88,6 +93,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 This page can also be seen on our [**website**](https://tellusant.com/tellusant-legitimacy-validation/)  
 
 ##### [Return to home](../index.md)
+
 
 
 
