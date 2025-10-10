@@ -62,4 +62,4 @@ We have deployed variants of these analyses in hundreds, if not thousands, of ca
 As far as we know, **no other company in the world has Tellusant's capability**.
 
 ---
-This effort built on Tellusant's long and deep telecom knowledge (see [Staffan Canback](https:https://www.linkedin.com/in/scanback/) and [Kennet Rådne](https://www.linkedin.com/in/kennetradne/)).  
+This effort built on Tellusant's long and deep telecom knowledge (see [Staffan Canback](https://www.linkedin.com/in/scanback/) and [Kennet Rådne](https://www.linkedin.com/in/kennetradne/)).  
