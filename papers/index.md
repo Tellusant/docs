@@ -1,8 +1,6 @@
 # Scientific Papers et Plus
 This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation.  
 
-#### [Return to home](../index.md)
-
 ---
 #### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
