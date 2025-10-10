@@ -44,7 +44,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [Statista example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
 
 ## 4. Strategic Partnerships and Collaborations
-- NorthLight Analytic Partners (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.
+- NorthLight Analytic Partners (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
 [Sharat Mathur Comment](https://www.linkedin.com/posts/sharat-mathur-8994b41_i-am-so-delighted-to-announce-northlight-activity-7308488160966062080-P6Sq/)  
 - Berumen y Asociados (Mexico, 2024): Strategic partnership for joint client development and research.  
 [Press Release](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)  
@@ -93,6 +93,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 This page can also be seen on our [**website**](https://tellusant.com/tellusant-legitimacy-validation/)  
 
 ##### [Return to home](../index.md)
+
 
 
 
