@@ -1,7 +1,5 @@
 View our press releases covering important news from our company.  
 
-##### [Return to home](../index.md)
-
 ---
 #### [TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update](tellubase-new-features-semi-annual-update.md)
 
