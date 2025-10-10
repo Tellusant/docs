@@ -7,9 +7,7 @@ This repository contains the **complete** published materials by Tellusant team 
 - Create open access and bypass gated sites like LinkedIn and Medium 
 It ranges from scientific papers to social media posts. 
 
-##### [Return to home](../index.md)
 ---
-
 #### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT in September 2025  
 #### [Posts & Articles](posts/index.md)  
@@ -24,9 +22,6 @@ Our videos cover our company and products, trade visits, travel experiences, and
 We create an immense amount of maps on various topics. See some of them in glorious SVG.
 #### [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
-
----
-##### [Return to home](../index.md)
 
 
 
