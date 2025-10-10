@@ -8,4 +8,4 @@
 **Timezone**&nbsp;&nbsp; Eastern Time (UTC-4)  
 **Websites**&nbsp;&nbsp;&nbsp; [tellusant.com](https://tellusant.com)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [tellubase.com](https://tellubase.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [GitHub Page](https://tellusant.github.io/publications/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [GitHub Page](https://tellusant.github.io/docs/)  
