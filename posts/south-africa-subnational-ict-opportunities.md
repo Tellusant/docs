@@ -11,7 +11,7 @@ Yet, the combination with other data is what leads to true insights and action: 
 
 To illustrate with numbers, we turn to South Africa. 
 
-### The South African Internet Opportunity
+### Find the relationships
 
 It is rare to find subnational industry or category data in the public domain. We always source this from our clients with requisite permissions.  
 
@@ -29,7 +29,7 @@ We set as our objective to identify the internet over- and under-penetration for
    - We tested various **TelluBase**'s income brackets to find the highest goodness-of-fit (R²). It turned out that our existing global middle class definition worked best. This was a nice confirmation of what we already knew.  
    - We ran a regression with internet penetration as a function of middle class share of total population. It is typically better to run on absloute values (i.e. total number of households with internet vs total number of middle class households) but in this case results were similar.  
    - R² was 0.8 and there was no heteroscedasticity.  
-   
+
 4. Find the ***envelope***. The ***trendline*** does not show what is possible, it just shows the fitted curve. The envelope on the other hand establishes what is possible. It typically is drawn at one standard deviation from the trendline.  
 
 The graph below shows the finished analysis. The vertical distance between the envelope and the entities plot point is the opportunity.  
@@ -39,6 +39,8 @@ Note that Johannesburg and Cape Town, while most affluent among South African ci
 <img  src="assets/images/tellusant-south-africa-ict-subnational-trend.svg" width="500" alt="South Africa ICT Subnational Trend">  
 
 The graph above shows percentages. More important is the absolute opportunities in number of households.  
+
+### Quantify the Opportunity
 
 The graph below applies the percentages to the number of households (a simple multiplication).  
 
