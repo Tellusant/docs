@@ -10,8 +10,8 @@ This is my inaugural speech for the Harvard Club of Boston's new business intere
 #### [Staffan Canbäck: Where in the World Is the Market? Real World Meets Math — and Math Wins](S.Canback-Harvard-Club-Boston-Speech.pdf)  
 This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students in three groups. The materials were used at a lecture at Lund University for master's students in May 2024.
 
-#### [Staffan Canbäck: From Greenlands to Tellusant: Academic Research Meets Real-World Management Problems](S.Canback-Greenlands-Tellusant.pdf)
+#### [Staffan Canbäck: From Greenlands to Tellusant: Academic Research Meets Real-World Management Problems](S.Canback-Greenlands-Tellusant.pdf)  
+The presentation describes my journey from Henley doctoral research to founding two global companies: Canback Consulting and Tellusant. It shows how the general learnings from the doctorate can be applied to address important business issues.
 
 ---
-
 #### [Return to home](../index.md)  
