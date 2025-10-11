@@ -1,6 +1,9 @@
 # Subnational ICT Opportunities in South Africa
 ## Case Example for How to Use TelluBase Income Distribution Data  
 
+> *Your methodology really tackles the blind spots that broader forecasting often misses. the way you've layered socioeconomic factors shows thoughtful analysis that actually translates into something useful.*  
+Mahvash Khan
+
 There is a strong trend among global companies toward understanding markets at subnational levels. They always face local players who have a keen sense for subnational opportunities.  
 
 **TelluBase** is immensely useful for understanding subnational markets. It contains macro and consumer data for 218 countries, 2600 cities, and 2500 subdivisions (states, provinces, regions, etc.)  
