@@ -40,7 +40,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Wikipedia**: Over 200 citations to TelluBase fact sheets across English and non-English pages.  
 [TelluBase Citations](https://en.wikipedia.org/w/index.php?search=tellubase&title=Special%3ASearch&ns0=1)  
 - **Statista** Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
-[Statista example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
+  [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
 
 ## 4. Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
@@ -107,6 +107,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
