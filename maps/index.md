@@ -4,8 +4,8 @@ These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefi
 We provide a select few maps that are of general interest.
 
 ---
-#### [British Middle Class Distribution in 2025](tellusant-british-middle-class-distribution-2025-map.md)
 #### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
+#### [British Middle Class Distribution in 2025](tellusant-british-middle-class-distribution-2025-map.md)
 #### [Nordic-Baltic Eight (Nb8) Subdivisions and Cities](tellusant-nordic-baltic-eight-nb8-sub-city.md)
 #### [Köppen Climate Zones by Country](tellusant_koeppen_climate_zones_country.md)
 #### [Mexico Secondary Subdivisions (Municipios) and Cities](tellusant_mexico_sub2_city.md)
