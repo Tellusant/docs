@@ -1,4 +1,4 @@
-## *Uses of TelluBase* Series
+# Tellusant Global Experience Base
 
 ---
-#### <img  src="tellusant-british-middle-class-distribution-2025-map.svg" width="600" alt="British Middle Class Distribution in 2025">
+#### <img  src="assets/svg/tellusant-global-experience-base.md" width="600" alt="Tellusant Global Experience Base">
