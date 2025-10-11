@@ -74,7 +74,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - CGIAR / IFPRI (2025) – Agricultural and development research repository, global scope.  
   [Dhaka City Food System Profile](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025) – Economic report citing TelluBase data.  
-  [Bogota Economic Context](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)  
+  [Bogota Economic Context (in Spanish)](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)  
 - Ontario Tourism Board (2025) – “State of Travel 2025” report, regional government publication.  
   [State of Travel 2025](https://www.rto9.ca/wp-content/uploads/2025/08/State-of-Travel-2025.pdf)
 - Economist Impact / UN-Habitat (2024–25) – Urban Performance Index city profiles.  
@@ -107,6 +107,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
