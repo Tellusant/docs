@@ -3,7 +3,7 @@ The map shows the how deep Tellusant leaders' global knowledge is. We have worke
 
 This serves us well when we calibrate our products to client needs. We know what realistic elasticities look like, we know what the limits in growth come from, and more.
 
-While our products are analyticsl, our experience is human.
+While our products are analyticsl, our experiences are personal and human.
 
 ---
 #### <img  src="assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
