@@ -70,7 +70,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
-## 7. Independent Institutional Citations  
+## 7. Independent Institutional References  
 - CGIAR / IFPRI (2025) – Agricultural and development research repository, global scope.  
   [Dhaka City Food System Profile](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025) – Economic report citing TelluBase data.  
@@ -80,7 +80,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - Economist Impact / UN-Habitat (2024–25) – Urban Performance Index city profiles.  
   [Example: Tijuana](https://impact.economist.com/sustainability/urbanperformanceindex/downloads/UNH_CityProfile_Tijuana.pdf)  
   
-*These citations confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
+*These references confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
 ## 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
@@ -107,6 +107,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
