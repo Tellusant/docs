@@ -83,11 +83,11 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 *These citations confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
 ## 8. Assessment
-- **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.
-- **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), and operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo).  
+- **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
+- **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
 
-■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, and multi-channel product platforms.*
+■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, multi-channel product platforms, independent institutional references.*
 
 ---
 
@@ -107,6 +107,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
