@@ -71,7 +71,19 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
-## 7. Assessment
+## 7. Independent Institutional Citations  
+- CGIAR / IFPRI (2025) – Agricultural and development research repository, global scope.
+  
+- Secretaría General de la Alcaldía Mayor de Bogotá (2025) – Economic report citing TelluBase data.
+  
+- RTO9 Ontario Tourism Board (2025) – “State of Travel 2025” report, regional government publication.
+  
+- Economist Impact / UN-Habitat (2024–25) – Urban Performance Index city profiles (e.g., Tijuana).  
+
+  
+*These citations confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
+
+## 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.
 - **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), and operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo).  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
@@ -96,6 +108,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
