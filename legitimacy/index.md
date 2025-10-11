@@ -1,6 +1,5 @@
 # Tellusant Legitimacy Evidence Pack
 
----
 This page summarizes the legitimacy of Tellusant as validated by ChatGPT.  
 
 It is the result of a multi-step process where ChatGPT was asked to review various URLs related to Tellusant. From this, it created a **Legitimacy Evidence Pack** in a PDF. The content is shown here.  
@@ -108,6 +107,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
