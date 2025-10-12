@@ -10,6 +10,7 @@ We provide a select few maps that are of general interest.
 #### [Köppen Climate Zones by Country](tellusant_koeppen_climate_zones_country.md)
 #### [Recession Pressure by Country](tellusant-recession-pressure-by-country.md)
 #### [Mexico Secondary Subdivisions (Municipios) and Cities](tellusant_mexico_sub2_city.md)
+#### [eu](tellusant_eu_sub1_city.md)
 #### [Nigeria Income Per Household By Local Government Areas](tellusant_nigeria_income_per_household_by_lga.md)
 #### [Colombia Secondary Subdivisions (Municipios) and Cities](tellusant_colombia_sub2_city.md)
 #### [China Secondary Subdivisions (Prefecture Level) and Cities](tellusant_china_sub2_city.md)
