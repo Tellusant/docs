@@ -1,3 +1,5 @@
+# Press Releases
+
 View our press releases covering important news from our company.  
 
 ---
