@@ -1,11 +1,11 @@
-# Nigeria – Income per Household by Local Government Area
-## *Uses of TelluBase* Series
+# Colombia – Cities and Secondary Subdivisions Covered in TelluBase
+## *Uses of TelluBase* Series  
 
-Local Government Areas (LGA) are the secondary subdivisions (below states) in Nigeria. This map shows the income per household for the close to 800 LGAs and the 50 cities with an estimated population larger than 300,000.
+The map shows the 36 cities and 1100 secondary subdivisions in Colombia.  
 
-Our **TelluBase** database covers these secondary subdivisions and cities within its Nigeria module.
+For each of these entities, we cover economic, socioeconomic, and demographic information, as well as the size of the consumer classes. All this with a view toward the future with data covering 2000 till 2050.  
 
 ---
-#### <img  src="assets/svg/tellusant_nigeria_income_per_household_by_lga.svg" alt="Nigeria – Income per Household by Local Government Area">
+#### <img  src="assets/svg/tellusant_colombia_sub2_city.svg" alt="Colombia – Cities and Secondary Subdivisions Covered in TelluBase">  
 
 ---
