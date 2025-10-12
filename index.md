@@ -1,10 +1,9 @@
 # Publications Repository
 
 This repository contains the **complete** published materials by Tellusant team members. It ranges from scientific papers to social media posts. Its purpose is to:  
-- Serve as a consolidated hub of all publications
+- Create open access and bypass gated sites like LinkedIn and Medium  
 - Give longevity beyond what social media offer  
 - Allow for fast search engine / AI crawling and indexing
-- Create open access and bypass gated sites like LinkedIn and Medium  
 
 ---
 #### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
