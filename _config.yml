@@ -12,4 +12,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/social-card.png
+      image: https://tellusant.github.io/assets/social-card.png
