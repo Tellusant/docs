@@ -1,11 +1,11 @@
-# Nigeria – Income per Household by Local Government Area
+# United States – Metropolitan Statistical Areas (MSA) Covered in TelluBase
 ## *Uses of TelluBase* Series
 
-Local Government Areas (LGA) are the secondary subdivisions (below states) in Nigeria. This map shows the income per household for the close to 800 LGAs and the 50 cities with an estimated population larger than 300,000.
+States are often too high level for insights in the U.S. Counties are too detailed. The U.S. government therefore developed Metropolitan Statistcial Areas to allow for better policy making. Instead of subdividing the entire country, the MSAs focus on cities.
 
-Our **TelluBase** database covers these secondary subdivisions and cities within its Nigeria module.
+Our **TelluBase** database uses MSAs to define cities down to 100,000 inhabitants.
 
 ---
-#### <img  src="assets/svg/tellusant-usa-city-def.svg" alt="Nigeria – Income per Household by Local Government Area">
+#### <img  src="assets/svg/tellusant-usa-city-def.svg" alt="United States – Metropolitan Statistical Areas (MSA) Covered in TelluBase">
 
 ---
