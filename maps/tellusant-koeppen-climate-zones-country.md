@@ -6,4 +6,6 @@ The map shows the population-weighted climate zones by country. That is, the cli
 Note: Only a handful of countries have diffuse climate zones (notably U.S., China) where there is no truly dominant climate.  
 
 ---
-#### <img  src="assets/svg/tellusant-koeppen-climate-zones-country.svg" alt="Tellusant Köppen Climate Zones by Country">
+#### <img  src="assets/svg/tellusant-koeppen-climate-zones-country.svg" alt="The World by Köppen Climate Zones">
+
+![The World by Köppen Climate Zones](assets/svg/tellusant-koeppen-climate-zones-country.svg)
