@@ -1,7 +1,11 @@
-title: "TELLUSANT, INC."
-description: "Published materials by Tellusant team members"
+title: My Site
+description: Simple test
+# Adjust these two correctly (see #3 above)
+url: "https:/tellusant.github.io"
+baseurl: "/docs"   # for user/org site; use "/repo" for project site
 
-url: "https://tellusant.github.io"
-baseurl: "/docs"
+theme: minima
+
 plugins:
-  - jekyll-sitemap
+  - jekyll-seo-tag    # both are GitHub Pages–approved
+  - jekyll-feed
