@@ -4,8 +4,6 @@ description: Simple test
 url: "https:/tellusant.github.io"
 baseurl: "/docs"   # for user/org site; use "/repo" for project site
 
-theme: minima
-
 plugins:
   - jekyll-seo-tag    # both are GitHub Pages–approved
   - jekyll-feed
