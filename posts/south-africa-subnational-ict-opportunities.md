@@ -1,5 +1,5 @@
 ---
-title: "Subnational ICT Opportunities in South Africa"
+title: "Subnational ICT Opportunities in South Africa: Case Example for How to Use TelluBase Income Distribution Data"
 image: /assets/social-card.png
 ---
 # Subnational ICT Opportunities in South Africa
