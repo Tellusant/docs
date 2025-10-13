@@ -7,3 +7,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+# SC test
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/social-card.png
