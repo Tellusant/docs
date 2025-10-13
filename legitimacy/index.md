@@ -1,3 +1,8 @@
+---
+title: "Tellusant Legitimacy Evidence Pack: An Outside-In Validation of Tellusant's Credibility"
+image: /assets/social-card.png
+---
+
 # Tellusant Legitimacy Evidence Pack
 
 This page summarizes the legitimacy of Tellusant as validated by ChatGPT.  
@@ -107,6 +112,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
