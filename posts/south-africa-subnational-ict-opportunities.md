@@ -1,5 +1,3 @@
-<meta property="og:image" content="https://tellusant.github.io/assets/social-card.png" />
-
 # Subnational ICT Opportunities in South Africa
 ## Case Example for How to Use TelluBase Income Distribution Data  
 
