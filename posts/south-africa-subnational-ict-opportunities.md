@@ -1,7 +1,5 @@
 ---
 title: "Subnational ICT Opportunities in South Africa"
-site-name: "Subnational ICT Opportunities in South Africa"
-description: "Subnational ICT Opportunities in South Africa"
 image: /assets/social-card.png
 ---
 # Subnational ICT Opportunities in South Africa
