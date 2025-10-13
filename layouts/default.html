@@ -6,7 +6,7 @@
 
   {%- seo title=false -%}  <!-- keeps meta/og/twitter tags, but not the <title> -->
 
-  <title>{{ page.title | default: site.title }}</title>
+  <title>{{ site.title | default: page.title }}</title>
 </head>
 <body>
   {{ content }}
