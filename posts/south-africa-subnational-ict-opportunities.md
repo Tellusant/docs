@@ -1,6 +1,6 @@
 ---
 title: "Subnational ICT Opportunities in South Africa"
-# ...other fields...
+description: "Subnational ICT Opportunities in South Africa"
 image: /assets/social-card.png
 ---
 # Subnational ICT Opportunities in South Africa
