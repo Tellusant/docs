@@ -1,6 +1,6 @@
 ---
 title: "Publications Repository: This Repository Contains the Complete Published Materials by Tellusant Team Members"
-image: /assets/social-card.png
+image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 # Publications Repository
 
