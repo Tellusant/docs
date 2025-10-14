@@ -1,5 +1,5 @@
 ---
-title: "Publications Repository: "This Repository Contains the Complete Published Materials by Tellusant Team Members"
+title: "Publications Repository: This Repository Contains the Complete Published Materials by Tellusant Team Members"
 image: /assets/social-card.png
 ---
 # Publications Repository
