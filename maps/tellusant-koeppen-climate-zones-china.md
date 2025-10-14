@@ -1,11 +1,11 @@
-# Nigeria – Income per Household by Local Government Area
+# China by Köppen Climate Zones
 ## *Uses of TelluBase* Series
 
-Local Government Areas (LGA) are the secondary subdivisions (below states) in Nigeria. This map shows the income per household for the close to 800 LGAs and the 50 cities with an estimated population larger than 300,000.
+China as a whole has diffuse climate zones. Here instead show them at the secondary subdivision level (prefecture or equivalent).
 
-Our **TelluBase** database covers these secondary subdivisions and cities within its Nigeria module.
+This variability leads to differing consumer preferences and cultures around the country. Most famous is the wheat / rice divide.
 
 ---
-#### <img  src="assets/svg/tellusant_nigeria_income_per_household_by_lga.svg" alt="Nigeria – Income per Household by Local Government Area">
+#### <img  src="tellusant-koeppen-climate-zones-china.svg" alt="**China by Köppen Climate Zones**">
 
 ---
