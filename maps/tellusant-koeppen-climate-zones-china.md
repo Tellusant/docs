@@ -6,6 +6,6 @@ China as a whole has diffuse climate zones. Here instead show them at the second
 This variability leads to differing consumer preferences and cultures around the country. Most famous is the wheat / rice divide.
 
 ---
-#### <img  src="tellusant-koeppen-climate-zones-china.svg" alt="**China by Köppen Climate Zones**">
+#### <img  src="tellusant-koeppen-climate-zones-china.svg" alt="China by Köppen Climate Zones">
 
 ---
