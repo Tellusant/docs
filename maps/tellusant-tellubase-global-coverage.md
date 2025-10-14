@@ -1,1 +1,1 @@
-[test](assets/svgtellusant-tellubase-global-coverage.svg)
+[test](assets/svg/tellusant-tellubase-global-coverage.svg)
