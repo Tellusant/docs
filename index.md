@@ -1,3 +1,7 @@
+---
+title: "Publications Repository: "This Repository Contains the Complete Published Materials by Tellusant Team Members"
+image: /assets/social-card.png
+---
 # Publications Repository
 
 This repository contains the **complete** published materials by Tellusant team members. It ranges from scientific papers to social media posts. Its purpose is to:  
