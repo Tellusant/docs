@@ -14,6 +14,7 @@ We provide select maps that are of general interest.
 #### [Recession Pressure by Country](tellusant-recession-pressure-by-country.md)
   
 ## TelluBase Definitional Maps
+#### [TelluBase Global Coverage](assets/svg/tellusant-tellubase.svg)
 #### [China Secondary Subdivisions (Prefecture Level) and Cities](tellusant-china-sub2-city.md)
 #### [Colombia Secondary Subdivisions (Municipios) and Cities](tellusant-colombia-sub2-city.md)
 #### [European Union Cities and Subdivisions Covered in TelluBase](tellusant-eu-sub1-city.md)
