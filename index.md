@@ -1,10 +1,10 @@
 ---
-title: "Publications Repository: This Repository Contains the Complete Published Materials by Tellusant Team Members"
+title: "Publications Repo: This Repository Contains the Complete Published Works by Tellusant Team Members"
 image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 # Publications Repository
 
-This repository contains the **complete** published materials by Tellusant team members. It ranges from scientific papers to social media posts. Its purpose is to:  
+This repository contains the **complete** published works by Tellusant team members. It ranges from scientific papers to social media posts. Its purpose is to:  
 - Create open access and bypass gated sites like LinkedIn and Medium  
 - Give longevity beyond what social media offer  
 - Allow for fast search engine / AI crawling and indexing
