@@ -7,7 +7,7 @@ We provide select maps that are of general interest.
 ## Analytical Maps Based on TelluBase Data
 #### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 #### [British Middle Class Distribution in 2025](tellusant-british-middle-class-distribution-2025-map.md)
-#### Tale of Two Chinas TBD
+####  [Tale of Two Chinas](tellusant-china-urban-rural-divide.md)
 #### [Köppen Climate Zones in China](tellusant-koeppen-climate-zones-chinay.md)
 #### [Köppen Climate Zones by Country](tellusant-koeppen-climate-zones-country.md)
 #### [Nigeria Income Per Household By Local Government Areas](tellusant-nigeria-income-per-household-by-lga.md)
