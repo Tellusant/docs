@@ -6,11 +6,11 @@ baseurl: "/docs"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-#   - jekyll-feed
+  - jekyll-feed
 # SC test
 # defaults:
 #   - scope:
 #       path: ""
 #     values:
-#       image: /assets/social-card.png
+#       image: https://tellusant.github.io/docs/assets/social-card.png
       
