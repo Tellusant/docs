@@ -1,5 +1,4 @@
-# Federal Reserve Beige Book
-## 
+# Federal Reserve Beige Book Analysis
 The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month). It gives a qualitative snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
 
 The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is presently.
