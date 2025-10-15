@@ -7,7 +7,7 @@ The Beige Book covers current economic activity. It is published sesqui-monthly 
 
 The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is presently.
 
-We compute a composite score for each 12 district based on the wording in the report, then sum them weighted by the GDP of each district.
+We compute a composite score for each of the 12 districts based on the wording in the report, then sum the scores weighted by the GDP of each district.
 
 A retrospective comparison between our Beige Book metric and actual GDP growth is found here: [Comparative Analysis](https://www.linkedin.com/posts/scanback_economy-gdp-usa-activity-6623665605125955584-24lF/).  
 
