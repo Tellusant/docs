@@ -30,7 +30,6 @@ Six are flat.
 
 Tariffs and erratic government policies are  likely causes of the poor performance.
 
----
 ![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)
 
 ---
