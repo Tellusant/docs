@@ -1,6 +1,6 @@
 ---
 title: "Tellusant Legitimacy Evidence Pack: Outside-In Validation of Tellusant's Credibility"
-image: https://tellusant.github.io/docs/assets/social-card-2.png
+image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 
 # Tellusant Legitimacy Evidence Pack
@@ -112,6 +112,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
