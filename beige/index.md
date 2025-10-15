@@ -9,4 +9,4 @@ We compute a composite score for each 12 district based on the wording in the re
 A retrospective comparison between our Beige Book metric and actual GDP growth is found here: [Compararative Analysis](https://www.linkedin.com/posts/scanback_economy-gdp-usa-activity-6623665605125955584-24lF/).  
 
 ---
-![October 2025](assets/images/)
+![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)
