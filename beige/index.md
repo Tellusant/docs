@@ -6,7 +6,28 @@ The Beige Book is useful for, among others, CEOs and management teams who want t
 
 We compute a composite score for each 12 district based on the wording in the report, then sum them weighted by the GDP of each district.
 
-A retrospective comparison between our Beige Book metric and actual GDP growth is found here: [Compararative Analysis](https://www.linkedin.com/posts/scanback_economy-gdp-usa-activity-6623665605125955584-24lF/).  
+A retrospective comparison between our Beige Book metric and actual GDP growth is found here: [Comparative Analysis](https://www.linkedin.com/posts/scanback_economy-gdp-usa-activity-6623665605125955584-24lF/).  
+
+---
+## October 2025
+
+The October 2025 report shows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Dscounting two covid periods, it is the second worst in our dataset (June 2026 being the worst).
+
+Only three district show economic expansion:
+- Richmond
+- Boston
+- Philadelphia  
+
+Three show contraction:
+- Kansas city
+- Minneapolis
+- San Francisco  
+
+Six are flat.
+
+Tariffs and erratic government policies are  likely causes of the poor performance.
 
 ---
 ![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)
+
+---
