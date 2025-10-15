@@ -1,5 +1,5 @@
 # European Union Cities and Subdivisions Covered in TelluBase
-## *Uses of TelluBase* Series
+## *TelluBase Definitions*
 
 Countries typically paint too coarse a picture for the EU. A more suitable way to understand the European economy is to look at cities and NUTS socioeconomic regions.
 
