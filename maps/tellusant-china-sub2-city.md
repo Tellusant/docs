@@ -1,5 +1,5 @@
 # China – Cities and Secondary Subdivisions Covered in TelluBase
-## *Uses of TelluBase* Series
+## *TelluBase Definitions*
 
 The map shows how TelluBase covers 425 cities and 342 secondary subdivisions in China.  
 
