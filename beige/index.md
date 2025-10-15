@@ -1,3 +1,7 @@
+---
+title: "Our Analysis of the Federal Reserve's Beige Book - October 15, 2025 Report"
+image: https://tellusant.github.io/docs/assets/social-card.png
+---
 # Federal Reserve Beige Book Analysis
 The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month). It gives a qualitative snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
 
