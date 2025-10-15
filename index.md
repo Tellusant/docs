@@ -1,5 +1,5 @@
 ---
-title: "Publications Repo: This Open Access Repository Contains the Complete Published Works by Tellusant Team Members"
+title: "Publications Repository —  Our Open Access Repository Contains the Complete Published Works by Tellusant Team Members"
 image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 # Publications Repository
