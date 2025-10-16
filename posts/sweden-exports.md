@@ -1,3 +1,7 @@
+---
+title: "Sveriges exportmöjligheter i ett besvärligt handelsklimat (Sweden's export opportunities in a difficult trade environment"
+image: /assets/social-card.png
+---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
 
 **OM FÖRFATTAREN**  
