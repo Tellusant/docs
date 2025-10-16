@@ -29,7 +29,7 @@ Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz).�
 
 Inte oväntat eftersom ett syfte med den inre markanden är att stimulera intern handel. Den inre marknaden står nu för två-tredjedelar av svensk export.  
 
-Men EU växer relativt långsamt. Så en framgång inom ett lågväxande område är endast en partiell framgång.  
+Men EU växer långsamt. En framgång inom ett lågväxande område är endast en partiell framgång.  
 
 Värdsekonomin utanför den inre markanden växer mer än dubbelt så snabbt mätt i BNP. Här är ligger svensk lång efter. Vår export har vuxit 1,9% om året, men mottagande länder har vuxit 3,4% årligen.  
 
