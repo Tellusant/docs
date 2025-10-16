@@ -12,6 +12,7 @@ Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka s
 
 Denna artikel belyser möjligheterna för framtiden baserat på en statistisk exportmodell som tar hänsyn till geografiskt avstånd, språkliga skillnader, kulturell distans och storleken på mottagarlandets import.  
 
+---
 ## Svenska exportens utveckling
 Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. På intet sätt dålig, men svag. Graf 1 visar utvecklingen.  
 
@@ -213,7 +214,7 @@ Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron 
 
 >Tellusant (https://tellusant.com) är världsledande inom automatiserade lösningar för strategisk planering: *Enterprise Strategic Planning Solutions*. Vi bygger på årtionden av erfarenhet från världens största företag och har arbetat på marken i 92 länder.
 
->Vi har nyligen aktiverat oss i Sverige under [Dr Staffan Canbäcks](https://www.linkedin.com/in/scanback/) och [Kennet Rådnes](https://www.linkedin.com/in/kennetradne/) ledning.
+>Vi har nyligen aktiverat oss i Sverige under [Staffan Canbäcks](https://www.linkedin.com/in/scanback/) och [Kennet Rådnes](https://www.linkedin.com/in/kennetradne/) ledning.
 
 ---
 ¹ Tidigare kallat den gemensamma marknaden. Schweiz är i många avseenden en del av den inre marknaden, men inte fullt ut.
