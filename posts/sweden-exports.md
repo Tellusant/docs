@@ -16,7 +16,7 @@ Denna artikel belyser möjligheterna för framtiden baserat på en statistisk ex
 Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. På intet sätt dålig, men svag. Graf 1 visar utvecklingen.  
 
 **Graf 1**  
-<img  src="assets/images/tellusant-sweden-exports-01.svg" width="500" alt="South Africa ICT Subnational Trend"> 
+<img  src="assets/images/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 
 Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz).¹ har vår export vuxit snabbare än mottagarländernas BNP.  
 
@@ -32,7 +32,7 @@ Det förefaller som om så mycket energi har gått åt att fånga möjligheter i
 Det finns dock en viktig ljuspunkt. Svensk export är sofistikerad. Vi rankas som nionde land i världen efter exportkomplexitet.  
 
 **Graf 2**    
-<img  src="assets/images/tellusant-sweden-exports-02.svg" width="500" alt="South Africa ICT Subnational Trend"> 
+<img  src="assets/images/tellusant-sweden-exports-02.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 2"> 
 
 Svenska exportvaror är högförädlade. Det gäller inte bara läkemedel, fordon och andra uppenbara varor. Många varor som kan ses som basvaror har inom sina segment högt förädlingsvärde (t ex stål).  
 
@@ -40,14 +40,14 @@ Svenska exportvaror är högförädlade. Det gäller inte bara läkemedel, fordo
 Graf 3 visar vart svensk export går. Av de tio största länderna är alla utom USA inom den inre marknaden. En framgång för EU-samarbetet, men visst borde några länder som Kina och Brasilien vara på listan.  
 
 **Graf 3**  
-<img  src="assets/images/tellusant-sweden-exports-03.svg" width="500" alt="South Africa ICT Subnational Trend"> 
+<img  src="assets/images/tellusant-sweden-exports-03.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 3"> 
 
 Denna bild är välkänd och bidrar inte till en bättre förståelse av framtida exportmöjligheter.  
 
 Graf 4 visar istället den mer intressanta och mer okända vyn av Sveriges andel av olika länders import. Vi kan se detta som vår marknadsandel i olika länder.  
 
 **Graf 4**  
-<img  src="assets/images/tellusant-sweden-exports-04.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-04.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 4">  
 
 Det är slående hur väl vi exporterar till NB8 (Nordic-Baltic 8). Dessa länder utgör de sju första länderna (Sverige är givetvis det åttonde).  
 
@@ -61,7 +61,7 @@ Hittills har vi sett beskrivande information. Intressant, men den ger få insikt
 Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i Graf 5. Hur viktiga visas senare i sektionen ***Resultat från modellen***.  
 
 **Graf 5**  
-<img  src="assets/images/tellusant-sweden-exports-05.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-05.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 5">  
 
 Data för dessa faktorer samlades in för 209 länder och territorier. I det följande visas några viktiga aspekter av dessa data.  
 
@@ -72,7 +72,7 @@ Språklig distans är en viktig faktor. Det är svårt att förhandla om svenska
 Inom lingvistik har språklig distans kvantifierats. Graf 6 visar distansen från svenska (index 0) för några viktiga handelsspråk. Alla länders språkliga distans samlades in. Engelska, franska, spanska eller portugisiska valdes som handelsspråk för länder med lång tradition med dessa språk.  
 
 **Graf 6**  
-<img  src="assets/images/tellusant-sweden-exports-06.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-06.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 6">  
 
 Att de skandinaviska språken ligger nära svenska är föga överraskande. Att tyska ligger nära är kanske inte uppenbart (tips: exportörer, lär er hyfsad tyska, inklusive att läsa språket).  
 
@@ -90,7 +90,7 @@ Kulturell distans är ett komplicerat ämne. Det visar sig att nästan 90% av va
 **Stabilitet**: vissa kulturer premierar pålitlighet och andra flexibilitet (och innovation).  
 
 **Graf 7**  
-<img  src="assets/images/tellusant-sweden-exports-07.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-07.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 7">  
 
 Notera att det inte finns något värdeomdöme i dessa dimensioner. Det är t ex varken bättre eller sämre att arbeta i en hierarisk gentemot flat kultur.  
 
@@ -112,10 +112,10 @@ Basmodellen visar att alla dessa faktorer är statistiskt signifikanta förutom 
 För exportörer rekommenderar vi att språklig distans, attityd till struktur, geografisk distans, och importlandets potential beaktas. Fyra dimensioner är hanterbart för ett företag.
 
 ## Resultat från modellen
-Vi börjar med Graf 8 direkt ur det statistika analysprogrammet (Stata). Den kräver förklaringar.
+Vi börjar med Graf 8 direkt ur det statistiska analysprogrammet (Stata). Den kräver förklaringar.
 
 **Graf 8**  
-<img  src="assets/images/tellusant-sweden-exports-08.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-08.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
 
 Resultaten kommer från en linjär regression. R-kvadrat (godhet i passform) är 0,84. R-kvadrat över 0,8 är ett utmärkt resultat.
 
@@ -138,7 +138,7 @@ Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna li
 Graf 9 sätter siffor på de relativa exportframgångarna.
 
 **Graf 9**  
-<img  src="assets/images/tellusant-sweden-exports-09.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-09.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 9">  
 
 Men hur stora är exportmöjligheterna i kronor? Den sista sektionen visar detta.
 
@@ -156,7 +156,7 @@ För länder under diagonalen, där svensk export inte nått sin potential, sikt
 Graf 10 sammanfattar denna analys baserad på den statistiska modellen. Hänsyn har tagits till språklig, kulturell och geografisk distans.
 
 **Graf 10**  
-<img  src="assets/images/tellusant-sweden-exports-10.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-10.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 10">  
 
 Tyskland är den största möjligheten (USA, om export blir enklare igen, skulle ligga i nivå med Tyskland). Indien och Kina har stor potential, trots våra skillnader.
 
@@ -167,7 +167,7 @@ Ett bredare perspektiv syns i graf 11. Vilka är möjligheterna per världsdel? 
 Asien har god potential bortom Kina och Indien. Att Afrika kommer därefter förklaras av den höga ekonomiska tillväxten (näst högst i världen de senaste 25 åren och högst i världen de kommande 25.
 
 **Graf 11**  
-<img  src="assets/images/tellusant-sweden-exports-11.svg" width="500" alt="South Africa ICT Subnational Trend">  
+<img  src="assets/images/tellusant-sweden-exports-11.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
 
 En ökad exporttillväxt på 0,5% per år, från 2,2% 1999–2024, till 2,7% 2024–2027 är en rimligt ambition. Detta kräver stora reformer och en gedigen kraftsamling.
 
