@@ -5,6 +5,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
+#### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)
+
 #### [The Future Is Math](future-is-math.md)
 
 #### [Tellusant at the Forefront of the AI Revolution](ai-revolution-forefront.md)
