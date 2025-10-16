@@ -38,7 +38,7 @@ Det förefaller som om så mycket energi har gått åt att fånga möjligheter i
 Det finns dock en viktig ljuspunkt. Svensk export är sofistikerad. Vi rankas som nionde land i världen efter exportkomplexitet.  
 
 **Graf 2**    
-<img  src="assets/images/tellusant-sweden-exports-02.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 2"> 
+<img  src="assets/images/tellusant-sweden-exports-02.svg" width="400" alt="Tellusant: Sveriges exportmöjligheter 2"> 
 
 Svenska exportvaror är högförädlade. Det gäller inte bara läkemedel, fordon och andra uppenbara varor. Många varor som kan ses som basvaror har inom sina segment högt förädlingsvärde (t ex stål).  
 
@@ -67,7 +67,7 @@ Hittills har vi sett beskrivande information. Intressant, men den ger få insikt
 Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i Graf 5. Hur viktiga visas senare i sektionen ***Resultat från modellen***.  
 
 **Graf 5**  
-<img  src="assets/images/tellusant-sweden-exports-05.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 5">  
+<img  src="assets/images/tellusant-sweden-exports-05.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 5">  
 
 Data för dessa faktorer samlades in för 209 länder och territorier. I det följande visas några viktiga aspekter av dessa data.  
 
