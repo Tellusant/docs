@@ -12,11 +12,11 @@ image: /assets/social-card.png
     
 <br>  
 
-**Världens** handelsmönster håller på att stöpas om. Att Förenta Staterna ökat tarifferna för att minska importen är tydligt. Men Europeiska Unionen har också ökat tarifferna mot Kina under flera år. Kina kommer svara på bägge. Sekundära effekter uppstår för alla.  
+**V**ärldens handelsmönster håller på att stöpas om. Att Förenta Staterna ökat tarifferna för att minska importen är tydligt. Men Europeiska Unionen har också ökat tarifferna mot Kina under flera år. Kina kommer svara på bägge. Sekundära effekter uppstår för alla.  
 
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Lösningen måste utgå från det faktum att **vår export inte varit speciellt framgångsrik** det sista kvartsseklet.  
 
-Denna artikel belyser möjligheterna för framtiden baserat på en statistisk exportmodell som tar hänsyn till geografiskt avstånd, språkliga skillnader, kulturell distans och storleken på mottagarlandets import.  
+Denna artikel belyser möjligheterna för framtiden baserat på en statistisk exportmodell som tar hänsyn till geografiskt avstånd, språkliga skillnader, kulturell distans, handelshinder och storleken på mottagarlandets import.  
 
 ---
 ## Svenska exportens utveckling
