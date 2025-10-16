@@ -210,7 +210,7 @@ Staten kan bidra på marginalen:
 
 Däremot är statliga bidrag och industristrategier av noll betydelse.  
 
-Till syvende og sidst är export en företagsekonomisk fråga, inte en samhällsfråga. Förhoppningsvis kan denna generella analys hjälpa företag att tänka igenom sina möjligheter och prioriteter.  
+Till syvende och sist är export en företagsekonomisk fråga, inte en samhällsfråga. Förhoppningsvis kan denna generella analys hjälpa företag att tänka igenom sina möjligheter och prioriteter.  
 
 Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron på framgångar. Det är dags för företag, ledare och politiker att återfinna exportgnistan.  
 
