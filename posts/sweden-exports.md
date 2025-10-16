@@ -58,7 +58,7 @@ Längre ner på listan finns fjärran länder med hedervärd svensk andel av imp
 Hittills har vi sett beskrivande information. Intressant, men den ger få insikter om vad Sveriges möjligheter är. Statistisk analys ger dessa insikter.  
 
 ## Statistisk analysmodell
-Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i Graf 5. Hur viktiga visas senare i sektionen Resultat från modellen.  
+Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i Graf 5. Hur viktiga visas senare i sektionen ***Resultat från modellen***.  
 
 **Graf 5**  
 <img  src="assets/images/tellusant-sweden-exports-05.svg" width="500" alt="South Africa ICT Subnational Trend">  
@@ -83,11 +83,11 @@ Att ostasiatiska språk är distanta är uppenbart. Finska ligger också på den
 ### Kulturell distans
 Kulturell distans är ett komplicerat ämne. Det visar sig att nästan 90% av variationen i global kommersiell kultur kan förklaras av tre dimensioner, men inte färre.³ Dessa är:  
 
-Struktur: kulturer kan vara hierariskt orienterade eller flata.  
+**Struktur**: kulturer kan vara hierariskt orienterade eller flata.  
 
-Planering: vissa kulturer arbetar med genomtänkta planer medan andra är mer improviserande.  
+**Planering**: vissa kulturer arbetar med genomtänkta planer medan andra är mer improviserande.  
 
-Stabilitet: vissa kulturer premierar pålitlighet och andra flexibilitet (och innovation).  
+**Stabilitet**: vissa kulturer premierar pålitlighet och andra flexibilitet (och innovation).  
 
 **Graf 7**  
 <img  src="assets/images/tellusant-sweden-exports-07.svg" width="500" alt="South Africa ICT Subnational Trend">  
@@ -101,11 +101,11 @@ Sverige har inte en stark planeringskultur utan fungerar väl med improvisation.
 Svenskar är mer genomsnittliga i stabilitetsdimensionen. Vi premierar pålitlighet men har också drag av flexibilitet. Hur påverkar denna profil våra exportmöjligheter?  
 
 ### Andra variabler
-*Geografisk distans* kräver ingen graf. Det är uppenbart om länder är nära eller fjärran. Frågan är istället: påverkar avstånd vår export?
+**Geografisk distans** kräver ingen graf. Det är uppenbart om länder är nära eller fjärran. Frågan är istället: påverkar avstånd vår export?
 
-*Handelshinder* bör också ha en inverkan. Vi delade in världen i den inre marknaden (låga handelshinder) gentemot övriga länder.
+**Handelshinder** bör också ha en inverkan. Vi delade in världen i den inre marknaden (låga handelshinder) gentemot övriga länder.
 
-*Importmarknadens storlek* spelar uppenbarligen en stor roll. Det är lätt att vara framgångsrik i ett land som Estland och svårt i USA, allt annat lika.
+**Importmarknadens storlek** spelar uppenbarligen en stor roll. Det är lätt att vara framgångsrik i ett land som Estland och svårt i USA, allt annat lika.
 
 Basmodellen visar att alla dessa faktorer är statistiskt signifikanta förutom handelshinder.
 
