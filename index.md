@@ -25,5 +25,5 @@ We create an immense amount of maps on various topics. See some of them in glori
 #### [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
 
-
-
+#### [Beige Book Analysis](beige/index.md)
+See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
