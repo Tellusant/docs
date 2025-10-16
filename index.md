@@ -14,7 +14,7 @@ This open access repository contains the **complete** published works by Tellusa
 We summarize the legitimacy of Tellusant as validated by ChatGPT in September 2025  
 #### [Posts & Articles](posts/index.md)  
 This is the main purpose of the site. We have hundreds of LinkedIn and Medium posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.  
-#### [Quick Reads](quick-reads/index.md)  
+#### [Quick Reads](quick/index.md)  
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 #### [Scientific Papers et Plus](papers/index.md)  
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
@@ -22,8 +22,9 @@ Here we share academic and business papers (journal articles, working papers, di
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 #### [Maps](maps/index.md)
 We create an immense amount of maps on various topics. See some of them in glorious SVG.
-#### [Press Releases](press-releases/index.md)  
+#### [Press Releases](press/index.md)  
 View our press releases covering important news from our company.  
-
 #### [Beige Book Analysis](beige/index.md)
 See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
+#### Beige Book Analysis](ecom/index.md)  
+View our quarterly analysis of trnds in U.S. e-commerce relative yto total retail. 
