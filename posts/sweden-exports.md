@@ -199,26 +199,26 @@ Staten kan bidra på marginalen:
 
 - Stöd för Erasmussamarbetet
 
-- Kom ihåg att Sveriges viktigaste exportstöd kommer från kungafamiljen. Detta är i sig värt mångmiljardbelopp. Nobelpriset är också viktigt (fler Nobelinspirerade handelsevenemang). 
+- Kom ihåg att Sveriges viktigaste exportstöd kommer från kungafamiljen. Detta är i sig värt mångmiljardbelopp. Nobelpriset är också viktigt (fler Nobelinspirerade handelsevenemang) 
 
-- Mer kultur och konst: svenskar upplevs ofta som okultiverade, lite bonniga och tråkiga
+- Mer kultur och konst: svenskar upplevs ofta som okultiverade, lite bonniga och tråkiga  
 
-Däremot är statliga bidrag och industristrategier av noll betydelse.
+Däremot är statliga bidrag och industristrategier av noll betydelse.  
 
-Till syvende og sist är export en företagsekonomisk fråga, inte en samhällsfråga. Förhoppningsvis kan denna generella analys hjälpa företag att tänka igenom sina prioriteter och möjligheter.
+Till syvende og sist är export en företagsekonomisk fråga, inte en samhällsfråga. Förhoppningsvis kan denna generella analys hjälpa företag att tänka igenom sina prioriteter och möjligheter.  
 
-Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron på framgångar. Det är dags för företag, ledare och politiker att återfinna exportgnistan.
+Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron på framgångar. Det är dags för företag, ledare och politiker att återfinna exportgnistan.  
 
 ---
 **OM TELLUSANT**
 
->[Tellusant, Inc.](https://tellusant.com) är världsledande inom automatiserade lösningar för strategisk planering: *Enterprise Strategic Planning Solutions*. Vi bygger på årtionden av erfarenhet från världens största företag och har arbetat på marken i 92 länder.
+>[Tellusant, Inc.](https://tellusant.com) är världsledande inom automatiserade lösningar för strategisk planering: *Enterprise Strategic Planning Solutions*. Vi bygger på årtionden av erfarenhet från världens största företag och har arbetat på marken i 92 länder.  
 
->Vi har nyligen aktiverat oss i Sverige under [Staffan Canbäcks](https://www.linkedin.com/in/scanback/) och [Kennet Rådnes](https://www.linkedin.com/in/kennetradne/) ledning.
+>Vi har nyligen aktiverat oss i Sverige under [Staffan Canbäcks](https://www.linkedin.com/in/scanback/) och [Kennet Rådnes](https://www.linkedin.com/in/kennetradne/) ledning.  
 
 ---
-¹ Tidigare kallat den gemensamma marknaden. Schweiz är i många avseenden en del av den inre marknaden, men inte fullt ut.
+¹ Tidigare kallat den gemensamma marknaden. Schweiz är i många avseenden en del av den inre marknaden, men inte fullt ut.  
 
-² Mätt med ett Herfindahl-Hirschman index (HHI) som här kvantifierar koncentrations- / diversifieringsgraden inom länder.
+² Mätt med ett Herfindahl-Hirschman index (HHI) som här kvantifierar koncentrations- / diversifieringsgraden inom länder.  
 
-³ Data kommer från Tellusants [TelluBase](https://tellubase.com) databas som bygger på många källor som har behandlats statistiskt. Våra index skiljer sig från, men har en liknande inriktning, som Hofstedes berömda kulturdimensioner.
+³ Data kommer från Tellusants [TelluBase](https://tellubase.com) databas som bygger på många källor som har behandlats statistiskt. Våra index skiljer sig från, men har en liknande inriktning, som Hofstedes berömda kulturdimensioner.  
