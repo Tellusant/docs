@@ -31,7 +31,7 @@ Inte oväntat eftersom ett syfte med den inre markanden är att stimulera intern
 
 Men EU växer långsamt. En framgång inom ett lågväxande område är endast en partiell framgång.  
 
-Värdsekonomin utanför den inre markanden växer mer än dubbelt så snabbt mätt i BNP. Här är ligger svensk lång efter. Vår export har vuxit 1,9% om året, men mottagande länder har vuxit 3,4% årligen.  
+Värdsekonomin utanför den inre marknaden växer mer än dubbelt så snabbt mätt i BNP. Här ligger svensk export långt efter. Vår export har vuxit 1,9% om året, men mottagande länder har vuxit 3,4% årligen.  
 
 Det förefaller som om så mycket energi har gått åt att fånga möjligheter inom EU att övrig export delvis åsidosatts.  
 
@@ -51,7 +51,7 @@ Graf 3 visar vart svensk export går. Av de tio största länderna är alla utom
 
 Denna bild är välkänd och bidrar inte till en bättre förståelse av framtida exportmöjligheter.  
 
-Graf 4 visar istället den mer intressanta och mer okända vyn av Sveriges andel av olika länders import. Vi kan se detta som vår marknadsandel i olika länder.  
+Graf 4 visar istället den mer intressanta och mer okända vyn över Sveriges andel av olika länders import. Vi kan se detta som vår marknadsandel i olika länder.  
 
 **Graf 4**  
 <img  src="assets/images/tellusant-sweden-exports-04.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 4">  
@@ -176,7 +176,7 @@ Asien har god potential bortom Kina och Indien. Att Afrika kommer därefter för
 **Graf 11**  
 <img  src="assets/images/tellusant-sweden-exports-11.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
 
-En ökad exporttillväxt på 0,5% per år, från 2,2% 1999–2024, till 2,7% 2024–2027 är en rimligt ambition. Detta kräver stora reformer och en gedigen kraftsamling.
+En ökad exporttillväxt från 2,2% 1998–2024, till 3,5% 2024–2049 är en rimlig ambition. Detta kräver stora reformer och en gedigen kraftsamling.
 
 Ökad export av denna magnitud kräver också att Sverige går bättre. Tillväxten har varit bra efter EU mått, men lämnar en hel del att önska i ett världsperspektiv.
 
@@ -189,15 +189,15 @@ Ambitionsnivån måste höjas. Sverige bör nästan dubbla tillväxttakten i sin
 
 Med ett mål på förslagvis 3,5% exporttillväxt per år kommer vi återta vår postion om ett kvartssekel.
 
-- Vi måste nå större framgång utanför NB8. Det finns många ljuspunkter, men sann framgång bygger på en större roll i stora länder som Tyskland, Kina, Indien och Frankrike (USA kan bli en prioritet senare).
+- Vi måste nå större framgång **utanför NB8**. Det finns många ljuspunkter, men sann framgång bygger på en större roll i stora länder som Tyskland, Kina, Indien och Frankrike (USA kan bli en prioritet senare).
 
-- Gå från krona till euro. Att ha en viktig valuta hjälper när ett litet land som Sverige exporterar. Det reducerar okändheten och minskar friktionen i betalningsflöden. Volatiliteten minskar också.
+- Gå **från krona till euro**. Att ha en viktig valuta hjälper när ett litet land som Sverige exporterar. Det reducerar okändheten och minskar friktionen i betalningsflöden. Volatiliteten minskar också.
 
-- Det krävs en större ödmjuket för språk och kultur. Allt för mycket går i dag på engelska. Jämför med t ex Mexiko och Colombia: Där sätter företag personalen i engelskundervisning i en massiv omfattning. De förstår att spanska är viktigt, men engelska öppnar större dörrar.
+- Det krävs en större **ödmjuket för språk och kultur**. Allt för mycket går i dag på engelska. Jämför med t ex Mexiko och Colombia: Där sätter företag personalen i engelskundervisning i en massiv omfattning. De förstår att spanska är viktigt, men engelska öppnar större dörrar. Vi har det motsatta problemet.
 
-- Att förstå värdet av hierarkiska kulturer är dessutom viktigt. Allt för ofta hörs "this is how we do it in Sweden". Ingen bryr sig. Möt stora länder på deras villkor (och tala aldrig om Sverige på middagar—ointressant för alla utom svensken).
+- Att **förstå värdet av hierarkiska kulturer** är dessutom viktigt. Allt för ofta hörs "this is how we do it in Sweden". Ingen bryr sig. Möt stora länder på deras villkor (och tala aldrig om Sverige på middagar—ointressant för alla utom svensken).
 
-Staten kan bidra på marginalen: 
+Staten kan bidra på marginalen:  
 
 - Fortsatt fokus på språkutbildning i skolan 
 
@@ -211,7 +211,7 @@ Staten kan bidra på marginalen:
 
 Däremot är statliga bidrag och industristrategier av noll betydelse.  
 
-Till syvende og sist är export en företagsekonomisk fråga, inte en samhällsfråga. Förhoppningsvis kan denna generella analys hjälpa företag att tänka igenom sina prioriteter och möjligheter.  
+Till syvende og sidst är export en företagsekonomisk fråga, inte en samhällsfråga. Förhoppningsvis kan denna generella analys hjälpa företag att tänka igenom sina möjligheter och prioriteter.  
 
 Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron på framgångar. Det är dags för företag, ledare och politiker att återfinna exportgnistan.  
 
