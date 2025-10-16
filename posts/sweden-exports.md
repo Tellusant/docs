@@ -221,4 +221,4 @@ Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron 
 
 ² Mätt med ett Herfindahl-Hirschman index (HHI) som här kvantifierar koncentrations- / diversifieringsgraden inom länder.
 
-³ Data kommer från Tellusants TelluBase (https://tellubase.com) som bygger på många källor och har behandlats statistiskt. Våra index skiljer sig från, men har en liknande inriktning, som Hofstedes berömda kulturdimensioner.
+³ Data kommer från Tellusants [TelluBase](https://tellubase.com) databas som bygger på många källor som har behandlats statistiskt. Våra index skiljer sig från, men har en liknande inriktning, som Hofstedes berömda kulturdimensioner.
