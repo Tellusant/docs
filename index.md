@@ -26,5 +26,5 @@ We create an immense amount of maps on various topics. See some of them in glori
 View our press releases covering important news from our company.  
 #### [Beige Book Analysis](beige/index.md)
 See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
-#### Beige Book Analysis](ecom/index.md)  
-View our quarterly analysis of trnds in U.S. e-commerce relative yto total retail. 
+#### [Quarterly U.S. e-commerce development](ecom/index.md)  
+View our quarterly analysis of trnds in U.S. e-commerce relative yto total retail. Based on FRED data.
