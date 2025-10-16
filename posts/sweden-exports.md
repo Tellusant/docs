@@ -125,7 +125,7 @@ Vad är diagonalen? Det är linjen där modellen och verkligheten är desamma.
 
 Om ett land ligger över diagonalen betyder det att Sverige lyckats över förväntan, under innebär under förväntan.
 
-### Några observationer:
+### Några observationer
 
 Estland (EE) ligger högst över diagonalen. Det betyder att det är det land Sverige är mest framgångsrikt i efter att hänsyn tagits till språk, kultur och geografi. Men landet ligger till vänster, d vs marknaden är liten.
 
