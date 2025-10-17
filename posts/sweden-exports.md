@@ -190,7 +190,7 @@ Med ett mål på förslagvis 3,5% exporttillväxt per år kommer vi återta vår
 
 - Vi måste nå större framgång **utanför NB8**. Det finns många ljuspunkter, men sann framgång bygger på en större roll i stora länder som Tyskland, Kina, Indien och Frankrike (USA kan bli en prioritet senare).
 
-- Gå **från krona till euro**. Att ha en viktig valuta hjälper när ett litet land som Sverige exporterar. Det minskar osäkerheten i att handla med ett okänt land, minskar friktionen i handels- och betalningsflöden, och reducerar Växelkursolatiliteten.
+- Gå **från krona till euro**. Att ha en viktig valuta hjälper när ett litet land som Sverige exporterar. Det minskar osäkerheten i att handla med ett okänt land, minskar friktionen i handels- och betalningsflöden, och reducerar Växelkursvolatiliteten.
 
 - Det krävs en större **ödmjuket för språk och kultur**. Allt för mycket går i dag på engelska. Jämför med t ex Mexiko och Colombia: Där sätter företag personalen i engelskundervisning i en massiv omfattning. De förstår att spanska är viktigt, men engelska öppnar större dörrar. Vi har det motsatta problemet.
 
