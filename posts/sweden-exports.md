@@ -106,7 +106,7 @@ Sverige har inte en stark planeringskultur utan fungerar väl med improvisation.
 
 Svenskar är mer genomsnittliga i stabilitetsdimensionen. Vi premierar pålitlighet men har också drag av flexibilitet. Hur påverkar denna profil våra exportmöjligheter?  
 
-### Andra variabler
+### Andra faktorer
 **Geografisk distans** kräver ingen graf. Det är uppenbart om länder är nära eller fjärran. Frågan är istället: påverkar avstånd vår export?
 
 **Handelshinder** bör också ha en inverkan. Vi delade in världen i den inre marknaden (låga handelshinder) gentemot övriga länder.
