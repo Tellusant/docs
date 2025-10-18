@@ -4,6 +4,8 @@ image: /assets/social-card.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
 
+![Sveriges exportmöjligheter](assets/images/tellusant-s.canback-sweden-exports-banner.png)
+
 **OM FÖRFATTAREN**  
 
 > Dr Staffan Canbäck är svensk strategikonsult och företagsledare bosatt i Boston, Massachusetts sedan 1993. Han är arbetande styrelseordförande för Tellusant, Inc. Han var dessförinnan VD för Canback Consulting, en global strategikonsult firma i Boston, som han sålde till The Economist Group 2015. Innan dess var han partner hos McKinsey & Company och Monitor Company.  
