@@ -4,7 +4,9 @@ image: /assets/social-card.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
 
+<p align="center">
 <img  src="assets/images/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
+</p>
 
 
 **OM FÖRFATTAREN**  
