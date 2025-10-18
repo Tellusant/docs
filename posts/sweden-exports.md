@@ -3,7 +3,9 @@ title: "Sveriges exportmöjligheter i ett besvärligt handelsklimat (Sweden's ex
 image: /assets/social-card.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
-<img  src="assets/images/tellusant-s.canback-sweden-exports-banner.png" width="500" alt="Tellusant: Sveriges exportmöjligheter">
+
+<img  src="assets/images/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
+
 
 **OM FÖRFATTAREN**  
 
