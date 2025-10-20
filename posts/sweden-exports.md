@@ -142,7 +142,7 @@ Estland (EE) ligger högst över diagonalen. Det betyder att det är det land Sv
 
 Andra starka framgångsländer är t ex Förenade Arabemiraten (AE), Egypten (EG), Chile (CL) och Korea.
 
-Däremot går det trögt i exempelvis USA (US), Tyskland (DE) och Schweiz (CH). Att många länder i den inre markanden ligger långt under diagonalen är bekymrande. Att gå med i eurosamarbetet kan inte vara en nackdel.
+Däremot går det trögt i exempelvis USA (US), Tyskland (DE) och Schweiz (CH). Att många länder i den inre marknaden ligger långt under diagonalen är bekymrande. Att gå med i eurosamarbetet kan inte vara en nackdel.
 
 Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna ligger över diagonalen 0ch kan ses som framgångar, Hälften ligger under, med mer att önska.
 
