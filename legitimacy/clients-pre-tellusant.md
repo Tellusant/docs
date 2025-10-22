@@ -15,6 +15,7 @@ This list shows the depth and breadth of our experiences, usually at the CEO lev
 - FEMSA
 - Fiskars
 - Gloria
+- Grupo Lala
 - Hasselblad
 - HSBC
 - Imperial Brands
