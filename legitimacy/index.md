@@ -39,7 +39,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 *Ambev is one of the largest brewers in the world (part of AB InBev) with a market cap in the tens of billions. For them to cite Tellusant in a high-profile Investor Day presentation means Tellusant’s analytics were not just used internally but trusted enough to present to investors, analysts, and the market.*  
 [Ambev Investor Day 2022](https://api.mziq.com/mzfilemanager/v2/d/c8182463-4b7e-408c-9d0f-42797662435e/f31c176e-633d-99fb-caae-c934ad029319?origin=1)
 
-*Taken together, these references show Tellusant is not a shell or purely self-promotional firm. It is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
+*Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
 ## 3. Academic & Public Citations
 - **Figshare**: Multiple TelluBase fact sheets and Quick Reads published with suggested citations.  
@@ -116,6 +116,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
