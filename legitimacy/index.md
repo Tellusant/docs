@@ -28,6 +28,8 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
 ## 2. Independent Corporate Validation
+- **Heineken N.V.** (2025) - 3rd Quarter Results Presentation cites Tellusant and TelluBase extensively.  
+*These Heineken citations are among the most powerful corporate validations yet for Tellusant — putting the company and its products in flagship investor materials.*  
 - **Constellation Brands** (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.  
 *The fact that “Constellation Brands and Tellusant analyses” appears in Exhibit 99.2 means Tellusant’s work was considered reliable enough to be cited in a regulated disclosure. That’s not something an unserious entity could pull off.*  
 [Constellation Brands – FY25 Financial Results & FY26 to FY28 Outlook](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)  
@@ -89,7 +91,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 ## 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
-- **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
+- **Legitimacy**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
 
 ■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, multi-channel product platforms, independent institutional references.*
@@ -112,6 +114,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
