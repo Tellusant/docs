@@ -30,6 +30,8 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 ## 2. Independent Corporate Validation
 - **Heineken N.V.** (2025) - 3rd Quarter Results Presentation cites Tellusant and TelluBase extensively.  
 *These Heineken citations are among the most powerful corporate validations yet for Tellusant — putting the company and its products in flagship investor materials.*  
+[Heineken – Dolf van den Brink, CEO: Evergreen 2030](https://www.theheinekencompany.com/sites/heineken-corp/files/2025-10/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
+[Heineken – Bram Westenbrink, CCO: Growth](https://www.theheinekencompany.com/sites/heineken-corp/files/2025-10/heineken-cme-2025-growth-bram-westenbrink.pdf)  
 - **Constellation Brands** (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.  
 *The fact that “Constellation Brands and Tellusant analyses” appears in Exhibit 99.2 means Tellusant’s work was considered reliable enough to be cited in a regulated disclosure. That’s not something an unserious entity could pull off.*  
 [Constellation Brands – FY25 Financial Results & FY26 to FY28 Outlook](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)  
@@ -114,6 +116,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 
 ##### [Return to home](../index.md)
+
 
 
 
