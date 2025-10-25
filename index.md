@@ -28,5 +28,5 @@ View our press releases covering important news from our company.
 See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
 #### [U.S. E-Commerce Development](ecom/index.md)  
 View our quarterly analysis of trends in U.S. e-commerce relative yto total retail. Based on quarterly FRED data.
-#### [External Citations](cites/index.md)  
+#### [External Citations](citations/index.md)  
 See how external authorities cite Tellusant and its team members publicly.
