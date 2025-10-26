@@ -38,4 +38,3 @@
 #### [Uruguay](tellubase_factsheet_ury.pdf)  
 #### [Viet Nam](tellubase_factsheet_vnm.pdf)  
 #### [Western Sahara](tellubase-factsheet-esh.pdf)  
-<img width="153" height="1721" alt="image" src="https://github.com/user-attachments/assets/6abcec63-f4ba-449f-bf7c-77992794b05a" />
