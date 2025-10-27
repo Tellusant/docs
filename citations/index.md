@@ -58,7 +58,9 @@ Alphabetically listed.
 #### [International Journal of Scientific & Technology Research (2013): *The Quality of Mass Transit Service in Abuja, Nigeria: An Analysis Of Customers Opinions*](https://www.researchgate.net/publication/318859389_The_Quality_Of_Mass_Transit_Service_In_Abuja_Nigeria_An_Analysis_Of_Customers_Opinions)
 Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists should look beyond Buhari*
 #### [IOSR Journal of Agriculture and Veterinary Science (2015): *Evaluation of Phytochemicals in Azanzagarckeana (Goron tula) Seed*](https://www.researchgate.net/publication/289673154_Evaluation_of_Phytochemicals_in_Azanza_garckeana_Goron_tula_Seed)
+
 #### [IOSR Journal Of Humanities And Social Science (2019): *Media popular culture and the influence of western celebrities on Nigerian youth culture*](https://www.iosrjournals.org/iosr-jhss/papers/Vol. 24 Issue4/Series-10/D2404102027.pdf)
+
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](https://canback.net/docs/italia_bruno_ssa.pdf)
 IUHF (2019): *Realising affordability in global housing markets*
