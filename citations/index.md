@@ -61,8 +61,8 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [IOSR Journal Of Humanities And Social Science (2019): *Media popular culture and the influence of western celebrities on Nigerian youth culture*](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue4/Series-10/D2404102027.pdf)
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](https://canback.net/docs/italia_bruno_ssa.pdf)
-IUHF (2019): *Realising affordability in global housing markets*
-#### [Jersey Telecom (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](http://www.statesassembly.gov.je/ScrutinyReports/2007/Report - Economic Affairs Panel-Jersey Telecom Privatisation - 06 March 2007.pdf)
+IUHF (2019): *Realising affordability in global housing markets*  
+Jersey Telecom (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*  
 #### [Journal of Veterinary Science (2012): *Fasciolosis in slaughtered cattle from abattoirs in Ondo state, Nigeria*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&cad=rja&uact=8&ved=0CCUQFjACOBQ&url=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAbdul_matin_Qasim2%2Fpublication%2F242346876_Fasciolosis_in_slaughtered_cattle_from_abattoirs_in_Ondo_State_Nigeria%2Flinks%2F00b7d51cd995669af7000000.pdf&ei=4iwkVeKiJbXPsQSs-IHYCQ&usg=AFQjCNFX6lhXheW3JO8nXAGe0aqgRwtM0A)
 #### [Lagos State Government (2018): *Affordable housing deal book*](https://lagossdgandinvestment.com/Lagos-Global-Housing-Deal-Book-optimized.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
