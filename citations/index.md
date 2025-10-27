@@ -18,7 +18,7 @@ Alphabetically listed.
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](https://www.asean.or.jp/ja/wp-content/uploads/sites/2/4._Indonesia_Investment_Update.pdf)
 #### [Ballentine Partners (2014): *Spring 2014 Think Forum - Africa: A Market Whose Time Has Come?*](https://canback.net/docs/ballentine_think_forum.pdf)
 #### [Bangladesh Journal of Agricultural Economics (2020): *Food security and poverty status of cassava processors*](https://ageconsearch.umn.edu/record/304096/?ln=en)
-#### [BBC News (2012): *Nigeria—A Nation Divided *](http://www.bbc.com/news/world-africa-16510922)
+#### [BBC News (2012): *Nigeria—A Nation Divided*](http://www.bbc.com/news/world-africa-16510922)
 #### [BCG (2015): *Africa Blazes a Trail in Mobile Money*](https://web-assets.bcg.com/img-src/Africa_Blazes_a_Trail_in_Mobile_Money_Feb_2015_tcm9-73648.pdf)
 #### [BCG (2014): *Winning in Africa*](https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/BCG_Winning_in_Africa_Jan_2014_tcm80-152297.pdf)
 #### [BCG (2014): *Winning in Africa—From Trading Posts to Ecosystems*](https://web-assets.bcg.com/img-src/BCG_Winning_in_Africa_Jan_2014_tcm9-73982.pdf)
@@ -26,7 +26,7 @@ Alphabetically listed.
 #### [Bucharest University (2014): *Constructing official poverty lines for countries in transition*](https://www.econstor.eu/bitstream/10419/168830/1/aej-v16-i35-p0368.pdf)
 #### [CARD International Journal of Medical Science and Applied Biosciences (2017): *Survey and control of tomato (Solanum lycopersicum L.) wilt caused by Fusarium oxysporum Schlecht*](https://casirmediapublishing.com/wp-content/uploads/2019/09/Pages-44-61.pdf)
 #### [CDP (2013): *Wealtier, healthier cities*](https://canback.net/docs/cdp_cities.pdf)
-#### [Center for Health and Humanitarian Systems (2019): *Optimizing the cost of vaccine deliveries*](https://chhs.gatech.edu/conference/2019/sites/default/files/cfp-file/20190705_HHL Presentation 2019_ vF_0.pdf)
+#### [Center for Health and Humanitarian Systems (2019): *Optimizing the cost of vaccine deliveries*](https://hhl2019.chhs.gatech.edu/sites/default/files/cfp-file/20190705_HHL%20Presentation%202019_%20vF_0.pdf)
 #### [Centre for Affordable Housing Finance Africa (2018): *East Africa 2018 infographic*](https://housingfinanceafrica.org/app/uploads/East-Africa-2018-infographic-final.pdf)
 #### [Centre for Affordable Housing Finance in Africa (2021): *2021 Yearbook*](https://www.auhf.co.za/wp-content/uploads/2022/03/2021_CAHF-yearbook-final-compressed.pdf)
 #### [Centre for Affordable Housing in Africa (2016): *Mortgage and Housing Affordability Calculator in Africa*](https://housingfinanceafrica.org/documents/calculating-mortgage-and-housing-affordability-in-africa/)
@@ -103,11 +103,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2011): *Urban World: Mapping the economic power of cities*](https://mondohonline.files.wordpress.com/2011/08/mgi_urban_world_full_report.pdf)
 #### [McKinsey (2016): *Urban World: The global consumers to watch*](https://www.mckinsey.com/featured-insights/urbanization/urban-world-the-global-consumers-to-watch)
 #### [McKinsey (2015): *Winning in Africa’s consumer market*](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/winning-in-africas-consumer-market)
-
 #### [Mercy Corps (2015): *The economic costs of conflict and the benefits of peace*](https://www.mercycorps.org/sites/default/files/2019-11/Mercy%20Corps%20Nigeria%20Household%20Costs%20of%20Conflict%20Policy%20Brief%20July%202015.pdf)
-
-#### [Mercy Corps (2015): *The economic costs of conflict and the benefits of peace*](https://www.mercycorps.org/sites/default/files/2019-11/Mercy Corps Nigeria Household Costs of Conflict Policy Brief July 2015.pdf)
-
 #### [Michael Okpara University of Agriculture (2013):*The effect of micro enterprise financing on farmers welfare in Abia state, Nigeria*](https://www.ajol.info/index.php/naj/article/view/90559)
 #### [MIRA / CI Banco (2016): *Oferta pública restringida de certificados bursátiles*](https://mira.mx/site/uploads/es/documents/general_documents/prospecto_de_colocacion.pdf)
 #### [Morgan Stanley (2017): *Inclusive growth opportunities index 2017*](https://www.morganstanley.com/content/dam/msdotcom/ideas/eiu-inclusive-growth-infographic/1799419_EIU_MS_InclusiveGrowth_20170518_Final.pdf)
@@ -152,11 +148,7 @@ Portugal Telecom (2012): *Consolidated annual report*
 #### [University of Massachusetts (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
 #### [University of Nigeria Teaching Hospital (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria *](https://www.ajol.info/index.php/jorind/article/view/91712)
 #### [Varazdin Development and Entrepreneurship Agency (2018): *Economic and social development: Book of proceedings*](https://www.esd-conference.com/upload/book_of_proceedings/Book_of_Proceedings_esdMoscow2018_Online.pdf)
-
 #### [Veterinary World (2011): *Bacterial and parasitic zoonoses encountered at slaughter in Maiduguri abattoir, northeastern Nigeria*](https://www.veterinaryworld.org/Vol.4/October%20-%202011/Bacterial%20and%20parasitic%20zoonoses%20encountered%20at%20slaughter%20in%20Maiduguri%20abattoir,%20Northeastern%20Nigeria.pdf)
-
-#### [Veterinary World (2011): *Bacterial and parasitic zoonoses encountered at slaughter in Maiduguri abattoir, northeastern Nigeria*](http://www.veterinaryworld.org/Vol.4/October%20%-%20%2011/Bacterial%20%and%20%parasitic%20%zoonoses%20%encountered%20%at%20%slaughter%20%in%20%Maiduguri%20%abattoir,%20%Northeastern%20%Nigeria.pdf)
-
 #### [World Bank (2010): *Doing business in Nigeria 2010*](https://openknowledge.worldbank.org/entities/publication/60948997-be2b-5809-ad3f-38e89a14c206)
 #### [World Bank (2019): *Guinea urban sector review*](https://documents1.worldbank.org/curated/zh/761191559149103957/pdf/Guinea-Urban-Sector-Review-Planning-Connecting-Financing-in-Conakry.pdf)
 #### [World Bank (2013): *The shifting urban economic landscape: What does it mean*](https://documents1.worldbank.org/curated/en/850421468178735793/pdf/842550WP0Dobbs0Box0382136B00PUBLIC0.pdf)
