@@ -29,6 +29,6 @@ See the latest economic status in the United States based on the Fed's sesqui-mo
 #### [U.S. E-Commerce Development](ecom/index.md)  
 View our quarterly analysis of trends in U.S. e-commerce relative yto total retail. Based on quarterly FRED data.
 #### [Fact Sheets](fact-sheets/index.md)  
-tbd
+We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.
 #### [External Citations](citations/index.md)  
 See how external authorities cite Tellusant and its team members publicly.
