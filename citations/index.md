@@ -44,7 +44,7 @@ Alphabetically listed.
 #### [FUDMA Journal of Sciences (2023): *Occurrence of parasites in live Clarias gariepinus*](https://www.researchgate.net/publication/370446298_OCCURRENCE_OF_PARASITES_IN_LIVE_Clarias_gariepinus_SOLD_AT_JIMETA_MODERN_MARKET_YOLA_ADAMAWA_STATE)
 #### [Ghent University (2010): *Welke rol speelt olie in de mobilisatie van jongeren in de Niger delta?*](http://lib.ugent.be/fulltxt/RUG01/001/491/060/RUG01-001491060_2011_0001_AC.pdf)
 #### [Global Journal of Medical Research (2019): *Aflatoxin risk in dairy production*](https://globaljournals.org/GJMR_Volume19/3-Aflatoxin-Risk-in-Dairy-Production.pdf)
-#### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*]([https://www.iiardjournals.org/get/IJEBM/VOL. 3 NO. 1 2017/Causal Relationship.pdf](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
+#### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
 #### [Heineken Beverages (2019): *Investment community trade visit*](https://www.distell.co.za/Knowledge/pkViewDocument.aspx?docid=1230)
 #### [Heineken Beverages (2016): *Results presentation 2016*](https://www.distell.co.za/knowledge/pkdownloaddocument.aspx?docid=1151)
 #### [IGI Global (publisher) (2020): *Multiple scenarios-based impact analysis of predicted land-use change on ecosystem services value*](https://www.igi-global.com/chapter/multiple-scenarios-based-impact-analysis-of-predicted-land-use-change-on-ecosystem-services-value/257935)
