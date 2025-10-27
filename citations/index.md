@@ -70,8 +70,7 @@ Jersey Telecom (2007): *Economic affairs scrutiny panel Jersey Telecom - Privati
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](https://canback.net/docs/liberty_analyst_day_2013.pdf)
 #### [MasterCard (2013): *African cities growth index 2013*](https://www.researchgate.net/publication/260185819_MasterCard_African_Cities_Growth_Index_2013)
 #### [MasterCard (2014): *Mapping the path to future prosperity—Emerging markets inclusive growth index*](https://canback.net/docs/mastercard_prosperity.pdf)
-#### [McKinsey (2014): *A blueprint for addressing the global affordable housing challenge*](https://www.mckinsey.com/~/media/mckinsey/featured insights/urbanization/tackling the worlds affordable housing challenge/mgi_affordable_housing_executive summary_october 2014.ashx)
-#### [McKinsey (2014): *A blueprint for addressing the global affordable housing challenge*](http://www.infrastructure-intelligence.com/sites/default/files/article_uploads/McKinsey - Affordable housing challenge.pdf)
+#### [McKinsey (2014): *A blueprint for addressing the global affordable housing challenge*](https://www.mckinsey.com/~/media/mckinsey/featured%20insights/urbanization/tackling%20the%20worlds%20affordable%20housing%20challenge/mgi_affordable_housing_executive%20summary_october%202014.ashx)
 #### [McKinsey (2014): *A tale of two Mexicos—Growth and prosperity in a two-speed economy*](https://www.mckinsey.com/featured-insights/americas/a-tale-of-two-mexicos)
 #### [McKinsey (2012): *Africa at work—Job creation and inclusive growth*](https://www.mckinsey.com/~/media/McKinsey/Featured Insights/Middle East and Africa/Africa at work/b test/MGI_Africa_at_work_August_2012_Full_Report.pdf)
 McKinsey (2014): *African aviation—The industry’s last frontier*
@@ -146,7 +145,7 @@ Portugal Telecom (2012): *Consolidated annual report*
 #### [United Nations (2013): *Abuja +12: Shaping the future of health in Africa*](http://www.unaids.org/en/media/unaids/contentassets/documents/unaidspublication/2013/JC2524_Abuja_report_en.pdf)
 #### [United Nations (2020): *The South Africa investor map 2020*](https://www.undp.org/sites/g/files/zskgke326/files/migration/za/SDGP-Report-WIP-28_FINAL-FINAL.pdf)
 #### [University of Massachusetts (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
-#### [University of Nigeria Teaching Hospital (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria *](https://www.ajol.info/index.php/jorind/article/view/91712)
+#### [University of Nigeria Teaching Hospital (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria*](https://www.ajol.info/index.php/jorind/article/view/91712)
 #### [Varazdin Development and Entrepreneurship Agency (2018): *Economic and social development: Book of proceedings*](https://www.esd-conference.com/upload/book_of_proceedings/Book_of_Proceedings_esdMoscow2018_Online.pdf)
 #### [Veterinary World (2011): *Bacterial and parasitic zoonoses encountered at slaughter in Maiduguri abattoir, northeastern Nigeria*](https://www.veterinaryworld.org/Vol.4/October%20-%202011/Bacterial%20and%20parasitic%20zoonoses%20encountered%20at%20slaughter%20in%20Maiduguri%20abattoir,%20Northeastern%20Nigeria.pdf)
 #### [World Bank (2010): *Doing business in Nigeria 2010*](https://openknowledge.worldbank.org/entities/publication/60948997-be2b-5809-ad3f-38e89a14c206)
