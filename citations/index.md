@@ -16,7 +16,7 @@ Alphabetically listed by authority.
 #### [Airbnb (2017): *Women hosts and Airbnb: Building a global community*](https://www.airbnbcitizen.com/wp-content/uploads/2017/03/Women-Hosts-and-Airbnb_Building-a-Global-Community.pdf)
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
 #### [Asian Development Bank (2010): *Key Indicators for Asia and the Pacific 2010: Special chapter*](https://www.adb.org/sites/default/files/publication/27726/ki2010-special-chapter.pdf)
-#### [Atkins (2012): *Future proofing cities*](https://www.urban-response.org/system/files/content/resource/files/main/fpc-report-hires.pdf)
+#### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](https://www.asean.or.jp/ja/wp-content/uploads/sites/2/4._Indonesia_Investment_Update.pdf)
 #### [Ballentine Partners (2014): *Spring 2014 Think Forum - Africa: A Market Whose Time Has Come?*](assets/pdf/ballentine_think_forum.pdf) (I)  
 #### [Bangladesh Journal of Agricultural Economics (2020): *Food security and poverty status of cassava processors*](https://ageconsearch.umn.edu/record/304096/?ln=en)
