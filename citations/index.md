@@ -15,7 +15,7 @@ Alphabetically listed by authority.
 #### [AIG (2013): *AIG in Africa*](assets/pdf/aig_africa.pdf) (I)  
 #### [Airbnb (2017): *Women hosts and Airbnb: Building a global community*](https://www.airbnbcitizen.com/wp-content/uploads/2017/03/Women-Hosts-and-Airbnb_Building-a-Global-Community.pdf)
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
-#### [Asian Development Bank (2010): *Key Indicators for Asia and the Pacific 2010: Special chapter*](assets/pdf/adb-key-indicators-special-chapter.pdf)
+#### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf) (I)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](https://www.asean.or.jp/ja/wp-content/uploads/sites/2/4._Indonesia_Investment_Update.pdf)
 #### [Ballentine Partners (2014): *Spring 2014 Think Forum - Africa: A Market Whose Time Has Come?*](assets/pdf/ballentine_think_forum.pdf) (I)  
