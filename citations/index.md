@@ -17,7 +17,7 @@ Alphabetically listed by authority.
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
 #### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf) (I)
-#### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf.pdf)
+#### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf)
 #### [Ballentine Partners (2014): *Spring 2014 Think Forum - Africa: A Market Whose Time Has Come?*](assets/pdf/ballentine_think_forum.pdf) (I)  
 #### [Bangladesh Journal of Agricultural Economics (2020): *Food security and poverty status of cassava processors*](https://ageconsearch.umn.edu/record/304096/?ln=en)
 #### [BBC News (2012): *Nigeria—A Nation Divided*](http://www.bbc.com/news/world-africa-16510922)
