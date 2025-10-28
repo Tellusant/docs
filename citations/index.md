@@ -36,7 +36,7 @@ Alphabetically listed by authority.
 #### [CSIL Market Research (2020): *The European market for lighting fixtures*](https://www.lighting.csilmilano.com/fixtures/Lighting-market-Europe-30-countries-2020-0001280.html)
 #### [Daily Trust (2016): *Nigeria: Enugu Free Trade Zone to Attract N240 Billion Investment*](https://allafrica.com/stories/201611210941.html)
 #### [Diageo (2013): *Entering the African Beer Market: Uncovering the Strategies to Enable Success*](assets/pdf/diageo_africa.pdf) (I)  
-#### [Ecobank (2014): *Presentation to 38th General Assembly of FANAF Ouagadougou *](https://docplayer.net/9998961-Presentation-to-38th-general-assembly-of-fanaf-ouagadougou-17-21-february-2014-thierry-tanoh-group-ceo.html)
+#### [Ecobank (2014): *Presentation to 38th General Assembly of FANAF Ouagadougou*](https://docplayer.net/9998961-Presentation-to-38th-general-assembly-of-fanaf-ouagadougou-17-21-february-2014-thierry-tanoh-group-ceo.html)
 #### [Economics & Sociology (2017): *Constructing poverty lines in Croatia using Kakwani’s model*](https://typeset.io/pdf/constructing-poverty-lines-in-croatia-using-kakwani-s-model-7po3aycsfh.pdf)
 #### [Environment & Urbanization (2020): *Can people on low incomes access affordable housing loans in urban Africa and Asia?*](https://reall.net/wp-content/uploads/2020/10/Jones-Stead-EU-Low-Income-Housing-Finance.pdf)
 #### [E-Trade (2015): *Opening the Wallets of 2.8 Billion People*](http://imgstock.naver.com/upload/research/invest/1421020253517.pdf)
@@ -63,6 +63,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](assets/pdf/italia_bruno_ssa.pdf) (I)
 IUHF (2019): *Realising affordability in global housing markets*  
+
 Jersey Telecom (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*  
 #### [Journal of Veterinary Science (2012): *Fasciolosis in slaughtered cattle from abattoirs in Ondo state, Nigeria*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&cad=rja&uact=8&ved=0CCUQFjACOBQ&url=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAbdul_matin_Qasim2%2Fpublication%2F242346876_Fasciolosis_in_slaughtered_cattle_from_abattoirs_in_Ondo_State_Nigeria%2Flinks%2F00b7d51cd995669af7000000.pdf&ei=4iwkVeKiJbXPsQSs-IHYCQ&usg=AFQjCNFX6lhXheW3JO8nXAGe0aqgRwtM0A)
 #### [Lagos State Government (2018): *Affordable housing deal book*](https://lagossdgandinvestment.com/Lagos-Global-Housing-Deal-Book-optimized.pdf)
@@ -78,7 +79,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2015): *Brighter Africa—The growth potential of the sub-Saharan electricity sector*](https://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/EPNG/PDFs/Brighter_Africa-The_growth_potential_of_the_sub-Saharan_electricity_sector.ashx)
 #### [McKinsey (2022): *China’s theme parks face a new era*](https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/chinas-theme-parks-face-a-new-era)
 #### [McKinsey (2013): *Dominic Barton, global managing director— The new Asian middle class*](https://dokumen.tips/documents/the-new-asian-middle-class-dominic-barton-keynote.html)
-#### [McKinsey (2014): *Dominic Barton, global managing director—The next big thing: Africa *](http://africastudygroup.ca/wp-content/uploads/2014/02/the-next-big-thing-africa-vf.pdf)
+#### [McKinsey (2014): *Dominic Barton, global managing director—The next big thing: Africa*](http://africastudygroup.ca/wp-content/uploads/2014/02/the-next-big-thing-africa-vf.pdf)
 #### [McKinsey (2014): *India’s economic geography in 2025: States, clusters and cities*](https://www.governancenow.com/files/Indias%20economic%20geography%20in%202025%20States%20clusters%20and%20cities.pdf)
 #### [McKinsey (2012): *Industrie 2.0: 5 pistes pour permettre aux industriels français de tirer parti de la mondialisation*](http://digamo.free.fr/indu2dot0.pdf)
 #### [McKinsey (2011): *Lighting the way: Perspectives on the global lighting market*](http://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/automotive%20%and%20%assembly/lighting_the_way_perspectives_on_global_lighting_market_2012.ashx)
