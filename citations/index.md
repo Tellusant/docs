@@ -19,7 +19,7 @@ Alphabetically listed by authority.
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf) (I)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf)
 #### [Ballentine Partners (2014): *Spring 2014 Think Forum - Africa: A Market Whose Time Has Come?*](assets/pdf/ballentine_think_forum.pdf) (I)  
-#### [Bangladesh Journal of Agricultural Economics (2020): *Food security and poverty status of cassava processors*](https://ageconsearch.umn.edu/record/304096/?ln=en](https://bjae.bau.edu.bd/index.php/home/article/view/44/18)
+#### [Bangladesh Journal of Agricultural Economics (2020): *Food security and poverty status of cassava processors*](https://bjae.bau.edu.bd/index.php/home/article/view/44/18)
 #### [BBC News (2012): *Nigeria—A Nation Divided*](http://www.bbc.com/news/world-africa-16510922)
 #### [BCG (2015): *Africa Blazes a Trail in Mobile Money*](https://web-assets.bcg.com/img-src/Africa_Blazes_a_Trail_in_Mobile_Money_Feb_2015_tcm9-73648.pdf)
 #### [BCG (2014): *Winning in Africa*](https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/BCG_Winning_in_Africa_Jan_2014_tcm80-152297.pdf)
