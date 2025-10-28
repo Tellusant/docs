@@ -12,7 +12,7 @@ Alphabetically listed by authority.
 #### [AB InBev (2014): *Quarterly divisional seminar series—South Africa*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/divisional-seminars/quarterly-divisional-seminar-south-africa-2014.pdf)
 #### [Accenture (2013): *Consumer Goods in Africa and Nigeria*](http://www.slideshare.net/accenture/consumer-goods-in-africa-and-nigeria)
 #### [Ahmadu Bello University (2014): *The imperative of sand dune stabilization in semi arid zone*](https://physicalsciences.abu.edu.ng/department/geography/public/journal/2014/files/12.pdf)
-#### [AIG (2013): *AIG in Africa*](https://canback.net/docs/aig_africa.pdf)
+#### [AIG (2013): *AIG in Africa*](assets/pdf/aig_africa.pdf)
 #### [Airbnb (2017): *Women hosts and Airbnb: Building a global community*](https://www.airbnbcitizen.com/wp-content/uploads/2017/03/Women-Hosts-and-Airbnb_Building-a-Global-Community.pdf)
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
 #### [Asian Development Bank (2010): *Key Indicators for Asia and the Pacific 2010: Special chapter*](https://www.adb.org/sites/default/files/publication/27726/ki2010-special-chapter.pdf)
