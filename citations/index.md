@@ -40,7 +40,7 @@ Alphabetically listed by authority.
 #### [Centre for Affordable Housing Finance in Africa (2016): *Mortgage and Housing Affordability Calculator in Africa*](https://housingfinanceafrica.org/documents/calculating-mortgage-and-housing-affordability-in-africa/)
 #### [China Integrated (2012): *Growing Opportunities in an Exploding Consumer Market*](https://www.ch-ina.com/wp-content/uploads/2012/09/24-9-2012.pdf)
 #### [Confederation on Indian Industry / Tata (2018): *Joining hands to unlock Africa’s Potential*](https://afdb-org.jp/wp-content/uploads/2018/08/JABF2014_Ms.Janaki_Mr.Kuppuswamy.pdf)
-()[]
+#### [Constellation Brands (2025): FY25 Financial Results](assets/pdf/constellation-brands-fy25-financial-results.pdf)
 #### [CSIL Market Research (2020): *The European market for lighting fixtures*](https://www.lighting.csilmilano.com/fixtures/Lighting-market-Europe-30-countries-2020-0001280.html)
 #### [Daily Trust (2016): *Nigeria: Enugu Free Trade Zone to Attract N240 Billion Investment*](https://allafrica.com/stories/201611210941.html)
 #### [Diageo (2013): *Entering the African Beer Market: Uncovering the Strategies to Enable Success*](assets/pdf/diageo_africa.pdf) (I)  
