@@ -8,11 +8,7 @@ See how external authorities (academic journals, newspapers, TV, governments, NG
 These are the first 150 of around 400 citations (to be built out during 2026).
 
 <p align="center">
-<img  src="assets/images/tellusant-members-external-citations-summary.svg
-"style="text-align: center;" width="600" alt="Summary of external citations">
-</p>
-
-
+<img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
 
 Alphabetically listed by authority.
 
