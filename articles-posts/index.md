@@ -13,8 +13,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 #### [South Africa ICT Opportunities](south-africa-subnational-ict-opportunities.md)  article  
 
-#### [Creating Robust Long-Term Forecasts](creating-robust-long-term-forecasts.md
-)
+#### [Creating Robust Long-Term Forecasts](creating-robust-long-term-forecasts.md) article
 
 
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
