@@ -1,5 +1,5 @@
 ---
-title: "External Citations for Tellusant and Team Members"
+title: "External Citations for Tellusant and Its Team Members"
 image: /assets/social-card.png
 ---
 # External Citations
@@ -11,9 +11,8 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 <img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
 </p>
 
-Alphabetically listed by authority.
-
 ---
+Alphabetically listed by authority.  
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
 #### [AB InBev (2015): *Quarterly divisional seminar series—Africa*](http://sabmiller.com/docs/default-source/investor-documents/divisional-seminars/2015/quarterly-divisional-seminar-sabmiller-africa-presentation-2015.pdf)
 #### [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](http://www.sabmiller.com/docs/default-source/investor-documents/presentations/2013/quarterly-divisional-seminar-asia-pacific-2013.pdf?sfvrsn=2)
