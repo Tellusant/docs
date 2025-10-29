@@ -31,7 +31,7 @@ Alphabetically listed by authority.
 #### [BCG (2015): *Africa Blazes a Trail in Mobile Money*](https://web-assets.bcg.com/img-src/Africa_Blazes_a_Trail_in_Mobile_Money_Feb_2015_tcm9-73648.pdf)
 #### [BCG (2014): *Winning in Africa*](assets/pdf/bcg-winning-in-africa.pdf) (I)
 #### [BeautyWorld (2017): *Attractive Africa: Five growth drivers in Africa’s beauty and personal care*](https://www.beautyworldme.com/resources/files/reports/BWME2017_E_book_Attractive_Africa.pdf)
-#### [Secretaría General de la Alcaldía Mayor de Bogotá (2025): *Entorno Economico*](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)
+#### [Bogotá, Secretaría General de la Alcaldía Mayor de (2025): *Entorno Economico*](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)
 #### [Bucharest University (2014): *Constructing official poverty lines for countries in transition*](https://www.econstor.eu/bitstream/10419/168830/1/aej-v16-i35-p0368.pdf)
 #### [CARD International Journal of Medical Science and Applied Biosciences (2017): *Survey and control of tomato (Solanum lycopersicum L.) wilt caused by Fusarium oxysporum Schlecht*](https://casirmediapublishing.com/wp-content/uploads/2019/09/Pages-44-61.pdf)
 #### [CDP (2013): *Wealtier, healthier cities*](assets/pdf/cdp_cities.pdf) (I)    
