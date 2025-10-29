@@ -1,7 +1,17 @@
+---
+title: "External Citations for Tellusant and Team Members"
+image: /assets/social-card.png
+---
 # External Citations
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited Tellusant and its team members publicly over the years.
 
 These are the first 150 of around 400 citations (to be built out during 2026).
+
+<p align="center">
+<img  src="assets/images/tellusant-members-external-citations-svg" style="text-align: center;" width="500" alt="Summary of external citations">
+</p>
+
+
 
 Alphabetically listed by authority.
 
