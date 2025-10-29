@@ -40,6 +40,7 @@ Alphabetically listed by authority.
 #### [Centre for Affordable Housing Finance in Africa (2016): *Mortgage and Housing Affordability Calculator in Africa*](https://housingfinanceafrica.org/documents/calculating-mortgage-and-housing-affordability-in-africa/)
 #### [China Integrated (2012): *Growing Opportunities in an Exploding Consumer Market*](https://www.ch-ina.com/wp-content/uploads/2012/09/24-9-2012.pdf)
 #### [Confederation on Indian Industry / Tata (2018): *Joining hands to unlock Africa’s Potential*](https://afdb-org.jp/wp-content/uploads/2018/08/JABF2014_Ms.Janaki_Mr.Kuppuswamy.pdf)
+()[]
 #### [CSIL Market Research (2020): *The European market for lighting fixtures*](https://www.lighting.csilmilano.com/fixtures/Lighting-market-Europe-30-countries-2020-0001280.html)
 #### [Daily Trust (2016): *Nigeria: Enugu Free Trade Zone to Attract N240 Billion Investment*](https://allafrica.com/stories/201611210941.html)
 #### [Diageo (2013): *Entering the African Beer Market: Uncovering the Strategies to Enable Success*](assets/pdf/diageo_africa.pdf) (I)  
@@ -53,6 +54,8 @@ Alphabetically listed by authority.
 #### [Ghent University (2010): *Welke rol speelt olie in de mobilisatie van jongeren in de Niger delta?*](http://lib.ugent.be/fulltxt/RUG01/001/491/060/RUG01-001491060_2011_0001_AC.pdf)
 #### [Global Journal of Medical Research (2019): *Aflatoxin risk in dairy production*](https://globaljournals.org/GJMR_Volume19/3-Aflatoxin-Risk-in-Dairy-Production.pdf)
 #### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
+#### [Heineken (2025) 3rd Quarter Results—Dolf van den Brink, CEO](assets/pdf/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
+#### [Heineken (2025): 3rd Quarter Results—Bram Westenbrink, CCO](assets/pdf/heineken-cme-2025-growth-bram-westenbrink.pdf)  
 #### [Heineken Beverages (2019): *Investment community trade visit*](https://www.distell.co.za/Knowledge/pkViewDocument.aspx?docid=1230)
 #### [Heineken Beverages (2016): *Results presentation 2016*](https://www.distell.co.za/knowledge/pkdownloaddocument.aspx?docid=1151)
 #### [IGI Global (publisher) (2020): *Multiple scenarios-based impact analysis of predicted land-use change on ecosystem services value*](https://www.igi-global.com/chapter/multiple-scenarios-based-impact-analysis-of-predicted-land-use-change-on-ecosystem-services-value/257935)
