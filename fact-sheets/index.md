@@ -1,5 +1,5 @@
 ---
-title: "TelluBase Fact Sheets —  Public Services Free Documents"
+title: "TelluBase Fact Sheets —  Public services free documents with extracts from TelluBase."
 image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 # TelluBase Fact Sheets
