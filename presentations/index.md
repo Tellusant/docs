@@ -1,5 +1,5 @@
 ---
-title: "Presentations — Public speeches, lectures and other presentations in slide format"
+title: "Presentations — Public speeches, lectures and other presentations in slide format."
 image: /assets/social-card.png
 ---
 # Presentations
