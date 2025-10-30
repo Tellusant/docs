@@ -2,6 +2,8 @@
 
 News Provided By Tellusant, Inc. October 16, 2024, 12:45 GMT  
 
+[Originally published on EIN Presswire](https://www.einpresswire.com/article/751002369/tellusant-inc-welcomes-daniel-amaro-garcia-as-commercial-director-mexico)  
+
 ---
 
 BOSTON, MA, UNITED STATES, October 16, 2024 /EINPresswire.com/ --  
