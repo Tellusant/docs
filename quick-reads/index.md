@@ -1,3 +1,7 @@
+---
+title: "Tellusant Quick Reads —  Two-pagers on important management topics relating to our expertise"
+image: https://tellusant.github.io/docs/assets/social-card.png
+---
 # Tellusant Quick Reads  
 
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
