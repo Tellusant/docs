@@ -1,8 +1,6 @@
 # Press Releases
 Read our press releases about the latest significant events at Tellusant
 
-[Originally published om EIN Presswire](https://www.einpresswire.com/article/759701717/tellusant-inc-releases-semi-annual-data-update-of-its-tellubase-product)
-
 ---
 #### [2025-07-08 TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update](tellubase-new-features-semi-annual-update.md)  
 #### [2025-05-08 PoluSim Adds Stratboard to Its Capabilities](tellusant-stratboard-press-release.md)  
