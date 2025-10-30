@@ -2,7 +2,7 @@
 
 News Provided By Tellusant, Inc. September 24, 2024, 15:35 GMT  
 
-[Originally published on EIN PressWire](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)
+[Originally published on EIN Presswire](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)
 
 ---
 BOSTON, MA, UNITED STATES, September 24, 2024 /EINPresswire.com/ --  
