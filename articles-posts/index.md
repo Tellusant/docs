@@ -1,3 +1,7 @@
+---
+title: "Articles & Posts —  This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere"
+image: https://tellusant.github.io/docs/assets/social-card.png
+---
 # Articles & Posts
 This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
 
