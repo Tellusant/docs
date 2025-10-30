@@ -2,6 +2,8 @@
 
 News Provided By Tellusant, Inc. May 08, 2025, 13:00 GMT  
 
+[Originally published on EIN Presswire](https://www.einpresswire.com/article/774806264/polusim-adds-stratboardiq-to-its-capabilities)
+
 ---
 
 *PoluSim, Tellusant's strategic forecasting solution, now has the capability to automatically generate PowerPoint slides from its web interface.*
