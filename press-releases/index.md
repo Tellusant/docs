@@ -1,3 +1,7 @@
+---
+title: "Press Releases —  Read our press releases about the latest significant events at Tellusant"
+image: https://tellusant.github.io/docs/assets/social-card.png
+---
 # Press Releases
 Read our press releases about the latest significant events at Tellusant
 
