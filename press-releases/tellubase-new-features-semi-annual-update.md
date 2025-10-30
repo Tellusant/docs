@@ -2,6 +2,8 @@
 
 News Provided By Tellusant, Inc. July 08, 2025, 12:00 GMT
 
+[Originally published om EIN Newswire](https://www.einpresswire.com/article/826246184/tellubase-launches-new-features-and-adds-latest-global-data-in-semi-annual-update)
+
 ---
 *TelluBase is the subnational income distribution database from Tellusant, covering 218 countries, 2600 cities, and 2500 subdivisions 2000–2050.*  
 
