@@ -1,5 +1,5 @@
 ---
-title: "Scientific Papers et Plus —  This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation."
+title: "Scientific Papers et Plus —  Academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation."
 image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 
