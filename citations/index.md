@@ -41,7 +41,7 @@ Alphabetically listed by authority.
 #### [Centre for Affordable Housing Finance in Africa (2021): *2021 Yearbook*](https://www.auhf.co.za/wp-content/uploads/2022/03/2021_CAHF-yearbook-final-compressed.pdf)
 #### [Centre for Affordable Housing Finance Africa (2018): *East Africa 2018 infographic*](https://housingfinanceafrica.org/app/uploads/East-Africa-2018-infographic-final.pdf)
 #### [Centre for Affordable Housing Finance in Africa (2016): *Mortgage and Housing Affordability Calculator in Africa*](https://housingfinanceafrica.org/documents/calculating-mortgage-and-housing-affordability-in-africa/)
-#### [Chicago, University of (2025): *Path Dependence Through Structural Constraints*]()(assets/pdf/uchicago-path-dependence.pdf) (I)
+#### [Chicago, University of (2025): *Path Dependence Through Structural Constraints*](assets/pdf/uchicago-path-dependence.pdf) (I)
 #### [China Integrated (2012): *Growing Opportunities in an Exploding Consumer Market*](https://www.ch-ina.com/wp-content/uploads/2012/09/24-9-2012.pdf)
 #### [Confederation on Indian Industry / Tata (2018): *Joining hands to unlock Africa’s Potential*](https://afdb-org.jp/wp-content/uploads/2018/08/JABF2014_Ms.Janaki_Mr.Kuppuswamy.pdf)
 #### [Constellation Brands (2025): FY25 Financial Results](assets/pdf/constellation-brands-fy25-financial-results.pdf)
