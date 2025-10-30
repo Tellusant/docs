@@ -22,7 +22,7 @@ Alphabetically listed by authority.
 #### [AIG (2013): *AIG in Africa*](assets/pdf/aig_africa.pdf) (I)  
 #### [Airbnb (2017): *Women hosts and Airbnb: Building a global community*](https://www.airbnbcitizen.com/wp-content/uploads/2017/03/Women-Hosts-and-Airbnb_Building-a-Global-Community.pdf)
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
-#### [Applied Business and Economics, Journal of (2024): Scaling Up Performance: The Impact of Economies of Scale in the Sportswear Industry](https://articlegateway.com/index.php/JABE/article/view/7148/6743)
+#### [Applied Business and Economics, Journal of (2024): *Scaling Up Performance: The Impact of Economies of Scale in the Sportswear Industry*](https://articlegateway.com/index.php/JABE/article/view/7148/6743)
 #### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf) (I)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf) (I)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf) (I)
