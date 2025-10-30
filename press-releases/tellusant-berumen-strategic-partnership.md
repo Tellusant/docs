@@ -2,6 +2,8 @@
 
 News Provided By Tellusant, Inc. September 24, 2024, 15:35 GMT  
 
+[Originally published on EIN PressWire](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)
+
 ---
 BOSTON, MA, UNITED STATES, September 24, 2024 /EINPresswire.com/ --  
 Tellusant, Inc. and Berumen y Asociados, S.A. de C.V. have entered a strategic partnership as of September 2024. The purpose is to expand service line offerings, co-develop our client base in Mexico and beyond, and to build joint intellectual capital.  
