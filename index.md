@@ -24,11 +24,11 @@ Our videos cover our company and products, trade visits, travel experiences, and
 We create an immense amount of maps on various topics. See some of them in glorious SVG.
 #### [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
-#### [Beige Book Analysis](beige/index.md)
-See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
-#### [U.S. E-Commerce Development](ecom/index.md)  
-View our quarterly analysis of trends in U.S. e-commerce relative yto total retail. Based on quarterly FRED data.
 #### [Fact Sheets](fact-sheets/index.md)  
 We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.
 #### [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
+#### [Beige Book Analysis](beige/index.md)
+See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
+#### [U.S. E-Commerce Development](ecom/index.md)  
+View our quarterly analysis of trends in U.S. e-commerce relative yto total retail. Based on quarterly FRED data.
