@@ -69,6 +69,7 @@ Alphabetically listed by authority.
 #### [Indonesian Embassy in Argentina (2019): *Indonesia - Un mercado de oportunidades*](https://equilibriumglobal.com/wp-content/uploads/2019/05/Presentacion-Indonesia.pdf)
 #### [IndoPremier (2014): *Equity research: Unilever Indonesia*](https://www.indopremier.com/ipotnews/download_recomendation.php?type=stock_notes&dataid=339)
 #### [INSEAD (2014): *New Market Exploration in Nigeria*](https://www.insead.edu/sites/default/files/assets/dept/centres/gpei/docs/insead-student-new-market-exploration-in-nigeria-oct-2014.pdf)
+#### [International Economics, Journal of (2024): *All Aboard: The Effects of Port Development*](https://www.sciencedirect.com/science/article/pii/S0022199624000904)  
 #### [International Journal of Health Sciences and Research (2020): *The prevalence of natural mixed infection of T. congolense and T. vivax in cattle*](https://www.ijhsr.org/IJHSR_Vol.10_Issue.11_Nov2020/8.pdf)
 #### [International Journal of Scientific & Technology Research (2013): *The Quality of Mass Transit Service in Abuja, Nigeria: An Analysis Of Customers Opinions*](https://www.researchgate.net/publication/318859389_The_Quality_Of_Mass_Transit_Service_In_Abuja_Nigeria_An_Analysis_Of_Customers_Opinions)
 Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists should look beyond Buhari*
