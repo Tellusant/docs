@@ -131,6 +131,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Newsweek (2020): *Black China: Africa's First Superpower Is Coming Sooner Than You Think*](https://www.newsweek.com/2020/01/31/nigeria-next-superpower-1481949.html)
 #### [Nielsen (2010): *The future of retailer brands*](assets/pdf/nielsen_retailer_brands.pdf) (I)  
 #### [Nigerian Agricultural Policy Research Journal  (2019): *Assessment of the perceptions of farmers on the performance of Fadama III activities in Niger delta area of Nigeria*](https://ageconsearch.umn.edu/record/314133/?ln=en)
+#### [NordicLight / Swedish Chamber of Commerce Brazil (2020): The World Economy in 2020: A Nowcast](https://www.swedcham.com.br/publico/nordic-light/Nordic-Light-Jan2020-Jun2020.pdf)
 O País (2014): *The African middle class is expanding*
 #### [Open Journal of Bioscience Research (2020): *Prevalence of bacterial pathogens associated with wound infections from diabetic out-patients at Plateau Specialist Hospital, Jos, Nigeria*](https://www.openjournalsnigeria.org.ng/journals/index.php/ojbr/article/view/143)
 #### [Oregon State University (2018): *Assessing community preferences for healthcare priority setting in Taiwan*](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/w95055351)
