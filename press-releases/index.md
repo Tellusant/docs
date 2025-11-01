@@ -1,5 +1,6 @@
 ---
 title: "Press Releases —  Read our press releases about the latest significant events at Tellusant"
+description: "Our press releases are aimed at media outlets but may be of general interest."
 image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 # Press Releases
