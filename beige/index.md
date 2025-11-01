@@ -1,5 +1,6 @@
 ---
 title: "Our Analysis of the Federal Reserve's Beige Book - October 15, 2025 Report"
+description: "The Beige Book covers current economic activity. It is published sesqui-monthly."
 image: https://tellusant.github.io/docs/assets/social-card-beige.png
 ---
 # Federal Reserve Beige Book Analysis
