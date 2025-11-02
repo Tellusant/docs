@@ -61,7 +61,7 @@ Alphabetically listed by authority.
 #### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
 #### [Heineken (2025) 3rd Quarter Results—Dolf van den Brink, CEO](assets/pdf/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
 #### [Heineken (2025): 3rd Quarter Results—Bram Westenbrink, CCO](assets/pdf/heineken-cme-2025-growth-bram-westenbrink.pdf)  
-#### b [Heineken Beverages (2019): *Investment community trade visit*](https://www.distell.co.za/Knowledge/pkViewDocument.aspx?docid=1230)
+#### [Heineken Beverages (2019): *Investment community trade visit*](assets/pdf/heineken-beverages-distell-investment-community-trade-visit.pdf)  
 #### [Heineken Beverages (2016): *Results presentation 2016*](assets/pdf/heineken-beverages-distell-results-presentation-2016.pdf)
 #### [IGI Global (publisher) (2020): *Multiple scenarios-based impact analysis of predicted land-use change on ecosystem services value*](https://www.igi-global.com/chapter/multiple-scenarios-based-impact-analysis-of-predicted-land-use-change-on-ecosystem-services-value/257935)
 #### [Imperial (2014): *Interim results presentation*](assets/pdf/imperial_interim_results_2014.pdf)  
