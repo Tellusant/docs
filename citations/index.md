@@ -15,8 +15,8 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 ---
 Alphabetically listed by authority.  
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
-#### b [AB InBev (2015): *Quarterly divisional seminar series—Africa*](http://sabmiller.com/docs/default-source/investor-documents/divisional-seminars/2015/quarterly-divisional-seminar-sabmiller-africa-presentation-2015.pdf)
-#### b [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](http://www.sabmiller.com/docs/default-source/investor-documents/presentations/2013/quarterly-divisional-seminar-asia-pacific-2013.pdf?sfvrsn=2)
+#### b [AB InBev (2015): *Quarterly divisional seminar series—Africa*](assets/pdf/ab-inbev-sabmiller-africa-2015.pdf)
+#### b [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](assets/pdf/ab-inbev-sabmiller-asia-pacific-2013.pdf)
 #### [AB InBev (2014): *Quarterly divisional seminar series—South Africa*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/divisional-seminars/quarterly-divisional-seminar-south-africa-2014.pdf)
 #### [Accenture (2013): *Consumer Goods in Africa and Nigeria*](http://www.slideshare.net/accenture/consumer-goods-in-africa-and-nigeria)
 #### [Ahmadu Bello University (2014): *The imperative of sand dune stabilization in semi arid zone*](https://physicalsciences.abu.edu.ng/department/geography/public/journal/2014/files/12.pdf)
