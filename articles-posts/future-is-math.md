@@ -1,3 +1,9 @@
+---
+title: "The Future of Companies Is Math"
+description: "The future of companies is math. They should have Chief Math Officers (CμO) who cover all aspects of math, not only AI. Yet few CEOs outside tech now anything about math."
+image: /assets/social-card-pub.png
+---
+
 # The Future of Companies Is Math
 *Dr. Staffan Canback, Tellusant*
 
