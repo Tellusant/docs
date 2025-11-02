@@ -1,3 +1,9 @@
+---
+title: "Clients Pre-Tellusant"
+description: "This list shows the depth and breadth of our experiences, usually at the CEO level. Current Tellusant clients not shown to preserve confidentiality."
+image: /assets/social-card-pub.png
+---
+
 # Clients Pre-Tellusant
 This list shows the depth and breadth of our experiences, usually at the CEO level. Current Tellusant clients not shown to preserve confidentiality.
 
