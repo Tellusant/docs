@@ -141,7 +141,7 @@ O País (2014): *The African middle class is expanding*
 #### [Osaka University (2019): *Study of emission control for passenger car in Indonesia*](https://ir.library.osaka-u.ac.jp/repo/ouka/all/72412/30409_Dissertation.pdf)
 #### [Partnership for New York City (2013): *NYC jobs blueprint*](http://www.pfnyc.org/reports/2013-blueprint-web.pdf)
 #### [Pioneer Foods (2013): *Annual results presentation*](assets/pdf/pioneerfoods_annual_report_2013.pdf)  
-#### [Portugal Telecom (2012): *Consolidated annual report*](assets/pdf/portugal-telecom-annual-report-2012.pdf)
+#### [Portugal Telecom (2012): *Consolidated annual report*](https://cdn-sites-assets.mziq.com/wp-content/uploads/sites/39/2017/12/PT_RA2012_port.pdf)
 #### [Proceedings of 6th NSCB Biodiversity Conference (2018): *Survey of wood carving activities in selected local government areas*](https://nscbconf2018.files.wordpress.com/2018/05/48_71-nscb-2018b.pdf)
 #### [Putnam Investments (2022): *Inflation is fueling opportunities in emerging markets*](https://www.putnam.com/newsroom/post/marketOutlooks/1216-inflation-is-fueling-opportunities-in-emerging-markets-2/)
 #### [PwC (2015): *Building better cities*](https://preview.thenewsmarket.com/Previews/PWC/DocumentAssets/409309.pdf)
