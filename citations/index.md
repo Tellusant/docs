@@ -79,8 +79,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](assets/pdf/italia_bruno_ssa.pdf)
 IUHF (2019): *Realising affordability in global housing markets*  
-
-Jersey Telecom (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*  
+#### [Jersey Telecom (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](https://statesassembly.je/getmedia/38352765-d92a-4bc1-806e-f11ef95e38a2/Report%20-%20Economic%20Affairs%20Panel-Jersey%20Telecom%20Privatisation%20-%2006%20March%202007.aspx?ext=.pdf)
 #### [Journal of Veterinary Science (2012): *Fasciolosis in slaughtered cattle from abattoirs in Ondo state, Nigeria*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&cad=rja&uact=8&ved=0CCUQFjACOBQ&url=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAbdul_matin_Qasim2%2Fpublication%2F242346876_Fasciolosis_in_slaughtered_cattle_from_abattoirs_in_Ondo_State_Nigeria%2Flinks%2F00b7d51cd995669af7000000.pdf&ei=4iwkVeKiJbXPsQSs-IHYCQ&usg=AFQjCNFX6lhXheW3JO8nXAGe0aqgRwtM0A)
 #### [Lagos State Government (2018): *Affordable housing deal book*](https://lagossdgandinvestment.com/Lagos-Global-Housing-Deal-Book-optimized.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
