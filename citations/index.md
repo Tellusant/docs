@@ -49,7 +49,7 @@ Alphabetically listed by authority.
 #### [CSIL Market Research (2020): *The European market for lighting fixtures*](https://www.lighting.csilmilano.com/fixtures/Lighting-market-Europe-30-countries-2020-0001280.html)
 #### [Daily Trust (2016): *Nigeria: Enugu Free Trade Zone to Attract N240 Billion Investment*](https://allafrica.com/stories/201611210941.html)
 #### [Diageo (2013): *Entering the African Beer Market: Uncovering the Strategies to Enable Success*](assets/pdf/diageo_africa.pdf)  
-#### b [Ecobank (2014): *Presentation to 38th General Assembly of FANAF Ouagadougou*](https://docplayer.net/9998961-Presentation-to-38th-general-assembly-of-fanaf-ouagadougou-17-21-february-2014-thierry-tanoh-group-ceo.html)
+#### [Ecobank (2014): *Presentation to 38th General Assembly of FANAF Ouagadougou*](assets/pdf/ecobank-38th-general-assembly-fanaf.pdf)
 #### [Economics & Sociology (2017): *Constructing poverty lines in Croatia using Kakwani’s model*](https://typeset.io/pdf/constructing-poverty-lines-in-croatia-using-kakwani-s-model-7po3aycsfh.pdf)
 #### [Environment & Urbanization (2020): *Can people on low incomes access affordable housing loans in urban Africa and Asia?*](https://reall.net/wp-content/uploads/2020/10/Jones-Stead-EU-Low-Income-Housing-Finance.pdf)
 #### [E-Trade (2015): *Opening the Wallets of 2.8 Billion People*](http://imgstock.naver.com/upload/research/invest/1421020253517.pdf)
