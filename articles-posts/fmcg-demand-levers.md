@@ -1,9 +1,15 @@
-# FMCG Demand Levers
+---
+title: "FMCG Demand Leversr"
+description: "We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used? Yes."
+image: /assets/social-card-pub.png
+---
+
+# Fast-Moving Consumer Goods Demand Levers
 
 *Dr. Staffan Canback*
 
 ---
-We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used?  
+We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used? Yes.  
 
 The graph summarizes the seven levers that always apply. Most readers will recognize them; the framework just creates a coherent whole.  
 
