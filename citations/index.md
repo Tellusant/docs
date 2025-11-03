@@ -103,7 +103,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2013): *Myanmar’s moment—Unique opportunities, major challenges*](http://www.slideshare.net/noumfone/mgi-myanmar-fullreportjune2013-23290019)
 #### [McKinsey (2014): *Nigeria’s renewal—Delivering inclusive growth in Africa’s largest economy*](http://www.mckinsey.com/global-themes/middle-east-and-africa/nigerias-renewal-delivering-inclusive-growth)
 #### [McKinsey (2014): *Offline and falling behind: Barriers to Internet adoption*](http://www.mckinsey.com/~/media/McKinsey/dotcom/client_service/High%20%Tech/PDFs/Offline_and_falling_behind_Barriers_to_Internet_adoption.ashx)
-#### [McKinsey (2013): *On-demand marketing: Engaging consumers with just the right touch*](https://weblogibc-co.com/wp-content/uploads/2017/11/2013-2-On-demand-marketing.pdf)
+#### [McKinsey (2013): *On-demand marketing: Engaging consumers with just the right touch*](assets/pdf/mckinsey-on-demand-marketing.pdf)
 #### [McKinsey (2014): *Perspective on the Africa route-to-market challenge*](assets/pdf/mckinsey_africa_rtm.pdf)
 #### [McKinsey (2018): *Perspectives on retail and consumer goods*](https://www.mckinsey.com/~/media/McKinsey/Industries/Retail/Our%20%Insights/Perspectives%20%on%20%retail%20%and%20%consumer%20%goods%20%Number%20%6/Perspectives-on-Retail-and-Consumer-Goods-Issue-6.ashx)
 #### [McKinsey (2018): *Roaring to life: Growth and innovation in African retail banking*](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20%services/our%20%insights/african%20%retail%20%bankings%20%next%20%growth%20%frontier/roaring-to-life-growth-and-innovation-in-african-retail-banking-web-final.ashx)
