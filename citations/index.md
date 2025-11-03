@@ -111,7 +111,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2012): *The rise of the African consumer*](https://www.adlevocapital.com/images/rise_of_african_consumer.pdf)
 #### [McKinsey (2011): *Understanding Africa’s growth acceleration and business opportunities*](https://fataj.hu/archiv/2011/07/054/Africa_Lions-on-the-Move.pdf)
 #### [McKinsey (2013): *Understanding the diversity of Indonesia’s consumers*](https://www.mckinsey.com/~/media/McKinsey/Featured%20%Insights/Asia%20%Pacific/Understanding%20%the%20%diversity%20%of%20%Indonesias%20%consumers/Understanding%20%the%20%diversity%20%of%20%Indonesias%20%consumers.pdf)
-#### [McKinsey (2015): *Understanding the diversity of Indonesia's consumers*](https://www.mckinsey.com/~/media/McKinsey/Featured%20%Insights/Asia%20%Pacific/Understanding%20%the%20%diversity%20%of%20%Indonesias%20%consumers/Understanding%20%the%20%diversity%20%of%20%Indonesias%20%consumers.pdf)
+#### [McKinsey (2015): *Understanding the diversity of Indonesia's consumers*](assets/pdf/mckinsey-understanding-the-indonesian-consumer.pdf)
 #### [McKinsey (2013): *Upward mobility—The future of China’s premium car market*](http://www.mckinseychina.com/wp-content/uploads/2013/04/McKinsey-China-Future-of-Chinas-Premium-Car-Market.pdf)
 #### [McKinsey (2012): *Urban World: Cities and the rise of the consuming class*](https://www.mckinsey.com/~/media/mckinsey/business%20%functions/operations/our%20%insights/urban%20%world%20%cities%20%and%20%the%20%rise%20%of%20%the%20%consuming%20%class/mgi_urban_world_rise_of_the_consuming_class_full_report.pdf)
 #### [McKinsey (2011): *Urban World: Mapping the economic power of cities*](https://mondohonline.files.wordpress.com/2011/08/mgi_urban_world_full_report.pdf)
