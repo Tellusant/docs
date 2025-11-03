@@ -82,7 +82,7 @@ IUHF (2019): *Realising affordability in global housing markets*
 #### [Journal of Veterinary Science (2012): *Fasciolosis in slaughtered cattle from abattoirs in Ondo state, Nigeria*](https://www.researchgate.net/profile/Abdul-Matin-Qasim/publication/242346876_Fasciolosis_in_slaughtered_cattle_from_abattoirs_in_Ondo_State_Nigeria/links/00b7d51cd995669af7000000/Fasciolosis-in-slaughtered-cattle-from-abattoirs-in-Ondo-State-Nigeria.pdf)
 #### [Lagos State Government (2018): *Affordable housing deal book*](assets/pdf/lagos-state-global-housing-deal-book.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
-#### [LEEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](http://remed.org/wp-content/uploads/2016/10/Marche-pharmaceutique-en-Afrique-Subsaharienne-LEEM.pdf)
+#### [LEEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](assets/pdf/leem-marche-pharmaceutique-en-afrique-subsaharienne.pdf)
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty_analyst_day_2013.pdf)
 #### [MasterCard (2013): *African cities growth index 2013*](https://www.researchgate.net/publication/260185819_MasterCard_African_Cities_Growth_Index_2013)
 #### [MasterCard (2014): *Mapping the path to future prosperity—Emerging markets inclusive growth index*](assets/pdf/mastercard_prosperity.pdf)
