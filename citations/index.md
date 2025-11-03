@@ -107,7 +107,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2014): *Perspective on the Africa route-to-market challenge*](assets/pdf/mckinsey_africa_rtm.pdf)
 #### [McKinsey (2018): *Roaring to life: Growth and innovation in African retail banking*](assets/pdf/mckinsey-roaring-to-life.pdf)
 #### [McKinsey (2014): *Southeast Asia at the crossroads: Three paths to prosperity (2014)*](https://www.mckinsey.com/~/media/McKinsey/Featured%20%Insights/Asia%20%Pacific/Three%20%paths%20%to%20%sustained%20%economic%20%growth%20%in%20%Southeast%20%Asia/MGI%20%SE%20%Asia_Executive%20%summary_November%20%2014.pdf)
-#### [McKinsey (2012): *The archipelago economy—Unleashing Indonesia’s potential*](https://www.mckinsey.com/~/media/mckinsey/featured%20%insights/asia%20%pacific/the%20%archipelago%20%economy/mgi_unleashing_indonesia_potential_executive_summary.ashx)
+#### [McKinsey (2012): *The archipelago economy—Unleashing Indonesia’s potential*](assets/pdf/mckinsey-the-archipelago-economy-unleashing-indonesia%E2%80%99s-potential.pdf)
 #### [McKinsey (2012): *The rise of the African consumer*](https://www.adlevocapital.com/images/rise_of_african_consumer.pdf)
 #### [McKinsey (2011): *Understanding Africa’s growth acceleration and business opportunities*](https://fataj.hu/archiv/2011/07/054/Africa_Lions-on-the-Move.pdf)
 #### [McKinsey (2013): *Understanding the diversity of Indonesia’s consumers*](https://www.mckinsey.com/~/media/McKinsey/Featured%20%Insights/Asia%20%Pacific/Understanding%20%the%20%diversity%20%of%20%Indonesias%20%consumers/Understanding%20%the%20%diversity%20%of%20%Indonesias%20%consumers.pdf)
