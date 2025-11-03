@@ -1,7 +1,7 @@
 ---
 title: "Articles & Posts —  This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere"
 description: "Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity."
-image: https://tellusant.github.io/docs/assets/social-card.png
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # Articles & Posts
 This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
