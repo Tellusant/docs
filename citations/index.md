@@ -114,7 +114,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2015): *Understanding Indonesia's consumers*](assets/pdf/mckinsey-understanding-the-indonesian-consumer.pdf)
 #### [McKinsey (2013): *Upward mobility—The future of China’s premium car market*](assets/pdf/mckinsey-upward-mobility-the-future-of-china’s-premium-car-market.pdf)
 
-#### [McKinsey (2012): *Urban World: Cities and the rise of the consuming class*](https://www.mckinsey.com/~/media/mckinsey/business%20%functions/operations/our%20%insights/urban%20%world%20%cities%20%and%20%the%20%rise%20%of%20%the%20%consuming%20%class/mgi_urban_world_rise_of_the_consuming_class_full_report.pdf)
+#### [McKinsey (2012): *Urban World: Cities and the rise of the consuming class*](assets/pdf/mckinsey-urban-world-cities-and-the-rise-of-the-consuming-class.pdf)
 #### [McKinsey (2011): *Urban World: Mapping the economic power of cities*](https://mondohonline.files.wordpress.com/2011/08/mgi_urban_world_full_report.pdf)
 #### [McKinsey (2016): *Urban World: The global consumers to watch*](https://www.mckinsey.com/featured-insights/urbanization/urban-world-the-global-consumers-to-watch)
 #### [McKinsey (2015): *Winning in Africa’s consumer market*](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/winning-in-africas-consumer-market)
