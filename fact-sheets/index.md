@@ -1,7 +1,7 @@
 ---
 title: "TelluBase Fact Sheets —  Public services free documents with extracts from TelluBase."
 description: "We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product. The following countries are currently covered."
-image: https://tellusant.github.io/docs/assets/social-card.png
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # TelluBase Fact Sheets
 We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.  The following countries are currently covered.  
