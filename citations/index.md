@@ -122,7 +122,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Michael Okpara University of Agriculture (2013):*The effect of micro enterprise financing on farmers welfare in Abia state, Nigeria*](https://www.ajol.info/index.php/naj/article/view/90559)
 #### [MIRA / CI Banco (2016): *Oferta pública restringida de certificados bursátiles*](assets/pdf/mira-cibanco-prospecto_de_colocacion.pdf)
 #### [Morgan Stanley (2017): *Inclusive growth opportunities index 2017*](https://www.morganstanley.com/content/dam/msdotcom/ideas/eiu-inclusive-growth-infographic/1799419_EIU_MS_InclusiveGrowth_20170518_Final.pdf)
-#### [Munich Advisors Group (2014): *Doing Business in Zambia*](https://docplayer.net/30007429-Workshop-doing-business-in-zambia.html)
+#### [Munich Advisors Group (2014): *Doing Business in Zambia*](assets/pdf/munich-advisors-group-workshop-doing-business-in-zambia.pdf)
 #### [National Geographic (2019): *Atlas of the World*](https://www.natgeomaps.com/bk-atlas-of-the-world-11th-edition)
 #### [National Geographic (2013): *The war for Nigeria*](assets/pdf/natgeo_nigeria.pdf)
 #### [NBER (2023): *All aboard: The aggregate effects of port development*](https://www.nber.org/papers/w28148)
