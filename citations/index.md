@@ -80,7 +80,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](assets/pdf/italia_bruno_ssa.pdf)
 IUHF (2019): *Realising affordability in global housing markets*  
 #### [Journal of Veterinary Science (2012): *Fasciolosis in slaughtered cattle from abattoirs in Ondo state, Nigeria*](https://www.researchgate.net/profile/Abdul-Matin-Qasim/publication/242346876_Fasciolosis_in_slaughtered_cattle_from_abattoirs_in_Ondo_State_Nigeria/links/00b7d51cd995669af7000000/Fasciolosis-in-slaughtered-cattle-from-abattoirs-in-Ondo-State-Nigeria.pdf)
-#### [Lagos State Government (2018): *Affordable housing deal book*](https://lagossdgandinvestment.com/Lagos-Global-Housing-Deal-Book-optimized.pdf)
+#### [Lagos State Government (2018): *Affordable housing deal book*](assets/pdf/lagos-state-global-housing-deal-book.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
 #### [LEEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](http://remed.org/wp-content/uploads/2016/10/Marche-pharmaceutique-en-Afrique-Subsaharienne-LEEM.pdf)
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty_analyst_day_2013.pdf)
