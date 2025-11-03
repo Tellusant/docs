@@ -1,7 +1,7 @@
 ---
 title: "Scientific Papers et Plus —  Academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation."
 description: "Tellusant is based on science. We publish rigorous, peer-reviewed academic papers"
-image: https://tellusant.github.io/docs/assets/social-card.png
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 
 # Scientific Papers et Plus
