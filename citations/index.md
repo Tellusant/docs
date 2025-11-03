@@ -68,7 +68,8 @@ Alphabetically listed by authority.
 #### [IMS Health (2014): *Africa: A ripe opportunity - Understanding the pharmaceutical market opportunity and developing sustainable business models in Africa*](http://www.fullertreacymoney.com/system/data/files/PDFs/2014/April/29th/IMS_Africa_Opportunity_Whitepaper.pdf)
 #### [India Perspectives Magazine (2014): *India Aspires to Build Future Africa*](assets/pdf/ipm_africa.pdf)
 #### [Indonesian Embassy in Argentina (2019): *Indonesia - Un mercado de oportunidades*](https://equilibriumglobal.com/wp-content/uploads/2019/05/Presentacion-Indonesia.pdf)
-#### [IndoPremier (2014): *Equity research: Unilever Indonesia*](https://www.indopremier.com/ipotnews/download_recomendation.php?type=stock_notes&dataid=339)
+#### [IndoPremier (2014): *Equity research: Unilever Indonesia*](assets/pdf/indopremier-unilever-initiating-coverage.pdf
+)
 #### [INSEAD (2014): *New Market Exploration in Nigeria*](https://www.insead.edu/sites/default/files/assets/dept/centres/gpei/docs/insead-student-new-market-exploration-in-nigeria-oct-2014.pdf)
 #### [International Economics, Journal of (2024): *All Aboard: The Effects of Port Development*](https://www.sciencedirect.com/science/article/pii/S0022199624000904)  
 #### [International Journal of Health Sciences and Research (2020): *The prevalence of natural mixed infection of T. congolense and T. vivax in cattle*](https://www.ijhsr.org/IJHSR_Vol.10_Issue.11_Nov2020/8.pdf)
