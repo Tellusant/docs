@@ -120,7 +120,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2015): *Winning in Africa’s consumer market*](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/winning-in-africas-consumer-market)
 #### [Mercy Corps (2015): *The economic costs of conflict and the benefits of peace*](https://www.mercycorps.org/sites/default/files/2019-11/Mercy%20Corps%20Nigeria%20Household%20Costs%20of%20Conflict%20Policy%20Brief%20July%202015.pdf)
 #### [Michael Okpara University of Agriculture (2013):*The effect of micro enterprise financing on farmers welfare in Abia state, Nigeria*](https://www.ajol.info/index.php/naj/article/view/90559)
-#### [MIRA / CI Banco (2016): *Oferta pública restringida de certificados bursátiles*](https://mira.mx/site/uploads/es/documents/general_documents/prospecto_de_colocacion.pdf)
+#### [MIRA / CI Banco (2016): *Oferta pública restringida de certificados bursátiles*](assets/pdf/mira-cibanco-prospecto_de_colocacion.pdf)
 #### [Morgan Stanley (2017): *Inclusive growth opportunities index 2017*](https://www.morganstanley.com/content/dam/msdotcom/ideas/eiu-inclusive-growth-infographic/1799419_EIU_MS_InclusiveGrowth_20170518_Final.pdf)
 #### [Munich Advisors Group (2014): *Doing Business in Zambia*](https://docplayer.net/30007429-Workshop-doing-business-in-zambia.html)
 #### [National Geographic (2019): *Atlas of the World*](https://www.natgeomaps.com/bk-atlas-of-the-world-11th-edition)
