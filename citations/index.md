@@ -126,7 +126,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [National Geographic (2019): *Atlas of the World*](https://www.natgeomaps.com/bk-atlas-of-the-world-11th-edition)
 #### [National Geographic (2013): *The war for Nigeria*](assets/pdf/natgeo_nigeria.pdf)
 #### [NedBank (2011): *Contextualizing the mass market banking opportunity*](assets/pdf/nedbank-contextualising-the-mass-market-banking-opportunity.pdf)
-#### [New Africa (2016): *The rising middle class – and yes it matters*](http://newafricanmagazine.com/11558-2/)
+New Africa (2016): *The rising middle class – and yes it matters* newafricanmagazine.com/11558-2/
 #### [New York State Metropolitan Transit Authority (2020):*Letter to Sen. Charles Schumer*](http://web.mit.edu/jeffrey/harris/NY_Delegation_Letter_041620_final_(1).pdf)
 #### [New York Times (2014): *Africans open fuller wallets to the future*](http://www.nytimes.com/2014/07/21/world/africa/economy-improves-as-middle-class-africans-open-wallets-to-the-future.html)
 #### [Newsweek (2020): *Black China: Africa's First Superpower Is Coming Sooner Than You Think*](https://www.newsweek.com/2020/01/31/nigeria-next-superpower-1481949.html)
@@ -136,7 +136,6 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Nova, Universidade (2023): *Designing a collaborative AutoML tool to help organizations become data-driven*](https://run.unl.pt/bitstream/10362/148721/1/TGI1403.pdf)
 O País (2014): *The African middle class is expanding*
 #### [Open Journal of Bioscience Research (2020): *Prevalence of bacterial pathogens associated with wound infections from diabetic out-patients at Plateau Specialist Hospital, Jos, Nigeria*](https://www.openjournalsnigeria.org.ng/journals/index.php/ojbr/article/view/143)
-#### [Oregon State University (2018): *Assessing community preferences for healthcare priority setting in Taiwan*](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/w95055351)
 #### [Osaka University (2019): *Study of emission control for passenger car in Indonesia*](https://ir.library.osaka-u.ac.jp/repo/ouka/all/72412/30409_Dissertation.pdf)
 #### [Partnership for New York City (2013): *NYC jobs blueprint*](http://www.pfnyc.org/reports/2013-blueprint-web.pdf)
 #### [Pioneer Foods (2013): *Annual results presentation*](assets/pdf/pioneerfoods_annual_report_2013.pdf)  
@@ -157,6 +156,7 @@ O País (2014): *The African middle class is expanding*
 #### [Sekretariat Jenderal Dewan Energi Nasional (2019): *Penguatan Riset Institut Teknologi*](https://itk.ac.id/wp-content/uploads/2019/06/Materi-1-Penguatan-Riset-ITK-Dr-Saleh.pdf)
 #### [Skift Research (2025): *State of Travel 2025*](https://www.rto9.ca/wp-content/uploads/2025/08/State-of-Travel-2025.pdf)  
 #### [Slate Afrique (2015): *Pourquoi les Africains sont soit très riches, soit très pauvres*](http://www.slateafrique.com/625551/afrique-revenu-par-habitant)
+#### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://pubmed.ncbi.nlm.nih.gov/36410140/#:~:text=Twenty%2Dseven%20participants%20completed%20a,implemented%20to%20maximize%20public%20acceptance.) (check)
 #### [Springer (publisher) (2014): *China 2.0: The rising middle class*](https://link.springer.com/chapter/10.1007/978-3-319-07677-5_7)
 #### [States of Jersey (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](https://statesassembly.je/getmedia/38352765-d92a-4bc1-806e-f11ef95e38a2/Report%20-%20Economic%20Affairs%20Panel-Jersey%20Telecom%20Privatisation%20-%2006%20March%202007.aspx?ext=.pdf)
 #### [Supply Chain Quarterly (2015): *Winning supply chain strategies for African markets*](http://www.supplychainquarterly.com/topics/Strategy/20150331-winning-supply-chain-strategies-for-african-markets/)
