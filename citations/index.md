@@ -147,7 +147,7 @@ O País (2014): *The African middle class is expanding*
 #### [PwC (2015): *Into Africa: The continent’s cities of opportunity*](https://www.pwc.com/gx/en/issues/strategy/emerging-markets/africa/assets/into-africa-report.pdf) (find)
 #### [PwC (2011): *Leveraging China and India for global competitiveness*](https://www.oreilly.com/library/view/the-quest-for/9780470194409/17_chapter09.html) (find)
 #### [Qualcomm (2014): *2014 New York analyst day*](https://docplayer.net/amp/46902861-2014-new-york-analyst-day.html)
-#### [Reall (2021): *Market shaping indicators*](https://www.fsdkenya.org/wp-content/uploads/2021/07/Reall-AH-Webinar-Presentation-June-2021.pdf)
+#### [Reall (2021): *Market shaping indicators*](assets/pdf/reall-market-shaping-indicators.pdf)
 #### [Research and Innovation in Social Science, International Journal of (2024): *Unveiling the Impact of Firm Characteristics on Integrated Reporting Practices*](https://rsisinternational.org/journals/ijriss/Digital-Library/volume-8-issue-9/3266-3276.pdf)
 #### [Royal Caribbean  (2017): *Global cruise market development trend and asia cruise market*](https://www.twport.com.tw/Upload/A/RelFile/CustomPage/3088/ab8b83c0-4ff8-4c8f-92aa-502506c6646c.pdf)
 #### [Royal Institute of Tecnology (KTH) (2017): *Ranking risks and opportunities of African cities*](http://www.diva-portal.se/smash/get/diva2:1118259/FULLTEXT01.pdf)
