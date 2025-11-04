@@ -153,7 +153,7 @@ O País (2014): *The African middle class is expanding*
 #### [Royal Institute of Tecnology (KTH) (2017): *Ranking risks and opportunities of African cities*](http://www.diva-portal.se/smash/get/diva2:1118259/FULLTEXT01.pdf)
 #### [RUAF (2024): *Dhaka City Food System Profile*](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 #### [Russian Science Foundation (2017): *Ethnic regional autonomies database (ERAD) Codebook*](http://identityworld.ru/maps_aera/database/ERAD_2.1_Codebook_2017_English.pdf)
-#### [Sekretariat Jenderal Dewan Energi Nasional (2019): *Penguatan Riset Institut Teknologi*](https://itk.ac.id/wp-content/uploads/2019/06/Materi-1-Penguatan-Riset-ITK-Dr-Saleh.pdf)
+#### [Dewan Energi Nasional, Sekretariat Jenderal (2019): *Penguatan Riset Institut Teknologi*](assets/pdf/dewan-energi-nasional-strengthening-research-at-the-kalimantan-institute-of-technology.pdf)
 #### [Skift Research (2025): *State of Travel 2025*](https://www.rto9.ca/wp-content/uploads/2025/08/State-of-Travel-2025.pdf)  
 #### [Slate Afrique (2015): *Pourquoi les Africains sont soit très riches, soit très pauvres*](http://www.slateafrique.com/625551/afrique-revenu-par-habitant)
 #### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://www.sciencedirect.com/science/article/pii/S0277953622007109)
