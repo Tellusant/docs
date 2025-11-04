@@ -1,6 +1,6 @@
 ---
 title: "Tellusant External Citations"
-description: "See how external authorities have cited Tellusant and its team members publicly over the years."
+description: "See how authorities have cited Tellusant and its team members publicly over the years."
 image: /assets/social-card-cite.png
 ---
 # External Citations
