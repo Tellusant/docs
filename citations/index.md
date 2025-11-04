@@ -171,7 +171,7 @@ O País (2014): *The African middle class is expanding*
 #### [Veterinary World (2011): *Bacterial and parasitic zoonoses encountered at slaughter in Maiduguri abattoir, northeastern Nigeria*](https://www.veterinaryworld.org/Vol.4/October%20-%202011/Bacterial%20and%20parasitic%20zoonoses%20encountered%20at%20slaughter%20in%20Maiduguri%20abattoir,%20Northeastern%20Nigeria.pdf)
 #### [World Bank / NPHCDA (2024): *Environmental and Social Management Plan for the 14 Participating States of IMPACT Project*](https://ead.gov.ng/wp-content/uploads/2024/06/ESMP-for-rehabilitation-of-PHCs_12_03_2024-.pdf)
 #### [World Bank (2010): *Doing business in Nigeria 2010*](https://openknowledge.worldbank.org/entities/publication/60948997-be2b-5809-ad3f-38e89a14c206)
-#### [World Bank (2019): *Guinea urban sector review*](https://documents1.worldbank.org/curated/zh/761191559149103957/pdf/Guinea-Urban-Sector-Review-Planning-Connecting-Financing-in-Conakry.pdf)
+#### [World Bank (2019): *Guinea urban sector review - Planning, connecting, financing in Conakry*](assets/pdf/world-bank-guinea-urban-sector-review-planning-connecting-financing-in-conakry.pdf)
 #### [World Bank (2013): *The shifting urban economic landscape: What does it mean*](https://documents1.worldbank.org/curated/en/850421468178735793/pdf/842550WP0Dobbs0Box0382136B00PUBLIC0.pdf)
 #### [World Journal of Pharmaceutical Research (2018): *Antifungal activities of seed extracts of mahogany on Carica papaya*](https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1531805465.pdf)
 XCom Africa (2013): *Food processing and packaging in Kenya - East Africa*
