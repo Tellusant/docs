@@ -161,7 +161,7 @@ O País (2014): *The African middle class is expanding*
 #### [States of Jersey (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](https://statesassembly.je/getmedia/38352765-d92a-4bc1-806e-f11ef95e38a2/Report%20-%20Economic%20Affairs%20Panel-Jersey%20Telecom%20Privatisation%20-%2006%20March%202007.aspx?ext=.pdf)
 #### [Supply Chain Quarterly (2015): *Winning supply chain strategies for African markets*](assets/pdf/supply-chain-quarterly-winning-supply-chain-strategies-for-african-markets.pdf)
 #### [Swiss Political Science Association (2016): *Survival of the fittest: Explaining the success of ethnic autonomy arrangements*](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12229)
-#### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45)
+#### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45) (find)
 #### [T.RowePrice (2012): *Africa & Middle East – The final investment frontier*](https://www.cipfa.org/-/media/fd3ec20a84f34fccb1f9469a602df9d8.pdf)
 #### [United Nations (2013): *Abuja +12: Shaping the future of health in Africa*](http://www.unaids.org/en/media/unaids/contentassets/documents/unaidspublication/2013/JC2524_Abuja_report_en.pdf)
 #### [United Nations (2020): *The South Africa investor map 2020*](https://www.undp.org/sites/g/files/zskgke326/files/migration/za/SDGP-Report-WIP-28_FINAL-FINAL.pdf)
