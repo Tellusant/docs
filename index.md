@@ -3,7 +3,7 @@ title: "Publications Repository"
 description: "This open access repository contains the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
-# Publications Repository
+## Publications Repository
 
 This open access repository contains the **complete** published works by Tellusant team members. It ranges from scientific papers to social media posts. Its purpose is to:  
 - Create open access and bypass gated sites like LinkedIn and Medium  
