@@ -38,7 +38,7 @@ Alphabetically listed by authority.
 #### [CARD International Journal of Medical Science and Applied Biosciences (2017): *Survey and control of tomato (Solanum lycopersicum L.) wilt caused by Fusarium oxysporum Schlecht*](https://casirmediapublishing.com/wp-content/uploads/2019/09/Pages-44-61.pdf)
 #### [CDP (2013): *Wealtier, healthier cities*](assets/pdf/cdp_cities.pdf)    
 #### [Center for Health and Humanitarian Systems (2019): *Optimizing the cost of vaccine deliveries*](https://hhl2019.chhs.gatech.edu/sites/default/files/cfp-file/20190705_HHL%20Presentation%202019_%20vF_0.pdf)
-#### [Central European University (2023): Framing the Environment in a Changing Political Landscape](asstets/pdf/ceu-framing-environment.pdf)
+#### [Central European University (2023): Framing the Environment in a Changing Political Landscape](assets/pdf/ceu-framing-environment.pdf)
 #### [Centre for Affordable Housing Finance in Africa (2021): *2021 Yearbook*](https://www.auhf.co.za/wp-content/uploads/2022/03/2021_CAHF-yearbook-final-compressed.pdf)
 #### [Centre for Affordable Housing Finance Africa (2018): *East Africa 2018 infographic*](assets/pdf/hfa-east-africa-2018-infographic.pdf)
 #### [Centre for Affordable Housing Finance in Africa (2016): *Mortgage and Housing Affordability Calculator in Africa*](https://housingfinanceafrica.org/documents/calculating-mortgage-and-housing-affordability-in-africa/)
