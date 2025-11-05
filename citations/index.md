@@ -163,7 +163,7 @@ O País (2014): *The African middle class is expanding*
 #### [Swiss Political Science Association (2016): *Survival of the fittest: Explaining the success of ethnic autonomy arrangements*](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12229)
 #### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45) (find)
 #### [T.RowePrice (2012): *Africa & Middle East – The final investment frontier*](assets/pdf/t.roweprice-africa-&-middle-east-the-final-investment-frontier.pdf)
-#### [United Nations (2013): *Abuja +12: Shaping the future of health in Africa*](http://www.unaids.org/en/media/unaids/contentassets/documents/unaidspublication/2013/JC2524_Abuja_report_en.pdf)
+#### [United Nations (2013): *Abuja +12: Shaping the future of health in Africa*](assets/pdf/united-nations-abuja+12-shaping-the-future-of-health-in-africa.pdf)
 #### [United Nations (2020): *The South Africa investor map 2020*](https://www.undp.org/sites/g/files/zskgke326/files/migration/za/SDGP-Report-WIP-28_FINAL-FINAL.pdf)
 #### [University of Massachusetts (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
 #### [Research in National Development, Journal of (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria*](https://www.ajol.info/index.php/jorind/article/view/91712)
