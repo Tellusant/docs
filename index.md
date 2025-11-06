@@ -19,8 +19,8 @@ This is the main purpose of the site. We have hundreds of LinkedIn and Medium ar
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 #### [Scientific Papers et Plus](papers/index.md)  
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
-#### [Presentions by Tellusant Members](presentations/index.md)  
-Public speeches, lectures and other presentations in slide format.
+#### [Presentions](presentations/index.md)  
+Public speeches, lectures and other presentations in slide format by Tellusant members.
 #### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 #### [Maps](maps/index.md)
