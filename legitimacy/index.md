@@ -111,12 +111,15 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 ---
 ##### [See a pre-Tellusant client list](clients-pre-tellusant.md)  
 
+##### [See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)
+
 ##### [View a PDF version](tellusant-legitimacy-evidence-pack.pdf)  
 
 ##### [View on Tellusant website](https://tellusant.com/tellusant-legitimacy-validation/)  
 
 
 ##### [Return to home](../index.md)
+
 
 
 
