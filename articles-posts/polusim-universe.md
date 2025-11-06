@@ -1,8 +1,15 @@
+---
+title: "The Polusim Universe"
+description: "Our 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 solution has expanded majorly since the launch in 2022. Learn more in this description."
+image: /assets/social-card.png
+---
 Our 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 solution has expanded majorly since the launch in 2022. It now has three distinct modules plus 𝗧𝗲𝗹𝗹𝘂𝗕𝗮𝘀𝗲 to help companies have a strategic view of the future and to predict demand. 
 
 We now have subscribers in more than 100 countries and are featured in client's quarterly and annual reporting.
 
+<p align="center">
 <img  src="assets/images/tellusant-polusim-universe.svg" width="500" alt="">  
+</p>
 
 ❶  𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴. This is where we started. Forecasting with a strategic 3-, 5, or 10- year horizon is a) difficult, and b) done with unrigorous methods at all companies (as far as we know). We therefore built our clous-based app on strictly scientific foundations.
 
