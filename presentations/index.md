@@ -1,10 +1,10 @@
 ---
-title: "Presentations — Public speeches, lectures and other presentations in slide format."
+title: "Presentations"
 description: "Tellusant members are occasionally invited to speak at public or invitational events. These are the documents used."
 image: /assets/social-card-pub.png
 ---
 # Presentations
-Public speeches, lectures and other presentations in slide format.    
+Public speeches, lectures and other presentations by Tellusant members in slide format.    
 
 #### [Return to home](../index.md)   
 
