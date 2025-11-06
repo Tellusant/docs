@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-https://tellusant.github.io/sitemap.xml
+https://tellusant.github.io/docs/sitemap.xml
