@@ -3,6 +3,7 @@ title: "The Polusim Universe"
 description: "Our 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 solution has expanded majorly since the launch in 2022. Learn more in this description."
 image: /assets/social-card.png
 ---
+# The PoluSim Universe
 Our 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 solution has expanded majorly since the launch in 2022. It now has three distinct modules plus 𝗧𝗲𝗹𝗹𝘂𝗕𝗮𝘀𝗲 to help companies have a strategic view of the future and to predict demand. 
 
 We now have subscribers in more than 100 countries and are featured in client's quarterly and annual reporting.
