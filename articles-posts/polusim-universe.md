@@ -6,7 +6,7 @@ image: /assets/social-card.png
 # The PoluSim Universe
 Our **PoluSim** solution has expanded majorly since the launch in 2022. It now has three distinct modules plus **TelluBase** to help companies create a strategic view of the future and to predict demand.  
 
-We have subscribers in more than 100 countries and are featured in clients' quarterly and annual reporting, as documented by the SEC.  
+We have subscribers in more than 100 countries and are featured in clients' quarterly and annual reports, as documented by the SEC.  
 
 <p align="center">
 <img  src="assets/images/tellusant-polusim-universe.svg" width="400" alt="">  
