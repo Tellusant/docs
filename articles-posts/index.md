@@ -10,6 +10,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
+
+#### [The PoluSim Universe](polusim-universe.md) post
+
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article  
 
 #### [The Future Is Math](future-is-math.md)  post  
