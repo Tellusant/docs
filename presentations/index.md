@@ -12,7 +12,7 @@ Public speeches, lectures and other presentations by Tellusant members in slide 
 #### [Staffan Canback: The World Is My Oyster: Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
 This is my inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business.
 
-#### [Staffan Canbäck: The Lund Lexture](S.Canback-Tellusant-Lund-Lecture.pdf)  
+#### [Staffan Canbäck: The Lund Lecture](S.Canback-Tellusant-Lund-Lecture.pdf)  
 This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students. The materials were used at a lecture at Lund University for master's students in May 2024.
 
 #### [Staffan Canbäck: From Greenlands to Tellusant: Academic Research Meets Real-World Management Problems](S.Canback-Greenlands-Tellusant.pdf)  
