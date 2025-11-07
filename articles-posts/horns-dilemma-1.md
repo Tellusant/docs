@@ -1,5 +1,5 @@
 ---
-title: "𝗧𝗵𝗲 𝗛𝗼𝗿𝗻𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗶𝗹𝗲𝗺𝗺𝗮 𝟭"
+title: "𝗧𝗵𝗲 𝗛𝗼𝗿𝗻𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗶𝗹𝗲𝗺𝗺𝗮"
 description: "In strategy development, you cannot get everything. This academic framework explains the trade-offs."
 image: /assets/social-card-pub.png
 ---
