@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 # The Horns of the Dilemma 2
 *Dr. Staffan Canback, Tellusant*  
 
-When working with large comapnies, we often encounter people who want everything from statistical analyses. They want a model to predict well, to explain what is going on (the drivers), and to be understandable by them as non-experts.
+When working with large companies, we often encounter people who want everything from statistical analyses. They want a model to predict well, to explain what is going on (the drivers), and to be understandable by them as non-experts.
 
 This is impossible to achieve. The framework below shows the trade-off between these three factors. The framework is my adaptation of the [*Horns of the Dilemma*](horns-dilemma-1.md) framework for research in sociology (including management science).¹
 
