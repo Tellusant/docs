@@ -22,11 +22,13 @@ On the other hand, it is relatively easy to create models with high explanatory 
 
 **Understandable versus predictive / explanatory**.  Good models are hard to undersstand while understandable models often predict and explain poorly. Typically, we work with statistical lay people within our clients. They have some grounding in quantitative analysis, but honestly, not much. Not unreasonably, hey view good models as black boxes.
 
-Is there a middle ground? Not really, I have found over the years that you cannot demonstrate good models in a way that non-professionals understand. It may work in a meeting, but the memory of that meeting fades quickly because the model is outside their knowledge domain.
+Is there a middle ground? Not really, I have found over the years that you cannot bring across most good models in a way that non-experts understand. It may work in a meeting, but the memory of that meeting fades quickly because the model is outside their knowledge domain.
 
-My recommendation is to accept that modles will never be fully understandable. We accept that we don not know how Einstaein's relativity affects the cars GPS. We just use it anyway. There is an element of this in statistical anlysis. As a user, one should not be expected to now nonlinear regression and how they are derived from differential equations. It is better to go with the flow.
+My recommendation is to accept that good models will not be understandable. We accept that we do not know how Einstaein's relativity affects the car's GPS. We just accept this and use it anyway. There is an element of this in statistical anlysis. As a user, one should not be expected to know nonlinear regression and how they are derived from differential equations. One should not be expected to know the implications of Marshall's homogeneity condition or Hotelling-Jureen's symmetry condition. It is better to go with the flow.
 
 The better approach is to do critical tests without trying to understand the details.
+
+In sum, do not expect to satisfy all three conditions: prediction, explanation. understandability. Decide which of the three factors is truly important to you, and accept that the two others will not be fully satisfied.
 
 ---
 ¹ Note that not everyone can propose frameworks. Only the authorities can. That is, people with a long and distinguished career in the subject matter; typically associate and full professors or their equivalents. I consider myself such an authority in this knowledge domain, so hence my new framework.  
