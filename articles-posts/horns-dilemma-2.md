@@ -1,5 +1,5 @@
 ---
-title: "𝗧𝗵𝗲 𝗛𝗼𝗿𝗻𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗶𝗹𝗲𝗺𝗺𝗮 𝟮"
+title: "The Horns of the Dilemma 2"
 description: "In statistical analyses, you cannot get everything. This framework explains the trade-offs."
 image: /assets/social-card-pub.png
 ---
