@@ -26,6 +26,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
 
+#### [The Horns of the Dilemma: Trade-offs Between Generality, Precision, and Realism in Strategy Devlopment](horns-dilemma-1.md) post
+
 ---
 ##### [Return to home](../index.md)  
 
