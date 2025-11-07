@@ -18,7 +18,7 @@ This educational deck contains an overview of Tellusant's methods interlaced wit
 #### [Staffan Canbäck: From Greenlands to Tellusant — Academic Research Meets Real-World Management Problems](S.Canback-Greenlands-Tellusant.pdf)  
 The presentation describes my journey from Henley doctoral research to founding two global companies: Canback Consulting and Tellusant. It shows how the general learnings from the doctorate can be applied to address important business issues.  
 
-#### [Staffan Canbäck: 18 Rays of Project Management](S.Canback-18-Rays-of-Project-Management.pdf)  
+#### [Staffan Canbäck: The 18 Rays of Project Management](S.Canback-18-Rays-of-Project-Management.pdf)  
 A while back I created this training material for project managers in **strategy consulting**. I am now sharing it widely since it is useful to a broader audience. 
 
 A central theme is that project management is much more than putting together presentations. It covers all kinds of high-level cognitive efforts.
