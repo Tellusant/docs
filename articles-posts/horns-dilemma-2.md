@@ -17,11 +17,9 @@ This is imposiible to achieve. The framework below shows the trade-off between t
 <img  src="assets/images/tellusant-horns-of-dilemma-2.svg" width="400" alt="">  
 </p>
 
-A strategic plan can prioritize general results (e.g., a global opportunity assessment), precise results (e.g., a market entry strategy plan for one country), or realistic results (e.g., ethnographic perspective of customer behavior).  
+- **Predictive versus explanatory**. The best predictive models are often timeseries (moving average) based. They have no independent variables, so they explain nothing. Non-statisticians find this disturbing. How can you predict well but not be able to explain what makes the model work?  
 
-The issue is that it is impossible to cover all three at the same time no matter how much effort is expended. The resources required, and the mental bandwidth needed, to cover the three is prohibitive.
-
-Senior executives tend to prefer generality. Junior employees often think in terms of precision or realism. But many people have no structured way to think about the dilemma and want it all.
+&nbsp;&nbsp;On the other hand, it is relatively easy to create models with high explanatory power, but they do not predict anything. An extreme case is an over-fitted regression model with many indepemdent variables. It may give an R-squared of 0.05, but when put to the predictive test (e.g., with MAPE), it is bound to fail.
 
 ---
 ¹ Note that not everyone can propose frameworks. Only the authorities can. That is, people with a long and distinguished career in the subject matter, typically associate and full professors or their equivalents. I consider myself such an authority in this knowledge domain, so hence my framework that is new.  
