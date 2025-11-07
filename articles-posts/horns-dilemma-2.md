@@ -25,6 +25,9 @@ On the other hand, it is relatively easy to create models with high explanatory 
 
 Is there a middle ground? Not really. I have found over the years that you cannot bring across most good models in a way that non-experts understand. It may work in a meeting, but the memory of that meeting fades quickly because the model is outside their knowledge domain.
 
+<p align="center">
+—&nbsp;&nbsp;—&nbsp;&nbsp;—
+</p>
 My recommendation is to accept that good models will not be fully understandable. We accept that we do not know how Einstein's relativity theory affects the car's GPS. We just accept this and use it anyway. There is an element of this in statistical analysis.  
 
 As a user, one should not be expected to know nonlinear regression and how they are derived from differential equations. One should not be expected to know the implications of Marshall's homogeneity condition or Hotelling-Jureen's symmetry condition. It is better to go with the flow.
