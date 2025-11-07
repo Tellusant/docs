@@ -1,5 +1,5 @@
 ---
-title: "Presentations"
+title: "𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀"
 description: "Tellusant members are occasionally invited to speak at public or invitational events. These are the documents used."
 image: /assets/social-card-pub.png
 ---
