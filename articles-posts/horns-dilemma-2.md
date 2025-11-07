@@ -31,6 +31,6 @@ The better approach is to do critical tests without trying to understand the det
 ---
 ¹ Note that not everyone can propose frameworks. Only the authorities can. That is, people with a long and distinguished career in the subject matter; typically associate and full professors or their equivalents. I consider myself such an authority in this knowledge domain, so hence my new framework.  
 
-I learned this the hard way 25 years ago. Early in my doctoral studies I suggested a framework. A professor said "who are the authorities you cite for this framework?" I said "I created it." He responded " how dare you compare yourself to the authorities? You are are a lowly doctoral student and cannot offer anything. Prove yourself first."
+I learned this the hard way 25 years ago. Early in my doctoral studies I suggested a framework. A professor said "who are the authorities you cite for this framework?" I said "I created it." He responded " how dare you compare yourself to the authorities? You are are a lowly doctoral student and cannot offer anything. Prove yourself first: read read read - write write write, and you may get there."
 
 [2025-11-07]
