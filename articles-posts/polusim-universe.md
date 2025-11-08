@@ -1,5 +1,5 @@
 ---
-title: "𝗧𝗵𝗲 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗲"
+title: "The PoluSim Universe"
 description: "Our 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 solution has expanded majorly since the launch in 2022. Learn more in this post."
 image: /assets/social-card.png
 ---
