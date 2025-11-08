@@ -1,6 +1,6 @@
 ---
 title: "The PoluSim Universe"
-description: "Our 𝗣𝗼𝗹𝘂𝗦𝗶𝗺 solution has expanded majorly since the launch in 2022. Learn more in this post."
+description: "Our PoluSim solution has expanded majorly since the launch in 2022. Learn more in this post."
 image: /assets/social-card.png
 ---
 # The PoluSim Universe
