@@ -12,6 +12,7 @@ We provide select maps that are of general interest.
 ## Analytical Maps Based on TelluBase Data
 #### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 #### [British Middle Class Distribution in 2025](tellusant-british-middle-class-distribution-2025-map.md)
+#### [Spanish Middle Class Distribution in 2025](tellusant-spain-middle-class-distribution-2025-map.md)
 #### [The Tale of Two Chinas—The Rich vs Poor Split](tellusant-china-urban-rural-divide.md)
 #### [Köppen Climate Zones in China](tellusant-koeppen-climate-zones-china.md)
 #### [Köppen Climate Zones by Country](tellusant-koeppen-climate-zones-country.md)
