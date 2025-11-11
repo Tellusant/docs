@@ -5,7 +5,7 @@ image: https://tellusant.github.io/docs/assets/social-card-map.png
 ---
 # Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025
 ## *Uses of TelluBase* Series
-##### [Our full set of maps](https://tellusant.github.io/docs/maps/)  
+#### [Find our full set of maps](https://tellusant.github.io/docs/maps/)  
 The map is shown in full-resolution SVG.
 
 ---
