@@ -9,7 +9,7 @@ image: https://tellusant.github.io/docs/assets/social-card-map.png
 The map is shown in full-resolution SVG.
 
 ---
-NB8 is a regional cooperation forum that is increasing in importance. For example, the top countries Sweden exports to are in terms of share of country imports the other seven NB8 countries.
+NB8 is a regional cooperation forum that is increasing in importance. For example, the top countries Sweden exports to are in terms of share of thoe countries imports, the other seven NB8 countries.
 
 #### <img  src="assets/svg/tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.svg" alt="Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025">
 
