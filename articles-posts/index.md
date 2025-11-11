@@ -10,6 +10,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
+#### [NB8](nordic-baltic-eight-nb8.md) post
 
 #### [The Horns of the Dilemma 2: Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis](horns-dilemma-2.md) post  
 
