@@ -4,7 +4,7 @@ description: "The Nordic-Baltic Eight (NB8) is a regional cooperation forum of i
 image: /assets/social-card-pub.png
 ---
 # The Emerging Significance of the Nordic-Baltic Eight
-The Nordic-Baltic Eight (NB8) is a regional cooperation forum of increasing importance. The total population is around 35 million and given the high standard of living, it ranks fourth in the Single Market (EU + 4) by GDP.
+The Nordic-Baltic Eight (NB8) is a regional cooperation forum of increasing importance. The total population is around 35 million and given the high standard of living, it ranks fourth in the Single Market (EU + 4) by GDP, ahead of Spain and just behind Italy at third.
 
 It is tightly integrated economically. For example, the top countries Sweden exports to are, in terms of share of those countries' imports, the other seven NB8 countries.
 
