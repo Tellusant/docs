@@ -1,5 +1,5 @@
-site-name: "TELLUSANT®"
-site-description: "Published materials by Tellusant team members"
+site_name: "TELLUSANT®"
+site_description: "Published materials by Tellusant team members"
 
 url: "https://tellusant.github.io"
 baseurl: "/docs"
