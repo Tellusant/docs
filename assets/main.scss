@@ -1,0 +1,52 @@
+---
+---
+// Import Minima defaults first
+@import "minima";
+
+/* === Sticky Header Styling === */
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #eaeaea;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Make room for the fixed header */
+body { padding-top: 90px; }
+
+/* Header content */
+.site-header-wrapper {
+  text-align: center;
+  padding: 1.25rem 0;
+}
+
+.site-name {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.site-name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-name a:hover {
+  text-decoration: underline;
+}
+
+.site-description {
+  font-size: 1rem;
+  color: #777;
+  margin: 0.25rem 0 0;
+}
+
+/* Safety: hide any theme-provided .site-title (if present) */
+.site-title, .site-title a, h1.site-title { display: none !important; }
+
+/* Safety: hide any theme-provided .site-title (if present) */
+.site-title, .site-title a, h1.site-title { display: none !important; }
