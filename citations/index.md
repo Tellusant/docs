@@ -176,3 +176,6 @@ O País (2014): *The African middle class is expanding*
 #### [World Bank (2019): *Guinea urban sector review - Planning, connecting, financing in Conakry*](assets/pdf/world-bank-guinea-urban-sector-review-planning-connecting-financing-in-conakry.pdf)
 #### [World Bank (2013): *The shifting urban economic landscape: What does it mean for cities?*](https://documents1.worldbank.org/curated/en/850421468178735793/pdf/842550WP0Dobbs0Box0382136B00PUBLIC0.pdf)
 XCom Africa (2013): *Food processing and packaging in Kenya - East Africa*
+
+---
+#### [Visit the Tellusant website](https://tellusant.com])
