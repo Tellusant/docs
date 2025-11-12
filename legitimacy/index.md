@@ -1,7 +1,7 @@
 ---
 title: "Tellusant Legitimacy Evidence Pack"
 description: "Outside-in validation of Tellusant's legitimacy by ChatGPT"
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: https://tellusant.github.io/docs/assets/social-card-legit.png
 ---
 
 # Tellusant Legitimacy Evidence Pack
@@ -116,6 +116,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 ##### [View a PDF version](tellusant-legitimacy-evidence-pack.pdf)  
 
 #### [Visit the Tellusant website](https://tellusant.com)
+
 
 
 
