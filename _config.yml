@@ -1,6 +1,6 @@
 theme: minima  # or your theme/remote_theme
-site_name: "TELLUSANT® test"
-description: "Published materials by Tellusant team members TEST"
+site_name: "TELLUSANT®"
+description: "Publications by Tellusant team members"
 
 url: "https://tellusant.github.io"
 baseurl: "/docs"
