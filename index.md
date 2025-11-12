@@ -35,3 +35,6 @@ See how external authorities (academic journals, newspapers, TV, governments, NG
 See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
 ### [U.S. E-Commerce Development](ecom/index.md)  
 View our quarterly analysis of trends in U.S. e-commerce relative yto total retail. Based on quarterly FRED data.
+
+---
+#### [Visit the Tellusant website](https://tellusant.com)
