@@ -9,9 +9,8 @@ plugins:
   - jekyll-feed
   
 include:
-  - sitemap.xml
-  include:
   - assets/css/custom.css
+  - sitemap.xml
 
 # SC test
 # defaults:
