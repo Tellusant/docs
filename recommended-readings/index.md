@@ -1,7 +1,7 @@
 ---
 title: "External Recommended Readings"
 description: "Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. These are things we wish we had written."
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: https://tellusant.github.io/docs/assets/social-card-ext.png
 ---
 # External Recommended Readings
 Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. ***These are things we wish we had written.***
