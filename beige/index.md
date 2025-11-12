@@ -34,4 +34,4 @@ Six are flat.
 Tariffs and erratic government policies are  likely causes of the poor performance.
 
 ---
-#### [Visit the Tellusant website](https://tellusant.com])
+#### [Visit the Tellusant website](https://tellusant.com)
