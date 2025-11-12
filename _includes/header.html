@@ -1,6 +1,8 @@
 <header class="site-header">
   <div class="wrapper site-header-wrapper">
-    <p class="site-name">{{ site.site_name }}</p>
+    <p class="site-name">
+      <a href="{{ '/' | relative_url }}">{{ site.site_name }}</a>
+    </p>
     {% if site.description %}
       <p class="site-description">{{ site.description }}</p>
     {% endif %}
