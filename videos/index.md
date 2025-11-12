@@ -20,7 +20,7 @@ This video intoduces our subnational income distribution database TelluBase in 3
 Do you know who, where, and when your consumers are buying your products? The PACE (Pricing Aligned with Consumer Economics) latent demand estimator answers these questions.  
 
 ---
-#### [Visit our Vimeo page](https://(vimeo.com/tellusant)
+#### [Visit our Vimeo page](https://vimeo.com/tellusant/)
 #### [Visit TelluBase On-Demand](https://tellubase.com)
 #### [Visit Tellusant website](https://tellusant.com)
 
