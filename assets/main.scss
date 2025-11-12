@@ -10,13 +10,13 @@
   left: 0;
   width: 100%;
   background: #fff;
-  border-bottom: 5px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
   z-index: 1000;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
 /* Make room for the fixed header */
-body { padding-top: 10px; }
+body { padding-top: 30px; }
 
 /* Header content */
 .site-header-wrapper {
