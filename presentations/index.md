@@ -10,10 +10,10 @@ Public speeches, lectures and other presentations by Tellusant members in slide 
 
 ---
 #### [Staffan Canback: The World Is My Oyster — Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
-This is my inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business.
+This is my inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business. It draws heavily on TelluBase data.
 
 #### [Staffan Canbäck: The Lund Lecture](S.Canback-Tellusant-Lund-Lecture.pdf)  
-This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students. The materials were used at a lecture at Lund University for master's students in May 2024.
+This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students. The materials were used at a lecture at Lund University for master's students in May 2024. It draws heavily on TelluBase data.
 
 #### [Staffan Canbäck: From Greenlands to Tellusant — Academic Research Meets Real-World Management Problems](S.Canback-Greenlands-Tellusant.pdf)  
 The presentation describes my journey from Henley doctoral research to founding two global companies: Canback Consulting and Tellusant. It shows how the general learnings from the doctorate can be applied to address important business issues.  
@@ -24,4 +24,5 @@ A while back I created this training material for project managers in **strategy
 A central theme is that project management is much more than putting together presentations. It covers all kinds of high-level cognitive efforts.
 
 ---
-#### [Return to home](../index.md)  
+#### [Visit TelluBase website](https://tellubase.com)
+#### [Visit Tellusant website](https://tellusant.com)
