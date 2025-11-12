@@ -1,4 +1,4 @@
-# Extermal Recommended Readings
+# External Recommended Readings
 Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
 
 ---
