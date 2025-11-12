@@ -10,6 +10,7 @@ plugins:
   
 include:
   - sitemap.xml
+  - assets/css/custom.css
 
 # SC test
 # defaults:
