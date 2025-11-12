@@ -34,7 +34,7 @@ body { padding-top: 10px; }
   font-size: 3rem;
   text-decoration: none;
   color: #0969DA;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .site-name a:hover {
@@ -45,6 +45,7 @@ body { padding-top: 10px; }
   font-size: 1rem;
   color: #000;
   margin: 0.25rem 0 0;
+  font-weight: 600;
 }
 
 /* Safety: hide any theme-provided .site-title (if present) */
