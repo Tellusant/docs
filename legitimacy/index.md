@@ -115,7 +115,8 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 ##### [View a PDF version](tellusant-legitimacy-evidence-pack.pdf)  
 
-#### [Visit the Tellusant website](https://tellusant.com])
+#### [Visit the Tellusant website](https://tellusant.com)
+
 
 
 
