@@ -4,7 +4,7 @@ description: "We keep our videos raw and with low production value. We prefer ge
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # Videos  
-Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website). 
+Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on our website and on Vimeo. 
 
 ---  
 #### [Introduction to Tellusant](https://vimeo.com/1114671864)  
@@ -20,6 +20,7 @@ This video intoduces our subnational income distribution database TelluBase in 3
 Do you know who, where, and when your consumers are buying your products? The PACE (Pricing Aligned with Consumer Economics) latent demand estimator answers these questions.  
 
 ---
+#### [Visit our Vimeo page](https://(vimeo.com/tellusant)
 #### [Visit TelluBase On-Demand](https://tellubase.com)
 #### [Visit Tellusant website](https://tellusant.com)
 
