@@ -12,7 +12,9 @@ plugins:
 include:
   - assets/css/custom.css
   - sitemap.xml
-
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 # SC test
 # defaults:
 #   - scope:
