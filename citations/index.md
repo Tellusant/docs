@@ -178,4 +178,4 @@ O País (2014): *The African middle class is expanding*
 XCom Africa (2013): *Food processing and packaging in Kenya - East Africa*
 
 ---
-#### [Visit the Tellusant website](https://tellusant.com])
+#### [Visit the Tellusant website](https://tellusant.com)
