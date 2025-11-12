@@ -1,3 +1,4 @@
+theme: minima  # or your theme/remote_theme
 site_name: "TELLUSANT® test"
 description: "Published materials by Tellusant team members TEST"
 
