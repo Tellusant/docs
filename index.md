@@ -29,6 +29,8 @@ We create an immense amount of maps on various topics. See some of them in glori
 View our press releases covering important news from our company.  
 ### [Fact Sheets](fact-sheets/index.md)  
 We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.
+### [External Recommended Readings](recommended-readings/index.md)
+Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
 ### [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
 ### [Beige Book Analysis](beige/index.md)
