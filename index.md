@@ -11,11 +11,11 @@ This open access repository contains the complete published works by Tellusant t
 - Allow for fast search engine / AI crawling and indexing
 
 ---
-### **[Tellusant Legitimacy Evidence Pack](legitimacy/index.md)**  
+### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.  
-### **[Articles & Posts](articles-posts/index.md)**  
+#### **[Articles & Posts](articles-posts/index.md)**  
 This is the main purpose of the site. We have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.  
-### **[Quick Reads](quick-reads/index.md)**  
+### [Quick Reads](quick-reads/index.md)  
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 ### **[Scientific Papers et Plus](papers/index.md)**  
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
