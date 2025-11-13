@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
   
 include:
-  - assets/css/custom.css
+  - assets/css/main.scss
   - sitemap.xml
 
 
