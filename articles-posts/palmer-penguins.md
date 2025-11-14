@@ -9,4 +9,4 @@ image: /assets/social-card-pub.png
 The map has totally comparable definitions and metrics between and within countries. Data are from our [TelluBase](https://tellubase.com) income distribution database.
 
 
-#### <img  src="../articles-posts/assets/svg/tellusant-palmer-penguins-kde.svg" alt="Palmer penguins kde">
+#### <img  src="../assets/svg/tellusant-palmer-penguins-kde.svg" alt="Palmer penguins kde">
