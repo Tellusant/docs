@@ -3,10 +3,20 @@ title: "The Palmer Penguins"
 description: "The Nordic-Baltic Eight (NB8) is a regional cooperation forum of increasing importance."
 image: /assets/social-card-pub.png
 ---
-# The Palmer Penguins
+# The Palmer Penguins and their Role in Business  
+***Dr. Staffan Canback***  
+
+<p align="center">
+<img  src="assets/images/palmer-penguin-species.png" width="500" alt="Palmer penguins species">
+</p>
+<p align="center">
+  Artwork by @allison_horst
+</p>
 
 
-The map has totally comparable definitions and metrics between and within countries. Data are from our [TelluBase](https://tellubase.com) income distribution database.
+textttt
+<p align="center">
+<img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
+</p>
 
-
-#### <img  src="../assets/svg/tellusant-palmer-penguins-kde.svg" alt="Palmer penguins kde">
+[The Palmer Penguin Dataset and Art](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md)
