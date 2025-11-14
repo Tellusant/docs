@@ -1,6 +1,6 @@
-theme: minima  # or your theme/remote_theme
-site_name: "TELLUSANT, INC."
-description: "Publications by Tellusant team members"
+# reverted back to old file from fork
+title: "TELLUSANT, INC."
+description: "Published materials by Tellusant team members"
 
 url: "https://tellusant.github.io"
 baseurl: "/docs"
@@ -10,9 +10,7 @@ plugins:
   - jekyll-feed
   
 include:
-  - assets/css/custom.css
   - sitemap.xml
-
 
 # SC test
 # defaults:
