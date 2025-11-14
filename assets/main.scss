@@ -19,6 +19,9 @@
   background-color: #ffffff;     /* full-width white */
   padding: 0.75rem 0;            /* adjust header height */
   border-bottom: 1px solid #e5e5e5; /* subtle separator */
+position: fixed;
+  top: 0;
+  z-index: 1000;
 }
 
 /* Ensure header content is also centered */
