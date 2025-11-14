@@ -10,7 +10,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
-#### [The Palmer Penguins and their Role in Business](palmer-penguins)
+#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) post
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post
 
 #### [The Horns of the Dilemma 2: Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis](horns-dilemma-2.md) post  
