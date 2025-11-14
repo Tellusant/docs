@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 ***Dr. Staffan Canback***  
 
 <p align="center">
-<img  src="assets/images/palmer-penguin-species.png" width="500" alt="Palmer penguins species">
+<img  src="assets/images/palmer-penguin-species.webp" width="500" alt="Palmer penguins species">
 </p>
 <p align="center">
   Artwork by @allison_horst
@@ -19,4 +19,9 @@ textttt
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
 </p>
 
-#### [The Palmer Penguin Dataset and Art](https://github.com/allisonhorst/palmerpenguins/blob/main/README.md)
+#### [The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)
+
+---
+Source: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data.  R package version 0.1.0.
+
+
