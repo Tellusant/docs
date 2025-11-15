@@ -24,13 +24,15 @@ Penguins are an unlikely influence on management science, but this dataset has h
 </p>
 
 
-#### [The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)
+
 
 #### How Tellusant Uses These Methods
 
 
 
 ---
+#### [The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)
+
 Source: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data.  R package version 0.1.0.
 
 
