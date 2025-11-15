@@ -1,4 +1,5 @@
 ---
+layout: default
 site_name: "Tellusant Publications Repository"
 description: "This open access repository contains the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
