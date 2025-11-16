@@ -22,6 +22,5 @@ Do you know who, where, and when your consumers are buying your products? The PA
 ---
 #### [Visit our Vimeo page](https://vimeo.com/tellusant/)
 #### [Visit TelluBase On-Demand](https://tellubase.com)
-#### [Visit Tellusant website](https://tellusant.com)
 
 
