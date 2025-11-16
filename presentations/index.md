@@ -20,6 +20,3 @@ The presentation describes my journey from Henley doctoral research to founding 
 A while back I created this training material for project managers in **strategy consulting**. I am now sharing it widely since it is useful to a broader audience. 
 
 A central theme is that project management is much more than putting together presentations. It covers all kinds of high-level cognitive efforts.
-
----
-#### [Visit TelluBase website](https://tellubase.com)
