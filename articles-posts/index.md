@@ -33,6 +33,6 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [The Horns of the Dilemma 1: Trade-offs Between Generality, Precision, and Realism in Strategy Devlopment](horns-dilemma-1.md) post
 
 ---
-#### [Visit the Tellusant website](https://tellusant.com)
+
 
 
