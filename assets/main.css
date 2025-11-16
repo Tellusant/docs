@@ -52,8 +52,11 @@ a:hover {
   background: white;
   border-bottom: 4px solid #ddd;
   padding: 0.8rem 0;
+  position: sticky;   /* makes it stick */
+  top: 0;             /* stick to top */
+  z-index: 1000;      /* stay above content */
+  background: white;  /* ensure it doesn’t become transparent */
 }
-
 .header-inner {
   max-width: 960px;
   margin: 0 auto;
