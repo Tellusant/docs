@@ -118,8 +118,8 @@ h4 + h4 {
   margin-top: 0.6rem;
 }
 
-h4 + p {
-  margin-top: 0.2rem;   /* tighten space */
+h4 {
+  margin-bottom: 0.2rem   /* tighten space */
 }
 
 /* ---------------------------------------------------------
