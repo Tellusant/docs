@@ -50,7 +50,7 @@ a:hover {
 
 .site-header {
   background: white;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 4px solid #ddd;
   padding: 0.8rem 0;
 }
 
@@ -65,7 +65,7 @@ a:hover {
 
 .site-title {
   font-size: 1.4rem;
-  font-weight: 700;
+  font-weight: 600;
   color: #0066cc;
   text-decoration: none;
 }
@@ -134,10 +134,11 @@ pre {
 
 .site-footer {
   text-align: center;
-  padding: 2rem 0;
+  padding: 1rem 0;
   border-top: 1px solid #ddd;
   background: white;
   color: #777;
+   font-size: 0.8rem;
 }
 
 /* ---------------------------------------------------------
