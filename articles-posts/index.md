@@ -10,8 +10,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
-#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) post
-#### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post
+#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) post  
+
+#### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
 
 #### [The Horns of the Dilemma 2: Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis](horns-dilemma-2.md) post  
 
@@ -31,8 +32,6 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
 
 #### [The Horns of the Dilemma 1: Trade-offs Between Generality, Precision, and Realism in Strategy Devlopment](horns-dilemma-1.md) post
-
----
 
 
 
