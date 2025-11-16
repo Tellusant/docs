@@ -15,5 +15,4 @@ Read our press releases about the latest significant events at Tellusant
 
 ---
 #### [Visit TelluBase On-Demand](https://tellubase.com)
-#### [Visit Tellusant website](https://tellusant.com)
 
