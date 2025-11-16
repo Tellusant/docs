@@ -4,9 +4,7 @@ description: "Tellusant members are occasionally invited to speak at public or i
 image: /assets/social-card-pub.png
 ---
 # Presentations
-Public speeches, lectures and other presentations by Tellusant members in slide format.    
-
-#### [Return to home](../index.md)   
+Public speeches, lectures and other presentations by Tellusant members in slide format.     
 
 ---
 #### [Staffan Canback: The World Is My Oyster — Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
