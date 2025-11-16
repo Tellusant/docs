@@ -24,7 +24,7 @@ body {
                "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
   line-height: 1.6;
-  background: #f7f7f7;  /* light gray background */
+  background: #ffffff;  /* light gray background #f7f7f7*/
   color: #333;
 }
 
@@ -133,7 +133,6 @@ pre {
 --------------------------------------------------------- */
 
 .site-footer {
-  text-align: center;
   padding: 1rem 0;
   border-top: 1px solid #ddd;
   background: white;
