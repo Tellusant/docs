@@ -11,5 +11,4 @@ Here we recommend high quality readings by external authorities, touching on our
 by Alexander Al-Haschimi, Lorenz Emter, Vanessa Gunnella, Iván Ordoñez Martínez, Tobias Schuler and Tajda Spital
 
 ---
-#### [Visit the Tellusant website](https://tellusant.com)
----
+
