@@ -8,8 +8,5 @@ Its purpose is to:
 
 ---
 
-**[Enter the repository](index.md)**  
-
-**[About Tellusant](about.md)**  
-**[Contact Tellusant](contact.md)**  
+#### [Enter the repository](index.md)   
 
