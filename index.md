@@ -41,4 +41,4 @@ See the latest economic status in the United States based on the Fed's sesqui-mo
 View our quarterly analysis of trends in U.S. e-commerce relative yto total retail. Based on quarterly FRED data.
 
 ---
-#### [Visit the Tellusant website](https://tellusant.com)
+
