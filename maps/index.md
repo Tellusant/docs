@@ -32,4 +32,3 @@ We provide select maps that are of general interest.
 
 ---
 #### [Visit TelluBase On-Demand](https://tellubase.com)
-#### [Visit Tellusant website](https://tellusant.com)
