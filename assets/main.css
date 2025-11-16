@@ -23,7 +23,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.5; /* 1.6 */
   background: #ffffff;  /* light gray background #f7f7f7*/
   color: #333;
 }
@@ -67,7 +67,7 @@ a:hover {
 }
 
 .site-title {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: #0066cc;
   text-decoration: none;
