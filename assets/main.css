@@ -7,6 +7,12 @@ html {
   scroll-behavior: smooth;
 }
 
+.site-title {
+  color: #0066cc !important;
+   text-decoration: none;
+  font-weight: 700;
+}
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
