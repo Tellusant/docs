@@ -32,4 +32,4 @@ Strategic planning often suffers from inconsistencies by cycle and business unit
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
 
 ---
-#### [Visit Tellusant website](https://tellusant.com)
+
