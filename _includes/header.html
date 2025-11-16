@@ -1,3 +1,13 @@
-<header style="background: yellow; padding:1rem;">
-  HEADER TEST
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+
+    <nav class="site-nav">
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+  </div>
 </header>
