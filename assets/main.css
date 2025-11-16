@@ -10,7 +10,7 @@ html {
 .site-title {
   color: #0066cc !important;
    text-decoration: none;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 *, *:before, *:after {
@@ -138,7 +138,7 @@ pre {
   border-top: 1px solid #ddd;
   background: white;
   color: #777;
-   font-size: 0.8rem;
+   font-size: 75%;
 }
 
 /* ---------------------------------------------------------
