@@ -50,4 +50,3 @@ We provide free TelluBase data to select public institutions and media. These ar
 
 ---
 #### [Visit TelluBase On-Demand](https://tellubase.com)
-#### [Visit the Tellusant website](https://tellusant.com)
