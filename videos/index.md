@@ -1,10 +1,10 @@
 ---
-title: "Videos —  Our videos cover our company and products, trade visits, travel experiences, and research topics."
-description: "We keep our videos raw and with low production value. We prefer genuine over slick."
+title: "Tellusant Videos"
+description: "Our videos cover our company and products, trade visits, travel experiences, and research topics."
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # Videos  
-Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on our website and on Vimeo. 
+Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on our website and on Vimeo. We keep our videos raw and with low production value. We prefer genuine over slick.
 
 ---  
 #### [Introduction to Tellusant](https://vimeo.com/1114671864)  
