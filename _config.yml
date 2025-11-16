@@ -5,12 +5,12 @@ description: "Published materials by Tellusant team members"
 url: "https://tellusant.github.io"
 baseurl: "/docs"
 plugins:
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   
-include:
-  - sitemap.xml
+# include:
+#  - sitemap.xml
 
 # SC test
 # defaults:
