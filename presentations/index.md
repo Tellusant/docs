@@ -25,4 +25,3 @@ A central theme is that project management is much more than putting together pr
 
 ---
 #### [Visit TelluBase website](https://tellubase.com)
-#### [Visit Tellusant website](https://tellusant.com)
