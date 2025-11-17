@@ -9,9 +9,9 @@ These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefi
 We provide select maps that are of general interest.
 
 ---
-### Analytical Maps Based on TelluBase Data
 <br/>
 
+### Analytical Maps Based on TelluBase Data
 #### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 #### [British Middle Class Distribution in 2025](tellusant-united-kingdom-middle-class-distribution-2025.md)
 #### [Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025](tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.md)
@@ -23,8 +23,6 @@ We provide select maps that are of general interest.
 #### [Recession Pressure by Country](tellusant-recession-pressure-by-country.md)
 
 ---
-<br/>  
-
 ### TelluBase Definitional Maps
 #### [TelluBase Global Coverage | 218 Countries | 2600 Cities | 2500 Subdivisions](tellusant-tellubase-global-coverage.md)
 #### [China Secondary Subdivisions (Prefecture Level) and Cities](tellusant-china-sub2-city.md)
