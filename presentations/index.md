@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 Public speeches, lectures and other presentations by Tellusant members in slide format.     
 
 ---
-#### [What Is to Be Done: How What We Do Changes the World (Slowly)](S.Canback-Punta-Cana-Tellusant-Global-Retreat)
+#### [What Is to Be Done: How What We Do Changes the World (Slowly)](S.Canback-Punta-Cana-Tellusant-Global-Retreat.pdf)
 The presentation, structured by the Rule of Threes, discusses how our solutions are used in various contexts. It shows this by examples.
 #### [Staffan Canback: The World Is My Oyster — Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
 This is my inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business. It draws heavily on TelluBase data.
