@@ -25,7 +25,6 @@ The analytical maps build exclusively on TelluBase data.
 ---
 ### TelluBase Definitional Maps
 The definitional maps show the details of what TelluBase covers.  
-#### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 #### [TelluBase Global Coverage | 218 Countries | 2600 Cities | 2500 Subdivisions](tellusant-tellubase-global-coverage.md)
 #### [China Secondary Subdivisions (Prefecture Level) and Cities](tellusant-china-sub2-city.md)
 #### [Colombia Secondary Subdivisions (Municipios) and Cities](tellusant-colombia-sub2-city.md)
@@ -33,6 +32,12 @@ The definitional maps show the details of what TelluBase covers.
 #### [Mexico Secondary Subdivisions (Municipios) and Cities](tellusant-mexico-sub2-city.md)
 #### [Nordic-Baltic Eight (Nb8) Subdivisions and Cities](tellusant-nordic-baltic-eight-nb8-sub-city.md)
 #### [USA City Definitions](tellusant-usa-city-def.md)  
+<br/>
+
+---
+### Other Maps
+See where we worked on the ground, countries we have done projects in, and our office locations.
+#### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 <br/>
 
 ---
