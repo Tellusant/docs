@@ -8,9 +8,9 @@ Public speeches, lectures and other presentations by Tellusant members in slide 
 
 ---
 #### [What Is to Be Done? How What We Do Changes the World (Slowly)](S.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf)
-The presentation, structured by the Rule of Threes, discusses how our solutions are used in various contexts. It shows this by examples.
+The presentation, structured by the Rule of Threes, shows by examples how our solutions generate insicts around the world. It was part of our training sessions at our Global Office Retreat in Punta Cana, Dom. Rep.
 #### [Staffan Canback: The World Is My Oyster — Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
-This is my inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business. It draws heavily on TelluBase data.
+This is the inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business. It draws heavily on TelluBase data.
 
 #### [Staffan Canbäck: The Lund Lecture](S.Canback-Tellusant-Lund-Lecture.pdf)  
 This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students. The materials were used at a lecture at Lund University for master's students in May 2024. It draws heavily on TelluBase data.
