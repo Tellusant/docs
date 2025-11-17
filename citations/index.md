@@ -1,5 +1,5 @@
 ---
-title: "Tellusant External Citation𝘀"
+title: "External Citation𝘀"
 description: "See how scientific, governmental, and business authorities have cited Tellusant and its team members publicly over the years."
 image: /assets/social-card-cite.png
 ---
