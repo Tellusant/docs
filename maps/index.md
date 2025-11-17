@@ -11,7 +11,7 @@ We provide select maps that are of general interest.
 
 ---
 ### Analytical Maps Based on TelluBase Data
-#### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
+The analytical maps build exclusively on TelluBase data.  
 #### [British Middle Class Distribution in 2025](tellusant-united-kingdom-middle-class-distribution-2025.md)
 #### [Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025](tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.md)
 #### [Spanish Middle Class Distribution in 2025](tellusant-spain-middle-class-distribution-2025.md)
@@ -24,6 +24,8 @@ We provide select maps that are of general interest.
 
 ---
 ### TelluBase Definitional Maps
+The definitional maps show the details of what TelluBase covers.  
+#### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 #### [TelluBase Global Coverage | 218 Countries | 2600 Cities | 2500 Subdivisions](tellusant-tellubase-global-coverage.md)
 #### [China Secondary Subdivisions (Prefecture Level) and Cities](tellusant-china-sub2-city.md)
 #### [Colombia Secondary Subdivisions (Municipios) and Cities](tellusant-colombia-sub2-city.md)
