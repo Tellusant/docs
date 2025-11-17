@@ -10,6 +10,8 @@ This open access repository contains the complete published works by Tellusant t
 - Give longevity beyond what social media offer  
 - Allow for fast search engine / AI crawling and indexing
 
+*This is not our main website.*
+
 ---
   
 #### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
