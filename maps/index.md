@@ -6,8 +6,8 @@ image: https://tellusant.github.io/docs/assets/social-card-map.png
 # Maps
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
 
-We provide select maps that are of general interest.
-<br/>
+We provide select maps that are of general interest.  
+<br/>  
 
 ---
 ### Analytical Maps Based on TelluBase Data
