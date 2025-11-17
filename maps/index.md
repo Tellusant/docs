@@ -7,10 +7,9 @@ image: https://tellusant.github.io/docs/assets/social-card-map.png
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
 
 We provide select maps that are of general interest.
-
----
 <br/>
 
+---
 ### Analytical Maps Based on TelluBase Data
 #### [Tellusant Global Experience Base](tellusant-global-experience-base.md)
 #### [British Middle Class Distribution in 2025](tellusant-united-kingdom-middle-class-distribution-2025.md)
@@ -21,6 +20,7 @@ We provide select maps that are of general interest.
 #### [Köppen Climate Zones by Country](tellusant-koeppen-climate-zones-country.md)
 #### [Nigeria Income Per Household By Local Government Areas](tellusant-nigeria-income-per-household-by-lga.md)
 #### [Recession Pressure by Country](tellusant-recession-pressure-by-country.md)
+<br/>
 
 ---
 ### TelluBase Definitional Maps
