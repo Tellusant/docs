@@ -3,7 +3,7 @@ title: "Tellusant Maps —  We provide select maps based on TelluBase data that 
 description: "These are maps based on TelluBase in full-resolution SVG. Underlying shapefiles are available on request."
 image: https://tellusant.github.io/docs/assets/social-card-map.png
 ---
-# Tellusant Maps
+# Maps
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
 
 We provide select maps that are of general interest.
