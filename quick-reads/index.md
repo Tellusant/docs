@@ -1,6 +1,6 @@
 ---
-title: "Tellusant Quick Reads —  Two-pagers on important management topics relating to our expertise"
-description: "We convert important posts into Quick Reads for easy perusal by executives."
+title: "Tellusant Quick Reads"  
+description: "Two-pagers discussing important management topics relating to our expertise."
 image: https://tellusant.github.io/docs/assets/social-card.png
 ---
 # Tellusant Quick Reads  
