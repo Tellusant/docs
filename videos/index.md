@@ -1,5 +1,5 @@
 ---
-title: "Tellusant Videos"
+title: "Videos"
 description: "Our videos cover our company and products, trade visits, travel experiences, and research topics."
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
