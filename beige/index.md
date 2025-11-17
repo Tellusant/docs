@@ -1,6 +1,6 @@
 ---
-title: "Tellusant Beige Book Analysis - Oct.15, 2024"
-description: "The Fed's Beige Book covers current economic activity. It is published sesqui-monthly."
+title: "Beige Book Analysis - Oct.15, 2024"
+description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
 image: https://tellusant.github.io/docs/assets/social-card-beige.png
 ---
 # Federal Reserve Beige Book Analysis
