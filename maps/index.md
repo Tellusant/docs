@@ -1,6 +1,6 @@
 ---
 title: "Maps"
-description: "These are maps based on TelluBase in full-resolution SVG. Underlying shapefiles are available on request."
+description: "These are maps in full-resolution SVG based on TelluBase. Underlying shapefiles are available on request."
 image: https://tellusant.github.io/docs/assets/social-card-map.png
 ---
 # Maps
@@ -13,9 +13,11 @@ We provide select maps that are of general interest.
 ### Analytical Maps Based on TelluBase Data
 The analytical maps build exclusively on TelluBase data.  
 #### [British Middle Class Distribution in 2025](tellusant-united-kingdom-middle-class-distribution-2025.md)
-
+See how British cities and subdivisions vary in size and density of the middle class.
 #### [Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025](tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.md)
+See how NB8 cities and subdivisions vary in size and density of the middle class.
 #### [Spanish Middle Class Distribution in 2025](tellusant-spain-middle-class-distribution-2025.md)
+See how Spanish cities and subdivisions vary in size and density of the middle class.
 #### [The Tale of Two Chinas—The Rich vs Poor Split](tellusant-china-urban-rural-divide.md)
 The income per capita disparity between urban and rural areas is large in China. We used our TelluBase data to create this map showing the clear divide.  
 #### [Köppen Climate Zones in China](tellusant-koeppen-climate-zones-china.md)
