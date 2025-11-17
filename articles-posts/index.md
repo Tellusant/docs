@@ -1,5 +1,5 @@
 ---
-title: "Tellusant Articles & Posts"
+title: "Articles & Posts"
 description: "This section will over time contain all our substance-oriented articles and posts from LinkedIn. Medium, and more."
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
