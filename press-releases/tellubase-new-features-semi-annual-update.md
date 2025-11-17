@@ -1,6 +1,6 @@
 ---
-title: "TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update"
-description: "TelluBase is the subnational income distribution database from Tellusant, covering 218 countries, 2600 cities, and 2500 subdivisions 2000–2050."
+title: "TelluBase Update H1 2025"
+description: "TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update."
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update  
