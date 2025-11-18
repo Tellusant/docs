@@ -1,3 +1,8 @@
+---
+title: "The Tale of Two Chinas—The Rich vs Poor Split"
+description: "The income per capita disparity between urban and rural areas is large in China. We used our TelluBase data to create this map showing the clear divide."
+image: https://tellusant.github.io/docs/assets/social-card-map.png
+---
 # The Tale of Two Chinas—The Rich vs Poor Split
 The income per capita disparity between urban and rural areas is large in China. We used our TelluBase data to create this map showing the clear divide.
 
