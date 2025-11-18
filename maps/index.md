@@ -18,7 +18,7 @@ See how British cities and subdivisions vary in size and density of the middle c
 See how NB8 cities and subdivisions vary in size and density of the middle class.
 #### [Spanish Middle Class Distribution in 2025](tellusant-spain-middle-class-distribution-2025.md)
 See how Spanish cities and subdivisions vary in size and density of the middle class.
-#### [The Tale of Two Chinas—The Rich vs Poor Split](tellusant-china-urban-rural-divide.md)
+#### [A Tale of Two Chinas—The Rich vs Poor Split](tellusant-china-urban-rural-divide.md)
 The income per capita disparity between urban and rural areas is large in China. We used our TelluBase data to create this map showing the clear divide.  
 #### [Köppen Climate Zones in China](tellusant-koeppen-climate-zones-china.md)
 China as a whole covers many climate zones. Here we show them at the secondary subdivision level (prefecture or equivalent).
