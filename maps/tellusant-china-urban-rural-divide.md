@@ -8,4 +8,6 @@ The income per capita disparity between urban and rural areas is large in China.
 
 ---
 #### <img  src="assets/svg/tellusant-china-urban-rural-split.svg" alt="The Tale of Two Chinas—The Rich vs Poor Split">
+
 ---
+[2021-10-02]
