@@ -1,7 +1,7 @@
 ---
 title: "Articles & Posts"
 description: "This section will over time contain all our substance-oriented articles and posts from LinkedIn. Medium, and more."
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 # Articles & Posts
 This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
