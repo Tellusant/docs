@@ -1,7 +1,7 @@
 ---
 title: "Maps"
 description: "These are maps in full-resolution SVG based on TelluBase. Underlying shapefiles are available on request."
-image: https://tellusant.github.io/docs/assets/social-card-map.png
+image: /assets/social-card-map.png
 ---
 # Maps
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
