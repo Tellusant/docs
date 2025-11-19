@@ -1,5 +1,5 @@
 ---
-title: "FMCG Demand Leversr"
+title: "FMCG Demand Levers"
 description: "We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used? Yes."
 image: /assets/social-card-pub.png
 ---
