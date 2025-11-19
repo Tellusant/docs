@@ -1,7 +1,7 @@
 ---
 title: "Subnational ICT Opportunities in South Africa: Case Example for How to Use TelluBase Income Distribution Data"
 description: "There is a strong trend among global companies toward understanding markets at subnational levels. They always face local players who have a keen sense for subnational opportunities."
-image: /assets/social-card.png
+image: /assets/social-card-pub.png
 ---
 # Subnational ICT Opportunities in South Africa
 ## Case Example for How to Use TelluBase Income Distribution Data  
