@@ -1,7 +1,7 @@
 ---
 title: "Scientific Papers et Plus"
 description: "Tellusant is based on science. We publish rigorous, peer-reviewed academic papers"
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 
 # Scientific Papers et Plus
