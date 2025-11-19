@@ -1,7 +1,7 @@
 ---
 title: "Press Releases"
 description: "Read our press releases about the latest significant events at Tellusant."
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 # Press Releases
 Read our press releases about the latest significant events at Tellusant
