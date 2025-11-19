@@ -44,7 +44,7 @@ Countries typically paint too coarse a picture for the EU. A more suitable way t
 #### [Mexico Secondary Subdivisions (Municipios) and Cities](tellusant-mexico-sub2-city.md)
 The map shows the cities (92 zonas metropolitanas) and secondary subdivisions (1500 municipios) in Mexico we cover.
 #### [Nordic-Baltic Eight (Nb8) Subdivisions and Cities](tellusant-nordic-baltic-eight-nb8-sub-city.md)
-The map shows the 31 cities with more than 100,000 inhabitants and the 74 primary subdivisons.
+The map shows the 31 cities with more than 100,000 inhabitants and the 74 primary subdivisions.
 #### [USA City Definitions](tellusant-usa-city-def.md)  
 States are often too high level for insights in the U.S. Counties are too detailed. The U.S. government therefore developed Metropolitan Statistcial Areas. Our TelluBase database uses MSAs to define and quantify cities down to 100,000 inhabitants.
 <br/>
