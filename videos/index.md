@@ -1,7 +1,7 @@
 ---
 title: "Videos"
 description: "Our videos cover our company and products, trade visits, travel experiences, and research topics."
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 # Videos  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on our website and on Vimeo. We keep our videos raw and with low production value. We prefer genuine over slick.
