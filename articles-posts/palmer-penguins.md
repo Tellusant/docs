@@ -1,11 +1,12 @@
 ---
 title: "The Palmer Penguins and Their Role in Business"
-description: "Penguins are an unlikely influence on management science, but this dataset has a profound impact on emerging business practices."
+description: "Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices."
 image: /assets/social-card-pub.png
 ---
 # The Palmer Penguins and their Role in Business  
 ***Dr. Staffan Canback***  
 
+---
 <p align="center">
 <img  src="assets/images/palmer-penguin-species.webp" width="500" alt="Palmer penguins species">
 </p>
@@ -13,7 +14,7 @@ image: /assets/social-card-pub.png
 <p align="center">
   Artwork by @allison_horst
 </p>
-Penguins are an unlikely influence on management science, but this dataset has a profound impact on machine learing and artificial intelligence, and by extension on emerging business practices.
+Penguins are an unlikely influence on management science, but this dataset has had a profound impact on machine learing and artificial intelligence, and by extension on emerging business practices.
 
 ### Background
 
