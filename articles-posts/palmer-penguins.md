@@ -17,7 +17,10 @@ image: /assets/social-card-pub.png
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on machine learing and artificial intelligence, and by extension on emerging business practices.
 
 ### Background
-tbd
+In the early 2000s, a research team worked at the Palmer Research Station in Antarctica to better understand "ecological sexual dimorphism and environmental variability within a community of Antarctic penguins."
+
+The work had nothing to do with machine learning or artificial intelligence. However, the data collected turned out be truly usful for AI scientists to create learning models, as well as for countless high school and college students who are learing the basic concepts of AI.
+
 ### The Dataset and Its Uses
 tbd
 <p align="center">
