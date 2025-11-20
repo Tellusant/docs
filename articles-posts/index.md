@@ -10,7 +10,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
-#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) post  
+#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
 
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
 
