@@ -17,19 +17,15 @@ image: /assets/social-card-pub.png
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on machine learing and artificial intelligence, and by extension on emerging business practices.
 
 ### Background
-
+tbd
 ### The Dataset and Its Uses
-
+tbd
 <p align="center">
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
 </p>
 
-
-
-
 #### How Tellusant Uses These Methods
-
-
+tbd
 
 ---
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
