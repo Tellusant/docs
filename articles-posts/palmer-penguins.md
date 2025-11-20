@@ -1,6 +1,6 @@
 ---
 title: "The Palmer Penguins and Their Role in Business"
-description: "Penguins are an unlikely influence on management science, but this dataset has had a profound impact on ML and AI."
+description: "Penguins are an unlikely influence on management science, but this dataset has a profound impact on emerging business practices."
 image: /assets/social-card-pub.png
 ---
 # The Palmer Penguins and their Role in Business  
@@ -13,7 +13,7 @@ image: /assets/social-card-pub.png
 <p align="center">
   Artwork by @allison_horst
 </p>
-Penguins are an unlikely influence on management science, but this dataset has had a profound impact on machine learing and artificial intelligence, and by extension on management practices.
+Penguins are an unlikely influence on management science, but this dataset has a profound impact on machine learing and artificial intelligence, and by extension on emerging business practices.
 
 ### Background
 
@@ -31,7 +31,7 @@ Penguins are an unlikely influence on management science, but this dataset has h
 
 
 ---
-#### [The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)
+Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
 
 Source: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data.  R package version 0.1.0.
 
