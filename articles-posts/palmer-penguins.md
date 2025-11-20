@@ -22,7 +22,7 @@ In the early 2000s, a research team worked at the Palmer Research Station in Ant
 The work had nothing to do with machine learning or artificial intelligence. However, the data collected turned out be truly usful for AI scientists to create learning models, as well as for countless high school and college students who are learing the basic concepts of AI.
 
 ### The Dataset and Its Uses
-tbd
+The Palmer dataset consists of observations of 344 penguins covering 3 species. 
 <p align="center">
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
 </p>
