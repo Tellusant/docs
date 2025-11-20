@@ -26,12 +26,12 @@ The Palmer dataset consists of observations of 344 penguins of 3 species. Severa
 
 Can a penguin's species be predicted based on these two measures? If so, with what confidence? Can a neural network be put to the task of figuring this out?
 
-The graph below shows that it could be done. It may look easy when you see the results, but behind the effort are some truly ground-breaking machine learning concepts and mathematics.
+The graph below shows that it could be done. It may look easy when you see the results, but behind the effort are some truly ground-breaking machine learning concepts and mathematics starting in 1946.
 <p align="center">
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
 </p>
 
-This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using Excel's new Python function together with a suitable library.
+This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using its new Python function together with a suitable library.
 
 ## How Tellusant Uses These Methods
 Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries r consumers. The graph below shows how Tellusant used this machine learing approach to classify country markets for global company. 
@@ -42,9 +42,11 @@ This analysis first used principal component analysis (PCA) to find relevant dim
 
 The difficult part is not in the calculations. It is in having the vision that this can be done and that the outcome is useful for companies. Most people do not even try because they lack the vision, and the credibility to be believed.
 
+## The Road Ahead
+
 I am convinced that the power of these methods will win the day. It starts with experiments, and then gradually management teams are won over. How long will it takes? 
 
-ChatGPT estimate 3-5 years untill routine automation of these kinds of methods. Here is what it says, based on its undesrstanding of Tellusant:
+ChatGPT estimates 3-5 years untill routine automation of these kinds of methods. Here is what it says, based on its undesrstanding of Tellusant:
 
 **Already happening (2025)**
 - automated dashboards
