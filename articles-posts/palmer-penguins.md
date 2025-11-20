@@ -16,12 +16,12 @@ image: /assets/social-card-pub.png
 </p>
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on machine learning and artificial intelligence, and by extension on emerging business practices.
 
-### Background
+## Background
 In the early 2000s, a research team based at the Palmer Research Station in Antarctica collected data to better understand "ecological sexual dimorphism and environmental variability within a community of Antarctic penguins."
 
 The work had nothing to do with machine learning or artificial intelligence. However, the data collected turned out to be truly usful for AI scientists to create learning models, as well as for countless high school and college students who were learning the basic concepts of AI.
 
-### The Dataset and Its Uses
+## The Dataset and Its Uses
 The Palmer dataset consists of observations of 344 penguins of 3 species. Several measurement variables were collected. From an AI training perspective, the bill lenght and height turned out to be especially interesting. 
 
 Can a penguin's species be predicted based on these two measures? If so, with what confidence? Can a neural network be put to the task of figuring this out?
@@ -33,7 +33,7 @@ The graph below shows that it could be done. It may look easy when you see the r
 
 This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using Excel's new Python function together with a suitable library.
 
-#### How Tellusant Uses These Methods
+## How Tellusant Uses These Methods
 Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries r consumers. The graph below shows how Tellusant used this machine learing approach to classify country markets for global company. 
 <p align="center">
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
