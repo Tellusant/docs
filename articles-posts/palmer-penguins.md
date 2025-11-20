@@ -78,6 +78,8 @@ are becoming enterprise-ready extremely quickly.
 (as you've seen — SVGs, bold titles, custom colors, etc.).
 - Companies see massive ROI from automated segmentation and scenario modeling.
 
+I will add though, that the real bottleneck is an organizations ability to absorb these kinds of groundbreaking approaches. SO while ChatGPT says 3-5 years, I say 5-10 years based on human limitations.
+
 ---
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
 
