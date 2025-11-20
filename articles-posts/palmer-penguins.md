@@ -44,7 +44,7 @@ The difficult part is not in the calculations. It is in having the vision that t
 
 I am convinced that the power of these methods will win the day. It starts with experiments, and then gradually management teams are won over. How long will it takes? 
 
-ChatGPT estimate 3-5 years untill routine automation of these kinds of methods. Here is what it says:
+ChatGPT estimate 3-5 years untill routine automation of these kinds of methods. Here is what it says, based on its undesrstanding of Tellusant:
 
 **Already happening (2025)**
 - automated dashboards
@@ -68,17 +68,13 @@ ChatGPT estimate 3-5 years untill routine automation of these kinds of methods. 
 - direct integration with forecasting systems
 
 This will happen faster than expected because:
-
-The incremental step from a penguin KDE to country clustering is tiny for the model
+- The incremental step from a penguin KDE to country clustering is tiny for the model
 — the complexity is in the data layer, not the AI layer.
-
-Agent frameworks (OpenAI o1/o3, Microsoft Copilot Studio, LangChain Agents, AgentOps)
+- Agent frameworks (OpenAI o1/o3, Microsoft Copilot Studio, LangChain Agents, AgentOps)
 are becoming enterprise-ready extremely quickly.
-
-Visualization and report-generation are now truly end-to-end
+- Visualization and report-generation are now truly end-to-end
 (as you've seen — SVGs, bold titles, custom colors, etc.).
-
-Companies see massive ROI from automated segmentation and scenario modeling.
+- Companies see massive ROI from automated segmentation and scenario modeling.
 
 ---
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
