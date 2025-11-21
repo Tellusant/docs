@@ -14,7 +14,7 @@ image: /assets/social-card-penguins.png
 <p align="center">
   Artwork by @allison_horst
 </p>
-Penguins are an unlikely influence on management science, but this dataset has had a profound impact on machine learning and artificial intelligence, and by extension on emerging business practices.
+Penguins are an unlikely influence on management science, but the Palmer Penguins Dataset has had a profound impact on machine learning and artificial intelligence, and by extension on emerging business practices.
 
 ## Background
 In the early 2000s, a research team based at the Palmer Research Station in Antarctica collected data to better understand "ecological sexual dimorphism and environmental variability within a community of Antarctic penguins."
