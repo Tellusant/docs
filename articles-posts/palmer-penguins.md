@@ -34,7 +34,10 @@ The graph below shows that it could be done. It may look easy when you see the r
 This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using its new Python function together with a suitable library.
 
 ## How Tellusant Uses These Methods
-Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries r consumers. The graph below shows how Tellusant used this machine learing approach to classify country markets for global company. 
+
+Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries r consumers. The graph below shows how Tellusant used this machine learing approach to classify country markets for global company.¹
+
+
 <p align="center">
 <img src="assets/images/tellusant-market-clustreing-pca-kde.svg"  width="600" alt="">
 </p>
@@ -48,45 +51,47 @@ I am convinced that the power of these methods will win the day. It starts with 
 
 ChatGPT estimates 3-5 years untill routine automation of these kinds of methods. Here is what it says, based on its undesrstanding of Tellusant:
 
-**""Already happening (2025)**
-- automated dashboards
-- descriptive summaries
-- PCA + basic clustering
-- univariate/bivariate plots
-- marketing segmentation skeletons
+***Already happening (2025)***
+- *automated dashboards*
+- *descriptive summaries*
+- *PCA + basic clustering*
+- *univariate/bivariate plots*
+- *marketing segmentation skeletons*
 
-**Next 1–3 years**
-- multi-country segmentation
-- consumer micro-segmentation
-- elasticity estimation across SKUs and markets
-- scenario-driven strategy insights
-- automated deck generation
+***Next 1–3 years***
+- *multi-country segmentation*
+- *consumer micro-segmentation*
+- *elasticity estimation across SKUs and markets*
+- *scenario-driven strategy insights*
+- *automated deck generation*
 
-**Next 3–5 years**
-- fully autonomous strategy workflows
-- agents running simulations overnight
-- country + consumer knowledge graphs updating continuously
-- hybrid modeling (agent + econometric + ML)
-- direct integration with forecasting systems"
+***Next 3–5 years***
+- *fully autonomous strategy workflows*
+- *agents running simulations overnight*
+- *country + consumer knowledge graphs updating continuously*
+- *hybrid modeling (agent + econometric + ML)*
+- *direct integration with forecasting systems*
 
-*As a human, I will add that the real bottleneck is an organizations ability to absorb these kinds of groundbreaking approaches. So while ChatGPT says 3-5 years, I say 5-10 years based on human limitations.* I confronted ChatGPT with this and it modified its perspective:
+As a human, I will add that the real bottleneck is an organizations ability to absorb these kinds of groundbreaking approaches. So while ChatGPT says 3-5 years, I say 5-10 years based on human limitations. I confronted ChatGPT with this and it modified its perspective:
 
-AI will be ready long before organizations are.
+*AI will be ready long before organizations are.*
 
-*"Agents will be technically capable of doing Tellusant-like global segmentation tomorrow.
+*Agents will be technically capable of doing Tellusant-like global segmentation tomorrow.
 But Fortune 500 companies will still be learning how to integrate that into job roles, accountability structures, and decision-making in a way that feels safe, familiar, and normatively acceptable.*  
 
 *Broad-based adoption requires humans to change:*
-- *identity (“what does my job mean now?”)
-- workflow (“how do I integrate the agent?”)
-- accountability norms (“can I defend AI-generated work?”)
-- political dynamics (“is this reducing my power?”)
-- trust calibration (“when can I rely on it?”)
+- *identity (“what does my job mean now?”)*
+- *workflow (“how do I integrate the agent?”)*
+- *accountability norms (“can I defend AI-generated work?”)*
+- *political dynamics (“is this reducing my power?”)*
+- *trust calibration (“when can I rely on it?”)*
 
-These are slow-moving psychological transitions, even in high-talent organizations.
-Human limits don’t slow the start, they slow the finish"*
+*These are slow-moving psychological transitions, even in high-talent organizations.
+Human limits don’t slow the start, they slow the finish*
 
 ---
+
+¹ Graph axes and country locations are altered, and the category not given, to maintain confidentiality.
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
 
 Source: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data.  R package version 0.1.0.
