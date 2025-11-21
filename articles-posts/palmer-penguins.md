@@ -47,7 +47,7 @@ The difficult part is not in the calculations. It is in having the vision that t
 
 ## The Road Ahead
 
-I am convinced that the power of these methods will win the day. It starts with experiments, and then gradually management teams are won over. How long will it takes? 
+I am convinced that the power of these methods will win the day. It starts with experiments, and then gradually management teams are won over. How long will it take? 
 
 ChatGPT estimates 3-5 years untill routine automation of these kinds of methods. Here is what it says, based on its undesrstanding of Tellusant:
 
@@ -91,7 +91,8 @@ Human limits don’t slow the start, they slow the finish*
 
 ---
 
-¹ Graph axes and country locations are altered, and the category not given, to maintain confidentiality.
+¹ Graph axes and country locations are altered, and the category not given, to maintain confidentiality.  
+
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
 
 Source: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data.  R package version 0.1.0.
