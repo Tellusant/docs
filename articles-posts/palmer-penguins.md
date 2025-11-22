@@ -28,7 +28,7 @@ Can a penguin's species be predicted based on these two measures? If so, with wh
 
 The graph below shows that it could be done. It may look easy when you see the results, but behind the effort are some truly ground-breaking machine learning concepts and mathematics starting in 1946.
 <p align="center">
-<img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="700" alt="">
+<img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="">
 </p>
 
 This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using its new Python function together with a suitable library.
@@ -39,7 +39,7 @@ Interesting, but how does it affect companies beyond new tools like ChatGPT? The
 
 
 <p align="center">
-<img src="assets/images/tellusant-market-clustreing-pca-kde.svg"  width="600" alt="">
+<img src="assets/images/tellusant-market-clustreing-pca-kde.svg"  width="700" alt="">
 </p>
 This analysis first used principal component analysis (PCA) to find relevant dimensions, then kernel density estimation to create the clusters. Easy to do in ChatGPT.
 
