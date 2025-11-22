@@ -1,6 +1,6 @@
 ---
 title: "Scientific Papers et Plus"
-description: "Tellusant is based on science. We publish rigorous, peer-reviewed academic papers"
+description: "Tellusant is based on science. We publish rigorous, peer-reviewed academic papers and more"
 image: /assets/social-card-pub.png
 ---
 
