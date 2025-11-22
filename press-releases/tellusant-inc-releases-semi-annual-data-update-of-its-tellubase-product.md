@@ -1,3 +1,8 @@
+---
+title: "TelluBase Update H2 2024"
+description: "Tellusant today released the November 2024 update of TelluBase. This is the fifth major update."
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
+---
 # Tellusant, Inc. Releases Semi-Annual Data Update of Its TelluBase Product
 News Provided By Tellusant, Inc. November 25, 2024, 13:45 GMT  
 
