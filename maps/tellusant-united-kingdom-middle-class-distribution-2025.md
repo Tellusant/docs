@@ -1,6 +1,6 @@
 ---
 title: "British Middle Class Distribution in 2025"
-description: "These are maps based on TelluBase in full-resolution SVG. Underlying shapefiles are available on request."
+description: "See how British cities and subdivisions vary in size and density of the middle class."
 image: https://tellusant.github.io/docs/assets/social-card-map.png
 ---
 # British Middle Class Distribution in 2025
