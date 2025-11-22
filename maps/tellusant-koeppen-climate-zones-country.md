@@ -1,3 +1,8 @@
+---
+title: "The World by Köppen Climate Zones"
+description: "The map shows the population-weighted climate zones by country. That is, the climate where people live."
+image: /assets/social-card-map.png
+---
 # The World by Köppen Climate Zones
 ## *Uses of TelluBase* Series
 
