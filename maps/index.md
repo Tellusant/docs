@@ -11,7 +11,7 @@ We provide select maps that are of general interest.
 
 ---
 ### Analytical Maps Based on TelluBase Data
-The analytical maps build exclusively on TelluBase data.  
+We use Canback Projection©, MapShaper and ColorBrewer to make the maps as readable as possible.  
 #### [British Middle Class Distribution in 2025](tellusant-united-kingdom-middle-class-distribution-2025.md)
 See how British cities and subdivisions vary in size and density of the middle class.
 #### [Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025](tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.md)
