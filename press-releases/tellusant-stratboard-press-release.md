@@ -1,4 +1,9 @@
-## PoluSim Adds Stratboard to Its Capabilities
+---
+title: "PoluSim Adds Stratboard to Its Capabilities"
+description: "StratboardIQ is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides."
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
+---
+# PoluSim Adds Stratboard to Its Capabilities
 
 News Provided By Tellusant, Inc. May 08, 2025, 13:00 GMT  
 
