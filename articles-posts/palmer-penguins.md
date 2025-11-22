@@ -51,42 +51,42 @@ I am convinced that the power of these methods will win the day. It starts with 
 
 ChatGPT estimates 3-5 years untill routine automation of these kinds of methods. Here is what it says, based on its undesrstanding of Tellusant:
 
-***Already happening (2025)***
-- *automated dashboards*
-- *descriptive summaries*
-- *PCA + basic clustering*
-- *univariate/bivariate plots*
-- *marketing segmentation skeletons*
-
-***Next 1–3 years***
-- *multi-country segmentation*
-- *consumer micro-segmentation*
-- *elasticity estimation across SKUs and markets*
-- *scenario-driven strategy insights*
-- *automated deck generation*
-
-***Next 3–5 years***
-- *fully autonomous strategy workflows*
-- *agents running simulations overnight*
-- *country + consumer knowledge graphs updating continuously*
-- *hybrid modeling (agent + econometric + ML)*
-- *direct integration with forecasting systems*
+> ***Already happening (2025)***
+> - *automated dashboards*
+> - *descriptive summaries*
+> - *PCA + basic clustering*
+> - *univariate/bivariate plots*
+> - *marketing segmentation skeletons*
+> 
+> ***Next 1–3 years***
+> - *multi-country segmentation*
+> - *consumer micro-segmentation*
+> - *elasticity estimation across SKUs and markets*
+> - *scenario-driven strategy insights*
+> - *automated deck generation*
+> 
+> ***Next 3–5 years***
+> - *fully autonomous strategy workflows*
+> - *agents running simulations overnight*
+> - *country + consumer knowledge graphs updating continuously*
+> - *hybrid modeling (agent + econometric + ML)*
+> - *direct integration with forecasting systems*
 
 As a human, I will add that the real bottleneck is an organizations ability to absorb these kinds of groundbreaking approaches. So while ChatGPT says 3-5 years, I say 5-10 years based on human limitations. I confronted ChatGPT with this and it modified its perspective:
 
-*AI will be ready long before organizations are.*
-
-*Agents will be technically capable of doing Tellusant-like global segmentation tomorrow.
+> *AI will be ready long before organizations are.*
+>  
+> *Agents will be technically capable of doing Tellusant-like global segmentation tomorrow.
 But Fortune 500 companies will still be learning how to integrate that into job roles, accountability structures, and decision-making in a way that feels safe, familiar, and normatively acceptable.*  
-
-*Broad-based adoption requires humans to change:*
-- *identity (“what does my job mean now?”)*
-- *workflow (“how do I integrate the agent?”)*
-- *accountability norms (“can I defend AI-generated work?”)*
-- *political dynamics (“is this reducing my power?”)*
-- *trust calibration (“when can I rely on it?”)*
-
-*These are slow-moving psychological transitions, even in high-talent organizations.
+>  
+> *Broad-based adoption requires humans to change:*
+> - *identity (“what does my job mean now?”)*
+> - *workflow (“how do I integrate the agent?”)*
+> - *accountability norms (“can I defend AI-generated work?”)*
+> - *political dynamics (“is this reducing my power?”)*
+> - *trust calibration (“when can I rely on it?”)*
+> 
+> *These are slow-moving psychological transitions, even in high-talent organizations.
 Human limits don’t slow the start, they slow the finish*
 
 ---
