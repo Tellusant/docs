@@ -8,14 +8,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-  
-# include:
-#  - sitemap.xml
 
-# SC test
-# defaults:
-#   - scope:
-#       path: ""
-#     values:
-#       image: https://tellusant.github.io/docs/assets/social-card.png
       
