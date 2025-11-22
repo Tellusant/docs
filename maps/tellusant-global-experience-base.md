@@ -1,3 +1,8 @@
+---
+title: "Tellusant Global Experience Base"
+description: "The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries."
+image: /assets/social-card-map.png
+---
 # Tellusant Global Experience Base  
 The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far from away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
