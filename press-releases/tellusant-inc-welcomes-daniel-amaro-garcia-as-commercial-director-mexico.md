@@ -1,3 +1,9 @@
+---
+title: "Tellusant, Inc. Welcomes Daniel Amaro Garcia as Commercial Director Mexico"
+description: "Daniel Amaro joins Tellusant, Inc. in its Mexico City office. He is an experienced commercial leader and business developer."
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
+---
+
 # Tellusant, Inc. Welcomes Daniel Amaro Garcia as Commercial Director Mexico
 
 News Provided By Tellusant, Inc. October 16, 2024, 12:45 GMT  
