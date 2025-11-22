@@ -1,4 +1,10 @@
-# TelluBase Coverage of Nordic-Baltic 8 (NB8)
+---
+title: "TelluBase Coverage of Nordic-Baltic Eight (NB8)"
+description: "The map shows the 31 cities with more than 100,000 inhabitants and the 74 primary subdivisions."
+image: /assets/social-card-map.png
+---
+
+# TelluBase Coverage of Nordic-Baltic Eight (NB8)
 ## *TelluBase Definitions*
 
 #### <img  src="assets/svg/tellusant-nordic-baltic-eight-nb8-sub-city.svg" width="600" alt="TelluBase Coverage of Nordic-Baltic 8">
