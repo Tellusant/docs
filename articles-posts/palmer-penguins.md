@@ -39,7 +39,7 @@ Interesting, but how does it affect companies beyond new tools like ChatGPT? The
 
 
 <p align="center">
-<img src="assets/images/tellusant-market-clustreing-pca-kde.svg"  width="700" alt="">
+<img src="assets/images/tellusant-market-clustreing-pca-kde.svg"  width="800" alt="">
 </p>
 This analysis first used principal component analysis (PCA) to find relevant dimensions, then kernel density estimation to create the clusters. Easy to do in ChatGPT.
 
