@@ -1,3 +1,9 @@
+---
+title: "Announcing Strategic Partnership Between Tellusant, Inc. & Berumen y Asociados"
+description: "The purpose is to expand service line offerings, co-develop our client base in Mexico and beyond, and to build joint intellectual capital."
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
+---
+
 # Announcing Strategic Partnership Between Tellusant, Inc. & Berumen y Asociados  
 
 News Provided By Tellusant, Inc. September 24, 2024, 15:35 GMT  
