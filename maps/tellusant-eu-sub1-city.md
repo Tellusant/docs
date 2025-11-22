@@ -1,3 +1,8 @@
+---
+title: "EU Cities and Subdivisions Covered in TelluBase"
+description: "We cover 504 cities and 349 subdivisions in the EU."
+image: /assets/social-card-map.png
+---
 # European Union Cities and Subdivisions Covered in TelluBase
 ## *TelluBase Definitions*
 
