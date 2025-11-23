@@ -4,31 +4,26 @@ permalink: /search.json
 ---
 
 [
-{% assign rawdocs = site.pages | concat: site.posts %}
+{% assign docs = site.pages | concat: site.posts %}
+{% assign first = true %}
 
-{%- comment -%}
-  Pre-filter documents so forloop.last works correctly.
-  This avoids trailing commas and invalid JSON.
-{%- endcomment -%}
-
-{% assign searchable = rawdocs | where_exp: "doc", "doc.title" %}
-{% assign searchable = searchable | where_exp: "doc", "doc.search != false" %}
-{% assign searchable = searchable | where_exp: "doc", "doc.exclude_from_search != true" %}
-{% assign searchable = searchable | where_exp: "doc", "doc.url != '/404.html'" %}
-
-{% for doc in searchable %}
-  {
-    "title": {{ doc.title | jsonify }},
-    "url": {{ doc.url | absolute_url | jsonify }},
-    "content": {{ doc.content
-      | strip_html
-      | replace: "\r", " "
-      | replace: "\n", " "
-      | replace: "\t", " "
-      | replace: "  ", " "
-      | strip
-      | slice: 0, 1000
-      | jsonify }}
-  }{% unless forloop.last %},{% endunless %}
+{% for doc in docs %}
+  {% if doc.title and doc.search != false and doc.exclude_from_search != true and doc.url != "/404.html" %}
+    {% unless first %},{% endunless %}
+    {% assign first = false %}
+    {
+      "title": {{ doc.title | jsonify }},
+      "url": {{ doc.url | absolute_url | jsonify }},
+      "content": {{ doc.content
+        | strip_html
+        | replace: "\r", " "
+        | replace: "\n", " "
+        | replace: "\t", " "
+        | replace: "  ", " "
+        | strip
+        | slice: 0, 1000
+        | jsonify }}
+    }
+  {% endif %}
 {% endfor %}
 ]
