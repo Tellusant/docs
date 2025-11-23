@@ -7,11 +7,12 @@
   const RESULTS = document.getElementById("search-results");
   const META = document.getElementById("search-meta");
 
-  // Jekyll will expand this to /docs/search.json
+  // Jekyll expands this to /docs/search.json
   const INDEX_URL = "{{ "/search.json" | relative_url }}";
 
   let documents = [];
   let idx = null;
+  let indexError = false;
 
   function debounce(fn, ms) {
     let t;
@@ -21,21 +22,28 @@
     };
   }
 
-  function getInitialQuery() {
+  function getURLQuery() {
     const params = new URLSearchParams(window.location.search);
     return (params.get("q") || "").trim();
   }
 
   async function loadIndex() {
-    const res = await fetch(INDEX_URL);
-    documents = await res.json();
+    try {
+      const res = await fetch(INDEX_URL);
+      if (!res.ok) throw new Error("Failed to fetch search index");
+      documents = await res.json();
 
-    idx = lunr(function () {
-      this.ref("url");
-      this.field("title", { boost: 10 });
-      this.field("content");
-      documents.forEach(doc => this.add(doc));
-    });
+      idx = lunr(function () {
+        this.ref("url");
+        this.field("title", { boost: 10 });
+        this.field("content");
+        documents.forEach(doc => this.add(doc));
+      });
+    } catch (e) {
+      console.error("Search index load error:", e);
+      indexError = true;
+      if (META) META.textContent = "Could not load search index.";
+    }
   }
 
   function highlight(text, terms) {
@@ -52,12 +60,12 @@
   function snippet(content, terms, maxLen = 180) {
     if (!content) return "";
     const lower = content.toLowerCase();
-    let idx = -1;
+    let iHit = -1;
     for (const t of terms) {
       const i = lower.indexOf(t.toLowerCase());
-      if (i !== -1) { idx = i; break; }
+      if (i !== -1) { iHit = i; break; }
     }
-    let start = Math.max(0, idx - 60);
+    let start = Math.max(0, iHit - 60);
     let snip = content.slice(start, start + maxLen);
     if (start > 0) snip = "…" + snip;
     if (start + maxLen < content.length) snip = snip + "…";
@@ -65,11 +73,14 @@
   }
 
   function render(results, terms) {
+    if (!RESULTS || !META) return;
     RESULTS.innerHTML = "";
+
     if (!results.length) {
       META.textContent = "No results";
       return;
     }
+
     META.textContent = `${results.length} result${results.length > 1 ? "s" : ""}`;
 
     results.slice(0, 50).forEach(({ ref }) => {
@@ -92,38 +103,52 @@
     });
   }
 
-  const onInput = debounce(() => {
+  const runSearch = debounce(() => {
+    if (!INPUT || !META || indexError) return;
+
     const q = INPUT.value.trim();
-    if (!q || !idx) {
-      META.textContent = q ? "Index loading…" : "";
+    if (!q) {
+      META.textContent = "";
       RESULTS.innerHTML = "";
       return;
     }
+
+    if (!idx) {
+      META.textContent = "Index loading…";
+      return;
+    }
+
     try {
       const terms = q.split(/\s+/).filter(Boolean);
       const query = terms.map(t => `${t}*`).join(" ");
       const results = idx.search(query);
       render(results, terms);
     } catch (e) {
-      console.warn(e);
-      META.textContent = "Search error";
+      console.warn("Search error:", e);
+      META.textContent = "Search error.";
     }
   }, 120);
 
-  INPUT?.addEventListener("input", onInput);
+  async function init() {
+    if (!INPUT) return;
 
-  let loaded = false;
-  async function ensureLoaded() {
-    if (loaded) return;
-    loaded = true;
+    // Prefill from ?q= if present
+    const initial = getURLQuery();
+    if (initial) {
+      INPUT.value = initial;
+    }
+
+    // Start loading index in background
     await loadIndex();
 
-    const initial = getInitialQuery();
-    if (initial && INPUT) {
-      INPUT.value = initial;
-      onInput(); // run search immediately with initial query
+    // If we already have a query (from ?q= or user typing before index finished), run it now
+    if (INPUT.value.trim()) {
+      runSearch();
     }
+
+    // Now normal live search
+    INPUT.addEventListener("input", runSearch);
   }
 
-  window.addEventListener("load", ensureLoaded);
+  window.addEventListener("load", init);
 })();
