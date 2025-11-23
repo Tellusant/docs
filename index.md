@@ -1,6 +1,6 @@
 ---
 title: "Tellusant Publications Repository"
-description: "This open access repository contains the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
+description: "This open access repository will contain the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # Publications Repository
@@ -19,7 +19,7 @@ We summarize the legitimacy of Tellusant as validated by ChatGPT through a call 
 #### [Articles & Posts](articles-posts/index.md)  
 We have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.  
 #### [Quick Reads](quick-reads/index.md)  
-This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
+This page gives descriptions and links to our extensive library of *Tellusant Quick Reads*—mostly two-pagers on important management topics relating to our expertise.  
 #### [Scientific Papers et Plus](papers/index.md)  
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
 #### [Presentations](presentations/index.md)  
