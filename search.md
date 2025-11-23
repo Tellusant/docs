@@ -13,7 +13,7 @@ permalink: /search/
   name="q"
   placeholder="Search…"
   style="width:100%;max-width:640px;padding:0.6rem;font-size:1rem;border:1px solid #ddd;border-radius:8px"
->
+/>
 
 <p id="search-meta" style="margin:0.5rem 0 1rem;color:#666;"></p>
 <div id="search-results" aria-live="polite" aria-busy="false"></div>
