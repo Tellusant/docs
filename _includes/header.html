@@ -1,17 +1,29 @@
 <header class="site-header">
   <div class="header-inner">
+
+    <!-- Site title -->
     <a class="site-title" href="{{ '/' | relative_url }}">
       {{ site.title }}
     </a>
 
-  <nav class="site-nav">
-  <a href="{{ 'about' | relative_url }}">About</a>
-  <a href="{{ 'contact' | relative_url }}">Contact</a>
-  <a href="https://tellusant.com" target="_blank">Website</a>
-</nav>
+    <!-- Navigation -->
+    <nav class="site-nav">
+      <a href="{{ 'about' | relative_url }}">About</a>
+      <a href="{{ 'contact' | relative_url }}">Contact</a>
+      <a href="https://tellusant.com" target="_blank">Website</a>
+
+      <!-- Search box in header -->
+      <form action="{{ "/search/" | relative_url }}" method="get" class="header-search-form">
+        <input
+          type="search"
+          name="q"
+          placeholder="Search…"
+          aria-label="Search"
+          class="header-search-input"
+          onfocus="window.location.href='{{ "/search/" | relative_url }}'"
+        >
+      </form>
+    </nav>
+
   </div>
-  <nav class="site-nav">
-  <!-- existing links -->
-  <a href="{{ "/search/" | relative_url }}">Search</a>
-</nav>
 </header>
