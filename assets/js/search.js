@@ -21,6 +21,11 @@
     };
   }
 
+  function getInitialQuery() {
+    const params = new URLSearchParams(window.location.search);
+    return (params.get("q") || "").trim();
+  }
+
   async function loadIndex() {
     const res = await fetch(INDEX_URL);
     documents = await res.json();
@@ -108,12 +113,17 @@
   INPUT?.addEventListener("input", onInput);
 
   let loaded = false;
-  function ensureLoaded() {
+  async function ensureLoaded() {
     if (loaded) return;
     loaded = true;
-    loadIndex().then(onInput);
+    await loadIndex();
+
+    const initial = getInitialQuery();
+    if (initial && INPUT) {
+      INPUT.value = initial;
+      onInput(); // run search immediately with initial query
+    }
   }
 
   window.addEventListener("load", ensureLoaded);
-  INPUT?.addEventListener("focus", ensureLoaded);
 })();
