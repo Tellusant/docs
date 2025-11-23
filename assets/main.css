@@ -167,3 +167,30 @@ pre {
     font-size: 0.95rem;
   }
 }
+
+/* --- Header Search Box Styles --- */
+
+.header-search-form {
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+.header-search-input {
+  padding: 4px 8px;
+  font-size: 0.95rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+}
+
+/* Make the input look good inside the horizontal nav */
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem; /* spacing between links and search box */
+}
+
+.header-search-input:focus {
+  outline: none;
+  border-color: #888;
+}
