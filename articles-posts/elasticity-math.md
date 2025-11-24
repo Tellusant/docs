@@ -1,6 +1,6 @@
 ---
 title: "Elasticity Math"
-description: "why do we use logarithms when calculating elasticities? Here is the answer."
+description: "Why do we use logarithms when calculating elasticities? Here is the answer."
 image: /assets/social-card-pub.png
 ---
 # Elasticity Math  
