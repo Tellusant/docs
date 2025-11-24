@@ -26,6 +26,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Past
 
+#### [Elasticiy Math](elasticity-math.md) post
+
 #### [The Future Is Math](future-is-math.md)  post   
 
 #### [Tellusant at the Forefront of the AI Revolution](ai-revolution-forefront.md)  post  
