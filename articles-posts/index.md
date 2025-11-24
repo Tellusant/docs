@@ -10,6 +10,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
+
 ## Recent
 
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
@@ -21,6 +22,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [The PoluSim Universe](polusim-universe.md) post  
 
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article   
+<br/>
 
 ## Earlier
 
