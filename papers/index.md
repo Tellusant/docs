@@ -17,7 +17,7 @@ Consumer goods companies have increasingly been in the news for raising prices i
 #### [Canback: Bureaucratic Limits of Firm Size - Empirical Analysis Using Transaction Cost Economics](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
 Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won first prize in EDAMBA's competition for best dissertation in management science in 2002.  
 
-In addition to the subject matter, the dissertation deploys **sophisticated statistical analysis methods later used within Tellusant**. In particular, structural equation modeling.
+In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
 #### [Canback: Bureaucratic Limits of Firm Size - Practitioner Summary](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
