@@ -4,6 +4,9 @@ description: "Hur ska ett exportberoende land som Sverige agera för att bibehå
 image: /assets/social-card-pub.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
+*Dr Staffan Canbäck. Tellusant*
+
+---
 
 <p align="center">
 <img  src="assets/images/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
