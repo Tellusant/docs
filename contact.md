@@ -1,11 +1,10 @@
 # Tellusant Contact Information  
 
-**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [info@tellusant](mailto:info@tellusant)  
-**Tel**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  +1-617-394-1800  
-**Address**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  240 Elm Street, Suite 200  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Somerville MA 02144  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  United States  
-**Timezone**&nbsp;&nbsp; Eastern Time (UTC-5)  
-**Websites**&nbsp;&nbsp;&nbsp; [tellusant.com](https://tellusant.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [tellubase.com](https://tellubase.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Publications Repository on GitHub Pages](https://tellusant.github.io/docs/)  
+|  |  |
+|---|---|
+| **Location** | Boston, Massachusetts |
+| **Address** | Tellusant, Inc. <br/> 240 Elm Street, Suite 200 <br/> Somerville MA 02144 <br/> United States |
+| **Email** | [info@tellusant](mailto:info@tellusant) |
+| **Tel** | +1-617-394-1800 |
+| **Timezone**  | Eastern Time (UTC-5) |
+| **Websites** | [tellusant.com](https://tellusant.com) <br/> [tellubase.com](https://tellubase.com) <br/> [Publications Repository on GitHub Pages](https://tellusant.github.io/docs/) |
