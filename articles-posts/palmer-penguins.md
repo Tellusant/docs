@@ -4,7 +4,7 @@ description: "Penguins are an unlikely influence on management science, but this
 image: /assets/social-card-penguins.png
 ---
 # The Palmer Penguins and their Role in Business  
-***Dr. Staffan Canback***  
+*Dr. Staffan Canback, Tellusant*  
 
 ---
 <p align="center">
