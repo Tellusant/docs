@@ -21,7 +21,7 @@ permalink: /search.json
         | replace: "\t", " "
         | replace: "  ", " "
         | strip
-        | slice: 0, 1000
+        | slice: 0, 3000
         | jsonify }}
     }
   {% endif %}
