@@ -120,8 +120,9 @@
 
     try {
       const terms = q.split(/\s+/).filter(Boolean);
-      const query = terms.map(t => `${t}*`).join(" ");
-      const results = idx.search(query);
+// Before: const query = terms.map(t => `${t}*`).join(" ");
+const query = terms.join(" ");
+const results = idx.search(query);
       render(results, terms);
     } catch (e) {
       console.warn("Search error:", e);
