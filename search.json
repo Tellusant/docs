@@ -12,8 +12,8 @@ permalink: /search.json
     {% unless first %},{% endunless %}
     {% assign first = false %}
     {
+      "debug_marker": "INDEX_VERSION_3",
       "title": {{ doc.title | jsonify }},
-  "debug_marker": "INDEX_VERSION_3",
       "url": {{ doc.url | absolute_url | jsonify }},
       "content": {{ doc.content
         | strip_html
