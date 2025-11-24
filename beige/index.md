@@ -10,8 +10,6 @@ The Beige Book is useful for, among others, CEOs and management teams who want t
 
 We compute a composite score for each of the 12 districts based on the wording in the report, then sum the scores weighted by the GDP of each district.
 
-A retrospective comparison by us between our Beige Book metric and actual GDP growth is found here: [Comparative Analysis](https://www.linkedin.com/posts/scanback_economy-gdp-usa-activity-6623665605125955584-24lF/).  
-
 ---
 ## October 2025
 
@@ -34,6 +32,6 @@ Six are flat.
 Tariffs and erratic government policies are  likely causes of the poor performance.  
 <br/>
 
-## Validation
+## Retrospective Comparison
 
 #### [Comparison of Fed Beige Book Score and Actual GDP Growth](fed-beige-book-vs-actual-gdp.md)  
