@@ -7,4 +7,4 @@
 | **Email** | [info@tellusant](mailto:info@tellusant) |
 | **Tel** | +1-617-394-1800 |
 | **Timezone**  | Eastern Time (UTC-5) |
-| **Websites** | [tellusant.com](https://tellusant.com) <br/> [tellubase.com](https://tellubase.com) <br/> [Publications Repository on GitHub Pages](https://tellusant.github.io/docs/) |
+| **Websites** | [tellusant.com](https://tellusant.com) <br/> [tellubase.com](https://tellubase.com) <br/> [Publications Repository](https://tellusant.github.io/docs/) |
