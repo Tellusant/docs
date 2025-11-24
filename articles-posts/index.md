@@ -27,6 +27,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ## Past
 
 #### [Elasticiy Math](elasticity-math.md) post
+Why do we use logarithms when calculating elasticities? Here is the answer.  
 
 #### [The Future Is Math](future-is-math.md)  post   
 
