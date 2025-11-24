@@ -10,6 +10,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
  
 
 ---
+## Recent
+
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
 
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
@@ -19,6 +21,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [The PoluSim Universe](polusim-universe.md) post  
 
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article   
+
+## Earlier
 
 #### [The Future Is Math](future-is-math.md)  post   
 
