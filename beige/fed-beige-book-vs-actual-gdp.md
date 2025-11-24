@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Fed Beige Book Score and Actual GDP Growth"
 description: "Does the Beige Book score correlate with actual GDP growth. It does."
-image: /assets/social-card-pub.png
+image: /assets/social-card-beig.png
 ---
 # Comparison of Fed Beige Book Score and Actual GDP Growth
 
