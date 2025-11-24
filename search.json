@@ -13,6 +13,7 @@ permalink: /search.json
     {% assign first = false %}
     {
       "title": {{ doc.title | jsonify }},
+  "debug_marker": "INDEX_VERSION_3",
       "url": {{ doc.url | absolute_url | jsonify }},
       "content": {{ doc.content
         | strip_html
