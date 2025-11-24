@@ -5,3 +5,5 @@ image: /assets/social-card-pub.png
 ---
 # U.S. E-commerce Trends
 TBD once the Nov 19 release is available. It is delayed for unknown reasons.
+
+We have tracked e-commerce since covid started  to see how the market evolves relative to pre-covid trends.
