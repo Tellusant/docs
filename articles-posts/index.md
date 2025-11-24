@@ -24,7 +24,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article   
 <br/>
 
-## Earlier
+## Past
 
 #### [The Future Is Math](future-is-math.md)  post   
 
