@@ -33,3 +33,7 @@ Six are flat.
 
 Tariffs and erratic government policies are  likely causes of the poor performance.  
 
+## 
+
+
+[Comparison](fed-beige-book-vs-actual-gdp.md)  
