@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 # Fast-Moving Consumer Goods Demand Levers
 
-*Dr. Staffan Canback*
+*Dr. Staffan Canback, Tellusant*
 
 ---
 We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used? Yes.  
