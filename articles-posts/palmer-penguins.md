@@ -43,7 +43,7 @@ Interesting, but how does it affect companies beyond new tools like ChatGPT? The
 </p>
 This analysis first used principal component analysis (PCA) to find relevant dimensions, then kernel density estimation to create the clusters. Easy to do in ChatGPT.
 
-The difficult part is not in the calculations. It is in having the vision that this can be done and that the outcome is useful for companies. Most people do not even try because they lack the vision, and the credibility to be believed.
+The difficult part is not in the calculations. It is in having the vision that this can be done and that the outcome is useful for companies. Most people do not even try because they lack the vision and the credibility to be believed.
 
 ## The Road Ahead
 
@@ -87,7 +87,7 @@ But Fortune 500 companies will still be learning how to integrate that into job 
 > - *trust calibration (“when can I rely on it?”)*
 > 
 > *These are slow-moving psychological transitions, even in high-talent organizations.
-Human limits don’t slow the start, they slow the finish*
+Human limits don’t slow the start, they slow the finish.*
 
 ---
 
