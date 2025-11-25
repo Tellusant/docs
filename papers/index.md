@@ -26,7 +26,7 @@ This is an easy to digest summary of the dissertation void of any quantitative a
 Growth is an important topic for most firms. Yet they often lack a framework for organizing their thoughts on growth. This may lead
 to an inability to identify, quantify, and capture growth opportunities. This paper, based on parts of Dr. Canback's doctoral research, sheds light on the issue.  
 
-#### [Canback & Burginyoung: Strategic Planning - The Tellusant Synthesis](Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)
+#### [Canback & Burginyoung: Toward an Integrated Strategy Development Framework: A New Synthesis Based on the Giants of the Past](toward-an-integrated-strategy-development-framework.md)
 Strategic planning often suffers from inconsistencies by cycle and business unit, a slow process, and a lack of faith in results. Companies need to find solutions to improve this critical aspect of their business.
 
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
