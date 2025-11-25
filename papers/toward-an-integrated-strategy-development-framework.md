@@ -215,18 +215,18 @@ This paper is aimed at introducing executives to an integrated approach to strat
 ---
 ## REFERENCES
 
-U.S. Marine Corps (1997): *Marine Corps Doctrinal Publication 1: Warfighting*. Department of the Navy  
-J. Bain ([1959] 1968): *Industrial Organization, 2 ed*. John Wiley & Sons  
-J. Stuckey (2008): *Enduring Ideas: The SCP Framework*. Retrieved from mck.co/3E8aipN  
-M. Porter (1980): *Competitive Strategy*. Free Press  
-M. Porter (1985): *Competitive Advantage*. Free Press  
-B. Wernerfelt (1984): *A Resource-based View of the Firm*. Strateg. Manag. J.   
-O. Jurevicius (2021): *Resource-based View*. Retrieved from bit.ly/3lk4zpi  
-J. B. Barney (1991): *Firm Resources and Sustained Competitive Advantage*. Strateg. Manag. J.  
-C.K. Prahalad and Hamel, G. (1990): *The Core Competence of the Corporation*. Harv. Bus. Rev.
-R. Martin (2017): *Strategic Choices Need to Be Made Simultaneously, Not Sequentially*. Harv. Bus. Rev.
-M.K. Smith (2013): Chris Argyris: *Theories of Action, Double-loop Learning and Organizational Learning*. Retrieved from bit.ly/3o6JY9R
-A.M. Abubakar et al. (2018):  *Knowledge Management, Decision-making Style and Organizational Performance*. J. Innov. Knowl.
+1. U.S. Marine Corps (1997): *Marine Corps Doctrinal Publication 1: Warfighting*. Department of the Navy  
+2. J. Bain ([1959] 1968): *Industrial Organization, 2 ed*. John Wiley & Sons  
+3. J. Stuckey (2008): [*Enduring Ideas: The SCP Framework*](mck.co/3E8aipN)   
+4. M. Porter (1980): *Competitive Strategy*. Free Press  
+5. M. Porter (1985): *Competitive Advantage*. Free Press  
+6. B. Wernerfelt (1984): *A Resource-based View of the Firm*. Strateg. Manag. J.   
+7. O. Jurevicius (2021): *Resource-based View*. Retrieved from bit.ly/3lk4zpi  
+8. J. B. Barney (1991): *Firm Resources and Sustained Competitive Advantage*. Strateg. Manag. J.  
+9. C.K. Prahalad and Hamel, G. (1990): *The Core Competence of the Corporation*. Harv. Bus. Rev.
+10. R. Martin (2017): *Strategic Choices Need to Be Made Simultaneously, Not Sequentially*. Harv. Bus. Rev.
+11. M.K. Smith (2013): [*Chris Argyris: Theories of Action, Double-loop Learning and Organizational Learning*](https://infed.org/dir/welcome/chris-argyris-theories-of-action-double-loop-learning-and-organizational-learning/)
+12. A.M. Abubakar et al. (2018):  *Knowledge Management, Decision-making Style and Organizational Performance*. J. Innov. Knowl.
 
 
 
