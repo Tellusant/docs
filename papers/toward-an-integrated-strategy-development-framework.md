@@ -7,7 +7,8 @@ image: /assets/social-card-pub.png
 # Toward an Integrated Strategy Development Framework: A New Synthesis Based on the Giants of the Past
 *Dr Staffan Canback & Philip Burginyoung, Tellusant*
 
-WIP
+WIP ¹²³⁴⁵⁶⁷⁸⁹⁰
+
 
 For the time being, see PDF version at [Strategic Planning—The Tellusant Synthesis](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)
 
@@ -27,7 +28,7 @@ The starting point is a review of what strategy is and how it has evolved since 
 
 ### 1.1 Strategy Versus Operations and Tactics
 
-What is strategy? Having a correct definition is crucial to any strategist. The U.S. Marine Corps' definition in manual #1, 'Warfighting' is instructive. It builds on thousands of years of strategy definitions.
+What is strategy? Having a correct definition is crucial to any strategist. The U.S. Marine Corps' definition in manual #1, 'Warfighting' is instructive.¹ It builds on thousands of years of strategy tradition arguably starting with Sun Tzu.
 
 The Marine Corps definition is therefore adapted to a corporate setting. Corpo-rate activities thus take place at three interrelated levels:  
 
@@ -73,7 +74,7 @@ This is discussed in the rest of the chapter.
 Strategy frameworks were first introduced in the late 1950s and have been en-hanced and expanded on till this day. The new framework incorporates the most important contributions into a coherent whole.
 
 #### 2.1.1 Structure—Conduct—Performance (SCP)
-Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.  In it he described the SCP paradigm. Even today, it is the dominant strategic framework in academia, and thousands of firms have ap-plied it over the years.  
+Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.²  In it he described the SCP paradigm. Even today, it is the dominant strategic framework in academia, and thousands of firms have ap-plied it over the years.  
 
 The graph below shows the elements of SCP.  
 
