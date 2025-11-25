@@ -20,7 +20,7 @@ The following chapters discuss:
 
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
 
-[g[
+[g]
 
 ## 1. STRATEGY DEFINITIONS
 The starting point is a review of what strategy is and how it has evolved since the late 1950s. Any new framework must take at least some of the various his-torical strategy concepts into account to be credible.  
@@ -162,7 +162,71 @@ The cube is a visual reminder of what a strategic plan should contain. It is eas
   
 The next chapter turns to the practicalities of building a robust process for stra-tegic planning. It starts with observations on why strategic planning is difficult.  
 
+## 3. STRATEGIC PLANNING PROCESS
+Here, the strategic planning is codified its strategic planning process in a work-flow. It is derived by reviewing the obstacles to efficient planning and ends with the workflow.
 
+### 3.1 Strategic Planning Performance
+Late in 2020, interviews were conducted with senior executives and a survey was carried out to see what the views on strategic planning are. The graph below shows that executives find the strategic plans highly valuable. However, they hold a negative view on how the process to create such plans work.  
+
+[g]
+
+Executives uniformly found the process inefficient, costly (especially consider-ing opportunity costs) and old-fashioned. Verbatim quotes from those inter-views make the point.  
+
+-	“Most of executives’ time is spent on checking the analysts’ numbers rather than thinking about the issues.”
+-	“I can't trust any data we have; it's ever changing. I can't trust anyone to do a correct analysis. Our planning is a joke! “
+-	“Every year new analysts join the planning process. They usually have no clue how to analyze our markets.”
+-	“The current process takes 5 months. It is too slow and labor intense.”
+-	“Current tools are Excel, PowerPoint, and email.”
+-	“Having a platform with standardized and harmonized data would be great. Today each unit does it in a way that makes it look good. There is not one version of the truth.”  
+
+It is evident that the process can and should be improved.
+
+### 3.2 Higher-Order Cognitive Processes  
+A key reason why the process is inefficient or even dysfunctional is that strate-gic planning is difficult. It belongs to a small group of efforts that can truly be described as higher-order cognitive processes.  
+
+The graph below shows how various processes rank in a cognitive stack. It also shows when automation efforts approximately started at the different levels.  
+
+[g]
+
+By 2020, the highest-order cognitive processes see little automation and stream-lining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
+
+[g]
+
+### 3.3 Decision-Making Framework
+Another important consideration is how decisions are made within organiza-tions. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work. 
+
+[g]
+
+Note that the rational style can take a company only so far. Rationality can be replicated, or in the terms of the RBV framework (discussed in the previous chapter), it is neither heterogeneous nor immobile. The intuitive style is what truly is unique to a company.  
+
+A well-functioning strategic planning process frees up to capacity to be intuitive and creative. By having a streamlined process of a) decision enablers, and b) decision context, decision making is allowed to find the right balance between rational and intuitive styles.
+
+### 3.4 Strategic Planning Workflow
+With this considered, a strategic planning workflow is suggested to facilitate the process. It runs over 2-3 months instead of the usual 3-5 months (depending on the size and complexity of the company or business unit). It is predicated on using cloud-based tools rather than the old-fashioned Excel-PowerPoint-Email method.  
+
+Above is an example of the process (here a two-month effort). Words are inten-tionally greyed out.
+The process captures all aspects of the strategy cube with the possibility to de-lete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the deci-sion-making styles.
+This introductory paper cannot cover all aspects of the workflow. It is provided as guidance for the people involved in the strategic planning effort to show that it possible to make strategic more rationale and efficient.
+
+
+## *CONCLUSION*
+This paper is aimed at introducing executives to an integrated approach to strategy development and to demonstrate how the thinking of strategy giants can be used. It is based on a thorough review of the subject matter and on a deep knowledge of the academic underpinnings, as well the practical experiences of the author.  
+
+---
+## REFERENCES
+
+U.S. Marine Corps (1997): *Marine Corps Doctrinal Publication 1: Warfighting*. Department of the Navy  
+J. Bain ([1959] 1968): *Industrial Organization, 2 ed*. John Wiley & Sons  
+J. Stuckey (2008): *Enduring Ideas: The SCP Framework*. Retrieved from mck.co/3E8aipN  
+M. Porter (1980): *Competitive Strategy*. Free Press  
+M. Porter (1985): *Competitive Advantage*. Free Press  
+B. Wernerfelt (1984): *A Resource-based View of the Firm*. Strateg. Manag. J.   
+O. Jurevicius (2021): *Resource-based View*. Retrieved from bit.ly/3lk4zpi  
+J. B. Barney (1991): *Firm Resources and Sustained Competitive Advantage*. Strateg. Manag. J.  
+C.K. Prahalad and Hamel, G. (1990): *The Core Competence of the Corporation*. Harv. Bus. Rev.
+R. Martin (2017): *Strategic Choices Need to Be Made Simultaneously, Not Sequentially*. Harv. Bus. Rev.
+M.K. Smith (2013): Chris Argyris: *Theories of Action, Double-loop Learning and Organizational Learning*. Retrieved from bit.ly/3o6JY9R
+A.M. Abubakar et al. (2018):  *Knowledge Management, Decision-making Style and Organizational Performance*. J. Innov. Knowl.
 
 
 
