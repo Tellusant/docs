@@ -116,7 +116,7 @@ Cascade of Choices is as much about process as it is about substance. It is a pr
 Based on the classical frameworks a new synthesis is created: the Environ-ment—Market—Initiatives—Outcomes (EMIO) framework shown in the graph below.
 
 <p align="center">
-<img  src="assets/images/tellusant-cube-0.webp" width="500" alt="Tellusant Cube 0">
+<img  src="assets/images/tellusant-cube-0.webp" width="400" alt="Tellusant Cube 0">
 <p/>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
