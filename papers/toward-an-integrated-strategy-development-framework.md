@@ -79,5 +79,15 @@ The graph below shows the elements of SCP.
 
 [g]
 
+McKinsey & Co updated the framework in the 1980s with a dynamic compo-nent.  Industries tend to experience shocks such as a recession, inflation, tech-nology shifts, and more. Such shocks lead to changes in market structures, im-pacting player conduct in those markets, and resulting in altered performance levels.
+Strategies are revised to adjust to these new conditions, leading to continuous renewal for those that are quick to recognize changes.
+
+#### Five Forces and Value Chain
+Porter's Five Forces framework  is a direct outgrowth from SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An ex-ample is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.
+
+[g]
+
+
+
 
 
