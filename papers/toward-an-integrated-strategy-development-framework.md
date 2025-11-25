@@ -116,7 +116,7 @@ Cascade of Choices is as much about process as it is about substance. It is a pr
 Based on the classical frameworks a new synthesis is created: the Environ-ment—Market—Initiatives—Outcomes (EMIO) framework shown in the graph below.
 
 <p align="center">
-<img  src="assets/images/tellusant-cube-0.webp" width="400" alt="Tellusant Cube 0">
+<img  src="assets/images/tellusant-cube-0.webp" width="300" alt="Tellusant Cube 0">
 <p/>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
@@ -130,7 +130,9 @@ The graph below shows how the elements of the four classical frameworks are inco
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-cube-1.webp" width="500" alt="Tellusant Cube 1">
+<p/>
 
 ## 2.3 Emerging Trends
 Turning to emerging trends—the themes of the day, so to speak. These are of importance because companies do not operate in a micro-economic vacuum. There are always major shifts in what topics should be considered. Some of them are short-term and do not belong in a strategy. Others are medium- or long-term and must be considered in a strategic plan.  
@@ -148,14 +150,18 @@ Based on discussions with executives and experts, these are current trends that 
 
 The second part of the cube is now populated, as seen below. The question mark in the graph can be any relevant temporary theme.  
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-cube-2.webp" width="500" alt="Tellusant Cube 2">
+<p/>
 
 At the start of a strategy development effort, relevant trends like the seven de-scribed above should be identified by the executive team.  
 
 ## 2.4 Complete Framework
 At this point the strategy cube is fully populated covering both the static micro-economic component and the dynamic trends components.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-cube-3.webp" width="500" alt="Tellusant Cube 3">
+<p/>
 
 The cube is a visual reminder of what a strategic plan should contain. It is easy to remember and to refer to. As such, it simplifies one aspect of a complex topic. 
 
