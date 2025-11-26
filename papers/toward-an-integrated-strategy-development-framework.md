@@ -21,7 +21,7 @@ The following chapters discuss:
 
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
 
-<p align=center">
+<p align="center">
 **Graph 1**
 [g]
 </p>
@@ -35,7 +35,7 @@ What is strategy? Having a correct definition is crucial to any strategist. The 
 
 The Marine Corps definition is here adapted to a firm setting. Corporate activities thus take place at three interrelated levels:  
 
-<p align=center">
+<p align="center">
 **Graph 2**
 [g]
 </p>
@@ -49,7 +49,7 @@ Sometimes strategy and operations are part of the same plan. This is called a st
 ### 1.2 Differences Between Planning Processes
 Many executives are unclear about the differences between strategy (development), strategic planning, and financial budgeting. The graph below shows these differences.  
 
-<p align=center">
+<p align="center">
 **Graph 3**
 [g]
 </p>
