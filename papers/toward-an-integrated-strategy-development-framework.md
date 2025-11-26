@@ -213,7 +213,7 @@ The graph below shows how various processes rank in a cognitive stack. It also s
 
 **Graph 15**  
 <p align="center">
-<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
+<img  src="assets/images/tellusant-corporate-cognitive-stack.svg" alt="Tellusant - Corporate cognitive stack">
 </p>
 
 By 2020, the highest-order cognitive processes see little automation and stream-lining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
@@ -223,7 +223,7 @@ Another important consideration is how decisions are made within organiza-tions.
 
 **Graph 16**  
 <p align="center">
-<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
+<img  src="assets/images/tellusant-corporate-decision-making-framework.svg" alt="Tellusant - Corporate decision-making framework">
 </p>
 
 Note that the rational style can take a company only so far. Rationality can be replicated, or in the terms of the RBV framework (discussed in the previous chapter), it is neither heterogeneous nor immobile. The intuitive style is what truly is unique to a company.  
@@ -235,7 +235,7 @@ With this considered, a strategic planning workflow is suggested to facilitate t
 
 **Graph 17**  
 <p align="center">
-<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
+<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Tellusant - Strategy development process">
 </p>
 
 Above is an example of the process (here a two-month effort). Words are inten-tionally greyed out.
