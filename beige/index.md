@@ -1,4 +1,4 @@
-ber---
+---
 title: "Beige Book Analysis - Nov. 26, 2025"
 description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
 image: /assets/social-card-beig.png
