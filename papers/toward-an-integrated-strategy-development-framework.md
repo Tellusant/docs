@@ -151,7 +151,7 @@ The graph below shows how the elements of the four classical frameworks are inco
 
 **Graph 10**  
 <p align="center">
-<img  src="assets/images/tellusant-emio-reconciliation.svg" width="550" alt="Tellusant EMIO reconciliation">
+<img  src="assets/images/tellusant-reconciliation-of-emio-with-leading-authorities.svg" width="550" alt="Tellusant EMIO reconciliation">
 </p>
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
@@ -168,6 +168,7 @@ This explicit focus on trends is new to strategy frameworks.
 
 Based on discussions with executives and experts, these are current trends that impact strategic planning. The list will differ by industry and geography, but this list of seven trends serves as a starting point.  
 -	*Artificial intelligence*: This theme is likely to be central over the next several decades. Every aspect of a business will be affected by AI (and its sub-field ML).
+  
 -	*Climate & Sustainability*: This encompasses environmental (e.g., climate change, green issues), social (diversity, work practices), and economic (e.g., business vitality, equality) sustainability. This is theme for many years to come and climate change is likely the defining theme of the 21st century.
 -	*Digital*: In this context, digital are all the new methods for communicating with customers, suppliers, and society at large. It includes e-commerce. This trend may be peaking now with perhaps 10 years remaining of innovative developments.
 -	*Aging societies*: According to the UN and others, this will be an important trend for the rest of the century. Product and service offerings are likely to be fundamentally reshaped.
