@@ -8,16 +8,11 @@ image: /assets/social-card-pub.png
 ## A New Synthesis Based on the Giants of the Past
 *Dr Staffan Canback & Philip Burginyoung, Tellusant*
 
-*For the time being, see PDF version at [Strategic Planning—The Tellusant Synthesis](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)*
-
-WIP ¹²³⁴⁵⁶⁷⁸⁹¹⁰
-
----
 There are numerous definitions of strategy for corporate planning purposes. Most are poorly thought through and of little value. The goal of this paper is to to take the most important contributions to strategy science since the late 1950s and integrate them into coherent perspective.  
 
-The following chapters discuss:   
-- Strategy definitions and history  
--	A new strategy development framework based on exisiting authoriites  
+This paper discussess:   
+- Strategy history and definitions by keading authorities
+-	A new strategy development framework integrating those authorities and adding a dynamic component for emerging trends
 -	A new strategy development process incorporating key learnings from industrial psychology and strategic planning  
 
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
