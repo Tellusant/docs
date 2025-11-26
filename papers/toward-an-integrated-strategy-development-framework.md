@@ -172,7 +172,7 @@ The cube is a visual reminder of what a strategic plan should contain. It is eas
 The next chapter turns to the practicalities of building a robust process for stra-tegic planning. It starts with observations on why strategic planning is difficult.  
 
 ## 3. STRATEGIC PLANNING PROCESS
-Here, the strategic planning is codified its strategic planning process in a work-flow. It is derived by reviewing the obstacles to efficient planning and ends with the workflow.
+Here, the strategic planning process is codified. It is derived by reviewing the obstacles to efficient planning and ends with the workflow.
 
 ### 3.1 Strategic Planning Performance
 Late in 2020, interviews were conducted with senior executives and a survey was carried out to see what the views on strategic planning are. The graph below shows that executives find the strategic plans highly valuable. However, they hold a negative view on how the process to create such plans work.  
