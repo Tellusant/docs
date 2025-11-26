@@ -4,13 +4,13 @@ description: "A New Synthesis Based on the Giants of the Past"
 image: /assets/social-card-pub.png
 ---
 
-# Toward an Integrated Strategy Development Framework: A New Synthesis Based on the Giants of the Past
-*Dr Staffan Canback & Philip Burginyoung, Tellusant*
+# Toward an Integrated Strategy Development Framework
+## A New Synthesis Based on the Giants of the Past
+*Dr Staffan Canback & Philip Burginyoung, Tellusant
+
+*For the time being, see PDF version at [Strategic Planning—The Tellusant Synthesis](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)*
 
 WIP ¹²³⁴⁵⁶⁷⁸⁹⁰
-
-
-For the time being, see PDF version at [Strategic Planning—The Tellusant Synthesis](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)
 
 There are numerous definitions of strategy for corporate planning purposes. Most are poorly thought through and of little value. The goal of this paper is to to take the most important contributions to strategy science since the late 1950s and integrate them into coherent perspective.  
 
@@ -117,7 +117,7 @@ Based on the classical frameworks a new synthesis is created: the Environ-ment�
 
 <p align="center">
 <img  src="assets/images/tellusant-cube-0.webp" width="300" alt="Tellusant Cube 0">
-<p/>
+</p>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
 -	Explicitly covers the external environment and the resource side.  
@@ -132,8 +132,8 @@ With this, the first part of the cube is populated covering the grey parts in th
 
 <p align="center">
 <img  src="assets/images/tellusant-cube-1.webp" width="500" alt="Tellusant Cube 1">
-<p/>
-
+</p>
+  
 ## 2.3 Emerging Trends
 Turning to emerging trends—the themes of the day, so to speak. These are of importance because companies do not operate in a micro-economic vacuum. There are always major shifts in what topics should be considered. Some of them are short-term and do not belong in a strategy. Others are medium- or long-term and must be considered in a strategic plan.  
 
@@ -152,7 +152,7 @@ The second part of the cube is now populated, as seen below. The question mark i
 
 <p align="center">
 <img  src="assets/images/tellusant-cube-2.webp" width="500" alt="Tellusant Cube 2">
-<p/>
+</p>
 
 At the start of a strategy development effort, relevant trends like the seven de-scribed above should be identified by the executive team.  
 
@@ -161,13 +161,13 @@ At this point the strategy cube is fully populated covering both the static micr
 
 <p align="center">
 <img  src="assets/images/tellusant-cube-3.webp" width="500" alt="Tellusant Cube 3">
-<p/>
+</p>
 
 The cube is a visual reminder of what a strategic plan should contain. It is easy to remember and to refer to. As such, it simplifies one aspect of a complex topic. 
 
 <p align="center">
 •  •  • 
-<p/>
+</p>
   
 The next chapter turns to the practicalities of building a robust process for stra-tegic planning. It starts with observations on why strategic planning is difficult.  
 
@@ -215,7 +215,7 @@ With this considered, a strategic planning workflow is suggested to facilitate t
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
-<p/>
+</p>
 
 Above is an example of the process (here a two-month effort). Words are inten-tionally greyed out.
 The process captures all aspects of the strategy cube with the possibility to de-lete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the deci-sion-making styles.
