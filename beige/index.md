@@ -8,7 +8,9 @@ The Beige Book covers current economic activity. It is published sesqui-monthly 
 
 The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is presently.
 
-We compute a composite score for each of the 12 districts based on the wording in the report, then sum the scores weighted by the GDP of each district.
+We compute a composite score for each of the 12 districts based on the wording in the report using LLM techniques, then sum the scores weighted by the GDP of each district.
+
+We have published these nowcasts for many years on LinkedIn. The new series published here starts in October 2025.
 
 ---
 ## October 2025
