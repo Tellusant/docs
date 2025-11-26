@@ -102,7 +102,7 @@ Prof. Wernerfelt took a radically different view of what makes companies distinc
 
 **Graph 7**  
 <p align="center">
-<img  src="assets/images/tellusant-wernerfelt-resource-based-view-rbv.svg "width="500" alt="Tellusant - Birger Wernerfelt's-resource-based view (RBV)">
+<img  src="assets/images/tellusant-wernerfelt-resource-based-view-rbv.svg" width="500" alt="Tellusant - Birger Wernerfelt's-resource-based view (RBV)">
 </p>
 
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
@@ -253,11 +253,11 @@ With this considered, a strategic planning workflow is suggested to facilitate t
 
 **Graph 17**  
 <p align="center">
-<img  src="assets/images/tellusant-strategy-development-process.svg" width="1200" alt="Tellusant - Strategy development process">
+<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Tellusant - Strategy development process">
 </p>
 
-Above is an example of the process (here a two-month effort). Words are intentionally greyed out.
-The process captures all aspects of the strategy cube with the possibility to delete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the decision-making styles.
+Above is an example of the process (here a two-month effort). The process captures all aspects of the strategy cube with the possibility to delete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the decision-making styles.
+
 This introductory paper cannot cover all aspects of the workflow. It is provided as guidance for the people involved in the strategic planning effort to show that it possible to make strategic more rationale and efficient.
 
 ## *CONCLUSION*
