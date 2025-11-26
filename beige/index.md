@@ -36,6 +36,10 @@ Dallas is particularly concerning since the district has done well, or very well
 Tariffs and erratic government policies are likely causes of the poor performance.  
 <br/>
 
+## Beige Book Nowcast Archive
+
+#### [Archive](archive.md)
+
 ## Retrospective Comparison
 
 #### [Comparison of Fed Beige Book Score and Actual GDP Growth](fed-beige-book-vs-actual-gdp.md)  
