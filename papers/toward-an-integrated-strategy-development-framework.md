@@ -117,8 +117,7 @@ Prof. Wernerfelt took a radically different view of what makes companies distinc
 
 **Graph 7**  
 <p align="center">
-<img  src="assets/images/tellusant-wernerfelt-resource-based-view-rbv.svg 
-"width="500" alt="Tellusant - Birger Wernerfelt's-resource-based view (RBV)">
+<img  src="assets/images/tellusant-wernerfelt-resource-based-view-rbv.svg "width="500" alt="Tellusant - Birger Wernerfelt's-resource-based view (RBV)">
 </p>
 
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
@@ -133,7 +132,9 @@ Martin developed the Cascade of Choices framework  while at the strategy consult
 Most executives are familiar with the where to play and how to win paradigm but may not know the origin of it.
 
 **Graph 8**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-martin-cascade-of-choices.svg" width="500" alt="Tellusant - Roger Martin's cascade of choices model">
+</p>
 
 Cascade of Choices is as much about process as it is about substance. It is a process through which executives in several steps move from aspiration to what is required to succeed.
 
