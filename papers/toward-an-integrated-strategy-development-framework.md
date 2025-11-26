@@ -210,7 +210,11 @@ Here, the strategic planning process is codified. It is derived by reviewing the
 Late in 2020, interviews were conducted with senior executives and a survey was carried out to see what the views on strategic planning are. The graph below shows that executives find the strategic plans highly valuable. However, they hold a negative view on how the process to create such plans work.  
 
 **Graph 14**  
-[g]  
+tellusant-strategic-planning-survey-results.svg  
+<p align="center">
+<img  src="assets/images/tellusant-strategic-planning-survey-results.svg" alt="Tellusant - Strategic planning survey results">
+</p>
+
 
 Executives uniformly found the process inefficient, costly (especially consider-ing opportunity costs) and old-fashioned. Verbatim quotes from those inter-views make the point.  
 
