@@ -142,7 +142,7 @@ Based on the classical frameworks a new synthesis is created: the *Environmentâ€
 
 **Graph 9**  
 <p align="center">
-<img  src="assets/images/tellusant-emio-framework.svg" width="300" alt="Tellusant EMIO framework">
+<img src="assets/images/tellusant-emio-framework.svg" width="450" alt="Tellusant EMIO framework">
 </p>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
@@ -153,9 +153,8 @@ Behind each topic is a method for quantitatively or qualitatively analyzing it. 
 The graph below shows how the elements of the four classical frameworks are incorporated in EMIO. As intended, the classical frameworks are exhaustively covered in EMIO.  
 
 **Graph 10**  
-tellusant-emio-reconciliation.svg
 <p align="center">
-<img  src="tellusant-emio-reconciliation.svg" width="500" alt="Tellusant EMIO reconciliation">
+<img  src="assets/images/tellusant-emio-reconciliation.svg" width="500" alt="Tellusant EMIO reconciliation">
 </p>
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
