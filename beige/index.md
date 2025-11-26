@@ -3,7 +3,7 @@ title: "Beige Book Nowcast - Nov. 26, 2025"
 description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
 image: /assets/social-card-beig.png
 ---
-# Federal Reserve Beige Book Nowcast
+# Federal Reserve Beige Book Nowcasts
 The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month). It gives a qualitative snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
 
 The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is presently.
