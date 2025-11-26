@@ -10,7 +10,7 @@ The Beige Book is useful for, among others, CEOs and management teams who want t
 
 We compute a composite score for each of the 12 districts based on the wording in the report using LLM techniques, then sum the scores weighted by the GDP of each district.
 
-We have published these nowcasts for many years on LinkedIn. The new series published here starts in October 2025.
+We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025.
 
 ---
 ## November 2025
