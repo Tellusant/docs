@@ -142,7 +142,7 @@ Based on the classical frameworks a new synthesis is created: the *Environmentâ€
 
 **Graph 9**  
 <p align="center">
-<img src="assets/images/tellusant-emio-framework.svg" width="450" alt="Tellusant EMIO framework">
+<img src="assets/images/tellusant-emio-framework.svg" width="600" alt="Tellusant EMIO framework">
 </p>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
