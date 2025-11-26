@@ -6,12 +6,13 @@ image: /assets/social-card-pub.png
 
 # Toward an Integrated Strategy Development Framework
 ## A New Synthesis Based on the Giants of the Past
-*Dr Staffan Canback & Philip Burginyoung, Tellusant
+*Dr Staffan Canback & Philip Burginyoung, Tellusant*
 
 *For the time being, see PDF version at [Strategic Planning—The Tellusant Synthesis](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)*
 
 WIP ¹²³⁴⁵⁶⁷⁸⁹⁰
 
+---
 There are numerous definitions of strategy for corporate planning purposes. Most are poorly thought through and of little value. The goal of this paper is to to take the most important contributions to strategy science since the late 1950s and integrate them into coherent perspective.  
 
 The following chapters discuss:   
@@ -43,7 +44,7 @@ The Marine Corps definition is here adapted to a firm setting. Corporate activit
 Sometimes strategy and operations are part of the same plan. This is called a strategic plan, 3-year plan, or similar. It has both strategic and operational elements.  
 
 ### 1.2 Differences Between Planning Processes
-Many executives are unclear about the differences between strategy (development), strategic planning, and financial budgeting. The graph below shows these differences.  
+Many executives are unclear about the differences between strategy development, strategic planning, and financial budgeting. The graph below shows these differences.  
 
 
 **Graph 3**  
@@ -85,27 +86,28 @@ The graph below shows the elements of SCP.
 **Graph 5**  
 [g]  
 
-McKinsey & Co updated the framework in the 1980s with a dynamic compo-nent.  Industries tend to experience shocks such as a recession, inflation, tech-nology shifts, and more. Such shocks lead to changes in market structures, im-pacting player conduct in those markets, and resulting in altered performance levels.  
+McKinsey & Co extended the SCP framework in the 1980s with a dynamic component.³ Industries tend to experience shocks such as a recession, inflation, technology shifts, and more. Such shocks lead to changes in market structures, impacting player conduct in those markets, and resulting in altered performance levels.  
 
 Strategies are revised to adjust to these new conditions, leading to continuous renewal for those that are quick to recognize changes.
 
 #### 2.1.2 Five Forces and Value Chain
-Porter's Five Forces framework  is a direct outgrowth from SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An ex-ample is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
+Porter's five forces framework⁴ is a direct descendent of SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An ex-ample is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
 
 **Graph 6**  
 [g]  
 
-The Value Chain concept  takes an internal view of strategy. Where in the elements of the value chain and their combination lie a company's competitive ad-vantage? This perspective transcends SCP.  
+Porter's value chain concept⁵ takes more of an internal view of strategy. Where in the elements of the value chain and their combination lie a company's competitive ad-vantage? This perspective transcends SCP.  
 
-The Five Forces together with the Value Chain create a somewhat complete strategic framework. But not fully. This is where the resource-based view adds to strategic thinking.  
+The five forces together with the value chain create a somewhat complete strategic framework. But not fully. This is where the resource-based view adds to strategic thinking.  
 
 #### 2.1.3 Resource-based View (RBV)  
-Prof. Wernerfelt took a radically different view of what makes companies dis-tinct. His RBV framework  focuses on the resources a company can marshal rather than what the external environment looks like.  
+Prof. Wernerfelt took a radically different view of what makes companies distinct. His RBV framework⁶ focuses on the resources a company can marshal rather than what the external environment looks like.  
 
 **Graph 7**  
 [g]  
 
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
+
 Key to the framework are resources that are valuable, rare, inimitable, and orga-nized (VRIO).  Such resources can be tangible like a warehouse in an optimal location where no competitor can find space, or intangible such as industry leadership through intellectual prowess.
 It is important that the resources are heterogeneous (such that the mix of re-sources cannot be replicated), and they are not easily moved to other companies (e.g., patents).
 Prof. Prahalad and Hamel further enhanced RBV and made it more accessible to a broader audience with the Core Competence framework. 
