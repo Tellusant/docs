@@ -23,7 +23,9 @@ The following chapters discuss:
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
 
 **Graph 1**  
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-cube-0.webp" width="300" alt="Tellusant Cube 0">
+</p>
 
 ## 1. STRATEGY DEFINITIONS
 The starting point is a review of what strategy is and how it has evolved since the late 1950s. Any new framework must take at least some of the various historical strategy concepts into account to be credible.  
