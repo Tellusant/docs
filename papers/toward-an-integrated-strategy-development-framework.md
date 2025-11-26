@@ -120,7 +120,7 @@ Most executives are familiar with the where to play and how to win paradigm but 
 **Graph 8**  
 [g]  
 
-Cascade of Choices is as much about process as it is about substance. It is a pro-cess through which executives in several steps move from aspiration to what is required to succeed.
+Cascade of Choices is as much about process as it is about substance. It is a process through which executives in several steps move from aspiration to what is required to succeed.
 
 ## 2.2 EMIO Framework
 Based on the classical frameworks a new synthesis is created: the Environ-ment—Market—Initiatives—Outcomes (EMIO) framework shown in the graph below.
@@ -138,7 +138,12 @@ Behind each topic is a method for quantitatively or qualitatively analyzing it. 
 The graph below shows how the elements of the four classical frameworks are incorporated in EMIO. As intended, the classical frameworks are exhaustively covered in EMIO.  
 
 **Graph 10**  
-[g]  
+tellusant-emio-reconciliation.svg
+<p align="center">
+<img  src="tellusant-emio-reconciliation.svg" width="500" alt="Tellusant EMIO reconciliation">
+</p>
+
+
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
 
