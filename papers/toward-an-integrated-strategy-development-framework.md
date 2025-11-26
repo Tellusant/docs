@@ -214,8 +214,7 @@ A well-functioning strategic planning process frees up to capacity to be intuiti
 With this considered, a strategic planning workflow is suggested to facilitate the process. It runs over 2-3 months instead of the usual 3-5 months (depending on the size and complexity of the company or business unit). It is predicated on using cloud-based tools rather than the old-fashioned Excel-PowerPoint-Email method.  
 
 <p align="center">
-<img  src="assets/images
-/tellusant-strategy-development-process.svg" alt="Strategy development process">
+<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
 <p/>
 
 Above is an example of the process (here a two-month effort). Words are inten-tionally greyed out.
