@@ -68,19 +68,10 @@ There are four strands of thinking, depicted in the graph below, that today form
 
 Any credible strategy framework must incorporate most elements from the four frameworks. The next chapter reconciles them, starting with an overview of each.  
 
-## 2. TOWARD A NEW STRATEGY DEVELOPMENT SYNTHESIS
-In contrast to the classical static frameworks, the new framework presented here is dynamic. Important trends are switched in and out over time. This is then overlaid on the synthesis of the classical frameworks. In a way, the framework makes itself obsolete occasionally and is then refreshed.  
-
-This is arguably a revolutionary idea: a dynamic, ever-changing framework of its time. Apart from being practical, it is also interesting since humans like novelty. This approach will always feel fresh. Thus, the framework is divided into two components:  
-1. A static component called EMIO that is anchored in the micro-economic frameworks discussed below.  
-2. A dynamic, trends-based, component that captures the issues of the day.
-
-This is discussed in the rest of the chapter.  
-
-### 2.1 Overview of Classical Strategy Frameworks
+### 1.4 Overview of Classical Strategy Frameworks
 Strategy frameworks were first introduced in the late 1950s and have been enhanced and expanded on till this day. The new framework incorporates the most important contributions into a coherent whole.
 
-#### 2.1.1 Structure—Conduct—Performance (SCP)
+#### 1.4.1 Structure—Conduct—Performance (SCP)
 Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.²  In it he described the SCP paradigm (that originated in the 1930s). Even today, it is the dominant strategic framework in academia, and thousands of firms have applied it over the years.  
 
 The graph below shows the elements of SCP.  
@@ -94,7 +85,7 @@ McKinsey & Co extended the SCP framework in the 1980s with a dynamic component.�
 
 Strategies are revised to adjust to these new conditions, leading to continuous renewal for those that are quick to recognize changes.
 
-#### 2.1.2 Five Forces and Value Chain
+#### 1.4.2 Five Forces and Value Chain
 Porter's five forces framework⁴ is a direct descendent of SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An example is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
 
 **Graph 6**  
@@ -106,7 +97,7 @@ Porter's value chain concept⁵ takes more of an internal view of strategy. Wher
 
 The five forces together with the value chain create a somewhat complete strategic framework. But not fully. This is where the resource-based view adds to strategic thinking.  
 
-#### 2.1.3 Resource-based View (RBV)  
+#### 1.4.3 Resource-based View (RBV)  
 Prof. Wernerfelt took a radically different view of what makes companies distinct. His RBV framework⁶ focuses on the resources a company can marshal rather than what the external environment looks like.  
 
 **Graph 7**  
@@ -117,10 +108,12 @@ Prof. Wernerfelt took a radically different view of what makes companies distinc
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
 
 Key to the framework are resources that are valuable, rare, inimitable, and organized (VRIO).  Such resources can be tangible like a warehouse in an optimal location where no competitor can find space, or intangible such as industry leadership through intellectual prowess.
+
 It is important that the resources are heterogeneous (such that the mix of resources cannot be replicated), and they are not easily moved to other companies (e.g., patents).
+
 Prof. Prahalad and Hamel further enhanced RBV and made it more accessible to a broader audience with the Core Competence framework. 
 
-#### 2.1.4 Cascade of Choices
+#### 1.4.4 Cascade of Choices
 Martin developed the Cascade of Choices framework  while at the strategy consulting firm Monitor Company and refined it when Dean of the Rothman School of Management.
 
 Most executives are familiar with the where to play and how to win paradigm but may not know the origin of it.
@@ -132,7 +125,16 @@ Most executives are familiar with the where to play and how to win paradigm but 
 
 Cascade of Choices is as much about process as it is about substance. It is a process through which executives in several steps move from aspiration to what is required to succeed.
 
-## 2.2 EMIO Framework
+## 2. TOWARD A NEW STRATEGY DEVELOPMENT SYNTHESIS
+In contrast to the classical static frameworks, the new framework presented here is dynamic. Important trends are switched in and out over time. This is then overlaid on the synthesis of the classical frameworks. In a way, the framework makes itself obsolete occasionally and is then refreshed.  
+
+This is arguably a revolutionary idea: a dynamic, ever-changing framework of its time. Apart from being practical, it is also interesting since humans like novelty. This approach will always feel fresh. Thus, the framework is divided into two components:  
+1. A static component called EMIO that is anchored in the micro-economic frameworks discussed below.  
+2. A dynamic, trends-based, component that captures the issues of the day.
+
+This is discussed in the rest of the chapter.  
+
+## 2.1 EMIO Framework
 Based on the classical frameworks a new synthesis is created: the *Environment—Market—Initiatives—Outcomes* (EMIO) framework shown in the graph below.
 
 **Graph 9**  
@@ -159,7 +161,7 @@ With this, the first part of the cube is populated covering the grey parts in th
 <img  src="assets/images/tellusant-cube-1.webp" width="450" alt="Tellusant Cube 1">
 </p>
   
-## 2.3 Emerging Trends
+## 2.2 Emerging Trends
 Turning to emerging trends—the themes of the day, so to speak. These are of importance because companies do not operate in a micro-economic vacuum. There are always major shifts in what topics should be considered. Some of them are short-term and do not belong in a strategy. Others are medium- or long-term and must be considered in a strategic plan.  
 
 This explicit focus on trends is new to strategy frameworks.  
@@ -182,7 +184,7 @@ The second part of the cube is now populated, as seen below. The question mark i
 
 At the start of a strategy development effort, relevant trends like the seven described above should be identified by the executive team.  
 
-## 2.4 Complete Framework
+## 2.3 Complete Framework
 At this point the strategy cube is fully populated covering both the static micro-economic component and the dynamic trends components.
 
 **Graph 13**  
@@ -258,7 +260,6 @@ Above is an example of the process (here a two-month effort). Words are intentio
 The process captures all aspects of the strategy cube with the possibility to delete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the decision-making styles.
 This introductory paper cannot cover all aspects of the workflow. It is provided as guidance for the people involved in the strategic planning effort to show that it possible to make strategic more rationale and efficient.
 
-
 ## *CONCLUSION*
 This paper is aimed at introducing executives to an integrated approach to strategy development and to demonstrate how the thinking of strategy giants can be used. It is based on a thorough review of the subject matter and on a deep knowledge of the academic underpinnings, as well the practical experiences of the author.  
 
@@ -276,6 +277,9 @@ This paper is aimed at introducing executives to an integrated approach to strat
 9. R. Martin (2017): *Strategic Choices Need to Be Made Simultaneously, Not Sequentially*. Harv. Bus. Rev.
 10. C. Argyris, C. and D. Schön (1978): *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley
 11. A.M. Abubakar et al. (2018):  *Knowledge Management, Decision-making Style and Organizational Performance*. J. Innov. Knowl.
+
+---
+The paper is also available in an older PDF version:(Strategic Planning - The Tellusant Synthesis)[Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf] 
 
 
 
