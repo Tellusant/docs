@@ -166,7 +166,7 @@ At this point the strategy cube is fully populated covering both the static micr
 The cube is a visual reminder of what a strategic plan should contain. It is easy to remember and to refer to. As such, it simplifies one aspect of a complex topic. 
 
 <p align="center">
-— — —  
+•  •  • 
 <p/>
   
 The next chapter turns to the practicalities of building a robust process for stra-tegic planning. It starts with observations on why strategic planning is difficult.  
