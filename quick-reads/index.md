@@ -42,7 +42,7 @@ How can we estimate future exchange rates (XR) for strategic purposes (3-10 year
 Creating a forecast is only one part of prediction. We illustrate with an example of how a country’s market for a category will evolve.
 #### [Tellusant’s Water Intake Calculator](Tellusant-Quick-Read-Water-Intake-Calculator.pdf)  
 We often work with beverages companies, covering categories from bottled water to wine. A fundamental metric to understand when analyzing market growth is how much water the human body needs.
-#### [The City Middle Class Compared to Country GDP Growth](Tellusant-Quick-Read-City-Middle-Class.pdf)  
+#### [The City Middle Class Compared to Country GDP Growth](Tellusant-Quick-Read-City-Middle-Class.pdf) 
 Cities typically grow faster than their countries in emerging markets, and the middle class (and above) grows even faster. We took the ten largest cities in Latin America to illustrate the point.  
 #### [The Global Middle Class](Tellusant-Quick-Read-Global-Middle-Class.pdf)  
 How will the global middle class evolve over the next 20 years. At a torrid pace, but with different regions leading the way.  
@@ -67,7 +67,7 @@ Strategic forecasting is a new field in management. The strategic forecast makes
 #### [Uses of Tellubase](Tellusant-Quick-Read-TelluBase-Uses.pdf)  
 How are TelluBase data used? We highlight six examples in this Quick Read. They cover a wide range of industries and applications.  
 #### [Tariff Impact Event Analysis](Tellusant-Quick-Read-Tariff-Impact-Event-Analysis.pdf)  
-In the evening of Wednesday, April 2, 2025, the White House announced global tariffs. This is an event analysis that quantifies impact on GDP growth.  
+In the evening of Wednesday, April 2, 2025, the White House announced global tariffs. This is an event analysis that quantifies impact on GDP growth to create a nowcast.  
 #### [The Risk of Nations](Tellusant-Quick-Read-Risk-of-Nations.pdf)  
 How should we look at country risk? We present the risk of nations based on a quantitative analysis. We divide risk into financial and market (demand) components. Looking at risk this way gives a strict definition to what is meant by risk. It is in line with Frank Knight’s observation: Risk is a knowable probability distribution.  
 #### [How Much Is Spent on Marketing in the U.S.?](Tellusant-Quick-Read-US-Marketing-Spend.pdf)  
