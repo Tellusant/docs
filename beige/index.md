@@ -1,5 +1,5 @@
----
-title: "Beige Book Analysis - Oct.15, 2024"
+ber---
+title: "Beige Book Analysis - Nov. 26, 2025"
 description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
 image: /assets/social-card-beig.png
 ---
@@ -13,11 +13,11 @@ We compute a composite score for each of the 12 districts based on the wording i
 We have published these nowcasts for many years on LinkedIn. The new series published here starts in October 2025.
 
 ---
-## October 2025
+## November 2025
 
-![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)  
+![November 2025](assets/images/tellusant-fed-beige-book-summary-2025-11.svg)  
 
-The October 2025 report shows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Dscounting two covid periods, it is the second worst in our dataset (June 2026 being the worst).
+The November 2025 report continues to show significant weakness, for the third month in a row. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Discounting two covid periods, it is the second worst in our dataset (June 2026 being the worst).
 
 Only three district show economic expansion:
 - Richmond
