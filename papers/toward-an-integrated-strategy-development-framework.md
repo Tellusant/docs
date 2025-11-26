@@ -67,10 +67,12 @@ How has the definition of strategy evolved over the years?
 
 There are four strands of thinking, depicted in the graph below, that today form the core of strategy thinking.  
 
-Any credible strategy framework must incorporate most elements from the four frameworks. The next chapter reconciles them, starting with an overview of each.  
-
 **Graph 4**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-strategic-thinking-evolution.svg" width="500" alt="Tellusant - Evolution of strategic thinking">
+</p>  
+
+Any credible strategy framework must incorporate most elements from the four frameworks. The next chapter reconciles them, starting with an overview of each.  
 
 ## 2. TOWARD A NEW STRATEGY DEVELOPMENT SYNTHESIS
 In contrast to the classical static frameworks, the new framework presented here is dynamic. Important trends are switched in and out over time. This is then overlaid on the synthesis of the classical frameworks. In a way, the framework makes itself obsolete occasionally and is then refreshed.  
@@ -90,7 +92,9 @@ Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *
 The graph below shows the elements of SCP.  
 
 **Graph 5**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-bain-structure-conduct-performance-scp.svg" width="500" alt="Tellusant - Joe Bain's structure conduct performance model.svg">
+</p>  
 
 McKinsey & Co extended the SCP framework in the 1980s with a dynamic component.³ Industries tend to experience shocks such as a recession, inflation, technology shifts, and more. Such shocks lead to changes in market structures, impacting player conduct in those markets, and resulting in altered performance levels.  
 
@@ -100,7 +104,9 @@ Strategies are revised to adjust to these new conditions, leading to continuous 
 Porter's five forces framework⁴ is a direct descendent of SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An ex-ample is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
 
 **Graph 6**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-bain-structure-conduct-performance-scp.svg" width="500" alt="Tellusant - Joe Bain's structure conduct performance model.svg">
+</p>
 
 Porter's value chain concept⁵ takes more of an internal view of strategy. Where in the elements of the value chain and their combination lie a company's competitive ad-vantage? This perspective transcends SCP.  
 
