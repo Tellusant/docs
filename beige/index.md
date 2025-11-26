@@ -31,7 +31,9 @@ Three show contraction:
 
 Six are flat.
 
-Tariffs and erratic government policies are  likely causes of the poor performance.  
+Dallas is particularly concerning since the district has done well, or very well, for 5 straight years (40 periods).  
+
+Tariffs and erratic government policies are likely causes of the poor performance.  
 <br/>
 
 ## Retrospective Comparison
