@@ -212,18 +212,19 @@ A key reason why the process is inefficient or even dysfunctional is that strate
 The graph below shows how various processes rank in a cognitive stack. It also shows when automation efforts approximately started at the different levels.  
 
 **Graph 15**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
+</p>
 
 By 2020, the highest-order cognitive processes see little automation and stream-lining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
-
-**Graph 16**  
-[g]  
 
 ### 3.3 Decision-Making Framework
 Another important consideration is how decisions are made within organiza-tions. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work. 
 
-**Graph 17**  
-[g]  
+**Graph 16**  
+<p align="center">
+<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
+</p>
 
 Note that the rational style can take a company only so far. Rationality can be replicated, or in the terms of the RBV framework (discussed in the previous chapter), it is neither heterogeneous nor immobile. The intuitive style is what truly is unique to a company.  
 
@@ -232,8 +233,7 @@ A well-functioning strategic planning process frees up to capacity to be intuiti
 ### 3.4 Strategic Planning Workflow
 With this considered, a strategic planning workflow is suggested to facilitate the process. It runs over 2-3 months instead of the usual 3-5 months (depending on the size and complexity of the company or business unit). It is predicated on using cloud-based tools rather than the old-fashioned Excel-PowerPoint-Email method.  
 
-**Graph 18**  
-[g]  
+**Graph 17**  
 <p align="center">
 <img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
 </p>
