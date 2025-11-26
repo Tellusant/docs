@@ -10,7 +10,7 @@ image: /assets/social-card-pub.png
 
 *For the time being, see PDF version at [Strategic Planning—The Tellusant Synthesis](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf)*
 
-WIP ¹²³⁴⁵⁶⁷⁸⁹⁰
+WIP ¹²³⁴⁵⁶⁷⁸⁹¹⁰
 
 ---
 There are numerous definitions of strategy for corporate planning purposes. Most are poorly thought through and of little value. The goal of this paper is to to take the most important contributions to strategy science since the late 1950s and integrate them into coherent perspective.  
@@ -228,7 +228,7 @@ Executives uniformly found the process inefficient, costly (especially consider-
 It is evident that the process can and should be improved.
 
 ### 3.2 Higher-Order Cognitive Processes  
-A key reason why the process is inefficient or even dysfunctional is that strategic planning is difficult. It belongs to a small group of efforts that can truly be described as higher-order cognitive processes.  
+A key reason why the process is inefficient or even dysfunctional is that strategic planning is difficult. It belongs to a small group of efforts that can truly be described as higher-order cognitive processes.¹⁰   
 
 The graph below shows how various processes rank in a cognitive stack. It also shows when automation efforts approximately started at the different levels.  
 
@@ -240,7 +240,7 @@ The graph below shows how various processes rank in a cognitive stack. It also s
 By 2020, the highest-order cognitive processes see little automation and streamlining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
 
 ### 3.3 Decision-Making Framework
-Another important consideration is how decisions are made within organizations. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work. 
+Another important consideration is how decisions are made within organizations. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work.¹¹
 
 **Graph 16**  
 <p align="center">
