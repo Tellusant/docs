@@ -1,0 +1,35 @@
+The Federal Reserve Board's Beige Book of October 15, 2025 shows flat economic conditions on average. It ranks 75th of the 82 periods we have analyzed since beginning of 2016 (current presidency era average: 74).
+
+It is also noteworthy that regional economic conditions have not diverged this much over the 10 years we have tracked the Beige Book.
+
+• 4 district grow modestly (a solid economic performance): Philadelphia, Richmond, Chicago, Dallas
+
+• 2 districts grow slightly: Boston, Cleveland
+
+• 2 districts are flat: Saint Louis, Kansas City
+
+• 4 districts decline slightly: New York, Atlanta, Minneapolis, San Francisco
+
+The San Francisco district's decline, covering the entire west coast, is troubling. It may be because of less trade and/or weakness in the technology sector. The district is the largest by far (more than twice as large as the next, Atlanta).
+
+— — —
+
+The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month). It gives a qualitative snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
+
+The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is presently.
+
+We compute a composite score for each 12 district based on the wording in the report, then sum them weighted by the GDP of each district.
+
+A retrospective comparison between our Beige Book metric and actual GDP growth is found at https://zcu.io/PJBJ
+
+— — —
+
+[2025-10-16]
+
+#economics #management #beigebook #ceo #usa
+
+
+
+---------------------------------
+
+Tellusant - Fed Beige Book analysis, July 2025
