@@ -21,10 +21,8 @@ The following chapters discuss:
 
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
 
-<p align="center">
-**Graph 1**
-[g]
-</p>
+**Graph 1**  
+[g]  
 
 ## 1. STRATEGY DEFINITIONS
 The starting point is a review of what strategy is and how it has evolved since the late 1950s. Any new framework must take at least some of the various historical strategy concepts into account to be credible.  
@@ -35,10 +33,8 @@ What is strategy? Having a correct definition is crucial to any strategist. The 
 
 The Marine Corps definition is here adapted to a firm setting. Corporate activities thus take place at three interrelated levels:  
 
-<p align="center">
-**Graph 2**
-[g]
-</p>
+**Graph 2**  
+[g]  
 
 -	Strategy has the longest time horizon and the broadest scope. It covers all functions and geographies for the business unit or company at hand.  
 -	Operations bridge the strategy into tactics. Operations are conducted in campaigns (for example, brand renovation or entering a new market).  
@@ -49,10 +45,9 @@ Sometimes strategy and operations are part of the same plan. This is called a st
 ### 1.2 Differences Between Planning Processes
 Many executives are unclear about the differences between strategy (development), strategic planning, and financial budgeting. The graph below shows these differences.  
 
-<p align="center">
-**Graph 3**
-[g]
-</p>
+
+**Graph 3**  
+[g]  
 
 A few observations:  
 
@@ -67,7 +62,8 @@ There are four strands of thinking, depicted in the graph below, that today form
 
 Any credible strategy framework must incorporate most elements from the four frameworks. The next chapter reconciles them, starting with an overview of each.  
 
-[g]
+**Graph 4**  
+[g]  
 
 ## 2. TOWARD A NEW STRATEGY DEVELOPMENT SYNTHESIS
 In contrast to the classical static frameworks, the new framework presented here is dynamic. Important trends are switched in and out over time. This is then overlaid on the synthesis of the classical frameworks. In a way, the framework makes itself obsolete occasionally and is then refreshed.  
@@ -86,7 +82,8 @@ Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *
 
 The graph below shows the elements of SCP.  
 
-[g]
+**Graph 5**  
+[g]  
 
 McKinsey & Co updated the framework in the 1980s with a dynamic compo-nent.  Industries tend to experience shocks such as a recession, inflation, tech-nology shifts, and more. Such shocks lead to changes in market structures, im-pacting player conduct in those markets, and resulting in altered performance levels.  
 
@@ -95,7 +92,8 @@ Strategies are revised to adjust to these new conditions, leading to continuous 
 #### 2.1.2 Five Forces and Value Chain
 Porter's Five Forces framework  is a direct outgrowth from SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An ex-ample is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
 
-[g]
+**Graph 6**  
+[g]  
 
 The Value Chain concept  takes an internal view of strategy. Where in the elements of the value chain and their combination lie a company's competitive ad-vantage? This perspective transcends SCP.  
 
@@ -104,7 +102,8 @@ The Five Forces together with the Value Chain create a somewhat complete strateg
 #### 2.1.3 Resource-based View (RBV)  
 Prof. Wernerfelt took a radically different view of what makes companies dis-tinct. His RBV framework  focuses on the resources a company can marshal rather than what the external environment looks like.  
 
-[g]
+**Graph 7**  
+[g]  
 
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
 Key to the framework are resources that are valuable, rare, inimitable, and orga-nized (VRIO).  Such resources can be tangible like a warehouse in an optimal location where no competitor can find space, or intangible such as industry leadership through intellectual prowess.
@@ -116,13 +115,15 @@ Martin developed the Cascade of Choices framework  while at the strategy consult
 
 Most executives are familiar with the where to play and how to win paradigm but may not know the origin of it.
 
-[g]
+**Graph 8**  
+[g]  
 
 Cascade of Choices is as much about process as it is about substance. It is a pro-cess through which executives in several steps move from aspiration to what is required to succeed.
 
 ## 2.2 EMIO Framework
 Based on the classical frameworks a new synthesis is created: the Environ-ment—Market—Initiatives—Outcomes (EMIO) framework shown in the graph below.
 
+**Graph 9**  
 <p align="center">
 <img  src="assets/images/tellusant-cube-0.webp" width="300" alt="Tellusant Cube 0">
 </p>
@@ -134,10 +135,12 @@ Behind each topic is a method for quantitatively or qualitatively analyzing it. 
 
 The graph below shows how the elements of the four classical frameworks are incorporated in EMIO. As intended, the classical frameworks are exhaustively covered in EMIO.  
 
-[g]
+**Graph 10**  
+[g]  
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
 
+**Graph 11**  
 <p align="center">
 <img  src="assets/images/tellusant-cube-1.webp" width="500" alt="Tellusant Cube 1">
 </p>
@@ -158,6 +161,7 @@ Based on discussions with executives and experts, these are current trends that 
 
 The second part of the cube is now populated, as seen below. The question mark in the graph can be any relevant temporary theme.  
 
+**Graph 12**  
 <p align="center">
 <img  src="assets/images/tellusant-cube-2.webp" width="500" alt="Tellusant Cube 2">
 </p>
@@ -167,6 +171,7 @@ At the start of a strategy development effort, relevant trends like the seven de
 ## 2.4 Complete Framework
 At this point the strategy cube is fully populated covering both the static micro-economic component and the dynamic trends components.
 
+**Graph 13**  
 <p align="center">
 <img  src="assets/images/tellusant-cube-3.webp" width="500" alt="Tellusant Cube 3">
 </p>
@@ -185,7 +190,8 @@ Here, the strategic planning process is codified. It is derived by reviewing the
 ### 3.1 Strategic Planning Performance
 Late in 2020, interviews were conducted with senior executives and a survey was carried out to see what the views on strategic planning are. The graph below shows that executives find the strategic plans highly valuable. However, they hold a negative view on how the process to create such plans work.  
 
-[g]
+**Graph 14**  
+[g]  
 
 Executives uniformly found the process inefficient, costly (especially consider-ing opportunity costs) and old-fashioned. Verbatim quotes from those inter-views make the point.  
 
@@ -203,16 +209,19 @@ A key reason why the process is inefficient or even dysfunctional is that strate
 
 The graph below shows how various processes rank in a cognitive stack. It also shows when automation efforts approximately started at the different levels.  
 
-[g]
+**Graph 15**  
+[g]  
 
 By 2020, the highest-order cognitive processes see little automation and stream-lining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
 
-[g]
+**Graph 16**  
+[g]  
 
 ### 3.3 Decision-Making Framework
 Another important consideration is how decisions are made within organiza-tions. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work. 
 
-[g]
+**Graph 17**  
+[g]  
 
 Note that the rational style can take a company only so far. Rationality can be replicated, or in the terms of the RBV framework (discussed in the previous chapter), it is neither heterogeneous nor immobile. The intuitive style is what truly is unique to a company.  
 
@@ -221,6 +230,8 @@ A well-functioning strategic planning process frees up to capacity to be intuiti
 ### 3.4 Strategic Planning Workflow
 With this considered, a strategic planning workflow is suggested to facilitate the process. It runs over 2-3 months instead of the usual 3-5 months (depending on the size and complexity of the company or business unit). It is predicated on using cloud-based tools rather than the old-fashioned Excel-PowerPoint-Email method.  
 
+**Graph 18**  
+[g]  
 <p align="center">
 <img  src="assets/images/tellusant-strategy-development-process.svg" alt="Strategy development process">
 </p>
