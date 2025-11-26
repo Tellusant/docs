@@ -86,7 +86,7 @@ This is discussed in the rest of the chapter.
 Strategy frameworks were first introduced in the late 1950s and have been enhanced and expanded on till this day. The new framework incorporates the most important contributions into a coherent whole.
 
 #### 2.1.1 Structure—Conduct—Performance (SCP)
-Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.²  In it he described the SCP paradigm. Even today, it is the dominant strategic framework in academia, and thousands of firms have applied it over the years.  
+Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.²  In it he described the SCP paradigm (that originated in the 1930s). Even today, it is the dominant strategic framework in academia, and thousands of firms have applied it over the years.  
 
 The graph below shows the elements of SCP.  
 
