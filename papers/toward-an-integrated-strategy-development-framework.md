@@ -76,17 +76,17 @@ Any credible strategy framework must incorporate most elements from the four fra
 ## 2. TOWARD A NEW STRATEGY DEVELOPMENT SYNTHESIS
 In contrast to the classical static frameworks, the new framework presented here is dynamic. Important trends are switched in and out over time. This is then overlaid on the synthesis of the classical frameworks. In a way, the framework makes itself obsolete occasionally and is then refreshed.  
 
-This is arguably a revolutionary idea: a dynamic, ever-changing framework of its time. Apart from being practical, it is also interesting since humans like nov-elty. This approach will always feel fresh. Thus, the framework is divided into two components:  
+This is arguably a revolutionary idea: a dynamic, ever-changing framework of its time. Apart from being practical, it is also interesting since humans like novelty. This approach will always feel fresh. Thus, the framework is divided into two components:  
 1. A static component called EMIO that is anchored in the micro-economic frameworks discussed below.  
 2. A dynamic, trends-based, component that captures the issues of the day.
 
 This is discussed in the rest of the chapter.  
 
 ### 2.1 Overview of Classical Strategy Frameworks
-Strategy frameworks were first introduced in the late 1950s and have been en-hanced and expanded on till this day. The new framework incorporates the most important contributions into a coherent whole.
+Strategy frameworks were first introduced in the late 1950s and have been enhanced and expanded on till this day. The new framework incorporates the most important contributions into a coherent whole.
 
 #### 2.1.1 Structure—Conduct—Performance (SCP)
-Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.²  In it he described the SCP paradigm. Even today, it is the dominant strategic framework in academia, and thousands of firms have ap-plied it over the years.  
+Strategy as a distinct discipline arguably started with Prof. Joseph Bain book *Industrial Organization*.²  In it he described the SCP paradigm. Even today, it is the dominant strategic framework in academia, and thousands of firms have applied it over the years.  
 
 The graph below shows the elements of SCP.  
 
@@ -100,7 +100,7 @@ McKinsey & Co extended the SCP framework in the 1980s with a dynamic component.�
 Strategies are revised to adjust to these new conditions, leading to continuous renewal for those that are quick to recognize changes.
 
 #### 2.1.2 Five Forces and Value Chain
-Porter's five forces framework⁴ is a direct descendent of SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An ex-ample is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
+Porter's five forces framework⁴ is a direct descendent of SCP. Its main value added is that it explains the concepts of SCP in a more accessible way. Like SCP, it is mainly concerned with the external world although the application of the framework also touches on what companies could do strategically. An example is the pursuit of scale versus the pursuit of differentiation, and how hard it is to do both.  
 
 **Graph 6**  
 <p align="center">
@@ -121,8 +121,8 @@ Prof. Wernerfelt took a radically different view of what makes companies distinc
 
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
 
-Key to the framework are resources that are valuable, rare, inimitable, and orga-nized (VRIO).  Such resources can be tangible like a warehouse in an optimal location where no competitor can find space, or intangible such as industry leadership through intellectual prowess.
-It is important that the resources are heterogeneous (such that the mix of re-sources cannot be replicated), and they are not easily moved to other companies (e.g., patents).
+Key to the framework are resources that are valuable, rare, inimitable, and organized (VRIO).  Such resources can be tangible like a warehouse in an optimal location where no competitor can find space, or intangible such as industry leadership through intellectual prowess.
+It is important that the resources are heterogeneous (such that the mix of resources cannot be replicated), and they are not easily moved to other companies (e.g., patents).
 Prof. Prahalad and Hamel further enhanced RBV and made it more accessible to a broader audience with the Core Competence framework. 
 
 #### 2.1.4 Cascade of Choices
@@ -147,7 +147,7 @@ Based on the classical frameworks a new synthesis is created: the *Environment�
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
 -	Explicitly covers the external environment and the resource side.  
--	Spells out the required initiatives so that implementation plans (opera-tions and tactics) can be built.  
+-	Spells out the required initiatives so that implementation plans (operations and tactics) can be built.  
 -	Highlights the outcomes in a multi-faceted way including and beyond financial results.
 
 The graph below shows how the elements of the four classical frameworks are incorporated in EMIO. As intended, the classical frameworks are exhaustively covered in EMIO.  
@@ -171,12 +171,12 @@ This explicit focus on trends is new to strategy frameworks.
 
 Based on discussions with executives and experts, these are current trends that impact strategic planning. The list will differ by industry and geography, but this list of seven trends serves as a starting point.  
 -	Artificial intelligence: This theme is likely to be central over the next several decades. Every aspect of a business will be affected by AI (and its sub-field ML).
--	Climate & Sustainability: This encompasses environmental (e.g., cli-mate change, green issues), social (diversity, work practices), and eco-nomic (e.g., business vitality, equality) sustainability. This is theme for many years to come and climate change is likely the defining theme of the 21st century.
--	Digital: In this context, digital are all the new methods for communi-cating with customers, suppliers, and society at large. This theme may be peaking now with perhaps 10 years remaining of innovative devel-opments.
--	Aging societies: According to the UN and others, this will be an im-portant trend for the rest of the century. Product and service offerings are likely to be fundamentally reshaped.
--	Pandemic: Covid (and perhaps later pandemics) are fundamentally changing societal patterns. Industries are reshaped (e.g., travel, hospi-tality, education). Distribution changes. Products and services evolve. For now, it must be part of any solid strategic plan.
--	Analytics: Until AI is more sophisticated, the evolving field of analytics will touch on most aspects of a business. Analytics are still at their in-fancy and can be expected to continue evolve and grow for decades.
--	E-commerce: The pandemic has supercharged e-commerce. The theme—a fundamental shift of distribution channels and capabilities—can be expected to continue apace.
+-	Climate & Sustainability: This encompasses environmental (e.g., climate change, green issues), social (diversity, work practices), and economic (e.g., business vitality, equality) sustainability. This is theme for many years to come and climate change is likely the defining theme of the 21st century.
+-	Digital: In this context, digital are all the new methods for communicating with customers, suppliers, and society at large. This theme may be peaking now with perhaps 10 years remaining of innovative developments.
+-	Aging societies: According to the UN and others, this will be an important trend for the rest of the century. Product and service offerings are likely to be fundamentally reshaped.
+-	Pandemic: Covid (and perhaps later pandemics) are fundamentally changing societal patterns. Industries are reshaped (e.g., travel, hospitality, education). Distribution changes. Products and services evolve. For now, it must be part of any solid strategic plan.
+-	Analytics: Until AI is more sophisticated, the evolving field of analytics will touch on most aspects of a business. Analytics are still at their infancy and can be expected to continue evolve and grow for decades.
+-	*E-commerce*: The pandemic has supercharged e-commerce. This fundamental shift of distribution channels and capabilities can be expected to continue apace.
 
 The second part of the cube is now populated, as seen below. The question mark in the graph can be any relevant temporary theme.  
 
@@ -185,7 +185,7 @@ The second part of the cube is now populated, as seen below. The question mark i
 <img  src="assets/images/tellusant-cube-2.webp" width="500" alt="Tellusant Cube 2">
 </p>
 
-At the start of a strategy development effort, relevant trends like the seven de-scribed above should be identified by the executive team.  
+At the start of a strategy development effort, relevant trends like the seven described above should be identified by the executive team.  
 
 ## 2.4 Complete Framework
 At this point the strategy cube is fully populated covering both the static micro-economic component and the dynamic trends components.
@@ -201,7 +201,7 @@ The cube is a visual reminder of what a strategic plan should contain. It is eas
 •  •  • 
 </p>
   
-The next chapter turns to the practicalities of building a robust process for stra-tegic planning. It starts with observations on why strategic planning is difficult.  
+The next chapter turns to the practicalities of building a robust process for strategic planning. It starts with observations on why strategic planning is difficult.  
 
 ## 3. STRATEGIC PLANNING PROCESS
 Here, the strategic planning process is codified. It is derived by reviewing the obstacles to efficient planning and ends with the workflow.
@@ -216,7 +216,7 @@ tellusant-strategic-planning-survey-results.svg
 </p>
 
 
-Executives uniformly found the process inefficient, costly (especially consider-ing opportunity costs) and old-fashioned. Verbatim quotes from those inter-views make the point.  
+Executives uniformly found the process inefficient, costly (especially consider-ing opportunity costs) and old-fashioned. Verbatim quotes from those interviews make the point.  
 
 -	“Most of executives’ time is spent on checking the analysts’ numbers rather than thinking about the issues.”
 -	“I can't trust any data we have; it's ever changing. I can't trust anyone to do a correct analysis. Our planning is a joke! “
@@ -228,7 +228,7 @@ Executives uniformly found the process inefficient, costly (especially consider-
 It is evident that the process can and should be improved.
 
 ### 3.2 Higher-Order Cognitive Processes  
-A key reason why the process is inefficient or even dysfunctional is that strate-gic planning is difficult. It belongs to a small group of efforts that can truly be described as higher-order cognitive processes.  
+A key reason why the process is inefficient or even dysfunctional is that strategic planning is difficult. It belongs to a small group of efforts that can truly be described as higher-order cognitive processes.  
 
 The graph below shows how various processes rank in a cognitive stack. It also shows when automation efforts approximately started at the different levels.  
 
@@ -237,10 +237,10 @@ The graph below shows how various processes rank in a cognitive stack. It also s
 <img  src="assets/images/tellusant-corporate-cognitive-stack.svg" alt="Tellusant - Corporate cognitive stack">
 </p>
 
-By 2020, the highest-order cognitive processes see little automation and stream-lining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
+By 2020, the highest-order cognitive processes see little automation and streamlining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
 
 ### 3.3 Decision-Making Framework
-Another important consideration is how decisions are made within organiza-tions. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work. 
+Another important consideration is how decisions are made within organizations. It is not only a matter of going through a linear process. The graph below shows the elements that need to be aligned for the process to work. 
 
 **Graph 16**  
 <p align="center">
@@ -259,8 +259,8 @@ With this considered, a strategic planning workflow is suggested to facilitate t
 <img  src="assets/images/tellusant-strategy-development-process.svg" alt="Tellusant - Strategy development process">
 </p>
 
-Above is an example of the process (here a two-month effort). Words are inten-tionally greyed out.
-The process captures all aspects of the strategy cube with the possibility to de-lete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the deci-sion-making styles.
+Above is an example of the process (here a two-month effort). Words are intentionally greyed out.
+The process captures all aspects of the strategy cube with the possibility to delete or add to it. It also captures the elements of the decision-making framework above by considering the decision enablers, the decision context, and the decision-making styles.
 This introductory paper cannot cover all aspects of the workflow. It is provided as guidance for the people involved in the strategic planning effort to show that it possible to make strategic more rationale and efficient.
 
 
