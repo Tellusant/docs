@@ -279,7 +279,7 @@ This paper is aimed at introducing executives to an integrated approach to strat
 11. A.M. Abubakar et al. (2018):  *Knowledge Management, Decision-making Style and Organizational Performance*. J. Innov. Knowl.
 
 ---
-The paper is also available in an older PDF version:(Strategic Planning - The Tellusant Synthesis)[Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf] 
+The paper is also available in an older PDF version: [Strategic Planning - The Tellusant Synthesis](Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf) 
 
 
 
