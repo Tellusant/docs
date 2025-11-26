@@ -275,7 +275,7 @@ This paper is aimed at introducing executives to an integrated approach to strat
 7. J. B. Barney (1991): *Firm Resources and Sustained Competitive Advantage*. Strateg. Manag. J.  
 8. C.K. Prahalad and Hamel, G. (1990): *The Core Competence of the Corporation*. Harv. Bus. Rev.
 9. R. Martin (2017): *Strategic Choices Need to Be Made Simultaneously, Not Sequentially*. Harv. Bus. Rev.
-10. C. Argyris, C. and D. Schön (1978): *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley
+10. C. Argyris and D. Schön (1978): *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley
 11. A.M. Abubakar et al. (2018):  *Knowledge Management, Decision-making Style and Organizational Performance*. J. Innov. Knowl.
 
 ---
