@@ -93,7 +93,7 @@ The graph below shows the elements of SCP.
 
 **Graph 5**  
 <p align="center">
-<img  src="assets/images/tellusant-bain-structure-conduct-performance-scp.svg" width="500" alt="Tellusant - Joe Bain's structure conduct performance model.svg">
+<img  src="assets/images/tellusant-bain-structure-conduct-performance-scp.svg" width="500" alt="Tellusant - Joe Bain's structure conduct performance model (SCP)">
 </p>  
 
 McKinsey & Co extended the SCP framework in the 1980s with a dynamic component.³ Industries tend to experience shocks such as a recession, inflation, technology shifts, and more. Such shocks lead to changes in market structures, impacting player conduct in those markets, and resulting in altered performance levels.  
@@ -105,10 +105,10 @@ Porter's five forces framework⁴ is a direct descendent of SCP. Its main value 
 
 **Graph 6**  
 <p align="center">
-<img  src="assets/images/tellusant-bain-structure-conduct-performance-scp.svg" width="500" alt="Tellusant - Joe Bain's structure conduct performance model.svg">
+<img  src="assets/images/tellusant-porter-five-forces-value-chain.svg" width="500" alt="Tellusant - Michael Porter's five forces and value chain models">
 </p>
 
-Porter's value chain concept⁵ takes more of an internal view of strategy. Where in the elements of the value chain and their combination lie a company's competitive ad-vantage? This perspective transcends SCP.  
+Porter's value chain concept⁵ takes more of an internal view of strategy. Where in the elements of the value chain and their combination lie a company's competitive advantage? This perspective transcends SCP.  
 
 The five forces together with the value chain create a somewhat complete strategic framework. But not fully. This is where the resource-based view adds to strategic thinking.  
 
@@ -116,7 +116,10 @@ The five forces together with the value chain create a somewhat complete strateg
 Prof. Wernerfelt took a radically different view of what makes companies distinct. His RBV framework⁶ focuses on the resources a company can marshal rather than what the external environment looks like.  
 
 **Graph 7**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-wernerfelt-resource-based-view-rbv.svg 
+"width="500" alt="Tellusant - Birger Wernerfelt's-resource-based view (RBV)">
+</p>
 
 The underlying thesis is that companies succeed when they focus on what they do best, rather than trying to adapt to the environment in a reactive fashion.
 
