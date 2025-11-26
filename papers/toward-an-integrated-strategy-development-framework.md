@@ -21,18 +21,24 @@ The following chapters discuss:
 
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
 
+<p align=center">
+**Graph 1**
 [g]
+</p>
 
 ## 1. STRATEGY DEFINITIONS
-The starting point is a review of what strategy is and how it has evolved since the late 1950s. Any new framework must take at least some of the various his-torical strategy concepts into account to be credible.  
+The starting point is a review of what strategy is and how it has evolved since the late 1950s. Any new framework must take at least some of the various historical strategy concepts into account to be credible.  
 
 ### 1.1 Strategy Versus Operations and Tactics
 
-What is strategy? Having a correct definition is crucial to any strategist. The U.S. Marine Corps' definition in manual #1, 'Warfighting' is instructive.¹ It builds on thousands of years of strategy tradition arguably starting with Sun Tzu.
+What is strategy? Having a correct definition is crucial to any strategist. The U.S. Marine Corps' definition in manual #1, 'Warfighting' is instructive.¹ It builds on thousands of years of strategy tradition  starting with Sun Tzu.
 
-The Marine Corps definition is therefore adapted to a corporate setting. Corpo-rate activities thus take place at three interrelated levels:  
+The Marine Corps definition is here adapted to a firm setting. Corporate activities thus take place at three interrelated levels:  
 
+<p align=center">
+**Graph 2**
 [g]
+</p>
 
 -	Strategy has the longest time horizon and the broadest scope. It covers all functions and geographies for the business unit or company at hand.  
 -	Operations bridge the strategy into tactics. Operations are conducted in campaigns (for example, brand renovation or entering a new market).  
@@ -43,14 +49,16 @@ Sometimes strategy and operations are part of the same plan. This is called a st
 ### 1.2 Differences Between Planning Processes
 Many executives are unclear about the differences between strategy (development), strategic planning, and financial budgeting. The graph below shows these differences.  
 
+<p align=center">
+**Graph 3**
 [g]
+</p>
 
 A few observations:  
 
 -	Strategy development and strategic planning are often seen as the same thing. They are not. Strategy development is a truly intellectual exercise performed on an ad hoc basis. It seeks high level answers for where the company should be heading.  
 -	Strategic planning is somewhere between strategy development and budgeting. It is programmatic (annual, templates) and defines what line managers should achieve over the next few years.  
 -	Strategic plans are not extended financial budgets. They focus on the operating realities that in turn feed into budgets.  
-
 
 ### 1.3 Strategy Evolution
 How has the definition of strategy evolved over the years?  
