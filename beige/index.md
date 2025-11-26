@@ -22,14 +22,16 @@ The November 2025 report continues to show significant weakness, for the sixth p
 Only three district show economic expansion:
 - Richmond
 - Boston
-- Philadelphia  
+- Chicago
+- Cleveland  
 
 Three show contraction:
-- Kansas city
-- Minneapolis
-- San Francisco  
+- Dallas
+- Kansas City
+- New York
+- Philapelphia  
 
-Six are flat.
+Four are flat.
 
 Dallas is particularly concerning since the district has done well, or very well, for 5 straight years (40 periods).  
 
