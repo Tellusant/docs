@@ -23,7 +23,7 @@ The following chapters discuss:
 The “strategy cube” below will gradually be filled in as the strategy concepts are explored.
 
 **Graph 1**  
-[g]  
+[g]
 
 ## 1. STRATEGY DEFINITIONS
 The starting point is a review of what strategy is and how it has evolved since the late 1950s. Any new framework must take at least some of the various historical strategy concepts into account to be credible.  
@@ -35,7 +35,9 @@ What is strategy? Having a correct definition is crucial to any strategist. The 
 The Marine Corps definition is here adapted to a firm setting. Corporate activities thus take place at three interrelated levels:  
 
 **Graph 2**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-strategy-operations-tactics.svg" width="300" alt="Tellusant - Strategy operations tactics">
+</p> 
 
 -	Strategy has the longest time horizon and the broadest scope. It covers all functions and geographies for the business unit or company at hand.  
 -	Operations bridge the strategy into tactics. Operations are conducted in campaigns (for example, brand renovation or entering a new market).  
@@ -48,7 +50,9 @@ Many executives are unclear about the differences between strategy development, 
 
 
 **Graph 3**  
-[g]  
+<p align="center">
+<img  src="assets/images/tellusant-strategy-strategic-plan-financial-budget.svg" width="500" alt="Tellusant - Strategy-strategic plan-financial budget">
+</p>  
 
 A few observations:  
 
