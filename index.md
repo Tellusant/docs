@@ -36,8 +36,8 @@ We provide free TelluBase data to select public institutions and media. These ar
 Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
 #### [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
-#### [Beige Book Analysis](beige/index.md)
-See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books.
+#### [Beige Book Nowcasts](beige/index.md)
+See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books which we convert into nowcasts.
 #### [U.S. E-Commerce Development](ecom/index.md) 
 View our quarterly analysis of trends in U.S. e-commerce relative to total retail. Based on quarterly FRED data.
 
