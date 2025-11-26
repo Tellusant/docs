@@ -17,7 +17,7 @@ We have published these nowcasts for many years on LinkedIn. The new series publ
 
 ![November 2025](assets/images/tellusant-fed-beige-book-summary-2025-11.svg)  
 
-The November 2025 report continues to show significant weakness, for the sixth period in a row. It ranks 77th of the 86 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
+The November 2025 report continues to show significant weakness, for the sixth period in a row. It ranks 77th of the 84 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
 
 Only three district show economic expansion:
 - Richmond
