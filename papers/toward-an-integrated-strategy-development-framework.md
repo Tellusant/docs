@@ -268,7 +268,7 @@ This paper is aimed at introducing executives to an integrated approach to strat
 
 1. U.S. Marine Corps (1997): *Marine Corps Doctrinal Publication 1: Warfighting*. Department of the Navy  
 2. J. Bain ([1959] 1968): *Industrial Organization, 2 ed*. John Wiley & Sons  
-3. J. Stuckey (2008): [*Enduring Ideas: The SCP Framework*](mck.co/3E8aipN)   
+3. J. Stuckey (2008): *Enduring Ideas: The SCP Framework*. McKinsey & Company
 4. M. Porter (1980): *Competitive Strategy*. Free Press  
 5. M. Porter (1985): *Competitive Advantage*. Free Press  
 6. B. Wernerfelt (1984): *A Resource-based View of the Firm*. Strateg. Manag. J.   
