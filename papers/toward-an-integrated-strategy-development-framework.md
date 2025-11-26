@@ -169,11 +169,11 @@ This explicit focus on trends is new to strategy frameworks.
 Based on discussions with executives and experts, these are current trends that impact strategic planning. The list will differ by industry and geography, but this list of seven trends serves as a starting point.  
 -	*Artificial intelligence*: This theme is likely to be central over the next several decades. Every aspect of a business will be affected by AI (and its sub-field ML).
 -	*Climate & Sustainability*: This encompasses environmental (e.g., climate change, green issues), social (diversity, work practices), and economic (e.g., business vitality, equality) sustainability. This is theme for many years to come and climate change is likely the defining theme of the 21st century.
--	*Digital*: In this context, digital are all the new methods for communicating with customers, suppliers, and society at large. This theme may be peaking now with perhaps 10 years remaining of innovative developments.
+-	*Digital*: In this context, digital are all the new methods for communicating with customers, suppliers, and society at large. It includes e-commerce. This trend may be peaking now with perhaps 10 years remaining of innovative developments.
 -	*Aging societies*: According to the UN and others, this will be an important trend for the rest of the century. Product and service offerings are likely to be fundamentally reshaped.
 -	*Pandemic*: Covid later pandemics are fundamentally changing societal patterns. Industries are reshaped (e.g., travel, hospitality, education). Distribution changes. Products and services evolve.
 -	*Analytics*: The evolving field of analytics will touch on most aspects of a business. Analytics are still at their infancy and can be expected to continue to evolve and grow for decades.
--	*E-commerce*: The pandemic has supercharged e-commerce. This fundamental shift of distribution channels and capabilities can be expected to continue apace.
+-	*Tariffs*: The recent trade wars initiated by the United States through tariffs, has had a profound impact on firms. One survey showed that 2/3 of tariffs are passed on to customers through price increases.
 
 The second part of the cube is now populated, as seen below. The question mark in the graph can be any relevant temporary theme.  
 
