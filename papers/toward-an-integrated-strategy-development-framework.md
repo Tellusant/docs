@@ -142,7 +142,7 @@ Based on the classical frameworks a new synthesis is created: the *Environmentâ€
 
 **Graph 9**  
 <p align="center">
-<img src="assets/images/tellusant-emio-framework.svg" width="600" alt="Tellusant EMIO framework">
+<img src="assets/images/tellusant-emio-framework.svg" width="700" alt="Tellusant EMIO framework">
 </p>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
@@ -154,14 +154,14 @@ The graph below shows how the elements of the four classical frameworks are inco
 
 **Graph 10**  
 <p align="center">
-<img  src="assets/images/tellusant-emio-reconciliation.svg" width="500" alt="Tellusant EMIO reconciliation">
+<img  src="assets/images/tellusant-emio-reconciliation.svg" width="550" alt="Tellusant EMIO reconciliation">
 </p>
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
 
 **Graph 11**  
 <p align="center">
-<img  src="assets/images/tellusant-cube-1.webp" width="500" alt="Tellusant Cube 1">
+<img  src="assets/images/tellusant-cube-1.webp" width="450" alt="Tellusant Cube 1">
 </p>
   
 ## 2.3 Emerging Trends
@@ -182,7 +182,7 @@ The second part of the cube is now populated, as seen below. The question mark i
 
 **Graph 12**  
 <p align="center">
-<img  src="assets/images/tellusant-cube-2.webp" width="500" alt="Tellusant Cube 2">
+<img  src="assets/images/tellusant-cube-2.webp" width="450" alt="Tellusant Cube 2">
 </p>
 
 At the start of a strategy development effort, relevant trends like the seven described above should be identified by the executive team.  
@@ -192,7 +192,7 @@ At this point the strategy cube is fully populated covering both the static micr
 
 **Graph 13**  
 <p align="center">
-<img  src="assets/images/tellusant-cube-3.webp" width="500" alt="Tellusant Cube 3">
+<img  src="assets/images/tellusant-cube-3.webp" width="450" alt="Tellusant Cube 3">
 </p>
 
 The cube is a visual reminder of what a strategic plan should contain. It is easy to remember and to refer to. As such, it simplifies one aspect of a complex topic. 
@@ -212,7 +212,7 @@ Late in 2020, interviews were conducted with senior executives and a survey was 
 **Graph 14**  
 tellusant-strategic-planning-survey-results.svg  
 <p align="center">
-<img  src="assets/images/tellusant-strategic-planning-survey-results.svg" alt="Tellusant - Strategic planning survey results">
+<img  src="assets/images/tellusant-strategic-planning-survey-results.svg" width="550" alt="Tellusant - Strategic planning survey results">
 </p>
 
 
@@ -234,7 +234,7 @@ The graph below shows how various processes rank in a cognitive stack. It also s
 
 **Graph 15**  
 <p align="center">
-<img  src="assets/images/tellusant-corporate-cognitive-stack.svg" alt="Tellusant - Corporate cognitive stack">
+<img  src="assets/images/tellusant-corporate-cognitive-stack.svg" width="500" alt="Tellusant - Corporate cognitive stack">
 </p>
 
 By 2020, the highest-order cognitive processes see little automation and streamlining. This is in part why executives have a negative of how strategic plans are created. The plans are of solid quality and are important, but the effort to create them is massive given the lack of standards and automation.  
@@ -244,7 +244,7 @@ Another important consideration is how decisions are made within organizations. 
 
 **Graph 16**  
 <p align="center">
-<img  src="assets/images/tellusant-corporate-decision-making-framework.svg" alt="Tellusant - Corporate decision-making framework">
+<img  src="assets/images/tellusant-corporate-decision-making-framework.svg" width="450" alt="Tellusant - Corporate decision-making framework">
 </p>
 
 Note that the rational style can take a company only so far. Rationality can be replicated, or in the terms of the RBV framework (discussed in the previous chapter), it is neither heterogeneous nor immobile. The intuitive style is what truly is unique to a company.  
@@ -256,7 +256,7 @@ With this considered, a strategic planning workflow is suggested to facilitate t
 
 **Graph 17**  
 <p align="center">
-<img  src="assets/images/tellusant-strategy-development-process.svg" alt="Tellusant - Strategy development process">
+<img  src="assets/images/tellusant-strategy-development-process.svg" width="1200" alt="Tellusant - Strategy development process">
 </p>
 
 Above is an example of the process (here a two-month effort). Words are intentionally greyed out.
