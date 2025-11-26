@@ -50,7 +50,6 @@ Sometimes strategy and operations are part of the same plan. This is called a st
 ### 1.2 Differences Between Planning Processes
 Many executives are unclear about the differences between strategy development, strategic planning, and financial budgeting. The graph below shows these differences.  
 
-
 **Graph 3**  
 <p align="center">
 <img  src="assets/images/tellusant-strategy-strategic-plan-financial-budget.svg" width="500" alt="Tellusant - Strategy-strategic plan-financial budget">
@@ -133,17 +132,17 @@ Most executives are familiar with the where to play and how to win paradigm but 
 
 **Graph 8**  
 <p align="center">
-<img  src="assets/images/tellusant-martin-cascade-of-choices.svg" width="500" alt="Tellusant - Roger Martin's cascade of choices model">
+<img  src="assets/images/tellusant-martin-cascade-of-choices.svg" width="400" alt="Tellusant - Roger Martin's cascade of choices model">
 </p>
 
 Cascade of Choices is as much about process as it is about substance. It is a process through which executives in several steps move from aspiration to what is required to succeed.
 
 ## 2.2 EMIO Framework
-Based on the classical frameworks a new synthesis is created: the Environ-ment—Market—Initiatives—Outcomes (EMIO) framework shown in the graph below.
+Based on the classical frameworks a new synthesis is created: the *Environment—Market—Initiatives—Outcomes* (EMIO) framework shown in the graph below.
 
 **Graph 9**  
 <p align="center">
-<img  src="assets/images/tellusant-cube-0.webp" width="300" alt="Tellusant Cube 0">
+<img  src="assets/images/tellusant-emio-framework.svg" width="300" alt="Tellusant EMIO framework">
 </p>
 
 Behind each topic is a method for quantitatively or qualitatively analyzing it. It:  
@@ -158,8 +157,6 @@ tellusant-emio-reconciliation.svg
 <p align="center">
 <img  src="tellusant-emio-reconciliation.svg" width="500" alt="Tellusant EMIO reconciliation">
 </p>
-
-
 
 With this, the first part of the cube is populated covering the grey parts in the graph.
 
