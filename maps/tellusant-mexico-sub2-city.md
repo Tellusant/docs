@@ -1,5 +1,5 @@
 ---
-title: "Mexico – Cities and Secondary Subdivisions Covered in TelluBase"
+title: "Mexico – Cities and Subdivisions Covered in TelluBase"
 description: "The map shows the cities (92 zonas metropolitanas) and secondary subdivisions (1500 municipios) in Mexico."
 image: /assets/social-card-map.png
 ---
