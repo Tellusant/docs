@@ -21,4 +21,7 @@ Tariffs and erratic government policies are  likely causes of the poor performan
 <br/>
 
 ---
+
+Five years of our Beige Book nowcasts are available on LinkedIn.
+
 Back to [current period](index.md)
