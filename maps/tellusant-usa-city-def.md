@@ -1,12 +1,12 @@
 ---
-title: "United States – Metropolitan Statistical Areas (MSA) Covered in TelluBase"
+title: "United States – Cities Covered in TelluBase"
 description: "States are often too high level for insights in the U.S. Counties are too detailed."
 image: /assets/social-card-map.png
 ---
-# United States – Metropolitan Statistical Areas (MSA) Covered in TelluBase
+# United States – Cities Covered in TelluBase
 ## *TelluBase Definitions*
 
-States are often too high level for insights in the U.S. Counties are too detailed. The U.S. government therefore developed Metropolitan Statistical Areas to allow for better policy making. Instead of subdividing the entire country, the MSAs focus on cities.
+States are often too high level for insights in the U.S. Counties are too detailed. The U.S. government therefore developed Metropolitan Statistical Areas (MSAs) to allow for better policy making. Instead of subdividing the entire country, the MSAs focus on cities.
 
 Our **TelluBase** database uses MSAs to define cities down to 100,000 inhabitants.
 
