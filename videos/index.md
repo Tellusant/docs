@@ -10,7 +10,7 @@ Our videos cover our company and products, trade visits, travel experiences, and
 #### [Introduction to Tellusant](https://tellusant.com/repo/video/tellusant-introduction.mp4)  
 This video describes Tellusant's mission, who we are, our global reach, and our focus. It was created in August 2025.  
 
-#### [PoluSim Overview]([https://vimeo.com/1082287242](https://tellusant.com/repo/video/tellusant-polusim-introduction.mp4)    
+#### [PoluSim Overview](https://tellusant.com/repo/video/tellusant-polusim-introduction.mp4)    
 This video gives an overview of our PoluSim strategic forecasting solution. In 5 minutes, we explain the why, what, and how of PoluSim.  
 
 #### [A Quick Tour of TelluBase](https://tellusant.com/repo/video/tellusant-tellubase-introduction.mp4)  
