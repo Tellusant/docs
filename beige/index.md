@@ -40,4 +40,4 @@ Tariffs and erratic government policies are likely causes of the poor performanc
 
 #### [Archive](archive.md)
 
-#### [Retrospective Comparison of Fed Beige Book Nowcast Score and Actual GDP Growth](fed-beige-book-vs-actual-gdp.md)  
+#### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](fed-beige-book-vs-actual-gdp.md)  
