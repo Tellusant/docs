@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on our website and on Vimeo. We keep our videos raw and with low production value. We prefer genuine over slick.
 
 ---  
-#### [Introduction to Tellusant](https://vimeo.com/1114671864)  
+#### [Introduction to Tellusant](https://tellusant.com/repo/video/tellusant-introduction.mp4)  
 This video describes Tellusant's mission, who we are, our global reach, and our focus. It was created in August 2025.  
 
 #### [PoluSim Overview](https://vimeo.com/1082287242)    
