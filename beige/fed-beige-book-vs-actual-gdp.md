@@ -1,9 +1,9 @@
 ---
-title: "Comparison of Our Fed Beige Book Score and Actual GDP Growth"
+title: "Retrospective Comparison of Our Fed Beige Book Nowcast and Actual GDP Growth"
 description: "Does the Beige Book nowcast correlate with actual GDP growth. It does."
 image: /assets/social-card-beig.png
 ---
-# Comparison of our Fed Beige Book Nowcast and Actual GDP Growth
+# Retrospective Comparison of Our Fed Beige Book Nowcast and Actual GDP Growth
 
 As you look at our Beige Book summaries, you may ask: "does the Beige Book score correlate with actual GDP growth (reported a few months later)?"
 
