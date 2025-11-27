@@ -13,3 +13,6 @@ It does. The correlation is a remarkably high 0.80. This means that we know what
 <img  src="assets/images/tellusant-fed-beige-book-vs-actual-gdp.svg" width="500" alt="Comparison of Fed Beige Book Score and Actual GDP Growth
 ">
 </p>
+
+---
+Back to [current period](index.md)
