@@ -16,21 +16,22 @@ Quantifying market opportunities requires clear definitions. The Addressable –
 <img  src="assets/images/tellusant-triple-a-1.svg" width="500" alt="">  
 </p>
 
-The graph above illustrates the concept.
-- The addressable market is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are, e.g., parents of children age 0-4 for diapers; adults over the legal drinking age for alcoholic products, people living under wintry conditions for snow tires.
-- The available market takes is the part of this market where people can afford the product. To understand this, it is necessary to know how many people have a certaion income, and their age distribution. Companies do not have this information, but it can easily be retieved from telluBase.
-- The actual market is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the Addressable-Available-Actual metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certaion actions are taken to unlock it?
+The graph above illustrates the concept.  
+- The addressable market is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are, e.g., parents of children age 0-4 for diapers; adults over the legal drinking age for alcoholic products, people living under wintry conditions for snow tires.  
+- The available market takes is the part of this market where people can afford the product. To understand this, it is necessary to know how many people have a certaion income, and their age distribution. Companies do not have this information, but it can easily be retieved from telluBase.  
+- The actual market is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the Addressable-Available-Actual metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certaion actions are taken to unlock it?  
 
-With the Triple-A method, it is possible to pinpoint where the growth opportunities lie. The graph below shows a schematic waterfall for the logic.
+With the Triple-A method, it is possible to pinpoint where the growth opportunities lie. The graph below shows a schematic waterfall for the logic.  
 
 <p align="center">
 <img  src="assets/images/tellusant-triple-a-2.svg" width="500" alt="">  
 </p>
 
-Here is an example from soft drinks in India. The product is currently only distributed in big cities.
+Here is an example from soft drinks in India. The product is currently only distributed in big cities.  
 
-- Out of a total population of 1.3 billion, 369 million are within those socioeconomic levels that can afford the product. This is the addressable market of relevant consumers.
-
+- The **addressable** population is 1.3 billion people (those age 6 and up),
+- 0.4 billion of those are within the socioeconomic levels that can afford to consume the soft drink. This is the **available** market of relevant consumers.  
+- However, the actual market is 0.1 billion consumers. Why is the actual market market so much smaller than 
 - However, there is no distribution coverage in the foreseeable future for 256 million of those consumers since distribution only exists in the largest cities.
 - Thus, the available market is 113 million consumers. This may change over time, but over the next 5 years there is no such change in site.
 - Among those consumers, 105 million chose not to consume the product despite it being widely available.
