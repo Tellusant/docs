@@ -29,10 +29,17 @@ With the Triple-A method, it is possible to pinpoint where the growth opportunit
 
 Here is an example from soft drinks in India. The product is currently only distributed in big cities.  
 
-- The **addressable market** is 1.3 billion people (those age 6 and up),
-- 0.4 billion of those are within the socioeconomic levels that can afford to consume the soft drink. This is the **available market** of relevant consumers.  
-- However, the **actual market** is 0.1 billion consumers. Why is the actual market market so much smaller than the available market?
-- First, there is little distribution coverage since distribution only exists in the largest cities and in affluent areas. Second, there is unfamiliarity with the brand. Third, pack sizes are too large for many consumers who favor a reasonable transaction price.
+- The **addressable market** is 1,244 million people (those age 6 and up).  
+- 374 million of those are within the socioeconomic levels that can afford to consume the soft drink. This is the **available market** of relevant consumers.  
+- However, the **actual market** is 112 million consumers.  
+
+Why is the actual market market so much smaller than the available market?
+
+First, there is little distribution coverage since distribution only exists in the largest cities and in affluent areas.  
+
+Second, there is unfamiliarity with the brand.  
+
+Third, pack sizes are too large for many consumers who favor a reasonable transaction price.  
 
 <p align="center">
 <img  src="assets/images/tellusant-triple-a-3.svg" width="550" alt="">  
