@@ -31,21 +31,22 @@ Here is an example from soft drinks in India. The product is currently only dist
 
 - The **addressable market** is 1.3 billion people (those age 6 and up),
 - 0.4 billion of those are within the socioeconomic levels that can afford to consume the soft drink. This is the **available market** of relevant consumers.  
-- However, the **actual market** is 0.1 billion consumers. Why is the actual market market so much smaller than 
-- However, there is no distribution coverage in the foreseeable future for 256 million of those consumers since distribution only exists in the largest cities.
-- Thus, the available market is 113 million consumers. This may change over time, but over the next 5 years there is no such change in site.
-- Among those consumers, 105 million chose not to consume the product despite it being widely available.
-- Thus, the actual market is 8 million consumers.
+- However, the **actual market** is 0.1 billion consumers. Why is the actual market market so much smaller than the available market?
+- First, there is little distribution coverage since distribution only exists in the largest cities and in affluent areas. Second, there is unfamiliarity with the brand. Third, pack sizes are too large for many consumers who favor a reasonable transaction price.
 
 <p align="center">
 <img  src="assets/images/tellusant-triple-a-3.svg" width="550" alt="">  
 </p>
 
-The largest leverage is in selling more in those cities. Why? If the company chose to pursue maximum distribution, then it would sell to 26 million consumers (all other things equal). That is, 369/113*8=26.
+The recommended first step was to stimulate demand among the existing available consumers. There are 0.3 billion non-consumers.
 
-This should be compared to the recommended first step of stimulating demand among the existing available consumers. There are 105 non-consumers and only 18 million of them have to be converted into consumers to match the maximum distribution scenario above (8+18=26). The cost to serve these new consumers is radically lower than building maximum distribution coverage all over India.
+To succeed with this, further analyses showed that it was necessary to change pack sizes, do more effective marketing in the cold season, and adjust price points.
 
-To succeed in these large cities, further analyses showed that it was necessary to change pack sizes, do more effective marketing in the cold season, and adjust price points.
+#### Conclusion
+Companies usuually think of per capita consumtion across the entire population, a meaningless metric. With Triple-A, the picture becomes clearer. The meaningful consumption metric is, per addressable population. 
 
+In the Indian case, this is around four times higher than the meaningless usual metric. 
+
+---
 The benefit of Triple-A is that it creates a logical framework for great discussions within management teams.
 
