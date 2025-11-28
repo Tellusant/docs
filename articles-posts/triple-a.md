@@ -39,7 +39,7 @@ First, there is little distribution coverage since distribution only exists in t
 Third, pack sizes are too large for many consumers who favor a reasonable transaction price.  
 
 <p align="center">
-<img  src="assets/images/tellusant-triple-a-3.svg" width="550" alt="">  
+<img  src="assets/images/tellusant-triple-a-3.svg" width="600" alt="">  
 </p>
 
 The recommended first step was to stimulate demand among the existing available consumers. There are 0.3 billion non-consumers.
