@@ -12,11 +12,10 @@ Quantifying market opportunities requires clear definitions. The Addressable –
 <img  src="assets/images/tellusant-triple-a-1.svg" width="500" alt="">  
 </p>
 
-- The graph above illustrates the concept.The addressable market is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are those within a certain income bracket and demographic profile.
-- However, limits to distribution coverage reduces the market.
-- The available market takes this into account. It represents the market potential in those areas where the product is available.
-- Even though the product is available, it may not be in demand. For example, people may not be aware of it.
-- The actual market is what people truly consume.
+The graph above illustrates the concept.
+- The addressable market is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are, e.g., parents of children age 0-4 for diapers; adults over the legal drinking age for alcoholic products, people living under wintry conditions for snow tires.
+- The available market takes is the part of this market where people can afford the product. To understand this, it is necessary to know how many people have a certaion income, and their age distribution. Companies do not have this information, but it can easily be retieved from telluBase.
+- The actual market is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the Addressable-Available-Actual metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certaion actions are taken to unlock it?
 
 With the Triple-A method, it is possible to pinpoint where the growth opportunities lie.
 
