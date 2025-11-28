@@ -10,18 +10,18 @@ image: /assets/social-card-pub.png
 <img  src="assets/images/tellusant-triple-a-0.svg" width="300" alt="">  
 </p>
 
-Quantifying market opportunities requires clear definitions. The Addressable – Available – Actual market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
+Quantifying market opportunities requires clear definitions. The **Addressable – Available – Actual** market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
 
 <p align="center">
 <img  src="assets/images/tellusant-triple-a-1.svg" width="500" alt="">  
 </p>
 
 The graph above illustrates the concept.  
-- The addressable market is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are, e.g., parents of children age 0-4 for diapers; adults over the legal drinking age for alcoholic products, people living under wintry conditions for snow tires.  
-- The available market takes is the part of this market where people can afford the product. To understand this, it is necessary to know how many people have a certaion income, and their age distribution. Companies do not have this information, but it can easily be retieved from telluBase.  
-- The actual market is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the *Addressable-Available-Actual* metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certain actions are taken to unlock it?  
+- The **addressable market** is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are, e.g., parents of children age 0-4 for diapers; adults over the legal drinking age for alcoholic products, people living under wintry conditions for snow tires.  
+- The **available market** takes is the part of this market where people can afford the product. To understand this, it is necessary to know how many people have a certaion income, and their age distribution. Companies do not have this information, but it can easily be retieved from telluBase.  
+- The **actual market** is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the *Addressable-Available-Actual* metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certain actions are taken to unlock it?  
 
-With the Triple-A method, it is possible to pinpoint where the growth opportunities lie. The graph below shows a schematic waterfall for the logic.  
+With the **Triple-A method**, it is possible to pinpoint where the growth opportunities lie. The graph below shows a schematic waterfall for the logic.  
 
 <p align="center">
 <img  src="assets/images/tellusant-triple-a-2.svg" width="450" alt="">  
