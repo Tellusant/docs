@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 # The Triple-A Method for Market Sizing
 
 <p align="center">
-<img  src="assets/images/tellusant-triple-a-0.svg" width="300" alt="">  
+<img  src="assets/images/tellusant-triple-a-0.svg" width="500" alt="">  
 </p>
 
 Quantifying market opportunities requires clear definitions. The Addressable – Available – Actual market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
