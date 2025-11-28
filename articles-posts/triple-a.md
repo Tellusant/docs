@@ -19,7 +19,7 @@ Quantifying market opportunities requires clear definitions. The Addressable –
 The graph above illustrates the concept.  
 - The addressable market is the unconstrained market size if all relevant consumers had access to the product and were buying it. Relevant consumers are, e.g., parents of children age 0-4 for diapers; adults over the legal drinking age for alcoholic products, people living under wintry conditions for snow tires.  
 - The available market takes is the part of this market where people can afford the product. To understand this, it is necessary to know how many people have a certaion income, and their age distribution. Companies do not have this information, but it can easily be retieved from telluBase.  
-- The actual market is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the Addressable-Available-Actual metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certaion actions are taken to unlock it?  
+- The actual market is what people truly consume. This is what companies typically look at without knowing what the latent potentisl is. We recommend understanding the *Addressable-Available-Actual* metrics before making plans for the actual market. Perhaps the actual market can be expanded significantly if certain actions are taken to unlock it?  
 
 With the Triple-A method, it is possible to pinpoint where the growth opportunities lie. The graph below shows a schematic waterfall for the logic.  
 
@@ -35,10 +35,7 @@ Here is an example from soft drinks in India. The product is currently only dist
 
 Why is the actual market market so much smaller than the available market?
 
-First, there is little distribution coverage since distribution only exists in the largest cities and in affluent areas.  
-
-Second, there is unfamiliarity with the brand.  
-
+First, there is little distribution coverage since distribution only exists in the largest cities and in affluent areas. Second, there is unfamiliarity with the brand. 
 Third, pack sizes are too large for many consumers who favor a reasonable transaction price.  
 
 <p align="center">
