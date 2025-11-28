@@ -24,7 +24,7 @@ The graph above illustrates the concept.
 With the Triple-A method, it is possible to pinpoint where the growth opportunities lie. The graph below shows a schematic waterfall for the logic.  
 
 <p align="center">
-<img  src="assets/images/tellusant-triple-a-2.svg" width="500" alt="">  
+<img  src="assets/images/tellusant-triple-a-2.svg" width="450" alt="">  
 </p>
 
 Here is an example from soft drinks in India. The product is currently only distributed in big cities.  
