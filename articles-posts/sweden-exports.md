@@ -1,6 +1,6 @@
 ---
 title: "Sveriges exportmöjligheter i ett besvärligt handelsklimat"
-description: "Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Lösningen måste utgå från det faktum att vår export inte varit speciellt framgångsrik det sista kvartsseklet."
+description: "Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytisk lösning perspektiv"
 image: /assets/social-card-pub.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
