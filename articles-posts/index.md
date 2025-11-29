@@ -32,7 +32,7 @@ Our PoluSim solution has expanded majorly since the launch in 2022. Learn more i
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article  
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
-#### [Elasticiy Math](elasticity-math.md) post
+#### [Elasticity Math](elasticity-math.md) post
 Why do we use logarithms when calculating elasticities? Here is the answer.  
 
 #### [The Future Is Math](future-is-math.md)  post   
