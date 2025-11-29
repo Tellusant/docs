@@ -21,12 +21,12 @@ Quantifying market opportunities requires clear definitions. The Addressable –
 
 #### [The Horns of the Dilemma 2: Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis](horns-dilemma-2.md) post  
 
-#### [The PoluSim Universe](polusim-universe.md) post  
-
-#### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article   
+#### [The PoluSim Universe](polusim-universe.md) post   
 <br/>
 
 ## Past
+#### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article  
+
 #### [Elasticiy Math](elasticity-math.md) post
 Why do we use logarithms when calculating elasticities? Here is the answer.  
 
@@ -37,7 +37,6 @@ Why do we use logarithms when calculating elasticities? Here is the answer.
 #### [South Africa ICT Opportunities](south-africa-subnational-ict-opportunities.md)  article  
 
 #### [Creating Robust Long-Term Forecasts](creating-robust-long-term-forecasts.md) article
-
 
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
 
