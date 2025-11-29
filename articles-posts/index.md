@@ -19,6 +19,7 @@ The Addressable – Available – Actual market sizing method provides a logical
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
 
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
+The NB8 region is tightly integrated economically and politically and has a GDP almost at Italy's size.
 
 #### [The Horns of the Dilemma #2](horns-dilemma-2.md) post  
 Trade-offs between predictive, explanatory, and understandable models in statistical analysis.
