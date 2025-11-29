@@ -7,11 +7,13 @@ image: /assets/social-card-pub.png
 This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
 
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
- 
 
 ---
 
 ## Recent
+
+#### [The Triple-A Method for Market Sizing](triple-a.md) article
+Quantifying market opportunities requires clear definitions. The Addressable – Available – Actual market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
 
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
 
@@ -25,10 +27,6 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 <br/>
 
 ## Past
-
-#### [The Triple-A Method for Market Sizing](triple-a.md) article
-Quantifying market opportunities requires clear definitions. The Addressable – Available – Actual market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
-
 #### [Elasticiy Math](elasticity-math.md) post
 Why do we use logarithms when calculating elasticities? Here is the answer.  
 
