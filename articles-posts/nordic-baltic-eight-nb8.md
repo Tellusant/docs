@@ -1,10 +1,10 @@
 ---
 title: "The Emerging Significance of the Nordic-Baltic Eight"
-description: "The NB8 region is tightly integrated economically and politically and has a GDP almost at Italy's size"
+description: "The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size"
 image: /assets/social-card-pub.png
 ---
 # The Emerging Significance of the Nordic-Baltic Eight
-The NB8 region is tightly integrated economically and politically and has a GDP almost at Italy's size. The total population is around 35 million and given the high standard of living, it ranks fourth in the Single Market (EU + 4) by GDP, ahead of Spain and just behind Italy at third.
+The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size. The total population is around 35 million and given the high standard of living, it ranks fourth in the Single Market (EU + 4) by GDP, ahead of Spain and just behind Italy at third.
 
 It is tightly integrated economically. For example, the top countries Sweden exports to are, in terms of share of those countries' imports, the other seven NB8 countries.
 
