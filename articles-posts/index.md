@@ -43,7 +43,7 @@ Why do we use logarithms when calculating elasticities? Here is the answer.
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
 
 #### [The Horns of the Dilemma #1](horns-dilemma-1.md) post
-Trade-offs Between Generality, Precision, and Realism in Strategy Devlopment
+Trade-offs between generality, precision, and realism in strategy devlopment.
 
 
 
