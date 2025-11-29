@@ -1,6 +1,6 @@
 ---
 title: "The Triple-A Method for Market Sizing"
-description: "The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market."
+description: "The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities"
 image: /assets/social-card-pub.png
 ---
 
@@ -10,7 +10,7 @@ image: /assets/social-card-pub.png
 <img  src="assets/images/tellusant-triple-a-0.svg" width="300" alt="">  
 </p>
 
-Quantifying market opportunities requires clear definitions. The **Addressable – Available – Actual** market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
+Quantifying market opportunities requires clear definitions. The **Addressable – Available – Actual** market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market opportunities.
 
 ## The Triple-A Logic
 <p align="center">
