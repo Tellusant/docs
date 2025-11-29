@@ -24,6 +24,7 @@ Penguins are an unlikely influence on management science, but this dataset has h
 Trade-offs between predictive, explanatory, and understandable models in statistical analysis.
 
 #### [The PoluSim Universe](polusim-universe.md) post   
+Our PoluSim solution has expanded majorly since the launch in 2022. Learn more in this post.  
 <br/>
 
 ## Past
