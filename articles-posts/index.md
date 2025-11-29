@@ -15,7 +15,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 #### [The Triple-A Method for Market Sizing](triple-a.md) article
 The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.
 
-#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
+#### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article
+Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
 
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
 
