@@ -56,12 +56,12 @@ It works with price and volumes rather than the population-based example shown h
 
 It works fully at the city and subdivision levels to pinpoint the opportunities. This is in part achieved by leveraging our [TelluBase data](https://tellubase.com).
 
-Broad-based adoption is not so much about the technical solution, but the requirement for humans to change:
+Broad-based adoption is not so much about the technical solution, but the requirement for people to change:
 
 - Understanding: "Can I explain how Triple-A works"
--  Trust calibration (“When can I rely on it?”
-- Workflow "How do I integrate the solution into planning?"
-- Accountability norms: "Can I defend the work with external help?"
+- Trust calibration “When can I rely on it?”
+- Accountability norms: "Can I defend the work without external help?"
+- Workflow: "How do I integrate the solution into planning?"
 - Political dynamics "Is this reducing my power?”
 
 We therefore provide training and support to make the transition to a Triple-A logic productive.
