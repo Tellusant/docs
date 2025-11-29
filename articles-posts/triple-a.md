@@ -1,6 +1,6 @@
 ---
 title: "The Triple-A Method for Market Sizing"
-description: "Quantifying market opportunities requires clear definitions. The Addressable – Available – Actual market sizing method provides this."
+description: "The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market."
 image: /assets/social-card-pub.png
 ---
 
