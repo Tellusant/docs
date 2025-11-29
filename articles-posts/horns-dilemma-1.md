@@ -1,10 +1,11 @@
 ---
-title: "The Horns of the Dilemma 1"
-description: "In strategy development, you cannot get everything. This academic framework explains the trade-offs."
+title: "The Horns of the Dilemma #1"
+description: "Trade-offs between generality, precision, and realism in strategy devlopment"
 image: /assets/social-card-pub.png
 ---
 
-# The Horns of the Dilemma 1
+# The Horns of the Dilemma #1
+## Trade-offs between generality, precision, and realism in strategy devlopment
 *Dr. Staffan Canback, Tellusant*  
 
 In strategic planning efforts, the team responsible has to decide upfront what it wants to achieve. It cannot get general results, precise, results, and realistic results simultaneously. This is called the ***Horns of the Dilemma*** in sociology (of which management science is a part).
