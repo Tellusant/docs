@@ -48,9 +48,9 @@ Third, pack sizes are too large for many consumers who favor a reasonable transa
 ## Implementation 
 Triple-A analysis is conceptually simple. But as with all new things at large companies, it will be met by hesitation.
 
-Our PACE cloud-based solution is a starting point. It is an enterprise-strength product that goes beyond this article. 
+Our [PACE *Pricing Aligned with Consumer Economics*](https://tellusant.com/repo/video/tellusant-pace-introduction.mp4) cloud-based solution is a starting point. It is an enterprise-strength product that goes beyond this article. 
 
-It takes a dynamic view by showing the opportunities both currently, and up to 10 years out.
+It takes a dynamic view by showing the opportunities both currently and up to 10 years out.
 
 It works with price and volumes rather than the population-based example shown here. That is, the user can see what the latent volume demand is at different price points.
 
