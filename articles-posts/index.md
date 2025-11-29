@@ -20,7 +20,8 @@ Penguins are an unlikely influence on management science, but this dataset has h
 
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
 
-#### [The Horns of the Dilemma 2: Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis](horns-dilemma-2.md) post  
+#### [The Horns of the Dilemma #2](horns-dilemma-2.md) post  
+Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis.
 
 #### [The PoluSim Universe](polusim-universe.md) post   
 <br/>
@@ -41,7 +42,8 @@ Why do we use logarithms when calculating elasticities? Here is the answer.
 
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
 
-#### [The Horns of the Dilemma 1: Trade-offs Between Generality, Precision, and Realism in Strategy Devlopment](horns-dilemma-1.md) post
+#### [The Horns of the Dilemma #1](horns-dilemma-1.md) post
+Trade-offs Between Generality, Precision, and Realism in Strategy Devlopment
 
 
 
