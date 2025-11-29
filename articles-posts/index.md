@@ -13,7 +13,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ## Recent
 
 #### [The Triple-A Method for Market Sizing](triple-a.md) article
-Quantifying market opportunities requires clear definitions. The Addressable – Available – Actual market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market.
+The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.
 
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
 
