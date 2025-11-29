@@ -21,7 +21,7 @@ Penguins are an unlikely influence on management science, but this dataset has h
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md) post  
 
 #### [The Horns of the Dilemma #2](horns-dilemma-2.md) post  
-Trade-offs Between Predictive, Explanatory, and Understandable Models in Statistical Analysis.
+Trade-offs between predictive, explanatory, and understandable models in statistical analysis.
 
 #### [The PoluSim Universe](polusim-universe.md) post   
 <br/>
