@@ -194,3 +194,38 @@ pre {
   outline: none;
   border-color: #888;
 }
+.site-header {
+  background: white;
+  padding: 0.8rem 0 1.2rem;
+  border-bottom: 1px solid #eee;
+}
+/* ---------------------------------------------------------
+   HEADER ON 2 ROWS
+--------------------------------------------------------- */
+/* Row 1: title + nav */
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;  /* helps small screens */
+  margin-bottom: 0.6rem;
+}
+
+/* Row 2: centered search bar */
+.header-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.header-search-form {
+  width: 100%;
+  max-width: 550px;  /* controls search box width */
+}
+
+.header-search-input {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
