@@ -1,27 +1,25 @@
 <header class="site-header">
-  <div class="header-inner">
-    <!-- Site title -->
+  <div class="header-top">
     <a class="site-title" href="{{ '/' | relative_url }}">
       {{ site.title }}
     </a>
 
-    <!-- Navigation + search -->
     <nav class="site-nav">
       <a href="{{ 'about' | relative_url }}">About</a>
       <a href="{{ 'contact' | relative_url }}">Contact</a>
       <a href="https://tellusant.com" target="_blank">Website</a>
-
-      <!-- Header search: sends ?q=... to /search/ -->
-<form action="{{ "/search/" | relative_url }}" method="get" class="header-search-form">
-  <input
-    type="search"
-    name="q"
-    placeholder="Search…"
-    aria-label="Search"
-    class="header-search-input"
-  >
-</form>
-      </form>
     </nav>
+  </div>
+
+  <div class="header-bottom">
+    <form action="{{ "/search/" | relative_url }}" method="get" class="header-search-form">
+      <input
+        type="search"
+        name="q"
+        placeholder="Search…"
+        aria-label="Search"
+        class="header-search-input"
+      >
+    </form>
   </div>
 </header>
