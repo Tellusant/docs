@@ -35,15 +35,20 @@ Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka s
 #### [Elasticity Math](elasticity-math.md) post
 Why do we use logarithms when calculating elasticities? Here is the answer.  
 
-#### [The Future Is Math](future-is-math.md)  post   
-
 #### [Tellusant at the Forefront of the AI Revolution](ai-revolution-forefront.md)  post  
+Tellusant has always been at the forefront of the AI revolution. It was the intent behind founding the company and abandoning management consulting.
+
+#### [The Future Is Math](future-is-math.md)  post   
+The future of companies is math. They should have Chief Math Officers (CμO). Yet few CEOs outside tech now anything about math.
 
 #### [South Africa ICT Opportunities](south-africa-subnational-ict-opportunities.md)  article  
+There is a strong trend among global companies toward understanding markets at subnational levels.
 
 #### [Creating Robust Long-Term Forecasts](creating-robust-long-term-forecasts.md) article
+This short document describes how sophisticated and careful our long-term predictive models are and allows readers to glean under the hood.
 
 #### [FMCG Demand Drivers](fmcg-demand-levers.md)  post  
+We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used? Yes.
 
 #### [The Horns of the Dilemma #1](horns-dilemma-1.md) post
 Trade-offs between generality, precision, and realism in strategy development.
