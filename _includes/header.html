@@ -1,5 +1,7 @@
 <header class="site-header">
-  <div class="header-top">
+
+  <!-- ROW 1 -->
+  <div class="header-row header-row-top">
     <a class="site-title" href="{{ '/' | relative_url }}">
       {{ site.title }}
     </a>
@@ -11,7 +13,8 @@
     </nav>
   </div>
 
-  <div class="header-bottom">
+  <!-- ROW 2 -->
+  <div class="header-row header-row-bottom">
     <form action="{{ "/search/" | relative_url }}" method="get" class="header-search-form">
       <input
         type="search"
@@ -22,4 +25,5 @@
       >
     </form>
   </div>
+
 </header>
