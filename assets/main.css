@@ -13,10 +13,11 @@ html {
   font-weight: 600;
 }
 
-/* Desktop layout */
-.header-row-top {
-  padding-left: 1rem;   /* matches body margin */
-  padding-right: 1rem;  /* optional, keeps symmetry */
+/* Desktop layout: match body margin */
+.header-row-top,
+.header-row-bottom {
+  padding-left: 1rem;   /* matches .wrapper padding */
+  padding-right: 1rem;
 }
 
 *, *:before, *:after {
