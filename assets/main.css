@@ -202,24 +202,33 @@ pre {
 /* ---------------------------------------------------------
    HEADER ON 2 ROWS
 --------------------------------------------------------- */
-/* Row 1: title + nav */
-.header-top {
+/* Make header a column layout */
+.site-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+
+/* FORCE row 1 to be horizontal, spaced left/right */
+.header-row-top {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;  /* helps small screens */
-  margin-bottom: 0.6rem;
 }
 
-/* Row 2: centered search bar */
-.header-bottom {
+/* row 2: center the search */
+.header-row-bottom {
   display: flex;
   justify-content: center;
 }
 
+/* search width */
 .header-search-form {
   width: 100%;
-  max-width: 550px;  /* controls search box width */
+  max-width: 550px;
 }
 
 .header-search-input {
