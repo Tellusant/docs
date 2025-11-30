@@ -16,8 +16,8 @@ html {
 /* Desktop layout: match body margin */
 .header-row-top,
 .header-row-bottom {
-  padding-left: 1rem;   /* matches .wrapper padding */
-  padding-right: 1rem;
+  padding-left: 4rem;   /* matches .wrapper padding */
+  padding-right: 4rem;
 }
 
 *, *:before, *:after {
