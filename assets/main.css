@@ -238,3 +238,42 @@ pre {
   border: 1px solid #ddd;
   border-radius: 8px;
 }
+/* Smartphones: stack into three rows */
+@media (max-width: 600px) {
+
+  /* Header becomes a vertical layout */
+  .site-header {
+    gap: 0.4rem;
+    padding: 0.8rem 0 1.2rem;
+  }
+
+  /* Row 1: title centered */
+  .header-row-top {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  /* Title centered */
+  .site-title {
+    text-align: center;
+  }
+
+  /* Row 2: navigation centered on its own line */
+  .site-nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  /* Row 3: search centered as its own line */
+  .header-row-bottom {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-search-form {
+    max-width: 320px;  /* smartphone-friendly width */
+    width: 100%;
+  }
+}
