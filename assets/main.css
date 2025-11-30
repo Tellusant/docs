@@ -173,7 +173,7 @@ pre {
 .header-search-form {
   display: inline-block;
   margin-left: 1rem;
-width: 100%;
+width: 90%;
   max-width: 300px;
   margin: 0 auto;     /* stays perfectly centered */   
 }
