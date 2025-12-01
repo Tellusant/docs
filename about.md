@@ -16,3 +16,6 @@ We combine this with exceptional statistical analysis and predictive artificial 
 A specialty is our strategic forecasting solution: **PoluSim**. It has a 3- to 10-year horizon and is used for strategic planning, as well as operational monthly forecasts with up to a 2-year horizon.  
 
 This makes us unique in the world in building robust predictive strategy optimization solutions, suitable for global corporations. Predictions, not templates.  
+
+## License
+[Creative Commons Attribution Sharealike International 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
