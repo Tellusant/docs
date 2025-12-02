@@ -33,7 +33,7 @@ Why are things like this? Inertia and governance model. You do not become a part
 
 Also, the partnership model is against automation. It works when you have high leverage (the ratio of partners to non-partners) and low fixed cost. But the automated approach requires investment in fixed cost and public stock companies are much better at handling this than partnerships.
  
-How can this be changed? I do not think it could or should. Instead, startups will automate aspects of what the Big 3 do and slowly replace them. It is easier to create change afresh than to modify existing behaviors. Creative destruction.
+How can this be changed? I do not think it could or should. Instead, startups will automate aspects of what MBB does and slowly replace them. It is easier to create change afresh than to modify existing behaviors. Creative destruction.
  
 Given this, there are some good news for the Big 3. First, they clearly add tremendous value. The substance of what they deliver is excellent as evidenced by their growth. Second, they can probably source the automation from experts and maintain the high-value recommendation and synthesis activities. Third, the decline will be slow since clients are not putting pressure on them to change.
  
