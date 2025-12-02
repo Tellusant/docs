@@ -10,11 +10,15 @@ There is a sad state of affairs at the large management consulting firms—MBB.�
  
 I was a partner at a Big 3 firm and I worked in parallel with all three over the past decade. I am not impressed by how they create their deliverables. Methods are largely stuck in the 20th century. Most work is manual with Excel-PowerPoint-email. The level of automation is low. When I am exposed to their internal processes, they look dysfunctional.
  
-This is borne out by the numbers. All three have declining revenue per employee¹ over the past decade. (I also checked against total consulting in the US which also has a productivity decline.)
+This is borne out by the numbers. All three have declining revenue per employee² over the past decade. (I also checked against total consulting in the US which also has a productivity decline.)
  
-The graph illustrates my point. The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the is-value.²
+The graph illustrates my point.  
+
+<img  src="assets/images/tellusant-consulting-firm-productivity.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
+
+The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the **is-value**.³
  
-What should have happened is extensive automation of the analyses and deliverable creation layers. This is the should-value.²
+What should have happened is extensive automation of the analyses and deliverable creation layers. This is the **wish-value**.³
  
 That the recommendations and syndication step is manual is understandable. This is where the dialogue with senior client executives take place, and it is a highly human endeavor. But perhaps some automation here as well?
  
@@ -29,9 +33,8 @@ Given this, there are some good news for the Big 3. First, they clearly add trem
 Note: Signals are in this case information and data. From [control theory].(https://cds.cern.ch/record/1100534/files/p73.pdf)) 
 
 ¹ McKinsey, BCG, Bain
-
 ² Per consultant is not a relevant metric when one of the firms is majority non-consultant.
-³ is-value and wish-value are from control theory. Also called actual and setpoint.
+³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish term är-värde & bör-värde, which has a nice ring to it. Properly called actual and setpoint in English.
 
 [2022-03-12]
 
