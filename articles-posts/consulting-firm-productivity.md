@@ -26,7 +26,7 @@ The graph illustrates my point.
 
 The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the **is-value**.³
  
-What should have happened is extensive automation of the analyses and deliverable creation layers. This is the **wish-value**.³
+What should have happened is extensive automation of the analyses and deliverable creation layers. This is the desired **wish-value**.³
  
 That the recommendations and syndication step is manual is understandable. This is where the dialogue with senior client executives take place, and it is a highly human endeavor. But perhaps some automation here as well?
  
