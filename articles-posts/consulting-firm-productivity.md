@@ -1,6 +1,7 @@
 ---
 title: "The Low Productivity of MBB"
-description: "There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue"
+description: "There is a sad state of affairs at the large management consulting firms —
+ MBB. Not the quality of deliverables. The lack of productivity is the issue"
 image: /assets/social-card-pub.png
 ---
 # The Low Productivity of MBB
@@ -10,8 +11,8 @@ image: /assets/social-card-pub.png
 
 > *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, if anyone could do it, it should be me given my background.*
 
-There is a sad state of affairs at the large management consulting firms—MBB.¹
- Not the quality of deliverables. The lack of productivity is the issue.
+There is a sad state of affairs at the large management consulting firms —
+ MBB.¹  Not the quality of deliverables. The lack of productivity is the issue.
  
 I was a partner at McKinsey & Company and I worked in parallel with all three over the past decade. I am not impressed by how they create their deliverables. Methods are largely stuck in the 20th century. Most work is manual with Excel-PowerPoint-email. The level of automation is low. When I am exposed to their internal processes, they look dysfunctional.
  
