@@ -1,5 +1,5 @@
 ---
-title: "Consulting Firm Productivity"
+title: "The Low Productivity of MBB"
 description: "There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue"
 image: /assets/social-card-pub.png
 ---
