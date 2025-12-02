@@ -19,7 +19,7 @@ This video intoduces our subnational income distribution database TelluBase in 3
 #### [Intro to PACE](https://tellusant.com/repo/video/tellusant-pace-introduction.mp4)  
 Do you know who, where, and when your consumers are buying your products? The PACE (Pricing Aligned with Consumer Economics) latent demand estimator answers these questions.  
 
-#### [Tellusant Global Retreat - Punta Cana - 2025 - Welcome Dinner](https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)  
+#### [Tellusant Global Retreat - Punta Cana 2025 - Welcome Dinner](https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)  
 The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort, a Grupo Posadas property.
 
 
