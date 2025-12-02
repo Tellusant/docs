@@ -9,7 +9,7 @@ image: /assets/social-card-pub.png
 
 > *I wrote this piece in March 2022. At the time it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believes they have found the weakness in MBB.*
 
-> *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, if anyone could do it, it should be me given my background.*
+> *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, if anyone could see this, it should be me given my background.*
 
 There is a sad state of affairs at the large management consulting firms —
  MBB.¹  Not the quality of deliverables. The lack of productivity is the issue.
