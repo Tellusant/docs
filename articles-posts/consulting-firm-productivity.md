@@ -32,9 +32,9 @@ Given this, there are some good news for the Big 3. First, they clearly add trem
  
 Note: Signals are in this case information and data. From [control theory].(https://cds.cern.ch/record/1100534/files/p73.pdf)) 
 
-¹ McKinsey, BCG, Bain
-² Per consultant is not a relevant metric when one of the firms is majority non-consultant.
-³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish term är-värde & bör-värde, which has a nice ring to it. Properly called actual and setpoint in English.
+¹ McKinsey, BCG, Bain  
+² Per consultant is not a relevant metric when one of the firms is majority non-consultant.  
+³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish term är-värde & bör-värde, which has a nice ring to it. Properly called actual and setpoint in English.  
 
 [2022-03-12]
 
