@@ -35,7 +35,7 @@ Also, the partnership model is against automation. It works when you have high l
  
 How can this be changed? I do not think it could or should. Instead, startups will automate aspects of what MBB does and slowly replace them. It is easier to create change afresh than to modify existing behaviors. Creative destruction.
  
-Given this, there are some good news for the Big 3. First, they clearly add tremendous value. The substance of what they deliver is excellent as evidenced by their growth. Second, they can probably source the automation from experts and maintain the high-value recommendation and synthesis activities. Third, the decline will be slow since clients are not putting pressure on them to change.
+Given this, there are some good news for MBB. First, they clearly add tremendous value. The substance of what they deliver is excellent as evidenced by their growth. Second, they can probably source the automation from experts and maintain the high-value recommendation and synthesis activities. Third, the decline will be slow since clients are not putting pressure on them to change.
  
 Note: Signals are in this case information and data. From [control theory].(https://cds.cern.ch/record/1100534/files/p73.pdf)) 
 
