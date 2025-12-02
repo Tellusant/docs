@@ -5,6 +5,11 @@ image: /assets/social-card-pub.png
 ---
 # Consulting Firm Productivity
 *Dr. Staffan Canback*  
+
+> I wrote this in March 2022. Then it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believe they have found the weakness in MBB.
+
+> It is easy to be prescient with hindsight. I am proud that I identified the issue before CgatGPT arrived.
+
 There is a sad state of affairs at the large management consulting firms—MBB.¹
  Not the quality of deliverables. The lack of productivity is the issue.
  
@@ -14,7 +19,9 @@ This is borne out by the numbers. All three have declining revenue per employee�
  
 The graph illustrates my point.  
 
+<p align="center">
 <img  src="assets/images/tellusant-consulting-firm-productivity.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
+</p>
 
 The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the **is-value**.³
  
