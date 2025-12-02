@@ -43,7 +43,7 @@ Note: Signals are in this case information and data (from [control theory](https
 ---
 ¹ McKinsey, BCG, Bain  
 ² Per consultant is not a relevant metric when one of the firms is majority non-consultant.  
-³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish term är-värde & bör-värde, which has a nice ring to it. Properly called actual and setpoint in English.  
+³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish term är-värde & bör-värde, which has a nice ring to it. Properly called actual value and setpoint value in English.  
 
 [2022-03-12]
 
