@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 # The Low Productivity of MBB
 *Dr. Staffan Canback*  
 
-> *I wrote this in March 2022. Then it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believe they have found the weakness in MBB.*
+> *I wrote this piece in March 2022. AT the time it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believes they have found the weakness in MBB.*
 
 > *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, if anyone could do it, it should be me given my background.*
 
