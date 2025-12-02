@@ -37,7 +37,7 @@ How can this be changed? I do not think it could or should. Instead, startups wi
  
 Given this, there are some good news for MBB. First, they clearly add tremendous value. The substance of what they deliver is excellent as evidenced by their growth. Second, they can probably source the automation from experts and maintain the high-value recommendation and synthesis activities. Third, the decline will be slow since clients are not putting pressure on them to change.
  
-Note: Signals are in this case information and data. From [control theory].(https://cds.cern.ch/record/1100534/files/p73.pdf)) 
+Note: Signals are in this case information and data (from [control theory](https://cds.cern.ch/record/1100534/files/p73.pdf)).  
 
 ---
 ¹ McKinsey, BCG, Bain  
