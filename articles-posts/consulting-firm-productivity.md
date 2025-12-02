@@ -3,7 +3,7 @@ title: "Consulting Firm Productivity"
 description: "There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue"
 image: /assets/social-card-pub.png
 ---
-# Consulting Firm Productivity
+# The Low Productivity of MBB
 *Dr. Staffan Canback*  
 
 > *I wrote this in March 2022. Then it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believe they have found the weakness in MBB.*
