@@ -21,7 +21,7 @@ This is borne out by the numbers. All three have declining revenue per employeeÂ
 The graph illustrates my point.  
 
 <p align="center">
-<img  src="assets/images/tellusant-consulting-firm-productivity.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
+<img  src="assets/images/s.canback-tellusant-consulting-firm-productivity.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
 </p>
 
 The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the **is-value**.Â³
