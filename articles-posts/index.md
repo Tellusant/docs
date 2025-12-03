@@ -29,6 +29,10 @@ Our PoluSim solution has expanded majorly since the launch in 2022. Learn more i
 <br/>
 
 ## Past
+
+#### [The Low Productivity of MBB](consulting-firm-productivity.md) post
+There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue.
+
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  article  
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 

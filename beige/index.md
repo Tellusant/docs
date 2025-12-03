@@ -1,5 +1,5 @@
 ---
-title: "Beige Book Nowcast - Nov. 26, 2025"
+title: "Beige Book Nowcast"
 description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
 image: /assets/social-card-beig.png
 ---
@@ -13,7 +13,7 @@ We compute a composite score for each of the 12 districts based on the wording i
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
 ---
-## November 2025
+## November 26, 2025
 
 ![November 2025](assets/images/tellusant-fed-beige-book-summary-2025-11.svg)  
 
