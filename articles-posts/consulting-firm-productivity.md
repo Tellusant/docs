@@ -24,7 +24,7 @@ The graph illustrates my point.
 <img  src="assets/images/s.canback-tellusant-consulting-firm-productivity.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
 </p>
 
-The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the **is-value**.³
+The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the actual **is-value**.³
  
 What should have happened is extensive automation of the analyses and deliverable creation layers. This is the desired **wish-value**.³
  
