@@ -1,3 +1,11 @@
+<video controls width="600">
+    <source src="my-video.mp4" type="video/mp4">
+
+    <!-- Fallback text for browsers that do not support the video tag -->
+    Your browser does not support the video tag.
+</video>
+
+
 ![Workshop](assets/images/tellusant-punta-cana-workshop.webp)
 
 TEST OF GOOGLE VIEWER  
