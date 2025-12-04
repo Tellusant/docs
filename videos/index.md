@@ -22,8 +22,8 @@ Do you know who, where, and when your consumers are buying your products? The PA
 #### [Tellusant Global Retreat - Punta Cana 2025 - Welcome Dinner](https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)  
 The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort, a Grupo Posadas property.
 
-#### [Staffan Canback interviewed on CNBC: Emerging Markets Opportunities and Challenges](https://www.cnbcafrica.com/media/5462817917001/emerging-markets-opportunities-and-challenges)
-This interview covers the extraordinary opportunities in emerging markets and the hurdles that need to be overcome for success.
+#### [Staffan Canback interviewed on CNBC: Emerging Markets Opportunities and Challenges](https://www.cnbcafrica.com/media/5462817917001/emerging-markets-opportunities-and-challenges)  
+Although emerging markets present large opportunities for companies, uncertainty and high variability pose challenges to developing confident growth strategies. Joining CNBC Africa's to talk more about these themes which are highlighted in the latest Canback Whitepaper is Dr Staffan Canback.
 
 ---
 #### [Visit our Vimeo page with many more videos](https://vimeo.com/tellusant/)
