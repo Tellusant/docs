@@ -24,7 +24,7 @@ The graph illustrates my point.
 <img  src="assets/images/s.canback-tellusant-consulting-firm-productivity.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
 </p>
 
-The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the **is-value**.³
+The current state is highly manual and there are vast (junior and mid-level) resources dedicated to analyses and to creating deliverables. This is the actual **is-value**.³
  
 What should have happened is extensive automation of the analyses and deliverable creation layers. This is the desired **wish-value**.³
  
@@ -38,12 +38,12 @@ How can this be changed? I do not think it could or should. Instead, startups wi
  
 Given this, there are some good news for MBB. First, they clearly add tremendous value. The substance of what they deliver is excellent as evidenced by their growth. Second, they can probably source the automation from experts and maintain the high-value recommendation and synthesis activities. Third, the decline will be slow since clients are not putting pressure on them to change.
  
-Note: Signals are in this case information and data (from [control theory](https://cds.cern.ch/record/1100534/files/p73.pdf)).  
+Note: *Signals* are in this case information and data.
 
 ---
 ¹ McKinsey, BCG, Bain  
 ² Per consultant is not a relevant metric when one of the firms is majority non-consultant.  
-³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish term är-värde & bör-värde, which has a nice ring to it. Properly called actual value and setpoint value in English.  
+³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish terms *är-värde* and *bör-värde*, which have a nice ring to them. Properly called actual value and reference (or setpoint) value in English. See, e.g., [Stefan Simrock: Control Theory](https://cds.cern.ch/record/1100534/files/p73.pdf).  
 
 [2022-03-12]
 
