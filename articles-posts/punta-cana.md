@@ -1,3 +1,11 @@
+---
+title: "Tellusant Global Retreat in Punta Cana 2025"
+description: "Our global retreat was held in November in Punta Cana, Dominican Republic. This foolows the 2024 retreat in Panama City, Panama"
+image: /assets/social-card-pub.png
+---
+# Global Retreat in Punta Cana 2025
+Our global retreat was held in November in Punta Cana, Dominican Republic. This foolows the 2024 retreat in Panama City, Panama.
+
 <video controls>
     <source src="(https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)" type="video/mp4" width="600"; height="100%">
 
