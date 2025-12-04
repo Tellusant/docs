@@ -10,7 +10,7 @@ We picked Punta Cana because it is served by direct flights from Boston, Mexico 
 
 Philip Burginyoung, our CEO, expertly organized the entire event. We aee all most grateful and send a big thank you!
 
-## First Day: Welcome Dinner
+## First Day: Welcome
 The first night, we held our welcome dinner at the hibachi restaurant. Great for team building as we joined the chef in singing and also made preparing our own food.  
 
 <video controls>
@@ -70,6 +70,9 @@ TEST OF BASIC VIEWER
 <br/>
 In the evening we had a team dinner at a spectacular French restaurant.  
 
-## Fourth Day: Relax and Travel
+
+## Fourth Day: Farewell
+
+
 
 
