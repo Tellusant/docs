@@ -1,12 +1,17 @@
 ---
-title: "Tellusant Global Retreat in Punta Cana 2025"
+title: "Global Retreat in Punta Cana 2025"
 description: "Our global retreat was held in November in Punta Cana, Dominican Republic. This follows the 2024 retreat in Panama City, Panama"
 image: /assets/social-card-pub.png
 ---
 # Global Retreat in Punta Cana 2025
-Our global retreat was held in November in Punta Cana, Dominican Republic. This foolows the 2024 retreat in Panama City, Panama.
+The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort, a Grupo Posadas property. This follows the 2024 retreat in Panama City, Panama.  
+
+We picked Punta Cana because it is served by direct flights from Boston, Mexico and Bogota. And having perfect weather and a turquoise ocean also helped!
+
+Philip Burginyoung, our CEO, expertly organized the entire event. We aee all most grateful and send a big thank you!
 
 ## First Day: Welcome Dinner
+The first night, we held our welcome dinner at the hibachi restaurant. Great for team building as we joined the chef in singing and also made preparing our own food.  
 
 <video controls>
     <source src="(https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)" type="video/mp4" width="600"; height="100%">
@@ -14,6 +19,12 @@ Our global retreat was held in November in Punta Cana, Dominican Republic. This 
     <!-- Fallback text for browsers that do not support the video tag -->
     Your browser does not support the video tag.
 </video>
+
+
+
+
+
+
 
 ## Second Day: Team Building
 
