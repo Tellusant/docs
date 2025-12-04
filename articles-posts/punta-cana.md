@@ -1,4 +1,4 @@
-![Workshop](asstes/images/tellusant-punta-cana-workshop)
+![Workshop](assets/images/tellusant-punta-cana-workshop)
 
 TEST OF GOOGLE VIEWER  
 <iframe
