@@ -21,12 +21,12 @@ We continue the Tellusant Global Retreat in Punta Cana. The second day was dedic
 
 [p]
 
-❶ Arriving at the plantation
-❷ Making sure we are in the Dominican Republic
-❸ Intensely viewing an animal
-❹ Entering the cigar factory
-❺ Making cigars under close supervision
-❻ Taking a break from cigar making
+1. Arriving at the plantation
+2. Making sure we are in the Dominican Republic
+3. Intensely viewing an animal
+4. Entering the cigar factory
+5. Making cigars under close supervision
+6. Taking a break from cigar making
 
 Later, we went for a swim in the ocean and had a team dinner in the Italian restaurant on the resort.
 
@@ -35,14 +35,13 @@ The third day of the Tellusant Global Retreat in Punta Cana is dedicated to work
 <br/>
 ![Workshop](assets/images/tellusant-punta-cana-workshop.webp)
 <br/>
-Sessions were dedicated to training and internal planning.
+Sessions were designed around training and internal planning.
 
-• An overview session of our company and the way ahead
-• A session on how to use our TelluBase data for strategic insights
-• Brainstorming a business development plan based on lessons learned
-• Several sessions on product development and data management
+- An overview session of our company and the way ahead  
+- A session on how to use our TelluBase data for strategic insights  
+- Brainstorming a business development plan based on lessons learned  
+- Several sessions on product development and data management  
 
-In the evening we had a team dinner at a spectacular French restaurant.
 
 TEST OF GOOGLE VIEWER  
 <iframe
@@ -57,7 +56,9 @@ TEST OF BASIC VIEWER
   height="800"
   style="border:1px solid #ddd; border-radius: 12px;"
 ></iframe>
+<br/>
+In the evening we had a team dinner at a spectacular French restaurant.  
 
-## Fourth Day: Relaxing
+## Fourth Day: Relax and Travel
 
 
