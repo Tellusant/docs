@@ -1,10 +1,12 @@
 ---
 title: "Tellusant Global Retreat in Punta Cana 2025"
-description: "Our global retreat was held in November in Punta Cana, Dominican Republic. This foolows the 2024 retreat in Panama City, Panama"
+description: "Our global retreat was held in November in Punta Cana, Dominican Republic. This follows the 2024 retreat in Panama City, Panama"
 image: /assets/social-card-pub.png
 ---
 # Global Retreat in Punta Cana 2025
 Our global retreat was held in November in Punta Cana, Dominican Republic. This foolows the 2024 retreat in Panama City, Panama.
+
+## First Day: Welcome Dinner
 
 <video controls>
     <source src="(https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)" type="video/mp4" width="600"; height="100%">
@@ -13,7 +15,7 @@ Our global retreat was held in November in Punta Cana, Dominican Republic. This 
     Your browser does not support the video tag.
 </video>
 
-## Team Building
+## Second Day: Team Building
 
 We continue the Tellusant Global Retreat in Punta Cana. The second day was dedicated to team building at plantation and a cigar factory.
 
@@ -28,7 +30,7 @@ We continue the Tellusant Global Retreat in Punta Cana. The second day was dedic
 
 Later, we went for a swim in the ocean and had a team dinner in the Italian restaurant on the resort.
 
-## Workshop
+## Third Day: Workshop
 The third day of the Tellusant Global Retreat in Punta Cana is dedicated to work sessions. The collage shows us in gloriously old tech 𝗙𝘂𝗷𝗶𝗳𝗶𝗹𝗺 𝗜𝗻𝘀𝘁𝗮𝘅 photos.  
 <br/>
 ![Workshop](assets/images/tellusant-punta-cana-workshop.webp)
@@ -55,3 +57,7 @@ TEST OF BASIC VIEWER
   height="800"
   style="border:1px solid #ddd; border-radius: 12px;"
 ></iframe>
+
+## Fourth Day: Relaxing
+
+
