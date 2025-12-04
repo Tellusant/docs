@@ -1,3 +1,5 @@
+![Workshop](asstes/images/tellusant-punta-cana-workshop)
+
 TEST OF GOOGLE VIEWER  
 <iframe
   src="https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Ftellusant.github.io%2Fdocs%2Fpresentations%2FS.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf"
