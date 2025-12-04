@@ -1,5 +1,13 @@
+
 <iframe
-  src="https://docs.google.com/gview?url=https://YOURDOMAIN/path/to/myfile.pdf&embedded=true"
-  style="width:100%; height:800px;"
-  frameborder="0"
+  src="https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Ftellusant.github.io%2Fdocs%2Fpresentations%2FS.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf"
+  style="width:100%; height:800px; border:0;"
+  loading="lazy"
+></iframe>
+
+<iframe
+  src="https://tellusant.github.io/docs/presentations/S.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf"
+  width="100%"
+  height="800"
+  style="border:1px solid #ddd; border-radius: 12px;"
 ></iframe>
