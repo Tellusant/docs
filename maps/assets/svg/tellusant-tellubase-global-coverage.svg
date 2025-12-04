@@ -1,5 +1,18 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="800" height="421" viewBox="0 0 800 421" stroke-linecap="round" stroke-linejoin="round">
+
+<metadata
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>TelluBase Global Coverage</dc:title>
+  <dc:creator>Tellusant</dc:creator>
+  <dc:publisher>Tellusant, Inc.</dc:publisher>
+  <dc:description>
+    This map shows the 218 countries, 2600 cities, and 2500 primary subdivisions Tellusant covers in Tellubase.
+  </dc:description>
+  <dc:rights>Copyright 2025, Tellusant, Inc.</dc:rights>
+  <dc:license>CC BY-SA 4.0</dc:license>
+</metadata>
+
 <g id="sub">
 <path d="M 42.88 178.84 40.21 179.81 40.16 177.42 41.05 175.82 42.47 176.62 43.51 178.22 42.88 178.84 Z" fill="#B39EE3" stroke="#B39EE3"/>
 <path d="M 420.09 78.8 418.43 79.47 416.7 78.6 413.69 78.37 411.46 78.9 410.49 80.43 409.61 80.27 408.58 81.95 406.21 82.03 403.6 80.45 400.73 80.76 399.22 78.69 399.04 76.77 400.13 75.16 402.94 75.1 404.65 75.51 406.34 75.21 408.07 73.43 410.12 73.34 410.83 73.61 413.61 72.53 414.8 72.57 416.63 74.23 416.42 75.98 418.53 76.11 420.09 78.8 Z" fill="#D9ACDB" stroke="#D9ACDB"/>

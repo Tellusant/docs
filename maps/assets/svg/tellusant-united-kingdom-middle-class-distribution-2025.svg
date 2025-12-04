@@ -5,11 +5,12 @@ xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden
 <metadata
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <dc:title>British Middle Class Distribution in 2025</dc:title>
-  <dc:creator>Staffan Canback, Tellusant</dc:creator>
+  <dc:creator>Staffan Canback</dc:creator>
+  <dc:publisher>Tellusant, Inc.</dc:publisher>
   <dc:description>
     See how the United Kingdom's cities and subdivisions vary in size and density of the middle class. Based on TelluBase data.
   </dc:description>
-  <dc:rights>Copyright 2025</dc:rights>
+  <dc:rights>Copyright 2025, Staffan Canback</dc:rights>
   <dc:license>CC BY-SA 4.0</dc:license>
 </metadata>
 
