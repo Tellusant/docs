@@ -1,5 +1,5 @@
-<video controls width="600">
-    <source src="(https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)" type="video/mp4">
+<video controls>
+    <source src="(https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4)" type="video/mp4" width="600"; height="100%">
 
     <!-- Fallback text for browsers that do not support the video tag -->
     Your browser does not support the video tag.
