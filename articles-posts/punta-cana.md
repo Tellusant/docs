@@ -20,6 +20,12 @@ The first night, we held our welcome dinner at the property's hibachi restaurant
 </video>
 </p>
 
+After dinner, some people continued their activities till the wee hour.
+
+<p align="center">
+<img  src="assets/images/tellusant-punta-cana-after-dinner.webp" width="400" alt="Tellusant Punta Cana after dinner">
+</p>
+
 ## Second Day: Team Building
 
 We continue the Tellusant Global Retreat in Punta Cana. The second day was dedicated to team building at a plantation and a cigar factory.
