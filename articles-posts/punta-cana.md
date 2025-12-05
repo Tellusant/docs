@@ -53,14 +53,17 @@ Sessions were designed around training and internal planning.
 
 In the evening we had a team dinner at a spectacular French restaurant.  
 
-![Farewell Dinner](assets/images/tellusant-farewell-dinner.webp)
-
+<p align="center">
+<img  src="assets/images/tellusant-farewell-dinner.webp" width="600" alt="Tellusant Punta Cana farewell dinner">
+</p>
 
 ## Fourth Day: Farewell
 
 The fourth day of the Tellusant Global Retreat in Punta Cana saw us relaxing and bidding fond farewells.
 
-![Relaxing before departure](assets/images/tellusant-punta-cana-relax.webp)
+<p align="center">
+<img  src="assets/images/tellusant-punta-cana-relax.webp" width="600" alt="Tellusant relaxing in Punta Cana before departure">
+</p>
 
 What an experience! The perfect mix of work and play. An extraordinary resort with impeccable service and excellent food and wine beyond the typical hotel fare.
 
