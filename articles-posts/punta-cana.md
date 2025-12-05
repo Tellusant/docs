@@ -40,6 +40,7 @@ We continue the Tellusant Global Retreat in Punta Cana. The second day was dedic
 4. Entering the cigar factory
 5. Making cigars under close supervision
 6. Taking a break from cigar making
+7. More cigar making
 
 Later, we went for a swim in the ocean and had a team dinner in the Italian restaurant on the resort.
 
