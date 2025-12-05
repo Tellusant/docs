@@ -20,12 +20,6 @@ The first night, we held our welcome dinner at the hibachi restaurant. Great for
     Your browser does not support the video tag.
 </video>
 
-
-
-
-
-
-
 ## Second Day: Team Building
 
 We continue the Tellusant Global Retreat in Punta Cana. The second day was dedicated to team building at plantation and a cigar factory.
@@ -57,12 +51,14 @@ Sessions were designed around training and internal planning.
 
 In the evening we had a team dinner at a spectacular French restaurant.  
 
+![Farewell Dinner](assets/images/tellusant-farewell-dinner.webp)
+
 
 ## Fourth Day: Farewell
 
 The fourth day of the Tellusant Global Retreat in Punta Cana saw us relaxing and bidding fond farewells.
 
-
+![Relaxing before departure](assets/images/tellusant-punta-cana-relax.webp)
 
 What an experience! The perfect mix of work and play. An extraordinary resort with impeccable service and excellent food and wine beyond the typical hotel fare.
 
