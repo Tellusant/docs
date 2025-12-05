@@ -14,7 +14,7 @@ Philip Burginyoung, our CEO, expertly organized the entire event. We aee all mos
 The first night, we held our welcome dinner at the property's hibachi restaurant. Great for team building as we joined the chef in singing and also prepared our own food.  
 
 <video controls>
-    <source src="https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.mp4" type="video/mp4" width="800"; height="100%">
+    <source src="https://tellusant.com/repo/video/tellusant-global-retreat-punta-cana-2025-welcome-dinner.html" type="video/mp4" width="800"; height="100%">
 
     <!-- Fallback text for browsers that do not support the video tag -->
     Your browser does not support the video tag.
