@@ -20,7 +20,7 @@ The first night, we held our welcome dinner at the property's hibachi restaurant
 </video>
 </p>
 
-After dinner, some people continued their activities till the wee hour.
+After dinner, some people continued their activities till the wee hours.
 
 <p align="center">
 <img  src="assets/images/tellusant-punta-cana-after-dinner.webp" width="400" alt="Tellusant Punta Cana after dinner">
