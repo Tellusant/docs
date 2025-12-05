@@ -64,6 +64,6 @@ We are often asked what levers can be pulled to stimulate demand. Is there a sys
 Trade-offs between generality, precision, and realism in strategy development.
 
 #### [Five Insights on Strategic Oredictions](tellusant-five-insights-on-strategic-predictions.pdf) post
-
+We put together this booklet for senior executives to use when talking with people creating strategic forecasts. Ask questions based on the 15 points.
 
 
