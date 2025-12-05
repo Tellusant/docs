@@ -22,7 +22,7 @@ The first night, we held our welcome dinner at the property's hibachi restaurant
 
 ## Second Day: Team Building
 
-We continue the Tellusant Global Retreat in Punta Cana. The second day was dedicated to team building at plantation and a cigar factory.
+We continue the Tellusant Global Retreat in Punta Cana. The second day was dedicated to team building at a plantation and a cigar factory.
 
 [p]
 
