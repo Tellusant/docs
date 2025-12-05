@@ -63,6 +63,6 @@ We are often asked what levers can be pulled to stimulate demand. Is there a sys
 #### [The Horns of the Dilemma #1](horns-dilemma-1.md) post
 Trade-offs between generality, precision, and realism in strategy development.
 
-#### [Five Insights on Strategic Oredictions](tellusant-five-insights-on-strategic-predictions.pdf) post
+#### [Five Insights on Strategic Predictions](tellusant-five-insights-on-strategic-predictions.pdf) post
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.
 
