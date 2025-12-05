@@ -37,9 +37,11 @@ Later, we went for a swim in the ocean and had a team dinner in the Italian rest
 
 ## Third Day: Workshop
 The third day of the Tellusant Global Retreat in Punta Cana is dedicated to work sessions. The collage shows us in gloriously old tech 𝗙𝘂𝗷𝗶𝗳𝗶𝗹𝗺 𝗜𝗻𝘀𝘁𝗮𝘅 photos.  
-<br/>
-![Workshop](assets/images/tellusant-punta-cana-workshop.webp)
-<br/>
+
+<p align="center">
+<img  src="assets/images/tellusant-punta-cana-workshop.webp" width="600" alt="Tellusant Punta Cana workshop">
+</p>
+
 Sessions were designed around training and internal planning.
 
 - An overview session of our company and the way ahead  
