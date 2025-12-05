@@ -5,8 +5,7 @@
 <p align="center">
 <iframe
   src="https://docs.google.com/gview?url=https://tellusant.github.io/docs/articles-posts/assets/pdf/tellusant-five-insights-on-strategic-predictions.pdf&embedded=true"
-  style="width:400px; height:auto;"
-  border="0"
+ style="width:400px; max-width:100%; height:80vh; border:0;"
   loading="lazy">
     </iframe>
 </p>
