@@ -54,25 +54,24 @@ Sessions were designed around training and internal planning.
 - Several sessions on product development and data management  
 
 
-TEST OF GOOGLE VIEWER  
-<iframe
-  src="https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Ftellusant.github.io%2Fdocs%2Fpresentations%2FS.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf"
-  style="width:100%; height:800px; border:0;"
-  loading="lazy"
-></iframe>
-TEST OF BASIC VIEWER
-<iframe
-  src="https://tellusant.github.io/docs/presentations/S.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf"
-  width="100%"
-  height="800"
-  style="border:1px solid #ddd; border-radius: 12px;"
-></iframe>
-<br/>
+
 In the evening we had a team dinner at a spectacular French restaurant.  
 
 
 ## Fourth Day: Farewell
 
+The fourth day of the Tellusant Global Retreat in Punta Cana saw us relaxing and bidding fond farewells.
 
+
+
+What an experience! The perfect mix of work and play. An extraordinary resort with impeccable service and excellent food and wine beyond the typical hotel fare.
+
+
+
+Now back to converting our learnings into action.
+
+
+
+Next year in???
 
 
