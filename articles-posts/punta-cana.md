@@ -35,8 +35,8 @@ We continue the Tellusant Global Retreat in Punta Cana. The second day was dedic
 </p>
 
 1. Arriving at the plantation
-2. Making sure we are in the Dominican Republic
-3. Intensely viewing an animal
+2. Intensely viewing an animal
+3. Making sure we are in the Dominican Republic
 4. Entering the cigar factory
 5. Making cigars under close supervision
 6. Taking a break from cigar making
