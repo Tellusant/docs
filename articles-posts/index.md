@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [Global Retreat in Punta Cana 2025](punta-cana.md) article
+#### [Global Retreat in Punta Cana 2025](punta-cana.md) post
 The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort.
 
 
@@ -28,11 +28,13 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 #### [The Horns of the Dilemma #2](horns-dilemma-2.md) post  
 Trade-offs between predictive, explanatory, and understandable models in statistical analysis.
 
-#### [The PoluSim Universe](polusim-universe.md) post   
-Our PoluSim solution has expanded majorly since the launch in 2022. Learn more in this post.  
+
 <br/>
 
 ## Past
+
+#### [The PoluSim Universe](polusim-universe.md) post   
+Our PoluSim solution has expanded majorly since the launch in 2022. Learn more in this post.  
 
 #### [The Low Productivity of MBB](consulting-firm-productivity.md) post
 There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue.
