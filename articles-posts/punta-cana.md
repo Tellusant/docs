@@ -30,7 +30,9 @@ After dinner, some people continued their activities till the wee hour.
 
 We continue the Tellusant Global Retreat in Punta Cana. The second day was dedicated to team building at a plantation and a cigar factory.
 
-[p]
+<p align="center">
+<img  src="assets/images/tellusant-punta-cana-team-building.webp" width="500" alt="Tellusant Punta Cana team building day">
+</p>
 
 1. Arriving at the plantation
 2. Making sure we are in the Dominican Republic
