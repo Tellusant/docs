@@ -12,6 +12,10 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
+#### [Global Retreat in Punta Cana 2025](punta-cana.md) article
+The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort.
+
+
 #### [The Triple-A Method for Market Sizing](triple-a.md) article
 The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.
 
