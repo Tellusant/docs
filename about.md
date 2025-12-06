@@ -9,7 +9,7 @@ All of our work and applications are grounded in detailed knowledge of consumer 
 
 We provide the world’s only globally harmonized consumer classes (disposable income by income and age brackets, socioeconomic class sizes, and much more) data hub: **TelluBase**.  
 
-It covers more than 27,000 geographic entities from 2000 till 2050.  
+It covers 218 countries, 2600 cities, and 2500 subdivisions from 2000 till 2050.  
 
 We combine this with exceptional statistical analysis and predictive artificial intelligence to create the most robust prediction tools possible.  
 
