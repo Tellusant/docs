@@ -8,7 +8,7 @@ Public speeches, lectures and other presentations by Tellusant members in slide 
 
 ---
 #### [Tellusant on Strategy](S.Canback-Tellusant-on-Strategy.pdf)
-We show Tellusant’s frameworks for strategy development. It builds on Structure-Conduct-Performance (SCP) and the Resource-Based View of the firm (RBV).This is what we automate in our cloud-based solutions.
+We show Tellusant’s frameworks for strategy development. It builds on Structure-Conduct-Performance (SCP) and the Resource-Based View of the firm (RBV). This is what we automate in our cloud-based solutions.
 
 #### [Staffan Canback: What Is to Be Done? How What We Do Changes the World (Slowly)](S.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf)
 The presentation, structured by the Rule of Threes, shows by examples how our solutions generate insicts around the world. It was part of our training sessions at our Global Office Retreat in Punta Cana, Dom. Rep.
