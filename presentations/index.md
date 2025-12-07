@@ -17,6 +17,9 @@ This is from an internal training session. My focus was the mathematical basis f
 #### [Staffan Canback: The World Is My Oyster — Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
 This is the inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business.
 
+#### [Staffan Canback: Tellusant on Strategy](S.Canback-Tellusant-on-Strategy.pdf)
+This document shows Tellusant’s frameworks in strategy development. It represents what we over time will automate in our cloud-based solutions.
+
 #### [Staffan Canbäck: The Lund Lecture](S.Canback-Tellusant-Lund-Lecture.pdf)  
 This educational deck contains an overview of Tellusant's methods interlaced with travel stories, and a breakout session for the students. The materials were used at a lecture at Lund University for master's students in May 2024. It draws heavily on TelluBase data.
 
