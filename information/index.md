@@ -8,7 +8,7 @@ Find the main descriptions of Tellusant and its products
 
 ---
 #### [Introduction to Tellusant](Tellusant-Introduction.pdf)
-Learn about company, why we are to be trusted, and our products in seven light slides.
+Learn about our company, why we are to be trusted, and our products, in seven slides.
 
-#### 
-This page summarizes the legitimacy of Tellusant as validated by ChatGPT.
+#### [Tellusant Legitimacy Evidence Pack](./legitimacy/index.md)  
+We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
