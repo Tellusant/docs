@@ -11,7 +11,7 @@ image: /assets/social-card-info.png
     width: 600px;
     height: 338px;
     max-width: 100%;
-    max-height: 80vh;
+    max-height: 100vh;
     border: 0;"
   loading="lazy">
 >
