@@ -8,33 +8,19 @@ image: /assets/social-card-info.png
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>PDF Embed</title>
-  <style>
-    /* 16:9 responsive wrapper (matches 1920x1080) */
-    .pdf-wrap{
-      max-width: 600px;          /* optional: keeps it from getting huge on big monitors */
-      margin: 16px auto;
-      padding: 0 12px;
-    }
-    .pdf-frame{
-      width: 100%;
-      aspect-ratio: 16 / 9;
-      border: 1px solid #e5e7eb;
-      border-radius: 0px; /* earlier 12px */
-      overflow: hidden;
-      background: #fff;
-      box-shadow: 0 6px 24px rgba(0,0,0,.08);
-    }
-    .pdf-frame iframe{
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
-
-    /* iPhone-friendly: make it taller if you want more readable pages */
-    @media (max-width: 480px){
-      .pdf-frame{ aspect-ratio: 9 / 16; } /* optional: portrait-ish on phones */
-    }
-  </style>
+ <style>
+  .pdf-wrap{ max-width: 600px; margin: 16px auto; padding: 0 12px; }
+  .pdf-frame{
+    width: 100%;
+    height: min(80vh, 720px);   /* adjust to taste */
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 6px 24px rgba(0,0,0,.08);
+  }
+  .pdf-frame iframe{ width:100%; height:100%; border:0; }
+</style>
 </head>
 <body>
   <div class="pdf-wrap">
