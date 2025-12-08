@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Tellusant"
-description: "See the main attributes of Tellusant and its products"
+description: "Learn about Tellusant and its products PoluSim, TelluBase, and PACE"
 image: /assets/social-card-info.png
 ---
 # Introduction to Tellusant
