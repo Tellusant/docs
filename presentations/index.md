@@ -7,6 +7,9 @@ image: /assets/social-card-pub.png
 Public speeches, lectures and other presentations by Tellusant members in slide format.     
 
 ---
+#### [Introduction to Tellusant](Tellusant-Introduction.pdf)
+Learn about company, why we are to be trusted, and our products in seven light slides.
+
 #### [Tellusant on Strategy](S.Canback-Tellusant-on-Strategy.pdf)
 We show Tellusant’s frameworks for strategy development. It builds on Structure-Conduct-Performance (SCP) and the Resource-Based View of the firm (RBV). This is what we automate in our cloud-based solutions.
 
