@@ -4,8 +4,6 @@ description: "Find the main descriptions of Tellusant and its products."
 image: /assets/social-card-info.png
 ---
 # Introduction to Tellusant
-<!doctype html>
-<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -13,7 +11,7 @@ image: /assets/social-card-info.png
   <style>
     /* 16:9 responsive wrapper (matches 1920x1080) */
     .pdf-wrap{
-      max-width: 1200px;          /* optional: keeps it from getting huge on big monitors */
+      max-width: 600px;          /* optional: keeps it from getting huge on big monitors */
       margin: 16px auto;
       padding: 0 12px;
     }
