@@ -132,6 +132,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 New Africa (2016): *The rising middle class – and yes it matters* newafricanmagazine.com/11558-2/
 #### [New York State Metropolitan Transit Authority (2020):*Letter to Sen. Charles Schumer*](http://web.mit.edu/jeffrey/harris/NY_Delegation_Letter_041620_final_(1).pdf)
 #### [New York Times (2014): *Africans open fuller wallets to the future*](http://www.nytimes.com/2014/07/21/world/africa/economy-improves-as-middle-class-africans-open-wallets-to-the-future.html)
+#### [New York Times (1999): *On the Contrary: Telling Them What They Pay to Hear*](https://www.nytimes.com/1999/07/04/business/on-the-contrary-telling-them-what-they-ll-pay-to-hear.html)
 #### [Newsweek (2020): *Black China: Africa's First Superpower Is Coming Sooner Than You Think*](https://www.newsweek.com/2020/01/31/nigeria-next-superpower-1481949.html)
 #### [Nielsen (2010): *The future of retailer brands*](assets/pdf/nielsen_retailer_brands.pdf)  
 #### [Nigerian Agricultural Policy Research Journal  (2019): *Assessment of the perceptions of farmers on the performance of Fadama III activities in Niger delta area of Nigeria*](https://ageconsearch.umn.edu/record/314133/?ln=en)
