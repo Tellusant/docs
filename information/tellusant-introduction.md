@@ -3,7 +3,7 @@ title: "Introduction to Tellusant"
 description: "Learn about Tellusant and its products PoluSim, TelluBase, and PACE"
 image: /assets/social-card-info.png
 ---
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,7 +19,7 @@ image: /assets/social-card-info.png
       width: 100%;
       aspect-ratio: 16 / 9;
       border: 1px solid #e5e7eb;
-      border-radius: 12px;
+      border-radius: 0px; /* earlier 12px */
       overflow: hidden;
       background: #fff;
       box-shadow: 0 6px 24px rgba(0,0,0,.08);
