@@ -21,6 +21,6 @@ image: /assets/social-card-info.png
     max-width: 100%;
     max-height: 100vh;
     border: 0;"
-  loading="lazy">
+  loading="lazy"
 >
 </p>
