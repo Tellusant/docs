@@ -8,7 +8,7 @@ image: /assets/social-card-info.png
 <p align="center">
 <iframe
   src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
-  style="width:80%; height:600px; border:0;"
+  style="width:80%; height:400px; border:0;"
 >
 </iframe>
 </p>
