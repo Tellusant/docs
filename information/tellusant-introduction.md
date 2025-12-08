@@ -45,12 +45,17 @@ second v
 <p align="center">
 <iframe
   src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
-    style="
-    width: 600px;
-    height: 338px;
-    max-width: 100%;
-    max-height: 100vh;
-    border: 0;"
-  loading="lazy"
->
+    <style>
+  .pdf-wrap{ max-width: 600px; margin: 16px auto; padding: 0 12px; }
+  .pdf-frame{
+    width: 100%;
+    height: min(80vh, 720px);   /* adjust to taste */
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 6px 24px rgba(0,0,0,.08);
+  }
+  .pdf-frame iframe{ width:100%; height:100%; border:0; }
+</style>
 </p>
