@@ -6,8 +6,8 @@ image: /assets/social-card-info.png
 <iframe
   src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
   style="
-    width: 400px;
-    height: 700px;
+    width: 600px;
+    height: 338px;
     max-width: 100%;
     max-height: 80vh;
     border: 0;
