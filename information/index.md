@@ -1,10 +1,10 @@
 ---
 title: "Company Information"
-description: "Find the main descriptions of Tellusant and its products."
+description: "Learn about Tellusant and its products PoluSim, TelluBase, and PACE"
 image: /assets/social-card-pub.png
 ---
 # Company Information
-Find the main descriptions of Tellusant and its products
+Learn about Tellusant and its products PoluSim, TelluBase, and PACE
 
 ---
 #### [Introduction to Tellusant](Tellusant-Introduction.pdf)
