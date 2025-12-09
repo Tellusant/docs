@@ -8,7 +8,7 @@ Learn about Tellusant and its products PoluSim, TelluBase, and PACE
 
 ---
 #### [Introduction to Tellusant](Tellusant-Introduction.pdf)
-Learn about our company, why we are to be trusted, and our products, in seven slides.
+Seven slides give a quick impression of Tellusant.
 
 #### [Tellusant Legitimacy Evidence Pack](../legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
