@@ -7,6 +7,7 @@ image: /assets/social-card-pub.png
 Read our press releases about the latest significant events at Tellusant
 
 ---
+#### [2025-12-09 Tellusant Releases H2 2025 Semi-Annual Update of Its TelluBase Product](tellusant-releases-h2-2025-semi-annual-update-of-its-tellubase-product.md)  
 #### [2025-07-08 TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update](tellubase-new-features-semi-annual-update.md)  
 #### [2025-05-08 PoluSim Adds Stratboard to Its Capabilities](tellusant-stratboard-press-release.md)  
 #### [2024-11-25 Tellusant, Inc. Releases Semi-Annual Data Update of Its TelluBase Product](tellusant-inc-releases-semi-annual-data-update-of-its-tellubase-product.md)
