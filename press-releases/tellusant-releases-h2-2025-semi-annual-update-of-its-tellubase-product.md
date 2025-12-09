@@ -9,7 +9,7 @@ News Provided By Tellusant, Inc. December 09, 2025, 13:30 GMT
 [Originally published om EIN Presswire](https://www.einpresswire.com/article/870724128/tellusant-inc-releases-h2-2025-semi-annual-update-of-its-tellubase-product)
 
 ---
-*TelluBase contains consumer classes, socioeconomic, economic, and demographic data for 218 countries, 2,600 cities and 2,500 subdivisions, 2000–2050.*  
+*TelluBase contains consumer classes, socioeconomic, economic, and demographic data for 218 countries, 2600 cities and 2500 subdivisions, 2000–2050.*  
 
 BOSTON, MA, UNITED STATES, December 9, 2025 /EINPresswire.com/ --  
 Tellusant today released the November 2025 update of TelluBase. This is the seventh major update.  
@@ -20,7 +20,7 @@ TelluBase does not, however, report back raw data from these sources. Instead, i
 
 Here is a deeply analytical example of how TelluBase is used: Subnational ICT Opportunities in South Africa.
 
-**ABOUT TELLUBASE**
+### ABOUT TELLUBASE
 
 TelluBase is the only database in world that breaks down consumer groups by classes and age level across countries, cities, subnational divisions, and years.
 
@@ -32,6 +32,7 @@ With TelluBase your perspective on the world will change forever. It is truly th
 
 TelluBase stems from an initiative started in 1992 by Dr. Staffan Canback (our executive chair). Over the years, the database has been enhanced from national to subnational data; from historical perspective to forward looking; from static dataset to interactive web-based interface, and much more.
 
-Shane Ezepik
-Tellusant, Inc.
-+1 617-394-1800
+Shane Ezepik  
+Tellusant, Inc.  
++1 617-394-1800  
+info@tellusant.com
