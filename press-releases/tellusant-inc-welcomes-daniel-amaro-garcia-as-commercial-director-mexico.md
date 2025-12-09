@@ -54,10 +54,3 @@ Philip Burgin-Young
 Tellusant, Inc.
 +1 617-394-1800
 info@tellusant.com
-
-Visit us on social media:  
-LinkedIn  
-Instagram  
-Vimeo  
-Medium
-Threads
