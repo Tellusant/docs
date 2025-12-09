@@ -3,6 +3,7 @@ title: "Introduction to Tellusant"
 description: "Learn about Tellusant and its products PoluSim, TelluBase, and PACE"
 image: /assets/social-card-info.png
 ---
+<p align="center">
 <iframe
   src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
   style="
@@ -14,3 +15,4 @@ image: /assets/social-card-info.png
   "
   loading="lazy">
 </iframe>
+</p>
