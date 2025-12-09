@@ -4,7 +4,7 @@ description: "Learn about Tellusant and its products PoluSim, TelluBase, and PAC
 image: /assets/social-card-info.png
 ---
 <iframe
-  src="https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Ftellusant.github.io%2Fdocs%2Farticles-posts%2Fassets%2Fpdf%2Ftellusant-five-insights-on-strategic-predictions.pdf"
+  src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
   style="
     width: 400px;
     height: 700px;
