@@ -7,7 +7,7 @@ image: /assets/social-card-info.png
   src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
   style="
     width: 600px;
-    height: 338px;
+    height: 350px;
     max-width: 100%;
     max-height: 80vh;
     border: 0;
