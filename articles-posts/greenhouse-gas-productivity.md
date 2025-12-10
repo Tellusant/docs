@@ -1,4 +1,11 @@
+---
+title: "Greenhouse Gas Productivity"
+description: "Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?"
+image: /assets/social-card-pub.png
+---
+
 # Greenhouse Gas Productivity
+*Dr. Staffan Canback, Tellusant*
 
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?  
 
