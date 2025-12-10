@@ -10,7 +10,7 @@ Public speeches, lectures and other presentations by Tellusant members in slide 
 #### [Introduction to Tellusant](Tellusant-Introduction.pdf)
 Learn about company, why we are to be trusted, and our products in seven light slides.
 
-#### {The Nature of Predictions}(S.Canback-Tellusant-the-Nature-of-Predictions.pdf) forthcoming
+#### [The Nature of Predictions](S.Canback-Tellusant-the-Nature-of-Predictions.pdf) forthcoming
 What are predictions and how are they made. Negative feedback loops and P.I.D controllers make life possible. Learn about this from an internal training session.
 
 
