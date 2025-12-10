@@ -13,7 +13,7 @@ Seven slides give a quick impression of Tellusant. See also [Tellusant website](
 #### [Introduction to PoluSim](Tellusant-Introduction-PoluSim.pdf)
 Seven slides give a quick impression of Tellusant. See also [PoluSim website](https://polusim.telluplan.com "target=_blank").
 
-#### [Introduction to TelluBase by Tellusant](Tellusant-Introduction-TelluBase.pdf)
+#### [Introduction to TelluBase](Tellusant-Introduction-TelluBase.pdf)
 Learn about our subnational income distribution and consumer classes database. 218 countries–2600 cities–2500 Subdivisions. See also [TelluBase on-Demand website](https://tellubase.com "target=_blank").
 
 #### [Tellusant Legitimacy Evidence Pack](../legitimacy/index.md)  
