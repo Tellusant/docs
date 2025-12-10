@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 Public speeches, lectures and other presentations by Tellusant members in slide format.     
 
 ---
-#### [Introduction to Tellusant](Tellusant-Introduction.pdf)
+#### [Introduction to Tellusant](../information/Tellusant-Introduction.pdf)
 Learn about company, why we are to be trusted, and our products in seven light slides.
 
 #### [S. Canback: The Nature of Predictions](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
