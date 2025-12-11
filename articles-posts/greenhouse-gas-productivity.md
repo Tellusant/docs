@@ -13,7 +13,9 @@ We emit GHG to stimulate economic activity. Not the other way around (we have ec
 
 This is a parallel to GDP per capita: How much economic activity does a unit of labor create? Or capital stock productivity: how much GDP does our fixed assets create?  
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-greenhouse-gas-productivity.svg" width="300" alt="Tellusant greenhouse gas prductivity">  
+</p>
 
 With this as background, the graph above shows the large spread in GHG productivity. Among large nations, the UK is the shining star with the EU also doing well. A focused effort on reducing GHG emissions pays off. Among all countries, Switzerland and Sweden lead the way.
 
@@ -23,7 +25,9 @@ The US is slightly above the world median, but still has an embarrassing perform
 
 The map below shows most countries' greenhouse gas productivity by octile. It uses the same data as the graph, but expresses it as a map.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-greenhouse-gas-productivity-map.svg" width="300" alt="Tellusant greenhouse gas prductivity">  
+</p>
 
 The underlying thought in this article is that climate change and greenhouse gas emissions can be seen through a managerial lens. High productivity is always what we strive for. By measuring and acting on the productivity shown here, much can be gained by countries and companies, for the benefit of humanity.
 
