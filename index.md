@@ -28,7 +28,7 @@ Here we share academic and business papers (journal articles, working papers, di
 #### [Presentations](presentations/index.md)  
 Public speeches, lectures and other presentations in slide format by Tellusant members.
 #### [Periodicals](periodicals/index.md) 
-We release our Beige Book analysis every 1½ months, our recession outlook every month, our e-commerce analysis every quarter.
+We release our [Beige Book Nowcast](https://tellusant.github.io/docs/beige/) of Current Economic Activity every 1½ months, our [U.S. Recession Outlook](https://tellusant.github.io/docs/periodicals/us-recession-probability.html) every month, and our [E-Commerce Analysis](https://tellusant.github.io/docs/ecom/) every quarter.
  weeks
 #### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
