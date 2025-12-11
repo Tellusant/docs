@@ -27,6 +27,9 @@ This page gives descriptions and links to our extensive library of *Tellusant Qu
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
 #### [Presentations](presentations/index.md)  
 Public speeches, lectures and other presentations in slide format by Tellusant members.
+#### [Periodicals](periodicals/index.md) 
+We release our Beige Book analysis every 1½ months, our recession outlook every month, our e-commerce analysis every quarter.
+ weeks
 #### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 #### [Maps](maps/index.md)
