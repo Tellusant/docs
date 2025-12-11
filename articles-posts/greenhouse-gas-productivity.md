@@ -32,4 +32,7 @@ The map below shows most countries' greenhouse gas productivity by octile. It us
 The underlying thought in this article is that climate change and greenhouse gas emissions can be seen through a managerial lens. High productivity is always what we strive for. By measuring and acting on the productivity shown here, much can be gained by countries and companies, for the benefit of humanity.
 
 ---
+
+[© Canback Map Projection](https://publicrecords.copyright.gov/detailed-record/voyager_31865619)
+
 [2024-12-02]
