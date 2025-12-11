@@ -11,7 +11,7 @@ Climate change is the problem of the century. How do countries differ in their a
 
 We emit GHG to stimulate economic activity. Not the other way around (we have economic activity to emit GHG). This view allows us to think about GHG productivity: How much economic activity, GDP, does a unit of emitted GHG create? We want this metric to be high, ideally infinite (no GHG emissions).
 
-This is a parallel to GDP per capita: How much economic activity does a unit of labor create? Or capital stock productivity: how much GDP does our fixed assets create?  
+This is a parallel to GDP per capita: How much economic activity does a unit of labor create? Or capital stock productivity: how much GDP do our fixed assets create?  
 
 <p align="center">
 <img  src="assets/images/tellusant-greenhouse-gas-productivity.svg" width="500" alt="Tellusant greenhouse gas prductivity">  
