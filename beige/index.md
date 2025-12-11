@@ -4,11 +4,11 @@ description: "The Fed's Beige Book covers current economic activity. Tellusant c
 image: /assets/social-card-beig.png
 ---
 # Federal Reserve Beige Book Nowcasts
-The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month). It gives a qualitative snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
+The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month). It gives a qualitative, **text-based**, snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
 
 The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is at presently.
 
-We compute a composite score for each of the 12 districts based on the wording in the report using LLM techniques, then sum the scores weighted by the GDP of each district.
+We compute a composite score for each of the 12 districts based on a **semantic analysis** of the report, then sum the scores weighted by the GDP of each district.
 
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
