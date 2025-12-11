@@ -32,7 +32,7 @@ The map below shows most countries' greenhouse gas productivity by octile. It us
 The underlying thought in this post is that climate change and greenhouse gas emissions can be seen through a managerial lens. High productivity is always what we strive for. By measuring and acting on the productivity shown here, much can be gained by countries and companies, for the benefit of humanity.
 
 ---
-As of Dec. 2025, the World Bank has updated its data to end in 2023. The graphs will be updated, but changes will be minute, if any.
+As of Dec. 2025, the World Bank has updated its data till 2023. The graphs will be updated, but changes will be small, if any.
 
 ---
 
