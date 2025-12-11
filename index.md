@@ -29,15 +29,14 @@ Here we share academic and business papers (journal articles, working papers, di
 Public speeches, lectures and other presentations in slide format by Tellusant members.
 #### [Periodicals](periodicals/index.md) 
 We release our [Beige Book Nowcast](https://tellusant.github.io/docs/beige/) of Current Economic Activity every 1½ months, our [U.S. Recession Outlook](https://tellusant.github.io/docs/periodicals/us-recession-probability.html) every month, and our [E-Commerce Analysis](https://tellusant.github.io/docs/ecom/) every quarter.
- weeks
+#### [Fact Sheets](fact-sheets/index.md)  
+We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.
 #### [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 #### [Maps](maps/index.md)
 We create an immense amount of maps on various topics. See some of them in glorious SVG.
 #### [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
-#### [Fact Sheets](fact-sheets/index.md)  
-We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.
 #### [External Recommended Readings](recommended-readings/index.md)
 Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
 #### [External Citations](citations/index.md)  
