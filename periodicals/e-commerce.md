@@ -4,4 +4,4 @@ description: "View our quarterly analysis of trends in U.S. e-commerce relative 
 image: /assets/social-card-pub.png
 ---
 # U.S. E-Commerce Trends
-*TBD once the Nov 19 release is available on FRED. It is delayed for unknown reasons, perhaps the government shutdown.*
+*TBD once the November 19 release is available on FRED. It is delayed for unknown reasons, perhaps the government shutdown.*
