@@ -12,3 +12,8 @@ We have published this nowcast since 2006, until 2025 with Bernanke's specificat
 ## November 28, 2025
 
 ![November 2025](assets/images/tellusant-recession-nowcast.svg)  
+
+---
+For more on Bernanke's and thr Federal Reserve method:
+[Bernanke (1992): Predicitve Powers of Interest Rates](assets/images/bernanke-predictive-powers-of-interest-rates.svg)
+[Bernanke and Rubin: The Yield Curve as a Leading Indicator](assets/images/estrella-and-rubin-the-yield-curve-as-a-leading-indicator.svg)
