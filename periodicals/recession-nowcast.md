@@ -11,7 +11,9 @@ We have published this nowcast since 2006, until 2025 with Bernanke's specificat
 ---
 ## November 28, 2025
 
-![November 2025](assets/images/tellusant-recession-nowcast.svg)  
+<p align="center">
+<img  src="assets/images/tellusant-recession-nowcast.svg" width="800" alt="Nowcast: U.S. recession probability 6 months out">
+</p>
 
 ---
 For more on Bernanke's and the Federal Reserve method:  
