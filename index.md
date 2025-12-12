@@ -41,8 +41,4 @@ View our press releases covering important news from our company.
 Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
 #### [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
-#### [Beige Book Nowcasts](beige/index.md)
-See the latest economic status in the United States based on the Fed's sesqui-monthly Beige Books which we convert into nowcasts since 2015.
-#### [U.S. E-Commerce Developments](ecom/index.md) 
-View our quarterly analysis of trends in U.S. e-commerce relative to total retail. Based on quarterly FRED data.
 
