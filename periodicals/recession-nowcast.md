@@ -16,6 +16,6 @@ We have published this nowcast since 2006, until 2025 with Bernanke's specificat
 </p>
 
 ---
-For more on Bernanke's and the Federal Reserve method:  
-[Bernanke (1990): Predictive Powers of Interest Rates](assets/images/bernanke-predictive-powers-of-interest-rates.svg)  
-[Estrella and Rubin (2006): The Yield Curve as a Leading Indicator](assets/images/estrella-and-rubin-the-yield-curve-as-a-leading-indicator.svg)
+For more on the Bernanke and Federal Reserve's method:  
+[Bernanke (1990): *Predictive Powers of Interest Rates*. NBER.](assets/images/bernanke-predictive-powers-of-interest-rates.svg)  
+[Estrella and Rubin (2006): *The Yield Curve as a Leading Indicator*. Federal Reserve Bank of New York](assets/images/estrella-and-rubin-the-yield-curve-as-a-leading-indicator.svg)
