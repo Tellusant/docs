@@ -11,4 +11,4 @@ We have published this nowcast since 2006, until 2025 with Bernanke's specificat
 ---
 ## November 28, 2025
 
-![November 2025](assets/images/tellusant-united-states-recession-nowcast.svg)  
+![November 2025](assets/images/tellusant-recession-nowcast.svg)  
