@@ -1,5 +1,5 @@
 # Confidential Trade Secrets
-We have a number of **confidential trade secrets** protected by law for eternity. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
+We have a number of **Confidential Trade Secrets** protected by law for eternity. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
 
 Our **Confidential Trade Secrets** are sometimes licensed to clients. The trade secrets protection ensures that those clients cannot use our related IP for their own purposes. There are also other reasons to have trade secrets such as .
 
@@ -16,6 +16,7 @@ For more on trade secrets, see [USPTO](https://www.uspto.gov/ip-policy/trade-sec
 - Global Cultural Markers (GCM)
 
 ---
+### What Are Trade Secrets
 According to USPTO:
 > *A trade secret is information that:  
 > 1 Has actual or potential independent economic value because it is generally unknown to others  
