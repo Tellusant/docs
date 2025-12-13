@@ -27,6 +27,12 @@ The Bernanke model is proportional. It uses a P controller with 12 months lag. I
 
 We used P and added integral I and derivative D elements (working on the same term spread data). That is, a P.I.D. controller. The periods for both I and D were found to be nine months, while P remains at 12 months. This P.I.D model has an optimum at 9 months prediction horizon (found by reviewing the Cross-Correlation Function).
 
+<p align="center">
+<img  src="assets/images/tellusant-recession-nowcast-model-specifications.svg
+" width="700" alt="Tellusant recession nowcast model specifications.svg
+">
+</p>
+
 The Aikake Information Criterion tells us that there is close to zero probability that the Bernanke model is better. This is seen visually because the Tellusant model gives significantly stronger positives than the Bernanke model).
 
 Neither the Tellusant nor Bernanke model are perfect. Both give false positives occasionally, but so far no false negatives (notably in 2024). 
