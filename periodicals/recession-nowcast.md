@@ -33,5 +33,5 @@ Neither the Tellusant nor Bernanke model are perfect. Both give false positives 
 
 ---
 For more on the Bernanke and Federal Reserve's method:  
-[Bernanke (1990): *Predictive Powers of Interest Rates*. NBER.](assets/images/bernanke-predictive-powers-of-interest-rates.svg)  
-[Estrella and Rubin (2006): *The Yield Curve as a Leading Indicator*. Federal Reserve Bank of New York](assets/images/estrella-and-rubin-the-yield-curve-as-a-leading-indicator.svg)
+[Bernanke (1990): *Predictive Powers of Interest Rates*. NBER.](assets/images/bernanke-predictive-powers-of-interest-rates.pdf)  
+[Estrella and Rubin (2006): *The Yield Curve as a Leading Indicator*. Federal Reserve Bank of New York](assets/images/estrella-and-rubin-the-yield-curve-as-a-leading-indicator.pdf)
