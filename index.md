@@ -43,4 +43,4 @@ Here we recommend high quality readings by external authorities, touching on our
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
 
 ---
-We may refer to, but not divulge, **trade secrets** on this site. See a non-exhaustive list here: [Tellusant trade secrets](trade-secrets.md).
+We may refer to, but do not divulge, **trade secrets** on this site. See a non-exhaustive list here: [Tellusant trade secrets](trade-secrets.md).
