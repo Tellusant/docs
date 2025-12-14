@@ -36,3 +36,6 @@ Shane Ezepik
 Tellusant, Inc.  
 +1 617-394-1800  
 info@tellusant.com
+
+---
+TelluBase is trade secret.
