@@ -48,7 +48,10 @@ Originating from a pioneering 1992 initiative by Dr. Staffan Canback, **TelluBas
 
 With **TelluBase**, your perspective on the world will change forever. It’s not just a database—it’s the world as no one has seen it before.  
 
-Shane Ezepik  
+**Shane Ezepik**  
 Tellusant, Inc.  
 +1 617-394-1800  
 [info@tellusant.com](mailto:info@tellusant.com)
+
+---
+TelluBase is a Tellusant trade secret.
