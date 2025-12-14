@@ -25,11 +25,10 @@ Tellusant has developed a new version of the model. We wanted to use exactly the
 
 The Bernanke model is proportional. It uses a P controller with 12 months lag. It means the prediction is 12 months out.
 
-We used P and added integral I and derivative D elements (working on the same term spread data). That is, a P.I.D. controller. The periods for both I and D were found to be nine months, while P remains at 12 months. This P.I.D model has an optimum at 9 months prediction horizon (found by reviewing the cross-correlation function-CCF).
+We used P and added integral I and derivative D elements (working on the same term spread data). That is, a P.I.D. controller. The periods for both I and D were found to be nine months, while P remains at 12 months. This P.I.D model has an optimum at 9 months prediction horizon (found by reviewing the [differenced cross-correlation function](assets/images/tellusant-recession-ccf.svg)).
 
 <p align="center">
-<img  src="assets/images/tellusant-recession-nowcast-model-specifications.svg
-" width="700" alt="Tellusant recession nowcast model specifications.svg
+<img  src="assets/images/tellusant-recession-nowcast-model-specifications.svg" width="700" alt="Tellusant recession nowcast model specifications.svg
 ">
 </p>
 
