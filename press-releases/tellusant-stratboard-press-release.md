@@ -57,4 +57,4 @@ Instagram
 Figshare
 
 ---
-Stratboard is a trade secret.
+Stratboard is a Tellusant trade secret.
