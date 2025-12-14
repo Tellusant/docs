@@ -14,7 +14,7 @@ We use the word *method* when the trade secret refers to what our solution is, a
 - PoluSim method and apparatus
 - TelluBase method and apparatus
 - PACE - Pricing Aligned with Consumer Economics method and apparatus
-- Stratboard appartus
+- Stratboard apparatus
 - Risk of Nations method
 - Global Cultural Markers (GCM) method
 
