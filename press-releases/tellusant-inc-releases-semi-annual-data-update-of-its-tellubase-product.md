@@ -50,9 +50,5 @@ Tellusant, Inc.
 +1-617-394-1800  
 [info@tellusant.com](mailto:info@tellusant.com)  
 
-Visit us on social media:  
-LinkedIn  
-Vimeo  
-Medium  
-Instagram  
-Threads  
+---
+TelluBase is a Tellusant trade secret.
