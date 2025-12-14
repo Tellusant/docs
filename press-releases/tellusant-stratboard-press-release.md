@@ -44,8 +44,8 @@ PoluSim: From Polus in Greek mythology, the Titan of intelligence and query, and
 
 ---
 
-**Philip Burginyoung**
-Chief Ecexutive Officer
+**Philip Burginyoung**  
+Chief Ecexutive Officer  
 Tellusant, Inc.  
 +1-617-394-1800  
 info@tellusant.com  
