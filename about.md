@@ -17,5 +17,5 @@ A specialty is our strategic forecasting solution: **PoluSim**. It has a 3- to 1
 
 This makes us unique in the world in building robust predictive strategy optimization solutions, suitable for global corporations. Predictions, not templates.  
 
-## License
+## License for this site
 [Creative Commons Attribution Sharealike International 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
