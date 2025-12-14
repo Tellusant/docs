@@ -16,7 +16,7 @@ We use the word *method* when the trade secret refers to what our solution is, a
 - PACE - Pricing Aligned with Consumer Economics *method and apparatus*
 - Stratboard *apparatus*
 - Risk of Nations *method*
-- Global Cultural Markers (GCM) method
+- Global Cultural Markers (GCM) *method*
 
 ---
 ### What Are Trade Secrets
