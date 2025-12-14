@@ -1,5 +1,5 @@
 # Confidential Trade Secrets
-We have a number of **Confidential Trade Secrets** protected by law for eternity and globally. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
+We have a number of **Confidential Trade Secrets** protected by law globally and for eternity. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
 
 Our **Confidential Trade Secrets** are sometimes licensed to clients. The trade secrets protection ensures that those clients cannot use our related IP for their own purposes. There are also other reasons to have trade secrets such as .
 
@@ -9,11 +9,12 @@ There is no symbol for trade secrets because it is a management practice, not a 
 
 ---
 ### Non-Exhaustive List of Tellusant Confidential Trade Secrets
+We use the word *apparatus* when the trade secret refers to the internal workings of one of our soluions.
 
-- PoluSim
-- TelluBase
-- PACE - Pricing Aligned with Consumer Economics
-- Stratboard
+- PoluSim Apparatus
+- TelluBase apparatus
+- PACE - Pricing Aligned with Consumer Economics apparatus
+- Stratboard apparatus
 - Risk of Nations
 - Global Cultural Markers (GCM)
 
