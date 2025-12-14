@@ -9,13 +9,13 @@ There is no symbol for trade secrets because it is a management practice, not a 
 
 ---
 ### Non-Exhaustive List of Tellusant Confidential Trade Secrets
-We use the word *method* when the trade secret refers to what our solution is, and apparatus when we refer to whatthe trade secret is.
+We use the word *method* when the trade secret refers to what our solution is, and *apparatus* when we refer to whatthe trade secret is.
 
-- PoluSim method and apparatus
-- TelluBase method and apparatus
-- PACE - Pricing Aligned with Consumer Economics method and apparatus
-- Stratboard apparatus
-- Risk of Nations method
+- PoluSim *method and apparatus*
+- TelluBase *method and apparatus*
+- PACE - Pricing Aligned with Consumer Economics *method and apparatus*
+- Stratboard *apparatus*
+- Risk of Nations *method*
 - Global Cultural Markers (GCM) method
 
 ---
