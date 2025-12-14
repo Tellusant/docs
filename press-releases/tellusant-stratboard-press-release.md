@@ -1,6 +1,6 @@
 ---
 title: "PoluSim Adds Stratboard to Its Capabilities"
-description: "StratboardIQ is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides."
+description: "Stratboard is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides."
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
 # PoluSim Adds Stratboard to Its Capabilities
@@ -14,7 +14,7 @@ News Provided By Tellusant, Inc. May 08, 2025, 13:00 GMT
 *PoluSim, Tellusant's strategic forecasting solution, now has the capability to automatically generate PowerPoint slides from its web interface.*
 
 BOSTON, MA, UNITED STATES, May 8, 2025 /EINPresswire.com/ --  
-Tellusant has vastly enhanced PoluSim's capabilities by adding StratboardIQ to the product. StratboardIQ is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides.  
+Tellusant has vastly enhanced PoluSim's capabilities by adding Stratboard to the product. Stratboard is an automation tool for converting PoluSim data and forecasts to immediately usable PowerPoint slides.  
 
 ### ABOUT POLUSIM
 PoluSim is the world's leading strategic forecasting application. It was launched in 2021 and currently has subscribers in more than 100 countries.  
@@ -31,12 +31,12 @@ PoluSim increases accuracy, reduces cost, and speeds up decision making.
 
 ### ABOUT STRATBOARD
 
-StratboardIQ is Tellusant's advanced automation tool, converts PoluSim information and forecasts into PowerPoint slides. It delivers structured, consistent, and comprehensive presentations on strategic topics, leveraging the latest and most accurate data available.  
-> *"StratboardIQ swiftly creates market overviews and forecasts in PowerPoint, leveraging PoluSim’s information. This reduces the need for manual slide making, thereby saving time and effort.”* — Bobo Shen, Chief Product Officer
+Stratboard is Tellusant's advanced automation tool, converts PoluSim information and forecasts into PowerPoint slides. It delivers structured, consistent, and comprehensive presentations on strategic topics, leveraging the latest and most accurate data available.  
+> *"Stratboard swiftly creates market overviews and forecasts in PowerPoint, leveraging PoluSim’s information. This reduces the need for manual slide making, thereby saving time and effort.”* — Bobo Shen, Chief Product Officer
 
-A common criticism of artificial intelligence is its tendency to aggregate information from various, frequently unrelated sources, leading to an uninspiring summary. StratboardIQ mitigates this issue by exclusively utilizing PoluSim’s restricted data. This approach ensures that the generated presentations are based on precise and reliable insights, rather than randomly incorporated information.  
+A common criticism of artificial intelligence is its tendency to aggregate information from various, frequently unrelated sources, leading to an uninspiring summary. Stratboard mitigates this issue by exclusively utilizing PoluSim’s restricted data. This approach ensures that the generated presentations are based on precise and reliable insights, rather than randomly incorporated information.  
 
-StratboardIQ provides substantial productivity benefits to organizations utilizing PoluSim. While StratboardIQ does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan. Typically, a strategic plan addresses Environment, Market, Initiatives, and Outcomes. StratboardIQ supplies quantitative slides for the first two categories, facilitating informed decision-making. 
+Stratboard provides substantial productivity benefits to organizations utilizing PoluSim. While Stratboard does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan. Typically, a strategic plan addresses Environment, Market, Initiatives, and Outcomes. Stratboard supplies quantitative slides for the first two categories, facilitating informed decision-making. 
 
 ---
 
