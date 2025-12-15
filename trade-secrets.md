@@ -1,7 +1,7 @@
 ---
 title: "Confidential Trade Secrets"
 description: "We have a number of Confidential Trade Secrets protected by law globally and in perpetuity."
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 
 # Confidential Trade Secrets
