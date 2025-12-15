@@ -9,7 +9,7 @@ There is no symbol for trade secrets because it is a management practice, not a 
 
 ---
 ### Non-Exhaustive List of Tellusant Confidential Trade Secrets
-We use the word *method* when the trade secret refers to how our solution works, and *apparatus* when we refer to whatthe trade secret is.
+We use the word *method* when the trade secret refers to how our solution works, and *apparatus* when we refer to what the trade secret is.
 
 - PoluSim *method and apparatus*
 - TelluBase *method and apparatus*
