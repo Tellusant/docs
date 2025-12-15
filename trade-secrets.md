@@ -20,10 +20,14 @@ We use the word *method* when the trade secret refers to how our solution works,
 
 ---
 ### What Are Trade Secrets
-According to USPTO:
+According to USPTO:  
+
 > *A trade secret is information that:  
 > 1 Has actual or potential independent economic value because it is generally unknown to others  
 > 2 Is valuable to others who can’t legitimately obtain the information, and  
 > 3 Is maintained as secret through reasonable efforts taken by the trade secret owner.  
-> Examples include Coca-Cola and New York Times Bestseller List.*  
+> Examples include Coca-Cola and New York Times Bestseller List.*
+
+---
+For more on trade secrets, see, e.g., [USPTO: *Trade Secrets Toolkit*](https://www.uspto.gov/sites/default/files/documents/tradesecretsiptoolkit.pdf).
 
