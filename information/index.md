@@ -11,7 +11,7 @@ Learn about Tellusant and its products PoluSim, TelluBase, and PACE
 Seven slides give a quick impression of Tellusant. See also [Tellusant website](https://tellusant.com "target=_blank").
 
 #### [Introduction to PoluSim](Tellusant-Introduction-PoluSim.pdf)
-Seven slides give a quick impression of PoluSim [TRADE SECRET]. See also [PoluSim website](https://polusim.telluplan.com "target=_blank").
+Seven slides give a quick impression of PoluSim <span style="font-variant-caps: small-caps;">[TRADE SECRET]</span>. See also [PoluSim website](https://polusim.telluplan.com "target=_blank").
 
 #### [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
 See a Sway presentation of how to find latent demand opportunities in consumer goods with PACE [TRADE SECRET]. See also [PACE website](https://pace.telluplan.com "target=_blank")
