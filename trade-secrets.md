@@ -5,11 +5,11 @@ Our **Confidential Trade Secrets** are sometimes licensed to clients. The trade 
 
 For more on trade secrets, see [USPTO](https://www.uspto.gov/ip-policy/trade-secret-policy) and [WIPO](https://www.wipo.int/en/web/trade-secrets). The WIPO site also shows that all countries except one.
 
-There is no symbol for trade secrets because it is a management practice, not a filing. Part of this management practice is to clearly mark trade secrets, which we do here (and in other places) as CONFIDENTIAL, PROPRIETARY, TRADE SECRET, or similar. We usually use 🇹🇷🇦🇩🇪 🇸🇪🇨🇷🇪🇹 or 🔒︎ (our icon to make less distracting than full text).
+There is no symbol for trade secrets because it is a management practice, not a filing. Part of this management practice is to clearly mark trade secrets, which we do here (and in other places) as CONFIDENTIAL, PROPRIETARY, TRADE SECRET, or similar. We usually use TRADE SECRET or 🔒︎ (our icon to make marking less distracting than 12 letters).
 
 ---
 ### Non-Exhaustive List of Tellusant Confidential Trade Secrets
-We use the word *method* when the trade secret refers to what our solution is, and *apparatus* when we refer to whatthe trade secret is.
+We use the word *method* when the trade secret refers to how our solution works, and *apparatus* when we refer to whatthe trade secret is.
 
 - PoluSim *method and apparatus*
 - TelluBase *method and apparatus*
