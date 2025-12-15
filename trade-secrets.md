@@ -1,3 +1,9 @@
+---
+title: "Confidential Trade Secerts"
+description: "We have a number of Confidential Trade Secrets protected by law globally and in perpetuity."
+image: https://tellusant.github.io/docs/assets/social-card-pub.png
+---
+
 # Confidential Trade Secrets
 We have a number of **Confidential Trade Secrets** protected by law globally and in perpetuity. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
 
