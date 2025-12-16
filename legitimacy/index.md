@@ -86,7 +86,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025)  
   [Bogota Economic Context (in Spanish)](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)  
 - Skift Research (2025)  
-  [State of Travel 2025](https://skift.com/insights/state-of-travel/))
+  [State of Travel 2025](https://skift.com/insights/state-of-travel/)
 - Transformative Actions Program (2025)  
   [Investor brief: E-mobility financing in Brazil, Ecuador and India](https://transformative-mobility.org/wp-content/uploads/2025/06/TAP-TUMI-Investor-Brief_VF.pdf)  
   
@@ -116,6 +116,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 ##### [View a PDF version](tellusant-legitimacy-evidence-pack.pdf)  
 
 ##### [Back to home](https://tellusant.github.io/docs/)
+
 
 
 
