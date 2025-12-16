@@ -88,7 +88,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - Skift Research (2025)  
   [State of Travel 2025](https://skift.com/insights/state-of-travel/)
 - Transformative Actions Program (2025)  
-  [Investor brief: E-mobility financing in Brazil, Ecuador and India](https://transformative-mobility.org/wp-content/uploads/2025/06/TAP-TUMI-Investor-Brief_VF.pdf)  
+  [Investor Brief: E-Mobility Financing in Brazil, Ecuador and India](https://transformative-mobility.org/wp-content/uploads/2025/06/TAP-TUMI-Investor-Brief_VF.pdf)  
   
 *These references confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
@@ -116,6 +116,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 ##### [View a PDF version](tellusant-legitimacy-evidence-pack.pdf)  
 
 ##### [Back to home](https://tellusant.github.io/docs/)
+
 
 
 
