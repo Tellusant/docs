@@ -10,5 +10,7 @@ plugins:
   - jekyll-feed
 sitemap:
   path: /docs/sitemap.xml
+exclude_from_sitemap:
+  - /
 
       
