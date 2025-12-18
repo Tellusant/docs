@@ -10,7 +10,7 @@ Public speeches, lectures and other presentations by Tellusant members in slide 
 #### [Introduction to Tellusant](../information/Tellusant-Introduction.pdf)
 Learn about company, why we are to be trusted, and our products in seven light slides.
 
-#### [S. Canback: The Nature of Predictions](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
+#### [Staffan Canback: The Nature of Predictions: Negative feedback loops ∧ P.I.D controllers](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
 What are predictions and how are they made. Negative feedback loops and P.I.D controllers make life possible. Learn about this from an internal training session.
 
 #### [Tellusant on Strategy](S.Canback-Tellusant-on-Strategy.pdf)
@@ -20,7 +20,7 @@ We show Tellusant’s frameworks for strategy development. It builds on Structur
 This is from an internal training session. My focus was the mathematical basis for what we do. We sometimes forget the essence of what we are. That essence is **linear algebra** and **calculus**. Everything else flows from this.
 
 #### [Staffan Canback: What Is to Be Done? How What We Do Changes the World (Slowly)](S.Canback-Tellusant-Global-Retreat-Punta-Cana.pdf)
-The presentation, structured by the Rule of Threes, shows by examples how our solutions generate insicts around the world. It was part of our training sessions at our Global Office Retreat in Punta Cana, Dom. Rep.
+The presentation, structured by the Rule of Threes, shows by examples how our solutions generate insicts around the world. It was part of our training sessions at our Global Office Retreat in Punta Cana, Dominican Republic.
 
 #### [Staffan Canback: The World Is My Oyster — Personal Reflections from a Career in Global Business](S.Canback-Harvard-Club-Boston-Speech.pdf)  
 This is the inaugural speech for the Harvard Club of Boston's new business interest group: “The World Is My Oyster: Personal Reflections from a Career in Global Business.” It starts with a few slides on tariffs and recessions, then segues to the real topic: why, where, and what in global business.
