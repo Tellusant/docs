@@ -1,7 +1,7 @@
 ---
 title: "Tellusant Publications Repository"
 description: "This open access repository will contain the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
-image: assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 # Publications Repository
 
