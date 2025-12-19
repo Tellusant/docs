@@ -19,7 +19,7 @@ We have published this nowcast since 2006, until 2025 with Bernanke's specificat
 ### Method
 Prof. Ben Bernanke, later chairman of the Federal Reserve, in 1990 developed a method to find the probably of future recessions. He kept the model simple using only the term spread between long-term bills and short-term bonds and applied to a probit model with actual recessions, as determined by the National Bureau of Economic Research (NBER), as the dependent binary variable.
 
-The beauty of the model is its simplicity. Bernanke did not try to find funky variables that would work for a while. Instead, he had a sound theorical reason for why the term spread is suitable.
+The beauty of the model is its simplicity. Bernanke did not try to find funky variables that would work for a while. Instead, he had a sound theoretical reason for why the term spread is suitable.
 
 Tellusant has developed a new version of the model. We wanted to use exactly the same data, avoiding variable fishing that may work for a while, but is spurious.
 
