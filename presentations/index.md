@@ -10,7 +10,7 @@ Public speeches, lectures and other presentations in slide format by Tellusant m
 #### [Introduction to Tellusant](../information/Tellusant-Introduction.pdf)
 Learn about company, why we are to be trusted, and our products in seven light slides.
 
-#### [Staffan Canback: The Nature of Predictions: Negative feedback loops ∧ P.I.D controllers](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
+#### [Staffan Canback: The Nature of Predictions: Negative Feedback Loops ∧ P.I.D Controllers](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
 What are predictions and how are they made. Negative feedback loops and P.I.D controllers make life possible. Learn about this from an internal training session.
 
 #### [Tellusant on Strategy](S.Canback-Tellusant-on-Strategy.pdf)
