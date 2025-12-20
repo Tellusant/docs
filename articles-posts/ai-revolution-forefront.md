@@ -13,9 +13,9 @@ Tellusant has always been at the forefront of the AI revolution. It was the inte
 
 We are known for the accuracy of our strategic planning solutions. We do not want to jeopardize this by bringing half-baked ideas to market. Our rollout is therefore measured, yet forceful. CEOs should be able to talk with confidence about insights from our solutions in analyst calls (our acid test for success).  
 
-<div style="text-align: center;">
+<p class="ctr">
 <img  src="assets/images/tellusant-and-ai-1.svg" width="400" alt="Tellusant and AI 1">  
-</div>
+</p>
 
 Over the past couple of years, what we do is increasingly labeled AI. One can also, like Nvidia, view it as advanced automation. The graph shows examples of our AI agents.  
 
