@@ -27,6 +27,7 @@ Alphabetically listed by authority.
 #### [Applied Business and Economics, Journal of (2024): *Scaling Up Performance: The Impact of Economies of Scale in the Sportswear Industry*](https://articlegateway.com/index.php/JABE/article/view/7148/6743)
 #### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf)
+#### [AUHF-IUHF (2019): *Realising affordability in global housing markets*](https://fsdafrica.org/wp-content/uploads/2025/05/Joint_AUHF_IUHF_Conference_Brochure.pdf)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf)
 #### [Ballentine Partners (2014): *Spring 2014 Think Forum - Africa: A Market Whose Time Has Come?*](assets/pdf/ballentine_think_forum.pdf)  
 #### [Bangladesh Journal of Agricultural Economics (2020): *Food security and poverty status of cassava processors*](https://bjae.bau.edu.bd/index.php/home/article/view/44/18)
@@ -79,7 +80,6 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [IOSR Journal Of Humanities And Social Science (2019): *Media popular culture and the influence of western celebrities on Nigerian youth culture*](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue4/Series-10/D2404102027.pdf)
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](assets/pdf/italia_bruno_ssa.pdf)
-IUHF (2019): *Realising affordability in global housing markets*  
 #### [KTH Royal Institute of Tecnology (2017): *Ranking risks and opportunities of African cities*](http://www.diva-portal.se/smash/get/diva2:1118259/FULLTEXT01.pdf)
 #### [Lagos State Government (2018): *Affordable housing deal book*](assets/pdf/lagos-state-global-housing-deal-book.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)

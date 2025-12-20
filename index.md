@@ -1,7 +1,7 @@
 ---
 title: "Tellusant Publications Repository"
 description: "This open access repository will contain the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
-image: https://tellusant.github.io/docs/assets/social-card-pub.png
+image: /assets/social-card-pub.png
 ---
 # Publications Repository
 
@@ -13,7 +13,6 @@ This open access repository will contain the complete published works by Tellusa
 *This is not our main website.*
 
 ---
-  
 #### [Company Information](information/index.md)
 Find the main descriptions of Tellusant and its products
 
@@ -37,7 +36,7 @@ Our videos cover our company and products, trade visits, travel experiences, and
 We create an immense amount of maps on various topics. See some of them in glorious SVG.
 #### [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
-#### [External Recommended Readings](recommended-readings/index.md)
-Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
 #### [External Citations](citations/index.md)  
-See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.
+See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.  
+#### [Recommended Readings](recommended-readings/index.md)
+Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development.
