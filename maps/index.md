@@ -25,7 +25,7 @@ China as a whole covers many climate zones. Here we show them at the secondary s
 #### [Köppen Climate Zones by Country](tellusant-koeppen-climate-zones-country.md)
 The map shows the population-weighted climate zones by country. That is, the climate where people live, rather than geographic area climate.
 #### [Köppen Climate Zones by City](tellusant-koeppen-climate-zones-city.md)
-The map shows the population-weighted climate zones by country. That is, the climate where people live, rather than geographic area climate.tellusant-koeppen-climate-zones-city.md
+The World's Cities by Köppen Climate Zones
 #### [Nigeria Income Per Household By Local Government Areas](tellusant-nigeria-income-per-household-by-lga.md)
 Local Government Areas (LGA) are the 800 secondary subdivisions (below states) in Nigeria. 
 #### [Recession Pressure by Country](tellusant-recession-pressure-by-country.md)
