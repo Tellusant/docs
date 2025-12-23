@@ -16,7 +16,7 @@ We have subscribers in more than 100 countries and are featured in clients' quar
 
 - **Strategic pricing**. Companies usually have solid price/promo pricing tools. But what should pricing decisions be aiming for strategically? Surely it is not the compounding of price/promo decisions. Our web-based solution helps answer this.  
   
-- **Short-term forecasting**. This applications helps senior management understand what awaits categories and their company over the next 18 months. It uses a monthly timeseries model combined with independent demand drivers. It is harmonized with our long-term forecasts.  
+- **Operational forecasting**. This application helps senior management understand what awaits categories and their company over the next 18 months. It uses a monthly timeseries model combined with independent demand drivers. It is harmonized with our long-term forecasts.  
 
 - **TelluBase** is our global database with consumer economics and income distribution data for 218 countries, 2600 cities, and 2500 subdivisions for 2000-2050. It feeds automatically into each PoluSim module. It is also available as a standalone product.  
 
