@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 Learn about Tellusant and its products PoluSim, TelluBase, and PACE
 
 ---
-#### [2025 in Review](2025-in-review.md)
+#### [2025 in Review](../articles-posts/2025-in-review.md)
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
 #### [Introduction to Tellusant](Tellusant-Introduction.pdf)
