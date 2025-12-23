@@ -20,7 +20,7 @@ We have market activities spanning Latin America, North America, Europe, Middle 
 ## Solutions
 Our solutions are now well established and solve genuine problems in the market place.
 
-#### PoluSim
+### PoluSim
 PoluSim is our most important solution. It has broad use cases: 
 
 from being a strategic forecasting tool (5-10 years horizon)
@@ -30,10 +30,10 @@ while adding nowcasting capabilities.
 
 That is, PoluSim spans all prediction and scenario simulation needs for global enterprises.
 
-#### TelluBase
+### TelluBase
 TelluBase continues to evolve. Our income distribution and consumer classes database is both an integral part of PoluSim and a free-standing subscription product. It now also has on-demand buying capabilities for those who need one-off data.
 
-#### PACE
+### PACE
 It has been a more quiet year for PACE (Pricing Aligned with Consumer Economics). We just haven't had the capacity to focus on this solution in 2025. As a truly ground-breaking solution for estimating latent demand, rather than visible demand, we expect it to be part of our core offering. It is already available, but not marketed.
 
 ## Research
