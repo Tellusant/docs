@@ -11,7 +11,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 
 ## Recent
-#### [2025 in Review](../information/2025-in-review.md)
+#### [2025 in Review](2025-in-review.md)
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
 #### [Global Retreat in Punta Cana 2025](punta-cana.md) post
