@@ -39,7 +39,7 @@ Among important research efforts, that are not seen by clients but are still the
 
 Rest assured you won't have to learn about these things, but they are the backbone for why our models don't break.
 
-Because of our extensive intellectual capital, we are reinforcing our ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛꜱ⎼ rights in line with the USPTO's recommendations.
+Because of our extensive intellectual capital, we are reinforcing our formal ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛꜱ⎼ rights in line with the USPTO's recommendations.
 
 ## Company
 We're expanding our staff with a focus on business development and data science. Our Mexico City office is now larger than the Boston headquarters. Notable is our expanded business development capacity in Latin America.
