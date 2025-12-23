@@ -31,7 +31,7 @@ while adding nowcasting capabilities.
 That is, PoluSim spans all prediction and scenario simulation needs for global enterprises.
 
 ### TelluBase
-TelluBase continues to evolve. Our income distribution and consumer classes database is both an integral part of PoluSim and a free-standing [subscription product](https://tellubase.telluplan.com). It now also has [on-demand buying capabilities](https://tellubase.com) for those who need one-off data.
+**TelluBase** continues to evolve. Our income distribution and consumer classes database is both an integral part of PoluSim and a free-standing [subscription product](https://tellubase.telluplan.com). It now also has [on-demand buying capabilities](https://tellubase.com) for those who need one-off data.
 
 ### PACE
 It has been a more quiet year for [PACE](https://pace.telluplan.com) (Pricing Aligned with Consumer Economics). We just haven't had the capacity to focus on this solution in 2025. As a truly ground-breaking solution for estimating latent demand, rather than visible demand, we expect it to be part of our core offering. It is already available, but not marketed.
