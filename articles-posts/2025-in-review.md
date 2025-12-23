@@ -21,7 +21,7 @@ We have market activities spanning Latin America, North America, Europe, Middle 
 Our solutions are now well established and solve genuine problems in the market place.
 
 ### PoluSim
-PoluSim is our most important solution. It has broad use cases: 
+[PoluSim](https://polusim.telluplan.com) is our most important solution. It has broad use cases: 
 
 from being a strategic forecasting tool (5-10 years horizon)
 to covering operational forecasting (seasonal, monthly, 18 months out)
@@ -31,10 +31,10 @@ while adding nowcasting capabilities.
 That is, PoluSim spans all prediction and scenario simulation needs for global enterprises.
 
 ### TelluBase
-TelluBase continues to evolve. Our income distribution and consumer classes database is both an integral part of PoluSim and a free-standing subscription product. It now also has on-demand buying capabilities for those who need one-off data.
+TelluBase continues to evolve. Our income distribution and consumer classes database is both an integral part of PoluSim and a free-standing [subscription product](https://tellubase.telluplan.com). It now also has [on-demand buying capabilities](https://tellubase.com) for those who need one-off data.
 
 ### PACE
-It has been a more quiet year for PACE (Pricing Aligned with Consumer Economics). We just haven't had the capacity to focus on this solution in 2025. As a truly ground-breaking solution for estimating latent demand, rather than visible demand, we expect it to be part of our core offering. It is already available, but not marketed.
+It has been a more quiet year for [PACE](https://pace.telluplan.com) (Pricing Aligned with Consumer Economics). We just haven't had the capacity to focus on this solution in 2025. As a truly ground-breaking solution for estimating latent demand, rather than visible demand, we expect it to be part of our core offering. It is already available, but not marketed.
 
 ## Research
 We remain research heavy. Our solutions can only perform at the required level if deep science is applied. It is one thing to deliver one-off solutions (like management consultants typically do), and an entirely different thing to have robust solutions that withstand the test of time.
@@ -59,7 +59,7 @@ Our efforts over the past five years are paying off; we hope to see you in 2026.
 
 Happy Holidays!
 
-The Tellusant Team
+The [Tellusant](https://tellusant.com) Team
 
 Comments"
 image: /assets/social-card-info.png
@@ -103,7 +103,7 @@ Rest assured you won't have to learn about these things, but they are the backbo
 ## Company
 We're expanding our staff with a focus on business development and data science. Our Mexico City office is now larger than the Boston headquarters. Notable is our expanded business development capacity in Latin America.
 
-We have deepened our outreach by making our non-confidential intellectual capital easily indexable and learnt by ChatGPT, Gemini and other AI solutions, as well as search engines. We have two open access repositories for this purpose: Github Pages and Figshare.
+We have deepened our outreach by making our non-confidential intellectual capital easily indexable and learnt by ChatGPT, Gemini and other AI solutions, as well as search engines. We have two open access repositories for this purpose: [Github Pages](https://tellusant.github.io/docs/) and [Figshare](https://figshare.com/authors/Staffan_Canback/20547296).
 
 We also developed a "Tellusant Legitimacy Evidence Pack" for people who are not familiar with our company.
 
@@ -114,5 +114,3 @@ Our efforts over the past five years are paying off; we hope to see you in 2026.
 Happy Holidays!
 
 The Tellusant Team
-
-Comments
