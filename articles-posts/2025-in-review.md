@@ -3,6 +3,10 @@ title: "2025 in Review"
 description: "As we approach the holidays, here's a review of the past year. We made excellent progress across the board."
 image: /assets/social-card-pub.png
 ---
+<p align="center">
+<img  src="assets/images/review-2025-punta-cana.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
+</p>
+
 # Tellusant 2025 Review
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
