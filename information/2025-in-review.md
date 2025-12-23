@@ -1,7 +1,10 @@
 ---
 title: "2025 in Review"
-description: "As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
+description: "As we approach the holidays, here's a review of the past year. We made excellent progress across the board."
+image: /assets/social-card-pub.png
 ---
+# Tellusant 2025 Review
+As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
 ## Market Position
 We now have an installed base of PoluSim and TelluBase in more than 100 countries and hundreds of active users. This is based on subscriptions, and our consulting activities are now only done to support our platforms.
