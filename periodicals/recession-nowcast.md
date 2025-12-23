@@ -1,7 +1,7 @@
 ---
 title: "Nowcast: Probability of a U.S. Recession Nine Months Out"
 description: "Building on Ben Bernanke's recession probability model, we innovated a better model using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large."
-image: /assets/social-card-pub.png
+image: /assets/social-card-now.png
 ---
 # Nowcast: Probability of a U.S. Recession Nine Months Out  
 Building on Ben Bernanke's recession probability model, we innovated a better model using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large.  
