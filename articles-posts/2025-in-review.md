@@ -4,7 +4,7 @@ description: "As we approach the holidays, here's a review of the past year. We 
 image: /assets/social-card-pub.png
 ---
 <p align="center">
-<img  src="assets/images/review-2025-punta-cana.svg" width="500" alt="S.Canback-Tellusant - Consulting firm -productivity">
+<img  src="assets/images/review-2025-punta-cana.png" width="600" alt="S.Canback-Tellusant - Consulting firm -productivity">
 </p>
 
 # Tellusant 2025 Review
