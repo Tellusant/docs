@@ -4,13 +4,15 @@ description: "This section will over time contain all our substance-oriented art
 image: /assets/social-card-pub.png
 ---
 # Articles & Posts
-This repository will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
+This section will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
 
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
 ---
 
 ## Recent
+#### [2025 in Review](../information/2025-in-review.md)
+As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
 #### [Global Retreat in Punta Cana 2025](punta-cana.md) post
 The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort.
