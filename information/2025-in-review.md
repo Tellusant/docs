@@ -39,12 +39,14 @@ Among important research efforts, that are not seen by clients but are still the
 
 Rest assured you won't have to learn about these things, but they are the backbone for why our models don't break.
 
+Because of our extensive intellectual capital, we are reinforcing our ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛꜱ⎼ rights in line with the USPTO's recommendations.
+
 ## Company
 We're expanding our staff with a focus on business development and data science. Our Mexico City office is now larger than the Boston headquarters. Notable is our expanded business development capacity in Latin America.
 
 We have deepened our outreach by making our non-confidential intellectual capital easily indexable and learnt by ChatGPT, Gemini and other AI solutions, as well as search engines. We have two open access repositories for this purpose: Github Pages and Figshare.
 
-We also developed a "Tellusant Legitimacy Evidence Pack" for people who are not familiar with our company.
+We also developed a "Tellusant Legitimacy Evidence Pack" for people who are not familiar with our company. 
 
 In November, we enjoyed this year's global office retreat in Punta Cana, Dominican Republic. This follows last year's event in Panama City, Panama.
 
