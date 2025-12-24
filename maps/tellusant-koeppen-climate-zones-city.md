@@ -1,0 +1,16 @@
+---
+title: "The World's Cities by Köppen Climate Zones"
+description: "The map shows the Köppen climate zones for the 2600 cities we cover in TelluBase"
+image: /assets/social-card-map.png
+---
+# The World's Cities by Köppen Climate Zones
+## *Uses of TelluBase* Series
+
+The map shows the Köppen climate zones for the 2600 cities we cover in TelluBase.  
+
+
+
+---
+#### <img  src="assets/svg/tellusant-koeppen-climate-zones-city.svg" alt="The World's Cities by Köppen Climate Zones">
+
+---
