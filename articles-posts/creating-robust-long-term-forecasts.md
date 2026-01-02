@@ -24,7 +24,7 @@ Long-term predictions (3–10 years out) need to be anchored in a view of the fu
 <img  src="assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="300" alt="Predictive anchors">  
 </p>
 
-To predict only using historical data is a fool’s errand. We know more about the future than such an approach suggests.
+To predict using historical data only is a fool’s errand. We know more about the future than such an approach suggests.
 
 ---
 ## Two
