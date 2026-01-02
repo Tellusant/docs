@@ -1,6 +1,6 @@
 ---
 title: "Articles & Posts"
-description: "This section will over time contain all our substance-oriented articles and posts from LinkedIn. Medium, and more."
+description: "This section will over time contain all our substance-oriented articles and posts from LinkedIn, Medium, and more."
 image: /assets/social-card-pub.png
 ---
 # Articles & Posts
