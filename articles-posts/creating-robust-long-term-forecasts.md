@@ -20,7 +20,7 @@ Having said this, our predictive models are as good or better than anything else
 ---
 ## One
 Long-term predictions (3–10 years out) need to be anchored in a view of the future. There are only a few such data series available.  
-<p style="text-align:center;">
+<p align="center">
 <img  src="assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="300" alt="Predictive anchors">  
 </p>
 
