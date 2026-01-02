@@ -15,12 +15,10 @@ Each step may look easy, but in combination we are unique in the world to make l
 
 We do not build models for customers, per se. We use them to support our strategic planning products into which we integrate predictive models. Our focus is on helping improve decision making, not delivering models.  
 
-Having said this, our predictive models are as good or better than anything else in the world. The latest example is PACE (Pricing Aligned with Consumer Economics), which builds on what we describe here, and more.  
+Having said this, our predictive models are as good or better than anything else in the world. Below are seven steps to create such robust forecasts.
 
 ---
 ## One
-Having said this, our predictive models are as good or better than anything else in the world. The latest example is PACE (Pricing Aligned with Consumer Economics), which builds on what we describe here, and more.    
-
 Long-term predictions (3–10 years out) need to be anchored in a view of the future. There are only a few such data series available.  
 <div style="text-align:center;">
 <img  src="assets/images/tellusant-creating-robust-long-term-forecasts-1.svg" width="300" alt="">  
