@@ -3,7 +3,7 @@ title: "The Palmer Penguins and Their Role in Business"
 description: "Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices."
 image: /assets/social-card-penguins.png
 ---
-# The Palmer Penguins and their Role in Business  
+# The Palmer Penguins and Their Role in Business  
 *Dr. Staffan Canback, Tellusant*  
 
 ---
@@ -15,7 +15,7 @@ image: /assets/social-card-penguins.png
   Artwork by @allison_horst
 </p>
 
-> *What an incredible journey. Penguins to AI strategy showcases how diverse data applications can be.*  
+> *What an incredible journey you take us on. Penguins to AI strategy showcases how diverse data applications can be.*  
 Marc Sartele
    
 Penguins are an unlikely influence on management science, but the Palmer Penguins Dataset has had a profound impact on machine learning and artificial intelligence, and by extension on emerging business practices.
@@ -35,15 +35,15 @@ The graph below shows that it could be done. It may look easy when you see the r
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="Tellusant: Palmer penguins KDE">
 </p>
 
-This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using its new Python function together with a suitable library.
+This particular graph was created using kernel density estimation (KDE). Those interested can also create it in Excel using its new Python function together with a suitable library.
 
 ## How Tellusant Uses These Methods
 
-Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries r consumers. The graph below shows how Tellusant used this machine learing approach to classify country markets for global company.¹
+Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries or consumers into segments. The graph below shows how Tellusant used this machine learning approach to classify country markets for a global company.¹
 
 
 <p align="center">
-<img src="assets/images/tellusant-market-clustreing-pca-kde.svg"  width="800" alt="Tellusant Market Clustreing PCA KDE">
+<img src="assets/images/tellusant-market-clustering-pca-kde.svg"  width="800" alt="Tellusant Market Clustering PCA KDE">
 </p>
 This analysis first used principal component analysis (PCA) to find relevant dimensions, then kernel density estimation to create the clusters. Easy to do in ChatGPT.
 
@@ -95,7 +95,7 @@ Human limits don’t slow the start, they slow the finish.*
 
 ---
 
-¹ Graph axes and country locations are altered, and the category not given, to maintain confidentiality.  
+¹ Graph axes and country locations are altered and the category not given to maintain confidentiality.  
 
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
 
