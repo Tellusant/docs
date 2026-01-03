@@ -39,7 +39,7 @@ This particular graph was created by me in ChatGPT. For those interested, you ca
 
 ## How Tellusant Uses These Methods
 
-Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries r consumers. The graph below shows how Tellusant used this machine learing approach to classify country markets for global company.¹
+Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries or consumers into segments. The graph below shows how Tellusant used this machine learning approach to classify country markets for a global company.¹
 
 
 <p align="center">
@@ -95,7 +95,7 @@ Human limits don’t slow the start, they slow the finish.*
 
 ---
 
-¹ Graph axes and country locations are altered, and the category not given, to maintain confidentiality.  
+¹ Graph axes and country locations are altered and the category not given to maintain confidentiality.  
 
 Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonhorst.github.io/palmerpenguins/)**
 
