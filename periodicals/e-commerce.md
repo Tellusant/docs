@@ -11,3 +11,9 @@ Our quarterly tabulation based on FRED data has been severely delayed due to the
 The graph shows developments in the U.S up to and including 3rd quarter 2025. E-commerce understandably leapt when the pandemic made its mark and, while reverting back, is above the historical performance.
 
 The pre-covid trend is not relevant any more so we have stopped projecting it.
+
+---
+## Q3 2025
+<p align="center">
+<img  src="assets/images/tellusant-ecommere-trends.svg" width="700" alt="Nowcast: FRED e-commerce trends">
+</p>
