@@ -148,7 +148,7 @@ O País (2014): *The African middle class is expanding*
 #### [Putnam Investments (2022): *Inflation is fueling opportunities in emerging markets*](https://www.putnam.com/newsroom/post/marketOutlooks/1216-inflation-is-fueling-opportunities-in-emerging-markets-2/) (broken)
 #### [PwC (2015): *Building better cities*](assets/pdf/pwc-building-better-cities.pdf)
 #### [PwC (2014): *Global megatrends: Mexico focus*](https://dokumen.tips/documents/global-megatrends-canback-global-megatrends-mexico-highlights-demographic.html?page=1) (broken)
-#### [PwC (2015): *Into Africa: The continent’s cities of opportunity*](https://www.pwc.com/gx/en/issues/strategy/emerging-markets/africa/assets/into-africa-report.pdf) (broken)
+#### [PwC (2015): *Into Africa: The continent’s cities of opportunity*](https://laboress-afrique.org/boostsess/public/uploads/pdfdocuments/files/l_51_into_africa_pwc.pdf)
 #### [PwC (2011): *Leveraging China and India for global competitiveness*](https://www.oreilly.com/library/view/the-quest-for/9780470194409/17_chapter09.html) (broken)
 #### [Qualcomm (2014): *2014 New York analyst day*](https://docplayer.net/amp/46902861-2014-new-york-analyst-day.html) (broken)
 #### [Reall (2021): *Market shaping indicators*](assets/pdf/reall-market-shaping-indicators.pdf)
