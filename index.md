@@ -13,7 +13,7 @@ This open access repository will contain the complete published works by Tellusa
 *This is not our main website.*  
 
 ---
-#### [Company Information](information/index.md)
+### [Company Information](information/index.md)
 Find the main descriptions of Tellusant and its products  
 ### [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.  
