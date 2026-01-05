@@ -15,5 +15,5 @@ The pre-covid trend is not relevant any more so we have stopped projecting it.
 ---
 ## Q3 2025
 <p align="center">
-<img  src="assets/images/tellusant-ecommere-trends.svg" width="700" alt="Nowcast: FRED e-commerce trends">
+<img  src="assets/images/tellusant-u.s.-ecommerce-trends-q3-2025.svg" width="700" alt="Nowcast: E-commerce trends Q3 2025">
 </p>
