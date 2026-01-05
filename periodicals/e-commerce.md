@@ -16,3 +16,6 @@ The pre-covid trend is not relevant any more so we have stopped projecting it.
 <p align="center">
 <img  src="assets/images/tellusant-u.s.-ecommerce-trends-q3-2025.svg" width="700" alt="Nowcast: E-commerce trends Q3 2025">
 </p>
+
+---
+These analyses were previously published on Tellusant's LinkedIn page and can be found [there](https://www.linkedin.com/company/tellusant/).
