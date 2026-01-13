@@ -4,7 +4,7 @@ description: "Learn about Tellusant and its products PoluSim, TelluBase, and PAC
 image: /assets/social-card-pub.png
 ---
 # Company Information
-Learn about Tellusant and its products PoluSim, TelluBase, and PACE
+Learn about Tellusant and its products PoluSim, TelluBase, and PACE.
 
 ---
 #### [2025 in Review](../articles-posts/2025-in-review.md)
