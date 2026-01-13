@@ -113,7 +113,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 
 ##### [See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)
 
-##### [View a PDF version](tellusant-legitimacy-evidence-pack.pdf)  
+##### [View a PDF version](Tellusant-Legitimacy-Evidence-Pack.pdf)  
 
 ##### [Back to home](https://tellusant.github.io/docs/)
 
