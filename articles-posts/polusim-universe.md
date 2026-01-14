@@ -22,7 +22,7 @@ We have subscribers in more than 100 countries and are featured in clients' quar
 
 These solutions are enterprise level tools. This means we meet the strongest security standards and we run on Azure. Connections with corporate data are safeguarded in a jointly approved manner. We do not allow AI for the time being.
 
-***Most importantly***, success with our solutions requires full training and help desk support. For a global company, it will take 1 to 3 years for Tellusant's solution to be fully adopted. During this period there is intense learning for executives and operators.
+***Most importantly***, success with our solutions requires full training and help desk support. We are on hand to support this and gradually transfer skills to internal experts.
 
 Implementing **PoluSim** is a fundamental step forward for companies. It gives a competitive advantage, but also requires learning new skills. We look forward to helping you in this journey.
 
