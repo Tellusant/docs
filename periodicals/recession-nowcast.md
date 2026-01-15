@@ -4,7 +4,7 @@ description: "Building on Ben Bernanke's recession probability model, we innovat
 image: /assets/social-card-now.png
 ---
 # Nowcast: Probability of a U.S. Recession Nine Months Out  
-Building on Ben Bernanke's recession probability model, we innovated a better model using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large.  
+Building on Ben Bernanke's widely used recession probability model, we innovated a better model using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large.  
 
 We have published this nowcast since 2006, until 2025 with Bernanke's specification, and now with Tellusant's better method. The method is described below the graph.
 
@@ -17,7 +17,7 @@ We have published this nowcast since 2006, until 2025 with Bernanke's specificat
 
 ---
 ### Method
-Prof. Ben Bernanke, later chairman of the Federal Reserve, in 1990 developed a method to find the probably of future recessions. He kept the model simple using only the term spread between long-term bills and short-term bonds and applied to a probit model with actual recessions, as determined by the National Bureau of Economic Research (NBER), as the dependent binary variable.
+Prof. Ben Bernanke, later chairman of the Federal Reserve, in 1990 developed a method to find the probability of future recessions. He kept the model simple using only the term spread between long-term bills and short-term bonds and applied to a probit model with actual recessions, as determined by the National Bureau of Economic Research (NBER), as the dependent binary variable.
 
 The beauty of the model is its simplicity. Bernanke did not try to find funky variables that would work for a while. Instead, he had a sound theoretical reason for why the term spread is suitable.
 
