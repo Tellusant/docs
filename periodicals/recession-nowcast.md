@@ -29,7 +29,7 @@ We used P and added integral I and derivative D elements (working on the same te
 
 Comparing the Aikake Information Criterion tells us that there is close to zero probability that the Bernanke model is better. This is seen visually because the Tellusant model gives significantly stronger positives than the Bernanke model).
 
-Neither the Tellusant nor Bernanke model are perfect. Both give false positives occasionally (notably in 2025; although once NBER makes its determination there be a recession this year, although "vague"), but so far no false negatives. 
+Neither the Tellusant nor Bernanke model are perfect. Both give false positives occasionally (notably in 2025; although once NBER makes its determination there may be a recession in 2025, although shallow), but so far no false negatives. 
 
 ---
 For more on the Bernanke and Federal Reserve's method:  
