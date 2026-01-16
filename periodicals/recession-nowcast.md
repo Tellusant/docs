@@ -11,6 +11,9 @@ We have published this nowcast since 2006 until 2025 with Bernanke's specificati
 ---
 ### November 28, 2025: Probability 18%
 
+<iframe src="https://tellubase.com/recession-predictor/" width="800"></iframe>
+
+
 <p align="center">
 <img  src="assets/images/tellusant-recession-nowcast.svg" width="800" alt="Nowcast: U.S. recession probability 6 months out">
 </p>
