@@ -29,7 +29,7 @@ Three districts show reasonable (modest) growth:
 Only one shows contraction:
 - New York  
 
-The rest are flat or show flat growth.
+The rest are flat or show slight growth.
 
 Erratic government policies continue to damp growth.  
 <br/>
