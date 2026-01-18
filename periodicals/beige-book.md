@@ -31,7 +31,7 @@ Only one shows contraction:
 
 The rest are flat or show flat growth.
 
-Erratic government policies continue to damp grwoth.  
+Erratic government policies continue to damp growth.  
 <br/>
 
 #### [Archive](archive.md)
