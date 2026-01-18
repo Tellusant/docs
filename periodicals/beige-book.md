@@ -13,13 +13,13 @@ We compute a composite score for each of the 12 districts based on a **semantic 
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
 ---
-## November 26, 2025
+## January 146, 2026
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-The November 2025 report continues to show significant weakness for the sixth period in a row. It ranks 77th of the 84 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
+The January 2026 report continues to show significant weakness for the sixth period in a row. It ranks 77th of the 84 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
 
 Only three district show economic expansion:
 - Richmond
