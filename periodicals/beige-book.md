@@ -19,25 +19,19 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-The January 2026 report continues to show significant weakness for the sixth period in a row. It ranks 77th of the 84 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
+The January 2026 report shows improved economic economic conditions, but still only slight growth.
 
-Only three district show economic expansion:
+Three districts show reasonable (modest) growth:
 - Richmond
-- Boston
-- Chicago
-- Cleveland  
+- St. Louis
+- San Francisco
 
-Three show contraction:
-- Dallas
-- Kansas City
-- New York
-- Philapelphia  
+Only one shows contraction:
+- New York  
 
-Four are flat.
+The rest are flat or show flat growth.
 
-Dallas is particularly concerning since the district has done well, or very well, for 5 straight years (40 periods).  
-
-Tariffs and erratic government policies are likely causes of the poor performance.  
+Erratic government policies continue to damp grwoth.  
 <br/>
 
 #### [Archive](archive.md)
