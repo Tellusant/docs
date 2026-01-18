@@ -1,6 +1,7 @@
 # Beige Book Nowcast Archive
 ## November 2025
 
+---
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
