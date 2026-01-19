@@ -3,41 +3,35 @@ title: "Nowcast: Semantic Analysis of Economic Activity Based on the Beige Book"
 description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
 image: /assets/social-card-beig.png
 ---
-# Nowcast: Nowcast: Semantic Analysis of Economic Activity Based on the Beige Book
-The Beige Book covers current economic activity. It is published sesqui-monthly (every 1 1/2 month) by the Federal Reserve. It gives a qualitative, **text-based**, snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
+# Nowcast: Semantic Analysis of Economic Activity Based on the Beige Book
+The Beige Book, *Summary of Commentary on Current Economic Conditions*, covers current economic activity. It is published sesqui-monthly (every 1 1/2 month) by the Federal Reserve. It gives a qualitative, **text-based**, snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
 
-The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is at presently.
+The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is at present.
 
-We compute a composite score for each of the 12 districts based on a **semantic analysis** of the report, then sum the scores weighted by the GDP of each district.
+We compute a composite score for each of the twelve districts based on a **semantic analysis** of the report, then sum the scores weighted by the GDP of each district.
 
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
 ---
-## November 26, 2025
+## January 14, 2026
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-The November 2025 report continues to show significant weakness for the sixth period in a row. It ranks 77th of the 84 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
+The January 2026 report shows improved economic economic conditions, but still only slight growth.
 
-Only three district show economic expansion:
+Three districts show reasonable (modest) growth:
 - Richmond
-- Boston
-- Chicago
-- Cleveland  
+- St. Louis
+- San Francisco
 
-Three show contraction:
-- Dallas
-- Kansas City
-- New York
-- Philapelphia  
+Only one shows contraction:
+- New York  
 
-Four are flat.
+The rest are flat or show slight growth.
 
-Dallas is particularly concerning since the district has done well, or very well, for 5 straight years (40 periods).  
-
-Tariffs and erratic government policies are likely causes of the poor performance.  
+Erratic government policies continue to damp growth.  
 <br/>
 
 #### [Archive](archive.md)

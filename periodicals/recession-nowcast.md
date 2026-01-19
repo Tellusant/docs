@@ -1,17 +1,17 @@
 ---
 title: "Nowcast: Probability of a U.S. Recession Nine Months Out"
-description: "Building on Ben Bernanke's recession probability model, we innovated a better model using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large."
+description: "Building on Ben Bernanke's recession probability model, we invented a better model using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large."
 image: /assets/social-card-recession.png
 ---
 # Nowcast: Probability of a U.S. Recession Nine Months Out  
-Building on Ben Bernanke's widely used recession probability model, we innovated a better model using exactly the same  data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large.  
+Building on Ben Bernanke's widely used recession probability model, we invented a better model using exactly the same  data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large.  
 
 We have published this nowcast since 2006 until 2025 with Bernanke's specification, and now with Tellusant's improved method. The method is described below the graph.
 
 ---
 ### November 28, 2025: Probability 18%
 
-<iframe src="https://tellubase.com/recession-predictor/" width="800"></iframe>
+<iframe src="https://tellubase.com/recession-predictor/" height="600" width="800"></iframe>
 
 
 <p align="center">
