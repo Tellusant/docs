@@ -9,14 +9,9 @@ Building on Ben Bernanke's widely used recession probability model, we invented 
 We have published this nowcast since 2006 until 2025 with Bernanke's specification, and now with Tellusant's improved method. The method is described below the graph.
 
 ---
-### November 28, 2025: Probability 18%
+### Today's Recession Probability
 
 <iframe src="https://tellubase.com/recession-predictor/" height="600" width="800"></iframe>
-
-
-<p align="center">
-<img  src="assets/images/tellusant-recession-nowcast.svg" width="800" alt="Nowcast: U.S. recession probability 6 months out">
-</p>
 
 ---
 ### Method
