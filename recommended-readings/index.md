@@ -20,4 +20,4 @@ This comparative paper between China and the Eurozone is amazingly fact based. M
 This is for statistics experts (PhD required). It is an insightful analysis of how the Federal Reserve switches between full employment and low inflation postures, its two goals.
 
 #### [A. Ananthaswamy (2024): *Why Machines Learn: The Elegant Math Behind Modern AI*. Dutton]([https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog240903~57f1b63192.en.html](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749/ref=sr_1_1?sr=8-1))
-This magnificient.
+This magnificient book shares the history of AI starting in 1946. But in comparsion to most other science books for lay audiences, it does not shy away from going through the math in some deatails. There are page after page with matrix algebra and more. It is best suited for people who know math (college level), but others can enjoy it too. 
