@@ -19,3 +19,5 @@ This comparative paper between China and the Eurozone is amazingly fact based. M
 #### [Stata: *Analyzing Federal Reserve Posture with Stata Structural Break Tests*](https://www.stata.com/manuals14/tsestatsbsingle.pdf)
 This is for statistics experts (PhD required). It is an insightful analysis of how the Federal Reserve switches between full employment and low inflation postures, its two goals.
 
+#### [A. Ananthaswamy (2024): *Why Machines Learn: The Elegant Math Behind Modern AI*. Dutton]([https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog240903~57f1b63192.en.html](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749/ref=sr_1_1?sr=8-1))
+This magnificient.
