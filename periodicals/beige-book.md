@@ -1,10 +1,10 @@
 ---
-title: "Nowcast: Semantic Analysis of Economic Activity Based on the Beige Book"
-description: "The Fed's Beige Book covers current economic activity. Tellusant converts it into a quantitative perspective"
+title: "Nowcast: Sentiment Analysis of Economic Activity Based on the Beige Book"
+description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast."
 image: /assets/social-card-beig.png
 ---
-# Nowcast: Semantic Analysis of Economic Activity Based on the Beige Book
-The Beige Book, *Summary of Commentary on Current Economic Conditions*, covers current economic activity. It is published sesqui-monthly (every 1 1/2 month) by the Federal Reserve. It gives a qualitative, **text-based**, snapshot of what is currently happening in each of the 12 Federal Reserve Districts. It is thus a nowcast.
+# Nowcast: Sentiment Analysis of Economic Activity Based on the Beige Book
+The Fed's Beige Book, *Summary of Commentary on Current Economic Conditions*, covers current economic activity for the 12 Federal Reserve Districts. It is published sesqui-monthly (every 1 1/2 month). Tellusant converts it into a quantitative nowcast.
 
 The Beige Book is useful for, among others, CEOs and management teams who want to quickly assess where the economy is at present.
 
