@@ -25,11 +25,11 @@ This success is not self-made by the younger companies. They stand on the should
 
 There is constant churn of the largest companies in America. Over the decade, expect half of the companies to be new entrants. A defining characteristic of capitalism is the reallocation of capital to the best opportunists.
 
-2024 shows this with significant movements in the list. See how NVIDIA gained 13 places and is now at number 9, up from 22. There is constant churn of the largest companies in America. Over the decade, expect half of the companies to be new entrants. A defining characteristic of capitalism is the reallocation of capital to the best opportunists.
+2024 shows this with significant movements in the list. Over a decade, expect half of the companies to be new entrants. A defining characteristic of capitalism is the reallocation of capital to the best opportunists.
 
 2024 shows this with significant movements in the list. See how **Nvidia** gained 13 places and is now at number 9, up from 22. **Broadcom**, a competitor to Nvidia, joined the forty at number 34, up 11 places. **Eli Lilly**, **Pfizer**, and **Charter Communications** also rose quickly.
 
-**The Coca-Cola Company**, **Lowe's Companies, Inc.**, and **Elevance Health** left ALERT. It is hard to see them rejoining unless they make large acquisitions.
+**The Coca-Cola Company**, **Lowe's**, and **Elevance Health** left ALERT. It is hard to see them rejoining unless they make large acquisitions.
 
 ## The Top
 **Amazon** has the honor of being the largest company in 2024 as it has for a few years. 
