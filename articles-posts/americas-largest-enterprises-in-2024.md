@@ -105,4 +105,6 @@ Specific VA = Operating profits + Operating expenses = Gross margin
 120 companies were evaluated for calendar year 2024. If their fiscal year differ from calendar year³, we use the sum of the four quarters nearest to December. If companies have off-quarter reporting⁴, we use the quarters closest to the calendar year (thus maximum one month off).
 
 ---
-This concludes this year's review of the largest companies. This is now an annual release by Tellusant.
+This concludes this year's review of the largest companies. This is now an annual release by Tellusant.  
+
+[2025-03-20]
