@@ -1,12 +1,12 @@
 ---
-title: "The Palmer Penguins and Their Role in Business"
-description: "Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices."
-image: /assets/social-card-penguins.png
+title: "America's Largest Enterprises in 2024"
+description: "Tellusant's second official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)."
+image: /assets/social-card-pub.png
 ---
 
 
 # America's Largest Enterprises in 2024
-Tellusant's second official America's Largest Enterprises Ranking (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.
+Tellusant's second official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.
 
 **Amazon** maintains its lead at the top in 2024 and is the clear #1.
 
