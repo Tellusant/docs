@@ -28,7 +28,7 @@ flowchart TD
     SR -->|Pace insufficient| LC
     LC -->|Feedback loop| GJ
 
-    classDef risk fill:#fdecea,stroke:#b71c1c
+    classDef risk fill:#fdecea,stroke:#b71c1c,stroke-width:2px
 </div>
 
 ---
