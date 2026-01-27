@@ -58,11 +58,10 @@ LC -->|Feedback loop| GJ
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
 ANCHOR[" "]:::anchor
-LC -.-> ANCHOR
 
 %% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
 SUM["SUMMARY\nWeighted average score: 5.05/10\nStrong monetary and financial anchors\nsupport stability, but fiscal constraints and slow reform \nimplementation keep growth subdued."]:::summary
-ANCHOR -.-> SUM
+LC -.-> SUM
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
