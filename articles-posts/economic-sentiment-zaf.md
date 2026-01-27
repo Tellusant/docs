@@ -1,11 +1,11 @@
 ---
 layout: default
 title: South Africa Economic Sentiment Analysis Based on IMF et Plus
-description: Semantic parsing of IMF text with scoring and weighting
+description:  Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting.
 ---
 
 # South Africa Economic Sentiment Analysis Based on IMF et Plus
- Semantic parsing of IMF text with automated scoring and weighting.
+Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting.
 
 ---
 <div class="mermaid">
