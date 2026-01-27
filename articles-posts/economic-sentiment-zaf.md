@@ -35,15 +35,15 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
 
-%% ========= NODES (TITLE + SCORE + ONE QUOTE) =========
-GE["GLOBAL ENVIRONMENT\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
-FP["FISCAL POLICY\nScore: 3/10\n''Debt remains high and rising''"]:::risk
-GJ["GROWTH & JOBS\nScore: 4/10\n''Growth remains constrained by bottlenecks''"]:::risk
-MP["MONETARY POLICY\nScore: 8/10\n''Adoption of a lower inflation target is a major policy achievement''"]:::strong
-MS["MACRO STABILITY\nScore: 6/10\n''Frameworks support resilience''"]:::neutral
-FS["FINANCIAL SECTOR\nScore: 8/10\n''The banking system has remained sound''"]:::strong
-SR["STRUCTURAL REFORMS\nScore: 5/10\n''Implementation needs to accelerate''"]:::mixed
-LC["LONG-TERM CONFIDENCE\nScore: 5/10\n''Outlook depends on reform delivery''"]:::mixed
+%% ========= NODES =========
+GE["GLOBAL ENVIRONMENT\nScore: X/10\n''External conditions shape the outlook''"]:::risk
+FP["FISCAL POLICY\nScore: X/10\n''Fiscal dynamics influence confidence''"]:::risk
+GJ["GROWTH & JOBS\nScore: X/10\n''Growth reflects structural constraints''"]:::risk
+MP["MONETARY POLICY\nScore: X/10\n''Policy credibility anchors stability''"]:::strong
+MS["MACRO STABILITY\nScore: X/10\n''Buffers support resilience''"]:::neutral
+FS["FINANCIAL SECTOR\nScore: X/10\n''The financial system remains sound''"]:::strong
+SR["STRUCTURAL REFORMS\nScore: X/10\n''Reform momentum is critical''"]:::mixed
+LC["LONG-TERM CONFIDENCE\nScore: X/10\n''Confidence depends on delivery''"]:::mixed
 
 %% ========= RELATIONSHIPS =========
 GE -->|Downside risks| GJ
@@ -52,17 +52,23 @@ MP -->|Anchors inflation| MS
 MS -->|Enables| GJ
 MP -->|Strengthens| FS
 FS <-->|Depends on progress| SR
-SR -->|Pace insufficient| LC
+SR -->|Pace matters| LC
 LC -->|Feedback loop| GJ
 
-%% ========= UNCONNECTED SUMMARY BOX (no edges) =========
-SUM["SUMMARY\nWeighted average score: 5.05/10\nResilience from monetary and financial strength, but fiscal constraints and slow reforms keep growth subdued."]:::summary
+%% ========= INVISIBLE ANCHOR =========
+ANCHOR[" "]:::anchor
+GJ --> ANCHOR
 
-%% ========= STYLES (LOGICAL COLORS + stroke-width 2) =========
-classDef strong fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+%% ========= SUMMARY (FORCED BELOW) =========
+SUM["SUMMARY\nWeighted average score: X.XX/10\nOne-sentence IMF-style synthesis goes here."]:::summary
+ANCHOR --> SUM
+
+%% ========= STYLES =========
+classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
 classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
-classDef mixed  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
-classDef risk   fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
 classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef anchor fill:transparent,stroke:transparent;
 
 </div>
