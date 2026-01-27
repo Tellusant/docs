@@ -32,4 +32,37 @@ flowchart TD
 </div>
 
 ---
+<div class="mermaid">
+flowchart TD
 
+%% ========= NODES (TITLE + SCORE + ONE QUOTE) =========
+GE["GLOBAL ENVIRONMENT\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
+FP["FISCAL POLICY\nScore: 3/10\n''Debt remains high and rising''"]:::risk
+GJ["GROWTH & JOBS\nScore: 4/10\n''Growth remains constrained by bottlenecks''"]:::risk
+MP["MONETARY POLICY\nScore: 8/10\n''Adoption of a lower inflation target is a major policy achievement''"]:::strong
+MS["MACRO STABILITY\nScore: 6/10\n''Frameworks support resilience''"]:::neutral
+FS["FINANCIAL SECTOR\nScore: 8/10\n''The banking system has remained sound''"]:::strong
+SR["STRUCTURAL REFORMS\nScore: 5/10\n''Implementation needs to accelerate''"]:::mixed
+LC["LONG-TERM CONFIDENCE\nScore: 5/10\n''Outlook depends on reform delivery''"]:::mixed
+
+%% ========= RELATIONSHIPS =========
+GE -->|Downside risks| GJ
+FP -->|Constrains growth| GJ
+MP -->|Anchors inflation| MS
+MS -->|Enables| GJ
+MP -->|Strengthens| FS
+FS <-->|Depends on progress| SR
+SR -->|Pace insufficient| LC
+LC -->|Feedback loop| GJ
+
+%% ========= UNCONNECTED SUMMARY BOX (no edges) =========
+SUM["SUMMARY\nWeighted average score: 5.05/10\nResilience from monetary and financial strength, but fiscal constraints and slow reforms keep growth subdued."]:::summary
+
+%% ========= STYLES (LOGICAL COLORS + stroke-width 2) =========
+classDef strong fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef mixed  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef risk   fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+
+</div>
