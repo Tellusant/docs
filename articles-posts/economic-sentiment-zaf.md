@@ -16,7 +16,7 @@ flowchart TD
     MP["MONETARY POLICY\nScore: 8/10\n''Risks remain tilted to the downside''"]:::risk
     MS["MACRO STABILITY\nScore: 6/10"]
     FS["FINANCIAL SECTOR\nScore: 8/10"]
-    SR["STRUCTURAK REFORMS\nScore: 5/10"]
+    SR["STRUCTURAL REFORMS\nScore: 5/10"]
     LC["LONG-TERM CONFIDENCE\nScore: 5/10"]
 
     GE -->|Downside risks| GJ
