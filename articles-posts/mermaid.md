@@ -1,10 +1,11 @@
-<div class="mermaid">
-flowchart TD
-    IMF[IMF Assessment]
-    IMF --> Growth[Growth]
-    IMF --> Fiscal[Fiscal Policy]
-    Fiscal --> Confidence[Confidence]
-</div>
+---
+layout: default
+title: South Africa Economic Sentiment Analysis Based on Article IV ey Plus
+description: Semantic parsing of IMF text with scoring and weighting
+---
+
+# South Africa Economic Sentiment Analysis Based on Article IV ey Plus
+ Semantic parsing of IMF text with automated scoring and weighting.
 
 ---
 <div class="mermaid">
