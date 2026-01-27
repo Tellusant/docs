@@ -13,7 +13,7 @@ flowchart TD
     GE["Global Environment\nScore: 3/10"]
     FP["Fiscal Policy\nScore: 3/10"]
     GJ["Growth & Jobs\nScore: 4/10"]
-    MP["Monetary Policy\nScore: 8/10n\Risks remain tilted to the downside"]
+    MP["Monetary Policy\nScore: 8/10\nRisks remain tilted to the downside"]:::risk
     MS["Macro Stability\nScore: 6/10"]
     FS["Financial Sector\nScore: 8/10"]
     SR["Structural Reforms\nScore: 5/10"]
@@ -27,6 +27,8 @@ flowchart TD
     FS <-->|Depends on progress| SR
     SR -->|Pace insufficient| LC
     LC -->|Feedback loop| GJ
+
+    classDef risk fill:#fdecea,stroke:#b71c1c
 </div>
 
 ---
