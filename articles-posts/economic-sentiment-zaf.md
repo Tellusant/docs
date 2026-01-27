@@ -61,7 +61,7 @@ ANCHOR[" "]:::anchor
 
 %% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
 SUM["SUMMARY\nWeighted average score: 5.05/10\nStrong monetary and financial anchors\nsupport stability, but fiscal constraints and slow reform \nimplementation keep growth subdued."]:::summary
-LC -.-> SUM
+LC -.-> SUM:::anchor
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
@@ -72,6 +72,4 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 classDef anchor fill:transparent,stroke:transparent;
 
 </div>
-### What the legend should show
-A simple horizontal or vertical key:
 
