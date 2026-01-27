@@ -1,10 +1,10 @@
 ---
 layout: default
-title: South Africa Economic Sentiment Analysis Based on Article IV ey Plus
+title: South Africa Economic Sentiment Analysis Based on Article IV et Plus
 description: Semantic parsing of IMF text with scoring and weighting
 ---
 
-# South Africa Economic Sentiment Analysis Based on Article IV ey Plus
+# South Africa Economic Sentiment Analysis Based on Article IV et Plus
  Semantic parsing of IMF text with automated scoring and weighting.
 
 ---
