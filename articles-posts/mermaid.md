@@ -6,6 +6,7 @@ flowchart TD
     Fiscal --> Confidence[Confidence]
 </div>
 
+---
 <div class="mermaid">
 flowchart TD
     GE["Global Environment\nScore: 3/10"]
@@ -25,4 +26,14 @@ flowchart TD
     FS <-->|Depends on progress| SR
     SR -->|Pace insufficient| LC
     LC -->|Feedback loop| GJ
+</div>
+
+---
+<div class="mermaid">
+radar_chart
+    title IMF 2025 Composite Country Scores
+    South_Africa: 3,3,4,8,6,8,5,5
+    Mexico:      4,4,4,7,6,7,5,5
+    Brazil:      4,5,7,7,7,8,6,6
+    axis_labels: GE, Fiscal, Growth, Monetary, Macro, Financial, Reforms, Confidence
 </div>
