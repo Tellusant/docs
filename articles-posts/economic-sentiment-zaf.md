@@ -10,14 +10,14 @@ description: Semantic parsing of IMF text with scoring and weighting
 ---
 <div class="mermaid">
 flowchart TD
-    GE["Global Environment\nScore: 3/10"]
-    FP["Fiscal Policy\nScore: 3/10"]
-    GJ["Growth & Jobs\nScore: 4/10"]
+    GE["GLOBAL ENVIRONMENT\nScore: 3/10"]
+    FP["FISCAL POLICY\nScore: 3/10"]
+    GJ["GROWTH & JOBS\nScore: 4/10"]
     MP["MONETARY POLICY\nScore: 8/10\n''Risks remain tilted to the downside''"]:::risk
-    MS["Macro Stability\nScore: 6/10"]
-    FS["Financial Sector\nScore: 8/10"]
-    SR["Structural Reforms\nScore: 5/10"]
-    LC["Long-Term Confidence\nScore: 5/10"]
+    MS["MACRO STABILITY\nScore: 6/10"]
+    FS["FINANCIAL SECTOR\nScore: 8/10"]
+    SR["STRUCTURAK REFORMS\nScore: 5/10"]
+    LC["LONG-TERM CONFIDENCE\nScore: 5/10"]
 
     GE -->|Downside risks| GJ
     FP -->|Constrains growth| GJ
