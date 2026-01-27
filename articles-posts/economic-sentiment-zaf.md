@@ -9,7 +9,7 @@ description: Semantic parsing of IMF text with scoring and weighting
 
 ---
 <div class="mermaid">
-flowchart LR
+flowchart TD
     GE["GLOBAL ENVIRONMENT\nScore: 3/10"]
     FP["FISCAL POLICY\nScore: 3/10"]
     GJ["GROWTH & JOBS\nScore: 4/10"]
