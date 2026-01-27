@@ -13,7 +13,7 @@ flowchart TD
     GE["Global Environment\nScore: 3/10"]
     FP["Fiscal Policy\nScore: 3/10"]
     GJ["Growth & Jobs\nScore: 4/10"]
-    MP["Monetary Policy\nScore: 8/10\nRisks remain tilted to the downside"]:::risk
+    MP["Monetary Policy\nScore: 8/10\n'Risks remain tilted to the downside'"]:::risk
     MS["Macro Stability\nScore: 6/10"]
     FS["Financial Sector\nScore: 8/10"]
     SR["Structural Reforms\nScore: 5/10"]
