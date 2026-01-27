@@ -33,17 +33,18 @@ flowchart TD
 
 ---
 <div class="mermaid">
-flowchart TD
+
+ flowchart TD
 
 %% ========= NODES =========
-GE["GLOBAL ENVIRONMENT\nScore: X/10\n''External conditions shape the outlook''"]:::risk
-FP["FISCAL POLICY\nScore: X/10\n''Fiscal dynamics influence confidence''"]:::risk
-GJ["GROWTH & JOBS\nScore: X/10\n''Growth reflects structural constraints''"]:::risk
-MP["MONETARY POLICY\nScore: X/10\n''Policy credibility anchors stability''"]:::strong
-MS["MACRO STABILITY\nScore: X/10\n''Buffers support resilience''"]:::neutral
-FS["FINANCIAL SECTOR\nScore: X/10\n''The financial system remains sound''"]:::strong
-SR["STRUCTURAL REFORMS\nScore: X/10\n''Reform momentum is critical''"]:::mixed
-LC["LONG-TERM CONFIDENCE\nScore: X/10\n''Confidence depends on delivery''"]:::mixed
+GE["GLOBAL ENVIRONMENT\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
+FP["FISCAL POLICY\nScore: 3/10\n''Debt remains high and rising''"]:::risk
+GJ["GROWTH & JOBS\nScore: 4/10\n''Growth remains constrained by bottlenecks''"]:::risk
+MP["MONETARY POLICY\nScore: 8/10\n''Adoption of a lower inflation target is a major policy achievement''"]:::strong
+MS["MACRO STABILITY\nScore: 6/10\n''Frameworks support resilience''"]:::neutral
+FS["FINANCIAL SECTOR\nScore: 8/10\n''The banking system has remained sound''"]:::strong
+SR["STRUCTURAL REFORMS\nScore: 5/10\n''Implementation needs to accelerate''"]:::mixed
+LC["LONG-TERM CONFIDENCE\nScore: 5/10\n''Outlook depends on reform delivery''"]:::mixed
 
 %% ========= RELATIONSHIPS =========
 GE -->|Downside risks| GJ
@@ -52,16 +53,16 @@ MP -->|Anchors inflation| MS
 MS -->|Enables| GJ
 MP -->|Strengthens| FS
 FS <-->|Depends on progress| SR
-SR -->|Pace matters| LC
+SR -->|Pace insufficient| LC
 LC -->|Feedback loop| GJ
 
-%% ========= INVISIBLE ANCHOR =========
+%% ========= INVISIBLE LAYOUT CONTROL =========
 ANCHOR[" "]:::anchor
-GJ --> ANCHOR
+LC -.-> ANCHOR
 
-%% ========= SUMMARY (FORCED BELOW) =========
-SUM["SUMMARY\nWeighted average score: X.XX/10\nOne-sentence IMF-style synthesis goes here."]:::summary
-ANCHOR --> SUM
+%% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
+SUM["SUMMARY\nWeighted average score: 5.05/10\nStrong monetary and financial anchors support stability, but fiscal constraints and slow reform implementation keep growth subdued."]:::summary
+ANCHOR -.-> SUM
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
