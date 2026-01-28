@@ -60,9 +60,10 @@ classDef anchor fill:transparent,stroke:transparent;
 
 xychart-beta horizontal
     title "Example"
-    x-axis ["A","B","C"]
+    x-axis ["South\nAfrica","B","C"]
     y-axis "Value" 0 --> 10
-    bar [3,6,9]
+    bar [5.13,6,9]
+    
   
 
     </div>
