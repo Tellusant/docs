@@ -11,7 +11,7 @@ Semantic parsing of various reports such as IMF Article IV and more with automat
 
 <div class="mermaid">
 ---
-title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗔𝗡𝗗 𝗣𝗢𝗟𝗜𝗖𝗬 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧\nSemantic AI analysis of hundreds of of relevant pages
+title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗔𝗡𝗗 𝗣𝗢𝗟𝗜𝗖𝗬 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
 ---
 flowchart TD
 
@@ -58,10 +58,10 @@ classDef anchor fill:transparent,stroke:transparent;
 
 ---
 <p align="center">
-<div class="mermaid">
+<div class="mermaid" width="450">
 
 xychart-beta horizontal
-    title "COUNTRY COMPARISON OF SUMMARY SCORES"
+    title "𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗖𝗢𝗠𝗣𝗔𝗥𝗜𝗦𝗢𝗡 𝗢𝗙 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 𝗦𝗖𝗢𝗥𝗘𝗦"
     x-axis ["South Africa", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "UAE","Saudi Arabia","Qatar","Oman","Kuwait","Bahrain"]
     y-axis "Weighted average score across 8 measuers" 0 --> 10
     bar [5.1,6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
