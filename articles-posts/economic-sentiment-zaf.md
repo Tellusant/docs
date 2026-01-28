@@ -37,7 +37,7 @@ LC -->|Feedback loop| GJ
 ANCHOR[" "]:::anchor
 
 %% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
-SUM["SUMMARY\nWeighted average score: 5.05/10\n''Strong monetary and financial anchors\nsupport stability, but fiscal constraints and \nslow reform implementation \nkeep growth subdued.''"]:::summary
+SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬\nWeighted average score: 5.05/10\n''Strong monetary and financial anchors\nsupport stability, but fiscal constraints and \nslow reform implementation \nkeep growth subdued.''"]:::summary
 LC -.-> SUM:::anchor
 
 %% ========= STYLES =========
