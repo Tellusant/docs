@@ -10,7 +10,9 @@ Semantic parsing of various reports such as IMF Article IV and more with automat
 ---
 
 <div class="mermaid">
---- title: SOUTH AFRICA ECONOMIC SENTIMENT ---
+---
+title: SOUTH AFRICA ECONOMIC SENTIMENT
+---
 flowchart TD
 
 %% ========= NODES =========
