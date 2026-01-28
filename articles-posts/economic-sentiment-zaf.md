@@ -50,3 +50,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 
+<p align="center">
+<img  src="assets/images/legend.svg" width="400" alt="Legend">  
+</p>
+
