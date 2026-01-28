@@ -58,7 +58,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 <div class="mermaid">
 
-xychart-beta horizontal
+xychart-beta
     title "Example"
     x-axis ["A","B","C","D"]
     y-axis "Score" 0 --> 8
