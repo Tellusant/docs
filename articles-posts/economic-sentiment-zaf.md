@@ -14,14 +14,14 @@ Semantic parsing of various reports such as IMF Article IV and more with automat
  flowchart TD
 
 %% ========= NODES =========
-GE["GLOBAL ENVIRONMENT\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
-FP["FISCAL POLICY\nScore: 3/10\n''Debt remains high and rising''"]:::risk
-GJ["GROWTH & JOBS\nScore: 4/10\n''Growth remains constrained by bottlenecks''"]:::risk
-MP["MONETARY POLICY\nScore: 8/10\n''Adoption of a lower inflation target is a major policy achievement''"]:::strong
-MS["MACRO STABILITY\nScore: 6/10\n''Frameworks support resilience''"]:::neutral
-FS["FINANCIAL SECTOR\nScore: 8/10\n''The banking system has remained sound''"]:::strong
-SR["STRUCTURAL REFORMS\nScore: 5/10\n''Implementation needs to accelerate''"]:::mixed
-LC["LONG-TERM CONFIDENCE\nScore: 5/10\n''Outlook depends on reform delivery''"]:::mixed
+GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
+FP["𝗙𝗜𝗦𝗖𝗔𝗟 𝗣𝗢𝗟𝗜𝗖𝗬\nScore: 3/10\n''Debt remains high and rising''"]:::risk
+GJ["𝗚𝗥𝗢𝗪𝗧𝗛 & 𝗝𝗢𝗕𝗦\nScore: 4/10\n''Growth remains constrained by bottlenecks''"]:::risk
+MP["𝗠𝗢𝗡𝗘𝗧𝗔𝗥𝗬 𝗣𝗢𝗟𝗜𝗖𝗬\nScore: 8/10\n''Adoption of a lower inflation target is a major policy achievement''"]:::strong
+MS["𝗠𝗔𝗖𝗥𝗢 𝗦𝗧𝗔𝗕𝗜𝗟𝗜𝗧𝗬\nScore: 6/10\n''Frameworks support resilience''"]:::neutral
+FS["𝗙𝗜𝗡𝗔𝗡𝗖𝗜𝗔𝗟 𝗦𝗘𝗖𝗧𝗢𝗥\nScore: 8/10\n''The banking system has remained sound''"]:::strong
+SR["𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗔𝗟 𝗥𝗘𝗙𝗢𝗥𝗠𝗦\nScore: 5/10\n''Implementation needs to accelerate''"]:::mixed
+LC["𝗟𝗢𝗡𝗚-𝗧𝗘𝗥𝗠 𝗖𝗢𝗡𝗙𝗜𝗗𝗘𝗡𝗖𝗘\nScore: 5/10\n''Outlook depends on reform delivery''"]:::mixed
 
 %% ========= RELATIONSHIPS =========
 GE -->|Downside risks| GJ
