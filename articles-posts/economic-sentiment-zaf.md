@@ -58,18 +58,10 @@ classDef anchor fill:transparent,stroke:transparent;
 
 <div class="mermaid">
 
-xychart-beta
-    title "Example"
-    x-axis ["A","B","C","D"]
-    y-axis "Score" 0 --> 8
-
-    %% Series 1 (color 1)
-    bar [5.0, null, null, null]
-
-    %% Series 2 (color 2)
-    bar [null, 6.5, 6.0, null]
-
-    %% Series 3 (color 3)
-    bar [null, null, null, 7.2]
+xychart-beta horizontal
+    title "COUNTRY COMPARISON OF SUMMARY SCORES"
+    x-axis ["South Africa", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico"]
+    y-axis "Value" 0 --> 10
+    bar [9,8,7,6,5,4,3,2,1]
     
 </div>
