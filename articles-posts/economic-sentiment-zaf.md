@@ -31,7 +31,7 @@ MS -->|Enables| GJ
 MP -->|Strengthens| FS
 FS <-->|Depends on progress| SR
 SR -->|Pace insufficient| LC
-LC -->|Feedback loop| GJ
+LC <-->|Feedback loop| GJ
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
 ANCHOR[" "]:::anchor
