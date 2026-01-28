@@ -1,7 +1,7 @@
 ---
-layout: default
-title: South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
-description:  This article shows how we use semantic analysis of qualitative reports using automated parsing scoring and weighting based on a trained AI model.
+title: "South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus"
+description:  "This article shows how we use semantic analysis of qualitative reports using automated parsing scoring and weighting based on a trained AI model."
+image: /assets/social-card-pub.png
 ---
 
 # South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
