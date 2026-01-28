@@ -1,17 +1,17 @@
 ---
 layout: default
-title: South Africa Economic Sentiment Analysis Based on IMF et Plus
+title: South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
 description:  Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting using a trained AI model.
 ---
 
-# South Africa Economic Sentiment Analysis Based on IMF et Plus
+# South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
 Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting using a trained AI model.
 
 ---
 
 <div class="mermaid">
 ---
-title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗔𝗡𝗗 𝗣𝗢𝗟𝗜𝗖𝗬 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
+title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 & 𝗣𝗢𝗟𝗜𝗖𝗬 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
 ---
 flowchart TD
 
