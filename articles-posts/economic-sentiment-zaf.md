@@ -58,33 +58,11 @@ classDef anchor fill:transparent,stroke:transparent;
 
 <div class="mermaid">
 
-gantt
-    title IMF Article IV – Composite Sentiment (Horizontal)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %j
-    todayMarker off
-
-    section South Africa
-    South Africa (5.1) :a1, 2026-01-01, 51d
-
-    section Advanced\nEconomies
-    Netherlands (6.6) :b1, 2026-01-01, 66d
-    United States (5.7) :b2, 2026-01-01, 57d
-    United Kingdom (5.5) :b3, 2026-01-01, 55d
-
-    section Large EMs
-    India (6.6) :c1, 2026-01-01, 66d
-    Brazil (6.3) :c2, 2026-01-01, 63d
-    China (5.7) :c3, 2026-01-01, 57d
-    Nigeria (5.6) :c4, 2026-01-01, 56d
-    Mexico (5.1) :c5, 2026-01-01, 51d
-
-    section GCC
-    UAE (7.1) :d1, 2026-01-01, 71d
-    Saudi Arabia (6.9) :d2, 2026-01-01, 69d
-    Qatar (6.8) :d3, 2026-01-01, 68d
-    Oman (6.2) :d4, 2026-01-01, 62d
-    Kuwait (6.0) :d5, 2026-01-01, 60d
-    Bahrain (4.8) :d6, 2026-01-01, 48d
+xychart horizontal
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
 
     </div>
