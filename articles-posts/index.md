@@ -12,8 +12,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus](economic-and-policy-sentiment-zaf.md)
-This article shows how we use semantic analysis of qualitative reports using automated parsing, scoring, and weighting, leveraging a trained AI model.
+#### [South Africa Economic & Policy Sentiment Analysis Leveraging AI](economic-and-policy-sentiment-zaf.md)
+This article shows how we use semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a trained AI model.
 
 #### [2025 in Review](2025-in-review.md)
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
