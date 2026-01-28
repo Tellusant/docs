@@ -66,7 +66,7 @@ How does South Arica compare to other countries? Below is a graph where the same
 
 xychart-beta horizontal
     title "𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗖𝗢𝗠𝗣𝗔𝗥𝗜𝗦𝗢𝗡 𝗢𝗙 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 𝗦𝗖𝗢𝗥𝗘𝗦"
-    x-axis ["𝗦𝗼𝘂𝘁𝗵 𝗔𝗳𝗿𝗶𝗰𝗮", "Switzerland", "Netherlands", "United States", "United Kingdom", "𝘐𝘯𝘥𝘪𝘢", "𝘉𝘳𝘢𝘻𝘪𝘭", "𝘊𝘩𝘪𝘯𝘢", "𝘕𝘪𝘨𝘦𝘳𝘪𝘢", "𝘔𝘦𝘹𝘪𝘤𝘰", "𝘔𝘺𝘢𝘯𝘮𝘢𝘳", "UAE", "Saudi Arabia", "Qatar","Oman", "Kuwait", "Bahrain"]
+    x-axis ["𝗦𝗼𝘂𝘁𝗵 𝗔𝗳𝗿𝗶𝗰𝗮", "Switzerland", "Netherlands", "United States", "          United Kingdom", "𝘐𝘯𝘥𝘪𝘢", "𝘉𝘳𝘢𝘻𝘪𝘭", "𝘊𝘩𝘪𝘯𝘢", "𝘕𝘪𝘨𝘦𝘳𝘪𝘢", "𝘔𝘦𝘹𝘪𝘤𝘰", "𝘔𝘺𝘢𝘯𝘮𝘢𝘳", "UAE", "Saudi Arabia", "Qatar","Oman", "Kuwait", "Bahrain"]
     y-axis "Weighted average score across 8 measures" 0 --> 10
     bar [8.0, 5.1, 6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 2.3, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
     
