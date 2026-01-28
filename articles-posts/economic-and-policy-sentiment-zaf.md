@@ -7,6 +7,16 @@ description:  Semantic parsing of various reports such as IMF Article IV and mor
 # South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
 Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting using a trained AI model.
 
+In 2017, our chairman, Staffan Canback, wrote an opinion piece in the South African newspaper Business Times: _Ending South Africa's Forever Recession_. As part of the background analysis, he did a semantic analysis of South Africa's economic and policy contect. Even in 2017 it was possible to this with word cloud tools. primitive, but they worked decently.
+
+In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was updated in early 2026, incorporating the latest reports on the country.
+
+The graph belows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data.
+
+The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
+
+The graphs are made with Mermaid, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like here.
+
 ---
 
 <div class="mermaid">
