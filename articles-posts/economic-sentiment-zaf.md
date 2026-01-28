@@ -11,7 +11,8 @@ Semantic parsing of various reports such as IMF Article IV and more with automat
 
 <div class="mermaid">
 
- flowchart TD
+flowchart TD
+title "TEST"
 
 %% ========= NODES =========
 GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
@@ -64,4 +65,42 @@ xychart-beta horizontal
     y-axis "Weighted average score across 8 measuers" 0 --> 10
     bar [5.1,6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
     
+</div>
+
+---
+<div class="mermaid">
+xychart-beta horizontal
+    title "COUNTRY COMPARISON OF SUMMARY SCORES COLORED"
+
+    x-axis [
+        "South Africa",
+        "Netherlands",
+        "United States",
+        "United Kingdom",
+        "India",
+        "Brazil",
+        "China",
+        "Nigeria",
+        "Mexico",
+        "UAE",
+        "Saudi Arabia",
+        "Qatar",
+        "Oman",
+        "Kuwait",
+        "Bahrain"
+    ]
+
+    y-axis "Weighted average score across 8 measures" 0 --> 10
+
+    %% Group 1: South Africa
+    bar [5.1, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+
+    %% Group 2: Netherlands, United States, United Kingdom
+    bar [null, 6.6, 5.7, 5.5, null, null, null, null, null, null, null, null, null, null, null]
+
+    %% Group 3: India, Brazil, China, Nigeria, Mexico
+    bar [null, null, null, null, 6.6, 6.3, 5.7, 5.6, 5.1, null, null, null, null, null, null]
+
+    %% Group 4: UAE, Saudi Arabia, Qatar, Oman, Kuwait, Bahrain
+    bar [null, null, null, null, null, null, null, null, null, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
 </div>
