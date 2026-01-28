@@ -1,11 +1,11 @@
 ---
 layout: default
 title: South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
-description:  Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting using a trained AI model.
+description:  This article shows how we use semantic analysis of qualitative reports using automated parsing scoring and weighting based on a trained AI model.
 ---
 
 # South Africa Economic & Policy Sentiment Analysis Based on IMF et Plus
-Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting using a trained AI model.
+This article shows how we use semantic analysis of qualitative reports using automated parsing scoring and weighting based on a trained AI model.
 
 In 2017, our chairman, Staffan Canback, wrote an opinion piece in the South African newspaper Business Times: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, he did a semantic analysis of South Africa's economic and policy contect. Even in 2017 it was possible to this with word cloud tools. primitive, but they worked decently.
 
