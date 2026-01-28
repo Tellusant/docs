@@ -57,8 +57,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </p>
 
 ---
-<p align="center">
-<div class="mermaid" width="450">
+<div class="mermaid">
 
 xychart-beta horizontal
     title "𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗖𝗢𝗠𝗣𝗔𝗥𝗜𝗦𝗢𝗡 𝗢𝗙 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 𝗦𝗖𝗢𝗥𝗘𝗦"
@@ -67,5 +66,13 @@ xychart-beta horizontal
     bar [5.1,6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
     
 </div>
-</p>
+
+div class="mermaid">
+
+xychart-beta horizontal
+       x-axis ["Netherlands", "United States", "United Kingdom"]
+    y-axis "  " 0 --> 1
+    bar [0.66, 0.57, 0.55]
+    
+</div>
 ---
