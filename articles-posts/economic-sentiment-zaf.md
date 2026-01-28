@@ -11,7 +11,7 @@ Semantic parsing of various reports such as IMF Article IV and more with automat
 
 <div class="mermaid">
 ---
-title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
+title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗔𝗡𝗗 𝗣𝗢𝗟𝗜𝗖𝗬 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧\nSemantic AI analysis of hundreds of of relevant pages
 ---
 flowchart TD
 
@@ -57,7 +57,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </p>
 
 ---
-
+<p align="center">
 <div class="mermaid">
 
 xychart-beta horizontal
@@ -67,5 +67,5 @@ xychart-beta horizontal
     bar [5.1,6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
     
 </div>
-
+</p>
 ---
