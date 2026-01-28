@@ -12,7 +12,7 @@ Semantic parsing of various reports such as IMF Article IV and more with automat
 <div class="mermaid">
 
  flowchart TD
- title "SOUTH AFRICA ECONOIC SENTIMENT ACROSS MEASURES"
+ 
 %% ========= NODES =========
 GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧\nScore: 3/10\n''Risks remain tilted to the downside''"]:::risk
 FP["𝗙𝗜𝗦𝗖𝗔𝗟 𝗣𝗢𝗟𝗜𝗖𝗬\nScore: 3/10\n''Debt remains high and rising''"]:::risk
