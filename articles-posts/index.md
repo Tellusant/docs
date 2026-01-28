@@ -11,6 +11,10 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 
 ## Recent
+
+#### [South Africa Economic and Policy Sentiment Analysis Based on IMF et Plus](economic-and-policy-sentiment-zaf.md)
+Semantic parsing of various reports such as IMF Article IV and more with automated scoring and weighting using a trained AI model. This is a proof-of-concept page.
+
 #### [2025 in Review](2025-in-review.md)
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
