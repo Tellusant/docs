@@ -58,39 +58,22 @@ classDef anchor fill:transparent,stroke:transparent;
 
 <div class="mermaid">
 
-xychart-beta
+%%{init: {"themeVariables": {"xyChart": {"plotColorPalette": "#B71C1C,#0D47A1,#FF6F00,#1B5E20"}}}}%%
+xychart-beta horizontal
     title "IMF Article IV – Composite Sentiment Scores"
+    x-axis ["South Africa","Netherlands","United States","United Kingdom","India","Brazil","China","Nigeria","Mexico","UAE","Saudi Arabia","Qatar","Oman","Kuwait","Bahrain"]
+    y-axis "Score" 0 --> 8
 
-    y-axis [
-        "South Africa",
-        "Netherlands",
-        "United States",
-        "United Kingdom",
-        "India",
-        "Brazil",
-        "China",
-        "Nigeria",
-        "Mexico",
-        "UAE",
-        "Saudi Arabia",
-        "Qatar",
-        "Oman",
-        "Kuwait",
-        "Bahrain"
-    ]
+    %% Group 1: [South Africa]
+    bar [5.1, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
 
-    x-axis "Score" 0 --> 8
+    %% Group 2: [Netherlands, United States, United Kingdom]
+    bar [null, 6.6, 5.7, 5.5, null, null, null, null, null, null, null, null, null, null, null]
 
-    %% Group 1: South Africa
-    bar [5.05, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+    %% Group 3: [India, Brazil, China, Nigeria, Mexico]
+    bar [null, null, null, null, 6.6, 6.3, 5.7, 5.6, 5.1, null, null, null, null, null, null]
 
-    %% Group 2: Advanced economies
-    bar [null, 6.60, 5.65, 5.45, null, null, null, null, null, null, null, null, null, null, null]
-
-    %% Group 3: Large EMs
-    bar [null, null, null, null, 6.60, 6.25, 5.70, 5.60, 5.10, null, null, null, null, null, null]
-
-    %% Group 4: GCC
-    bar [null, null, null, null, null, null, null, null, null, 7.10, 6.90, 6.75, 6.15, 5.95, 4.80]
+    %% Group 4: [UAE, Saudi Arabia, Qatar, Oman, Kuwait, Bahrain]
+    bar [null, null, null, null, null, null, null, null, null, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
 
     </div>
