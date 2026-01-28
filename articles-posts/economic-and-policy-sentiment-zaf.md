@@ -67,7 +67,7 @@ xychart-beta horizontal
     
 </div>
 
-div class="mermaid">
+<div class="mermaid">
 
 xychart-beta horizontal
        x-axis ["Netherlands", "United States", "United Kingdom"]
