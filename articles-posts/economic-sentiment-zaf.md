@@ -58,22 +58,32 @@ classDef anchor fill:transparent,stroke:transparent;
 
 <div class="mermaid">
 
-%%{init: {"themeVariables": {"xyChart": {"plotColorPalette": "#B71C1C,#0D47A1,#FF6F00,#1B5E20"}}}}%%
-xychart-beta horizontal
-    title "IMF Article IV – Composite Sentiment Scores"
-    x-axis ["South Africa","Netherlands","United States","United Kingdom","India","Brazil","China","Nigeria","Mexico","UAE","Saudi Arabia","Qatar","Oman","Kuwait","Bahrain"]
-    y-axis "Score" 0 --> 8
+gantt
+    title IMF Article IV – Composite Sentiment (Horizontal)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %j
 
-    %% Group 1: [South Africa]
-    bar [5.1, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+    section South Africa
+    South Africa :a1, 2026-01-01, 51d
 
-    %% Group 2: [Netherlands, United States, United Kingdom]
-    bar [null, 6.6, 5.7, 5.5, null, null, null, null, null, null, null, null, null, null, null]
+    section Advanced Economies
+    Netherlands :b1, 2026-01-01, 66d
+    United States :b2, 2026-01-01, 57d
+    United Kingdom :b3, 2026-01-01, 55d
 
-    %% Group 3: [India, Brazil, China, Nigeria, Mexico]
-    bar [null, null, null, null, 6.6, 6.3, 5.7, 5.6, 5.1, null, null, null, null, null, null]
+    section Large EMs
+    India :c1, 2026-01-01, 66d
+    Brazil :c2, 2026-01-01, 63d
+    China :c3, 2026-01-01, 57d
+    Nigeria :c4, 2026-01-01, 56d
+    Mexico :c5, 2026-01-01, 51d
 
-    %% Group 4: [UAE, Saudi Arabia, Qatar, Oman, Kuwait, Bahrain]
-    bar [null, null, null, null, null, null, null, null, null, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
+    section GCC
+    UAE :d1, 2026-01-01, 71d
+    Saudi Arabia :d2, 2026-01-01, 69d
+    Qatar :d3, 2026-01-01, 68d
+    Oman :d4, 2026-01-01, 62d
+    Kuwait :d5, 2026-01-01, 60d
+    Bahrain :d6, 2026-01-01, 48d
 
     </div>
