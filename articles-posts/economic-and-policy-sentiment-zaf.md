@@ -53,11 +53,11 @@ SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬\nWeighted average score: 5.05/10\n''Strong mon
 LC -.-> SUM:::anchor
 
 %% ========= STYLES =========
-classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:1px,color:#111;
-classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:1px,color:#111;
-classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:1px,color:#111;
-classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:1px,color:#111;
-classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:1px,color:#111;
+classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 classDef anchor fill:transparent,stroke:transparent;
 
 </div>
@@ -70,13 +70,13 @@ classDef anchor fill:transparent,stroke:transparent;
 How does **South Africa** compare to other countries? Below is a graph where the same method was applied to 16 select countries.
 
 - Affluent countries (with Switzerland as the highest scoring country)
-- 𝘌𝘮𝘦𝘳𝘨𝘪𝘯𝘨 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 (with Myanmar as the lowest scoring country)
+- 𝙀𝙢𝙚𝙧𝙜𝙞𝙣𝙜 𝙘𝙤𝙪𝙣𝙩𝙧𝙞𝙚𝙨 (with Myanmar as the lowest scoring country)
 - 𝙶𝙲𝙲 𝚖𝚎𝚖𝚋𝚎𝚛𝚜
 <div class="mermaid">
 
 xychart-beta horizontal
     title "𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗖𝗢𝗠𝗣𝗔𝗥𝗜𝗦𝗢𝗡 𝗢𝗙 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 𝗦𝗖𝗢𝗥𝗘𝗦"
-    x-axis ["𝗦𝗼𝘂𝘁𝗵 𝗔𝗳𝗿𝗶𝗰𝗮", "Switzerland", "Netherlands", "United States", "United Kingdom", "𝘐𝘯𝘥𝘪𝘢", "𝘉𝘳𝘢𝘻𝘪𝘭", "𝘊𝘩𝘪𝘯𝘢", "𝘕𝘪𝘨𝘦𝘳𝘪𝘢", "𝘔𝘦𝘹𝘪𝘤𝘰", "𝘔𝘺𝘢𝘯𝘮𝘢𝘳", "𝚄𝚗𝚒𝚝𝚎𝚍 𝙰𝚛𝚊𝚋 𝙴𝚖𝚒𝚛𝚊𝚝𝚎𝚜", "𝚂𝚊𝚞𝚍𝚒 𝙰𝚛𝚊𝚋𝚒𝚊", "𝚀𝚊𝚝𝚊𝚛","𝙾𝚖𝚊𝚗", "𝙺𝚞𝚠𝚊𝚒𝚝", "𝙱𝚊𝚑𝚛𝚊𝚒𝚗"]
+    x-axis ["𝗦𝗼𝘂𝘁𝗵 𝗔𝗳𝗿𝗶𝗰𝗮", "Switzerland", "Netherlands", "United States", "United Kingdom", "𝙄𝙣𝙙𝙞𝙖", "𝘽𝙧𝙖𝙯𝙞𝙡", "𝘾𝙝𝙞𝙣𝙖", "𝙉𝙞𝙜𝙚𝙧𝙞𝙖", "𝙈𝙚𝙭𝙞𝙘𝙤", "𝙈𝙮𝙖𝙣𝙢𝙖𝙧", "𝚄𝚗𝚒𝚝𝚎𝚍 𝙰𝚛𝚊𝚋 𝙴𝚖𝚒𝚛𝚊𝚝𝚎𝚜", "𝚂𝚊𝚞𝚍𝚒 𝙰𝚛𝚊𝚋𝚒𝚊", "𝚀𝚊𝚝𝚊𝚛","𝙾𝚖𝚊𝚗", "𝙺𝚞𝚠𝚊𝚒𝚝", "𝙱𝚊𝚑𝚛𝚊𝚒𝚗"]
     y-axis "Weighted average score across 8 measures" 0 --> 10
     bar [8.0, 5.1, 6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 2.3, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
     
