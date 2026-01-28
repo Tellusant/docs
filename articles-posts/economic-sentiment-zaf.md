@@ -58,11 +58,11 @@ classDef anchor fill:transparent,stroke:transparent;
 
 <div class="mermaid">
 
-xychart 
-title "Sales Revenue"
-    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    y-axis "Revenue (in $)" 4000 --> 11000
-    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+xychart-beta
+    title "Example"
+    x-axis ["A","B","C"]
+    y-axis "Value" 0 --> 10
+    bar [3,6,9]
   
 
     </div>
