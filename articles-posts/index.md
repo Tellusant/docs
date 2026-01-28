@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
+#### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
 This article shows how we use semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a trained AI model.
 
 #### [2025 in Review](2025-in-review.md)
