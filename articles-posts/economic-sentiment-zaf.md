@@ -62,28 +62,29 @@ gantt
     title IMF Article IV – Composite Sentiment (Horizontal)
     dateFormat  YYYY-MM-DD
     axisFormat  %j
+    todayMarker off
 
     section South Africa
-    South Africa :a1, 2026-01-01, 51d
+    South Africa (5.1) :a1, 2026-01-01, 51d
 
-    section Advanced Economies
-    Netherlands :b1, 2026-01-01, 66d
-    United States :b2, 2026-01-01, 57d
-    United Kingdom :b3, 2026-01-01, 55d
+    section Advanced\nEconomies
+    Netherlands (6.6) :b1, 2026-01-01, 66d
+    United States (5.7) :b2, 2026-01-01, 57d
+    United Kingdom (5.5) :b3, 2026-01-01, 55d
 
     section Large EMs
-    India :c1, 2026-01-01, 66d
-    Brazil :c2, 2026-01-01, 63d
-    China :c3, 2026-01-01, 57d
-    Nigeria :c4, 2026-01-01, 56d
-    Mexico :c5, 2026-01-01, 51d
+    India (6.6) :c1, 2026-01-01, 66d
+    Brazil (6.3) :c2, 2026-01-01, 63d
+    China (5.7) :c3, 2026-01-01, 57d
+    Nigeria (5.6) :c4, 2026-01-01, 56d
+    Mexico (5.1) :c5, 2026-01-01, 51d
 
     section GCC
-    UAE :d1, 2026-01-01, 71d
-    Saudi Arabia :d2, 2026-01-01, 69d
-    Qatar :d3, 2026-01-01, 68d
-    Oman :d4, 2026-01-01, 62d
-    Kuwait :d5, 2026-01-01, 60d
-    Bahrain :d6, 2026-01-01, 48d
+    UAE (7.1) :d1, 2026-01-01, 71d
+    Saudi Arabia (6.9) :d2, 2026-01-01, 69d
+    Qatar (6.8) :d3, 2026-01-01, 68d
+    Oman (6.2) :d4, 2026-01-01, 62d
+    Kuwait (6.0) :d5, 2026-01-01, 60d
+    Bahrain (4.8) :d6, 2026-01-01, 48d
 
     </div>
