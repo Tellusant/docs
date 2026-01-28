@@ -61,7 +61,7 @@ classDef anchor fill:transparent,stroke:transparent;
 xychart-beta horizontal
     title "COUNTRY COMPARISON OF SUMMARY SCORES"
     x-axis ["South Africa", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "UAE","Saudi Arabia","Qatar","Oman","Kuwait","Bahrain"]
-    y-axis "Value" 0 --> 10
+    y-axis "Weighted average score across 8 measuers" 0 --> 10
     bar [5.1,6.6, 5.7, 5.5, 6.6, 6.3, 5.7, 5.6, 5.1, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
     
 </div>
