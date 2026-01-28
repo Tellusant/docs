@@ -41,11 +41,11 @@ SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬\nWeighted average score: 5.05/10\n''Strong mon
 LC -.-> SUM:::anchor
 
 %% ========= STYLES =========
-classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
-classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
-classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
-classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
-classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:1px,color:#111;
+classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:1px,color:#111;
+classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:1px,color:#111;
+classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:1px,color:#111;
+classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:1px,color:#111;
 classDef anchor fill:transparent,stroke:transparent;
 
 </div>
