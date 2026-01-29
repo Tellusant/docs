@@ -7,9 +7,11 @@ image: /assets/social-card-pub.png
 # South Africa Economic Sentiment Analysis Using AI
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
-In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper Business Times: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, he did a semantic analysis of South Africa's economic sentiment. Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
+In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper **Business Time**s: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, he did a semantic analysis of South Africa's economic sentiment. Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
 
-In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was updated in early 2026, incorporating the latest reports on the country. All aspects of the analyses are automated except the final quality control.
+In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was again updated in early 2026, incorporating the latest reports on the country. 
+
+All aspects of the analyses are automated except the final quality control.
 
 The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores in eight categories. The scores are weighted and summarized into an overall index. The weights differ by country.
 
