@@ -7,15 +7,19 @@ image: /assets/social-card-pub.png
 # South Africa Economic Sentiment Analysis Using AI
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
-In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper Business Times: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, he did a semantic analysis of South Africa's economic sentiment. Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
+## Background
+In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper **Business Times**: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, he did a semantic analysis of South Africa's economic sentiment. Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
 
-In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was updated in early 2026, incorporating the latest reports on the country. All aspects of the analyses are automated except the final quality control.
+In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was again updated in early 2026 to incorporate the latest reports on the country. 
 
+All aspects of the analyses are automated except the final quality control.
+
+## Findings
 The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores in eight categories. The scores are weighted and summarized into an overall index. The weights differ by country.
 
 The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
 
-The graphs are made with Mermaid, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like here.
+The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like this.
 
 ---
 
@@ -74,6 +78,7 @@ How does **South Africa** compare to other countries? Below is a graph where the
 - 𝙶𝙲𝙲 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 (chosen to show how neighboring countries can differ)
 <div class="mermaid">
 
+---
 xychart-beta horizontal
     title "𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗖𝗢𝗠𝗣𝗔𝗥𝗜𝗦𝗢𝗡 𝗢𝗙 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 𝗦𝗖𝗢𝗥𝗘𝗦"
     x-axis ["𝗦𝗼𝘂𝘁𝗵 𝗔𝗳𝗿𝗶𝗰𝗮", "Switzerland", "Netherlands", "United States", "United Kingdom", "𝙄𝙣𝙙𝙞𝙖", "𝘽𝙧𝙖𝙯𝙞𝙡", "𝘾𝙝𝙞𝙣𝙖", "𝙉𝙞𝙜𝙚𝙧𝙞𝙖", "𝙈𝙚𝙭𝙞𝙘𝙤", "𝙈𝙮𝙖𝙣𝙢𝙖𝙧", "𝚄𝚗𝚒𝚝𝚎𝚍 𝙰𝚛𝚊𝚋 𝙴𝚖𝚒𝚛𝚊𝚝𝚎𝚜", "𝚂𝚊𝚞𝚍𝚒 𝙰𝚛𝚊𝚋𝚒𝚊", "𝚀𝚊𝚝𝚊𝚛","𝙾𝚖𝚊𝚗", "𝙺𝚞𝚠𝚊𝚒𝚝", "𝙱𝚊𝚑𝚛𝚊𝚒𝚗"]
