@@ -17,7 +17,7 @@ The graph below shows our latest assessment. As a semantic analysis, it evaluate
 
 The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
 
-The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like here.
+The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like this.
 
 ---
 
