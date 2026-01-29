@@ -9,7 +9,7 @@ This article shows how we perform semantic analysis of qualitative reports using
 
 In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper **Business Time**s: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, he did a semantic analysis of South Africa's economic sentiment. Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
 
-In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was again updated in early 2026, incorporating the latest reports on the country. 
+In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis. The analysis was again updated in early 2026 to incorporate the latest reports on the country. 
 
 All aspects of the analyses are automated except the final quality control.
 
@@ -17,7 +17,7 @@ The graph below shows our latest assessment. As a semantic analysis, it evaluate
 
 The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
 
-The graphs are made with Mermaid, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like here.
+The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like here.
 
 ---
 
