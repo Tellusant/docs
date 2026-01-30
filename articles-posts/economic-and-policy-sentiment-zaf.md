@@ -23,6 +23,7 @@ The graphs are made with **Mermaid**, a visualization tool with almost no format
 
 ---
 **SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**
+Based on 8 measures
 
 <div class="mermaid">
 
