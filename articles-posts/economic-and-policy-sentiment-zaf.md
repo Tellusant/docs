@@ -22,7 +22,7 @@ The bottom graph shows the summary for 16 countries to give more context to the 
 The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like this.
 
 ---
-**SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**
+**SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**  
 Based on 8 measures
 
 <div class="mermaid">
