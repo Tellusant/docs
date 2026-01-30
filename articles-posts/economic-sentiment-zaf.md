@@ -25,7 +25,7 @@ The graphs are made with **Mermaid** v11, a visualization tool suitable for demo
 
 ---
 **SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**  
-Based on 8 measures
+As of January 2026
 
 <div class="mermaid">
 
