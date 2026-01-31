@@ -15,7 +15,7 @@ In 2024, the article was updated. By then, modern AI tools were available to per
 All aspects of the analyses are automated except the final quality control.
 
 ## Findings
-The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores along eight measures. The scores are weighted and summarized into an overall score.
+The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores across eight measures. The scores are weighted and summarized into an overall score.
 
 For South Africa, it shows a moderately weak position. The 
 
