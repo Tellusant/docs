@@ -4,7 +4,7 @@ description: "We provide free TelluBase data to select public institutions and m
 image: /assets/social-card-pub.png
 ---
 # TelluBase Fact Sheets
-We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.  The following countries are currently covered.  
+We provide free TelluBase data to select public institutions and media through the ***Tellusant Public Service Series***. These are small, but important, subsets of the full product.  The following countries are currently covered.  
 
 ---
 #### [Algeria](tellubase-factsheet-dza.pdf)  
