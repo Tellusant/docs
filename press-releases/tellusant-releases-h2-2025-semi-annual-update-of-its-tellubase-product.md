@@ -14,7 +14,7 @@ News Provided By Tellusant, Inc. December 09, 2025, 13:30 GMT
 BOSTON, MA, UNITED STATES, December 9, 2025 /EINPresswire.com/ --  
 Tellusant today released the November 2025 update of TelluBase. This is the seventh major update.  
 
-The release incorporates new global data such as the [International Monetary Fund's October 2025](assets/pdf/imf-world-economic-outlook october-2025.pdf) country forecasts, the US government's Economic Research Service's long-term economic growth forecasts, new data from national statistics offices, and more.  
+The release incorporates new global data such as the [International Monetary Fund's October 2025](assets/pdf/imf-world-economic-outlook-october-2025.pdf) country forecasts, the US government's Economic Research Service's long-term economic growth forecasts, new data from national statistics offices, and more.  
 
 TelluBase does not, however, report back raw data from these sources. Instead, it uses the data to calculate data series not found anywhere else in the world. These include income and age bracket series, socioeconomic levels, and more.  
 
