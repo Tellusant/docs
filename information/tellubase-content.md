@@ -1,4 +1,8 @@
-
+---
+title: "The Tower of TelluBase"
+description: "We show what is included in TelluBase in a simple 3D "tower"
+image: /assets/social-card-info.png
+---
 # The Tower of TelluBase
 We show what is included in TelluBase in a simple 3D "tower". It makes clear what is unique about TelluBase compared to conventional data sources.
 
