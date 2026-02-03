@@ -12,11 +12,15 @@ We have subscribers in more than 100 countries and are featured in clients' quar
 <img  src="assets/images/tellusant-polusim-universe.svg" width="400" alt="">  
 </p>
 
-- **Strategic forecasting**. This is where we started. Forecasting with a strategic 3-, 5-, or 10-year horizon is a) difficult, and b) done with unrigorous methods at all companies (as far as we know). We therefore built our cloud-based app on strictly scientific foundations.  
+- **Strategic forecasts**. This is where we started. Forecasting with a strategic 3-, 5-, or 10-year horizon is a) difficult, and b) done with unrigorous methods at all companies (as far as we know). We therefore built our cloud-based app on strictly scientific foundations.  
 
 - **Strategic pricing**. Companies usually have solid price/promo pricing tools. But what should pricing decisions be aiming for strategically? Surely it is not the compounding of price/promo decisions. Our web-based solution helps answer this.  
   
-- **Operational forecasting**. This application helps senior management understand what awaits categories and their company over the next 18 months. It uses a monthly timeseries model combined with independent demand drivers. It is harmonized with our long-term forecasts.  
+- **Near-term forecasts**. This application helps senior management understand what awaits categories and their company over the next 18 months. It uses a monthly timeseries model combined with independent demand drivers. It is harmonized with our long-term forecasts.
+
+- **Nowcasts**. Companies (and countries) rarely know where they are at here and now. Yes, they know the months sales (sell-out), but is it good or bad relative to the market as a whole, relative to the closest competitor, relative to trend cleansed of seasonality? Our nowcasts allows a company to now current status.
+
+- **Economic risk**. This is a byproduct of TelluBase data. With some elegant math we show finanial and real-economy risk by country.
 
 - **TelluBase** is our global database with consumer economics and income distribution data for 218 countries, 2600 cities, and 2500 subdivisions for 2000-2050. It feeds automatically into each PoluSim module. It is also available as a standalone product.  
 
