@@ -1,10 +1,10 @@
 ---
 title: "The Tower of TelluBase"
-description: "We show what is included in TelluBase in a simple 3D tower"
+description: "We show what is included in TelluBase in a simple 3D tower, demonstrating its global comprehensiveness"
 image: /assets/social-card-info.png
 ---
 # The Tower of TelluBase
-We show what is included in TelluBase in a simple 3D "tower". It makes clear what is unique about TelluBase compared to conventional data sources.
+We show what is included in TelluBase in a simple 3D tower, demonstrating its global comprehensiveness. It makes clear what is unique about TelluBase compared to conventional data sources.
 
 You will see that everything referring to distributional economics is completely unique to TelluBase. In strategy parlance, it is VRIO:
 - **Valuable**. Demand for any product or category is 80-90% determined by hoesehold income distribution. TelluBase has this.
