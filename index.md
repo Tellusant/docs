@@ -26,7 +26,7 @@ Here we share academic and business papers (journal articles, working papers, di
 ### [Presentations](presentations/index.md)  
 Public speeches, lectures and other presentations in slide format by Tellusant members.  
 ### [Periodicals](periodicals/index.md) 
-We release our [Beige Book Nowcast](periodicals/beige-book.md) of Current Economic Activity every 1½ months, our [U.S. Recession Nowcast](periodicals/recession-nowcast.md) every month, and our [E-Commerce Analysis](periodicals/e-commerce.md) every quarter.  
+We release our [Beige Book Nowcast](periodicals/beige-book.md) of Current Economic Activity every 1½ months, our [U.S. Recession Nowcast](periodicals/recession-nowcast.md) every day, and our [E-Commerce Analysis](periodicals/e-commerce.md) every quarter.  
 ### [Fact Sheets](fact-sheets/index.md)  
 We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.  
 ### [Videos](videos/index.md)  
