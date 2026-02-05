@@ -20,7 +20,7 @@ We have subscribers in more than 100 countries and are featured in clients' quar
 
 - **Nowcasts**. Companies (and countries) rarely know where they are at here and now. Yes, they know the months sales (sell-out), but is it good or bad relative to the market as a whole, relative to the closest competitor, relative to trend cleansed of seasonality? Our nowcasts allows a company to now current status.
 
-- **Economic risk**. This is a byproduct of TelluBase data. With some elegant math we show finanial and real-economy risk by country.
+- **Economic risk**. This is a byproduct of TelluBase data. With some elegant math we show financial and real-economy risk by country.
 
 - **TelluBase** is our global database with consumer economics and income distribution data for 218 countries, 2600 cities, and 2500 subdivisions for 2000-2050. It feeds automatically into each PoluSim module. It is also available as a standalone product.  
 
