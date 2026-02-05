@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # The PoluSim Universe
 
-## WIP. The starting poimt for a longer article.
+## WIP. The starting point for a longer article.
 
 Our **PoluSim** solution has expanded majorly since the launch in 2022. It now has three distinct modules plus **TelluBase** to help companies create a strategic view of the future and to predict demand.  
 
