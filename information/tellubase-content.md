@@ -6,7 +6,7 @@ image: /assets/social-card-info.png
 # The Tower of TelluBase
 We show what is included in TelluBase in a simple 3D "tower", demonstrating its comprehensiveness. It makes clear what is unique about TelluBase compared to conventional data sources.
 
-The _Tower of TelluBas_ has three dimensions: Data series, geographies, and years.
+The _Tower of TelluBase_ has three dimensions: Data series, geographies, and years.
 
 <p align="center">
 <img  src="assets/images/tellusant-tellubase-content.svg" width="500" alt="TelluBase content">
