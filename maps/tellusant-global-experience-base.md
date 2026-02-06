@@ -17,7 +17,8 @@ While our products are analyticsl, our experiences are personal and human.
 
 Here is the infomation in tabular form:
 
-| WORKED ON THE GROUND |||
+### Worked on the Ground
+||||
 |---|---|---|
 |Angola|Guatemala|Nicaragua|
 |Argentina|Guyana|Nigeria|
@@ -51,3 +52,15 @@ Here is the infomation in tabular form:
 |Germany|Netherlands|Zimbabwe|
 |Ghana|New Zeeland| |
 
+### Additional Project Countries
+||||
+|---|---|---|
+|Albania|Chad|Madagascar|
+|Algeria|Comoros|Malawi|
+|Bangladesh|Congo, Dem. Rep.|Mali|
+|Benin|Congo, Rep.|Romania|
+|Bolivia|Cote d'Ivoire|Senegal|
+|Bulgaria|Equatorial Guinea|Serbia|
+|Burkina Faso|Ethiopia|Sri Lanka|
+|Cameroon|Gabon|Togo|
+|Central African Republic|Guinea|Tunisia|
