@@ -14,3 +14,40 @@ While our products are analyticsl, our experiences are personal and human.
 #### <img  src="assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
 
 ---
+
+Here is the infomation in tabular form:
+
+| WORKED ON THE GROUND |||
+|---|---|---|
+|Angola|Guatemala|Nicaragua|
+|Argentina|Guyana|Nigeria|
+|Australia|Honduras|Norway|
+|Austria|Hong Kong|Panama|
+|Azerbaijan|Hungary|Paraguay|
+|Barbados|Iceland|Peru|
+|Belgium|India|Philippines|
+|Belize|Indonesia|Poland|
+|Bermuda|Ireland|Puerto Rico|
+|Botswana|Italy|Russia|
+|Brazil|Jamaica|Rwanda|
+|Cambodia|Japan|Singapore|
+|Canada|Kenya|Slovakia|
+|Chile|Korea, Rep.|South Africa|
+|China|Latvia|Spain|
+|Colombia|Lebanon|Suriname|
+|Costa Rica|Lesotho|Sweden|
+|Croatia|Liechtenstein|Switzerland|
+|Czechia|Lithuania|Tanzania|
+|Denmark|Malaysia|Thailand|
+|Dominican Republic|Martinique|Turkey|
+|Ecuador|Mexico|Uganda|
+|El Salvador|Moldova|United Arab Emirates|
+|Eritrea|Mongolia|United Kingdom|
+|Estonia|Morocco|United States|
+|Eswatini|Mozambique|Uruguay|
+|Finland|Myanmar|Venezuela|
+|France|Namibia|Viet Nam|
+|French Guiana|Nepal|Zambia|
+|Germany|Netherlands|Zimbabwe|
+|Ghana|New Zeeland| |
+
