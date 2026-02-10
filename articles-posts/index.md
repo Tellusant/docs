@@ -46,7 +46,7 @@ Tellusant's second official America's Largest Enterprises Ranking (ALERT) is out
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?
 
 #### [The PoluSim Universe](polusim-universe.md)
-Our PoluSim solution has expanded majorly since the launch in 2022. Learn more in this post.  
+Our PoluSim solution has expanded majorly since the launch in 2022. It now covers five applications within forecasting.  
 
 #### [The Low Productivity of MBB](consulting-firm-productivity.md)
 There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue.
