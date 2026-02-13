@@ -8,5 +8,5 @@ image: /assets/social-card-pub.png
 tbd
 
 <p align="center">
-<img  src="assets/images/tellusant-polusim-performance-metrics-accuracy-cost-time.svg" width="550" alt="PoluSim Performance Metrics: Accuracy–Cost–Time">
+<img  src="assets/images/tellusant-polusim-performance-metrics-accuracy-cost-time.svg" width="400" alt="PoluSim Performance Metrics: Accuracy–Cost–Time">
 </p>
