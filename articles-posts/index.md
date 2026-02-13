@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [PoluSim Performance Metrics: Accuracy–Cost–Time](accuracy–cost–time.md)
+#### [PoluSim Performance Metrics: Accuracy–Cost–Time](accuracy-cost-time.md)
 tbd
 
 #### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
