@@ -7,11 +7,13 @@ image: /assets/social-card-pub.png
 
 Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three client performance metrics:
 
-- **Accuracy** of forecast  
+<p align="center">
+<img  src="assets/images/tellusant-polusim-performance-metrics-accuracy-cost-time.svg" width="300" alt="PoluSim Performance Metrics: Accuracy–Cost–Time">
+</p>
+
+- **Accuracy** of forecasts  
 - **Cost** savings from higher efficiency  
 - **Time** reduced in turning around forecasts  
 
 
-<p align="center">
-<img  src="assets/images/tellusant-polusim-performance-metrics-accuracy-cost-time.svg" width="300" alt="PoluSim Performance Metrics: Accuracy–Cost–Time">
-</p>
+
