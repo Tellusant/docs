@@ -8,7 +8,7 @@ image: /assets/social-card-pub.png
 Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics, not only precision:
 
 <p align="center">
-<img  src="assets/images/tellusant-polusim-performance-metrics-cost-time-accuracy.svg" width="300" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
+<img  src="assets/images/tellusant-polusim-performance-metrics-cost-time-accuracy.svg" width="400" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
 </p>
 
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important.
