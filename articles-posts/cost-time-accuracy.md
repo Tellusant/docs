@@ -30,4 +30,4 @@ PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it
 Achieving high accuracy is a given. The predictions have to be robust enough that everyone agrees: "this is as good as we can do it". Accuracy and model validation is important during the first year; later this should be routine, automated follow-ups. There will always be learnings to enhance of PoluSim.
 
 ---
-We suggest having this mindset when installing PoluSim. It should be part of new digital and AI based solutions aiming at transforming the enterprise and its workflows, not only being accurate.
+We suggest having this mindset when installing PoluSim. It should be part of new digital and AI based solutions aiming at transforming the enterprise and its workflows, not only being accurate. IT is part of a management revolution not seen since the advent of the the large enterprise.
