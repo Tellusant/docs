@@ -16,8 +16,11 @@ Our PoluSim forecasting solution is widely appreciated by customers around the w
 - **Time** reduced in turning around forecasts  
 
 ## Accuracy
+tbw  
 
 ## Cost
+tbw  
 
 ## Time
+tbw  
 
