@@ -12,8 +12,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [PoluSim Performance Metrics: Accuracy–Cost–Time](accuracy-cost-time.md)
-tbd
+#### [PoluSim Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)
+Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics
 
 #### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
