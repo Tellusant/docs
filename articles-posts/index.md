@@ -12,6 +12,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
+#### [PoluSim Performance Metrics: Accuracy–Cost–Time](accuracy–cost–time.md)
+tbd
+
 #### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
