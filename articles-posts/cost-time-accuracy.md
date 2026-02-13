@@ -1,11 +1,11 @@
 ---
 title: "PoluSim Performance Metrics: Cost–Time–Accuracy"
-description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics"
+description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics, not only precision"
 image: /assets/social-card-pub.png
 ---
 # PoluSim Performance Metrics: Cost–Time–Accuracy
 
-Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics:
+Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics, not only precision:
 
 <p align="center">
 <img  src="assets/images/tellusant-polusim-performance-metrics-cost-time-accuracy.svg" width="300" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
