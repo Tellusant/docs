@@ -84,7 +84,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [KTH Royal Institute of Tecnology (2017): *Ranking risks and opportunities of African cities*](http://www.diva-portal.se/smash/get/diva2:1118259/FULLTEXT01.pdf)
 #### [Lagos State Government (2018): *Affordable housing deal book*](assets/pdf/lagos-state-global-housing-deal-book.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
-#### [LEEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](assets/pdf/leem-marche-pharmaceutique-en-afrique-subsaharienne.pdf)
+#### [LEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](assets/pdf/lem-marche-pharmaceutique-en-afrique-subsaharienne.pdf)
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty_analyst_day_2013.pdf)
 #### [Management Today: *The Problem with Size*](https://www.managementtoday.co.uk/problem-size/article/757880)
 #### [Massachusetts, University of (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
