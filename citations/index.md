@@ -51,7 +51,7 @@ Alphabetically listed by authority.
 #### [Constellation Brands (2025): FY25 Financial Results](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)
 #### [CSIL Market Research (2020): *The European market for lighting fixtures*](https://www.lighting.csilmilano.com/fixtures/Lighting-market-Europe-30-countries-2020-0001280.html)
 #### [Daily Trust (2016): *Nigeria: Enugu Free Trade Zone to Attract N240 Billion Investment*](https://allafrica.com/stories/201611210941.html)
-#### [Dewan Energi Nasional, Sekretariat Jenderal (2019): *Penguatan Riset Institut Teknologi*](assets/pdf/citations/assets/pdf/den-strengthening-research-at-the-kalimantan-institute-of-technology.pdf)
+#### [Dewan Energi Nasional, Sekretariat Jenderal (2019): *Penguatan Riset Institut Teknologi*](assets/pdf/den-strengthening-research-at-the-kalimantan-institute-of-technology.pdf)
 #### [Diageo (2013): *Entering the African Beer Market: Uncovering the Strategies to Enable Success*](assets/pdf/diageo_africa.pdf)  
 #### [Ecobank (2014): *Presentation to 38th General Assembly of FANAF Ouagadougou*](assets/pdf/ecobank-38th-general-assembly-fanaf.pdf)
 #### [Economics & Sociology (2017): *Constructing poverty lines in Croatia using Kakwani’s model*](https://typeset.io/pdf/constructing-poverty-lines-in-croatia-using-kakwani-s-model-7po3aycsfh.pdf)
