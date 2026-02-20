@@ -1,8 +1,15 @@
-
-
+---
+title: "Tellusant Etymology"
+description: "What is the etymology of Tellusant? It derives from Tellus and Quantitative"
+image: /assets/social-card-info.png
+---
 # Tellusant Etymology
 
 What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
+
+<p align="center">
+<img  src="assets/images/tellusant-etymology.svg" width="500" alt="Tellusant Etymology">
+</p>
 
 ***Tellus*** means Earth in Latin. We chose it because of the often global scope of our work for multinational companies.
 
