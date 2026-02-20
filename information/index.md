@@ -29,7 +29,7 @@ See a Sway presentation of how to find latent demand opportunities in consumer g
 Learn about our subnational income distribution and consumer classes database TelluBase ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. 218 countries – 2600 cities – 2500 subdivisions. See also [TelluBase On-Demand website](https://tellubase.com "target=_blank") and [TelluBase Subscription website](https://tellubase.telluplan.com "target=_blank")
 
 #### [Tellusant Etymology](tellusant-etymology.md.)
-gty
+What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
 
 #### [Tellusant Legitimacy Evidence Pack](../legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
