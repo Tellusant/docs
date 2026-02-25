@@ -43,7 +43,7 @@ A qualitative risk assessment, available for most countries, is shown here: [Sou
 
 
 
-## Proof
+## Proof of Strategy Grid
 It is easy to come up with conceptual frameworks. It is what partners at leading consulting firms excel at. But are they right? Ususally not, and typically they are [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong). Outside consulting, Maslow's hierarchy of needs is an example of a framework that looks reasonable but has no evidence in science.
 
 We therefore went back to fundamental economic theory to create a robust framework.
