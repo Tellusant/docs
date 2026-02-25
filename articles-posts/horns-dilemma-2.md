@@ -12,7 +12,7 @@ When working with large companies, we often encounter people who want everything
 This is impossible to achieve. The framework below shows the trade-off between these three factors. The framework is my adaptation of the [*Horns of the Dilemma*](horns-dilemma-1.md) framework for research in sociology (including management science).¹  
 
 <p align="center">
-<img  src="assets/images/tellusant-horns-of-dilemma-2.svg" width="400" alt="">  
+<img  src="assets/images/tellusant-horns-of-dilemma-2.svg" width="400" alt="Horns of the dilemma 2">  
 </p>
 
 **Predictive versus explanatory**. You usually cannot get prediction and explanation at the same time. The best predictive models are often timeseries (moving average) based. They have no independent variables, so they explain nothing. Non-statisticians find this disturbing. How can you predict well but not be able to explain what makes the model work?  

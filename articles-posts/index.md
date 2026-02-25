@@ -12,8 +12,10 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
+#### [The Strategy Tic-Tac-Toe Framework: Decomposing Corporate Performance Based on a Strategic Grid](strategy-tic-tac-toe.md)
+Company Tic-Tac-Toe is a framework explicitly rooted i economic theory that shows that value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels.
 #### [PoluSim Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)
-Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics
+Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics.
 
 #### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
