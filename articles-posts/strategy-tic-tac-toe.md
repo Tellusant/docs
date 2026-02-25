@@ -1,7 +1,7 @@
 # Strategy Tic-Tac-Toe
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid.svg" width="600" alt="Tellusant - Strategy Grid framework">
+<img  src="assets/images/tellusant-strategy-grid.svg" width="700" alt="Tellusant - Strategy Grid framework">
 </p>
 
 <p align="center">
