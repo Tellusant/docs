@@ -23,18 +23,18 @@ The strategy grid emanates from the proof provided in the last section. It is a 
 </p>
 
 #### Macro
-The horizontal axis starts with macro. Any CEO would say it is better to be in a growing country than a declining country. 
+The horizontal axis starts with macro. Any CEO would say it is better to be in a growing country than a declining country.  
 
-But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth. 
+But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth.  
 
-In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the primitive.
+In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the primitive.  
 
 #### Company
 Then follows the company and its competitors. Growth is often reasonably well understood, but with low precision. In our experience all companies can improve on this metric.  
 
-Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using similar methods as in country analysis: labor, capital, and total factor productivity. These are well-known metrics, but rarely used.
+Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using similar methods as in country analysis: labor, capital, and total factor productivity. These are well-known metrics, but rarely used.  
 
-Risk at the company level should also focus on vaolatility (stock market beta is not part of the consideration though). Quarterly 
+Risk at the company level should also focus on volatility (stock market beta is not part of the consideration though). Quarterly or monthly data makes it easy to measure volatility for the company, its competitors, and the market as a whole.  
 
 #### Business Unit
 
