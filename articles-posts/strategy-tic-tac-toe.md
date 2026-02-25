@@ -1,10 +1,18 @@
-# Strategy Tic-Tac-Toe
+
+# The Strategy Tic-Tac-Toe Framework: Decomposing Corporate Performance Based on a Strategic Grid
 Company Tic-Tac-Toe is a framework explicitly rooted i economic theory that shows that value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels.
+
+## The Strategy Grid
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid.svg" width="700" alt="Tellusant - Strategy Grid framework">
 </p>
 
+## Proof of Strategy Grid Elements
+
+
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
+
+The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Decomposition Based on Primitives**_.
