@@ -60,8 +60,6 @@ Too much time is often spent looking at political risk. A better starting point 
 
 A qualitative risk assessment, available for most countries, is shown here: [South Africa's Economic Sentiment](https://tellusant.github.io/docs/articles-posts/economic-and-policy-sentiment-zaf.html). It is automatically generated with constricted AI support and automatically updated.
 
-
-
 ## Proof of Strategy Grid
 It is easy to come up with conceptual frameworks. It is what partners at leading consulting firms excel at. But are they right? Ususally not, and typically they are [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong). Outside consulting, Maslow's hierarchy of needs is an example of a framework that looks reasonable but has no evidence in science.
 
@@ -77,10 +75,10 @@ We therefore went back to fundamental economic theory to create a robust framewo
 
 The graph below shows a summary of the applied math behind this. _Company total value is the capitalized value of productivity surplus, scaled by size, growing at rate g, and discounted for systematic risk._ The structural value takes out the scale (.i.e., size) element to make companies comparable.
 
-As for the horizontal axis, the primitives are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
+The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Decomposition Based on Primitives**_.
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
 
-The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Decomposition Based on Primitives**_.
+As for the horizontal axis, the primitives are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
