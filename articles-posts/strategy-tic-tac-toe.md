@@ -21,7 +21,7 @@ The stratgey
 <img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
 </p>
 
-## Proof of Strategy Grid Elements
+## Proof
 
 
 <p align="center">
