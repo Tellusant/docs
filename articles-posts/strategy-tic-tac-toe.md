@@ -16,14 +16,27 @@ Most companies are not aware of the importance of the primitives and only measur
 
 ## The Strategy Grid
 
-The stratgey 
+The strategy 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
 </p>
 
 ## Proof
+It is easy to come up with conceptual framework. It is what partners at leading consulting firms excel at. But are they right? Ususally not, and typically they are not even wrong. Outside consulting, Maslow's hierarchy of needs is an example of a framework that looks reasonable but has no evidence in science.
 
+We therefore went back to fundamental economic theory to create a robust framework.
 
+1. A company's value is the sum of future free cash flow at a certain growth rate, discounted back at a cost of capital that reflects risk.
+
+2. Free cash flow is a function of profitable and a few other factors. However, neither cash flow nor profitability are primitives. They can be decomposed.
+
+3. The proper way to decompose profitablity is by productivity (capital and labor) surplus.
+
+4. We therefore have company value depends on productivity, growth, and risk.
+
+The graph below shows a summary of the applied math behind this. _Company value is the capitalized value of productivity surplus, scaled by size, growing at rate g, and discounted for systematic risk._
+
+As for the 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
