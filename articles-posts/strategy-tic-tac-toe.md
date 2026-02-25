@@ -34,9 +34,10 @@ We therefore went back to fundamental economic theory to create a robust framewo
 
 4. We therefore have company value depends on productivity, growth, and risk.
 
-The graph below shows a summary of the applied math behind this. _Company value is the capitalized value of productivity surplus, scaled by size, growing at rate g, and discounted for systematic risk._
+The graph below shows a summary of the applied math behind this. _Company total value is the capitalized value of productivity surplus, scaled by size, growing at rate g, and discounted for systematic risk._ The structural value takes out the scale element to make companies comparable.
 
-As for the 
+As for the horizontal axis, the primitives are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
+
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
