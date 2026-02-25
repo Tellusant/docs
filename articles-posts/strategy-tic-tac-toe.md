@@ -24,7 +24,9 @@ The strategy
 To illustrate, here are two examples:
 
 ### Grid cell 22: Company productivity
-Most companies are not aware of their productivity in robust sense. Here we show a comparison of total factor productivity growth 2015-2025 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not improving its practices.
+Most companies are not aware of their productivity in robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not improving its practices.
+
+This bears repeating. Is the company just scaling, or is it improving. In the example, Microsoft shows improving practices over time, PepsiCo is slipping.
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-cell-22.svg" width="500" alt="Tellusant - Strategy grid cell 22">
