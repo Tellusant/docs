@@ -24,17 +24,17 @@ The strategy
 To illustrate, here are two examples:
 
 ### Grid cell 22: Company productivity
-Most companies are not aware of their productivity in robust sense. Here we show a comparison of productivity growth 2015-2025 for a few large companies.
+Most companies are not aware of their productivity in robust sense. Here we show a comparison of total factor productivity growth 2015-2025 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not improving its practices.
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid-cell-22.svg" width="650" alt="Tellusant - Strategy grid cell 22">
+<img  src="assets/images/tellusant-strategy-grid-cell-22.svg" width="500" alt="Tellusant - Strategy grid cell 22">
 </p>
 
 ### Grid cell 31: Country risk
 Too much time is often spent looking at political risk. A better starting point is to understand the real economy risk and financial risk of a country. Below is an example for a few countries.
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid-cell-31.svg" width="650" alt="Tellusant - Strategy grid cell 31">
+<img  src="assets/images/tellusant-strategy-grid-cell-31.svg" width="600" alt="Tellusant - Strategy grid cell 31">
 </p>
 
 A qualitative risk assessment, available for most countries, is shown here: [South Africa's Economic Sentiment](https://tellusant.github.io/docs/articles-posts/economic-and-policy-sentiment-zaf.html). It is automatically generated with constricted AI support and automatically updated.
