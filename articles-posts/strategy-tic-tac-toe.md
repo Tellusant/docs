@@ -1,6 +1,14 @@
-
+---
+title: "The Strategy Tic-Tac-Toe Framework: Decomposing Corporate Performance Based on a Strategic Grid"
+description: "Company Tic-Tac-Toe is a framework explicitly rooted i economic theory that shows that value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels"
+image: /assets/social-card-pub.png
+---
 # The Strategy Tic-Tac-Toe Framework: Decomposing Corporate Performance Based on a Strategic Grid
+_by Staffan Canback, Tellusant_  
+
 Company Tic-Tac-Toe is a framework explicitly rooted i economic theory that shows that value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels.
+
+
 
 ## The Strategy Grid
 
