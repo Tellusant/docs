@@ -60,7 +60,7 @@ Too much time is often spent looking at political risk. A better starting point 
 
 A qualitative risk assessment, available for most countries, is shown here: [South Africa's Economic Sentiment](https://tellusant.github.io/docs/articles-posts/economic-and-policy-sentiment-zaf.html). It is automatically generated with constricted AI support and automatically updated.
 
-> We have earlier published the [EMIO strategy development framework](../papers/toward-an-integrated-strategy-development-framework.html). It is reasonable, but 1) has too much detail, and 2) does not take the economic theory perspective. It lacks primitives. Thus, it cannot be the starting point for strategy development.
+> We have earlier published the [EMIO strategy development framework](../papers/toward-an-integrated-strategy-development-framework.html). It is reasonable, but 1) has too much detail, and 2) does not take the full economic theory perspective — it lacks primitives. Thus, it cannot be the starting point for strategy development. It is nevertheless a wonderful resource for ideas.
 
 > We hold a strictly quantitative perspective on strategy. In the long run, all strategy development will be quantitative and it is only a matter of when each company starts its transition. Some authorities, like Roger Martin, may disagree with this stance.  
 
