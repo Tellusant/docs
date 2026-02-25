@@ -32,7 +32,7 @@ We therefore went back to fundamental economic theory to create a robust framewo
 
 3. The proper way to decompose profitablity is by productivity (capital and labor) surplus.
 
-4. We therefore have company value depends on productivity, growth, and risk.
+4. We therefore have that company value depends on productivity surplus, growth, and risk.
 
 The graph below shows a summary of the applied math behind this. _Company total value is the capitalized value of productivity surplus, scaled by size, growing at rate g, and discounted for systematic risk._ The structural value takes out the scale (.i.e., size) element to make companies comparable.
 
