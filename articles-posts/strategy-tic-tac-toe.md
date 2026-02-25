@@ -13,7 +13,7 @@ Company Tic-Tac-Toe is a method explicitly rooted i economic theory that shows t
 ## The Strategy Grid
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid.svg" width="700" alt="Tellusant - Strategy Grid framework">
+<img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
 </p>
 
 ## Proof of Strategy Grid Elements
