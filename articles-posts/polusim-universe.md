@@ -9,7 +9,7 @@ Our **PoluSim** solution has expanded majorly since the launch in 2022. It now h
 We have subscribers in more than 100 countries and are featured in clients' quarterly and annual reports, as documented by the SEC.  
 
 <p align="center">
-<img  src="assets/images/tellusant-polusim-universe.svg" width="400" alt="">  
+<img  src="assets/images/tellusant-polusim-universe.svg" width="400" alt="The PoluSim unvierse">  
 </p>
 
 - **Strategic forecasts**. This is where we started. Forecasting with a strategic 3-, 5-, or 10-year horizon is a) difficult, and b) done with unrigorous methods at all companies (as far as we know). We therefore built our cloud-based app on strictly scientific foundations.  
