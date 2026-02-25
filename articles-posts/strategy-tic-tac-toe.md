@@ -21,6 +21,26 @@ The strategy
 <img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
 </p>
 
+To illustrate, here are two examples:
+
+### Grid cell 22: Company productivity
+Most companies are not aware of their productivity in robust sense. Here we show a comparison of productivity growth 2015-2025 for a few large companies.
+
+<p align="center">
+<img  src="assets/images/tellusant-strategy-grid-cell-22.svg" width="650" alt="Tellusant - Strategy grid cell 22">
+</p>
+
+### Grid cell 31: Country risk
+Too much time is often spent looking at political risk. A better starting point is to understand the real economy risk and financial risk of a country. Below is an example for a few countries.
+
+<p align="center">
+<img  src="assets/images/tellusant-strategy-grid-cell-31.svg" width="650" alt="Tellusant - Strategy grid cell 31">
+</p>
+
+A qualitative risk assessment, available for most countries, is shown here: [South Africa's Economic Sentiment](https://tellusant.github.io/docs/articles-posts/economic-and-policy-sentiment-zaf.html). It is automatically generated with constricted AI support and automatically updated.
+
+
+
 ## Proof
 It is easy to come up with conceptual frameworks. It is what partners at leading consulting firms excel at. But are they right? Ususally not, and typically they are [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong). Outside consulting, Maslow's hierarchy of needs is an example of a framework that looks reasonable but has no evidence in science.
 
