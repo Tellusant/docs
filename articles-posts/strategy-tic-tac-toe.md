@@ -8,11 +8,11 @@ _by Staffan Canback, Tellusant_
 
 **Strategy Tic-Tac-Toe** is a method explicitly rooted in economic theory that shows how value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels, resulting in a 3x3 strategy grid.
 
-These are primitives. That is, foundational building blocks from which other states (such as profitability) are derived.
+These are **primitives**. That is, foundational building blocks from which other states (such as profitability) are derived.
 
-In Strategy Tic-Tac-Toe, companies search for the best combination of the nine primitives in the strategy grid. This is a never-ending excercise since circumstances change forever.
+In Strategy Tic-Tac-Toe, companies search for the best combination of the nine **primitives** in the strategy grid. This is a never-ending excercise since circumstances change forever.
 
-Most companies are not aware of the importance of the primitives and only measure some of them. We know from our practical work that all nine can be quantified and automatically updated, and we already have seven up and running in our solutions.
+Most companies are not aware of the importance of the **primitives** and only measure some of them. We know from our practical work that all nine can be quantified and automatically updated, and we already have seven up and running in our solutions.
 
 ## The Strategy Grid
 
@@ -27,7 +27,7 @@ The horizontal axis starts with macro. Any CEO would say it is better to be in a
 
 But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth.  
 
-In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the primitive.  
+In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the **primitive**.  
 
 #### Company
 Then follows the company and its competitors. Growth is often reasonably well understood, but with low precision. In our experience all companies can improve on this metric.  
@@ -60,7 +60,7 @@ Too much time is often spent looking at political risk. A better starting point 
 
 A qualitative risk assessment, available for most countries, is shown here: [South Africa's Economic Sentiment](https://tellusant.github.io/docs/articles-posts/economic-and-policy-sentiment-zaf.html). It is automatically generated with constricted AI support and automatically updated.
 
-> We have earlier published the [EMIO strategy development framework](../papers/toward-an-integrated-strategy-development-framework.html). It is reasonable, but 1) has too much detail, and 2) does not take the full economic theory perspective — it lacks primitives. Thus, it cannot be the starting point for strategy development. It is nevertheless a wonderful resource for ideas.
+> We have earlier published the [EMIO strategy development framework](../papers/toward-an-integrated-strategy-development-framework.html). It is reasonable, but 1) has too much detail, and 2) does not take the full economic theory perspective — it lacks **primitives**. Thus, it cannot be the starting point for strategy development. It is nevertheless a wonderful resource for ideas.
 
 > We hold a strictly quantitative perspective on strategy. In the long run, all strategy development will be quantitative and it is only a matter of when each company starts its transition. Some authorities, like Roger Martin, may disagree with this stance.  
 
@@ -71,7 +71,7 @@ We therefore went back to fundamental economic theory to create a robust framewo
 
 1. A company's value is the sum of future free cash flow at a certain growth rate, discounted back at a cost of capital that reflects risk.
 
-2. Free cash flow is a function of profitable and a few other factors. However, neither cash flow nor profitability are primitives. They can be decomposed.
+2. Free cash flow is a function of profitable and a few other factors. However, neither cash flow nor profitability are **primitives**. They can be decomposed.
 
 3. The proper way to decompose profitablity is by productivity (capital and labor) surplus.
 
@@ -85,4 +85,4 @@ The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Deco
 <img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
 
-As for the horizontal axis, the primitives are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
+As for the horizontal axis, the **primitives** are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
