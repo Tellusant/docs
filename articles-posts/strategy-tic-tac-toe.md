@@ -1,9 +1,9 @@
 # Strategy Tic-Tac-Toe
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-tic-tac-toe-1.svg" width="600" alt="Tellusant - Strategy Tic-Tac-Toe framework">
+<img  src="assets/images/tellusant-strategy-grid.svg" width="600" alt="Tellusant - Strategy Grid framework">
 </p>
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-tic-tac-toe-2.svg" width="600" alt="Tellusant - Economics rationale for Strategy Tic-Tac-Toe framework">
+<img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="600" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
