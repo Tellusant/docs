@@ -37,9 +37,10 @@ Productivity is poorly understood. It is usually done in a scattered manner thro
 Risk at the company level should also focus on volatility (stock market beta is not part of the consideration though). Quarterly or monthly data makes it easy to measure volatility for the company, its competitors, and the market as a whole.  
 
 #### Business Unit
+The logic for business units is the same as for the company as a whole, just scaled down. The comparisons are both against competiton and against other business units. The latter allows for a way to calibrate BU performance in a scientific way.
 
-
-To illustrate, here are two examples:
+---
+To illustrate, here are two examples from the grid:
 
 ### Grid cell 22: Company productivity
 Most companies are not aware of their productivity in robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not improving its practices.
