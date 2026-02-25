@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="600" alt="Tellusant - Economics rationale for Strategy Grid framework">
+<img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
