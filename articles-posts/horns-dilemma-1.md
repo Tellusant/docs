@@ -14,7 +14,7 @@ The framework is known to countless students of sociology, marketing, and simila
 
 
 <p align="center">
-<img  src="assets/images/tellusant-horns-of-dilemma-1.svg" width="400" alt="">  
+<img  src="assets/images/tellusant-horns-of-dilemma-1.svg" width="400" alt="Horns of the dilemma 1">  
 </p>
 
 A strategic plan can prioritize general results (e.g., a global opportunity assessment), precise results (e.g., a market entry strategy plan for one country), or realistic results (e.g., ethnographic perspective of customer behavior).  
