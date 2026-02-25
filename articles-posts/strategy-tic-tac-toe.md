@@ -18,6 +18,10 @@ Most companies are not aware of the importance of the primitives and only measur
 
 The strategy grid emanates from the proof provided in the last section. It is a simple way to communicate what drives corporate value and all leadership teams should have the grid populated for the entire company and lower level units.
 
+<p align="center">
+<img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
+</p>
+
 #### Macro
 The horizontal axis starts with macro. Any CEO would say it is better to be in a growing country than a declining country. 
 
@@ -34,10 +38,6 @@ Risk at the company level should also focus on vaolatility (stock market beta is
 
 #### Business Unit
 
-
-<p align="center">
-<img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
-</p>
 
 To illustrate, here are two examples:
 
