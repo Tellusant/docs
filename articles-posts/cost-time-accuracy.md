@@ -1,6 +1,6 @@
 ---
 title: "PoluSim Performance Metrics: Cost–Time–Accuracy"
-description: "Our PoluSim forecasting solution is optimized around three performance metrics, not only accuracy. Its goal is to reduce corporate friction in its domain"
+description: "Our PoluSim forecasting solution is optimized around three performance metrics, not only accuracy. Its goal is to reduce corporate friction in its domain."
 image: /assets/social-card-pub.png
 ---
 # PoluSim Performance Metrics: Cost–Time–Accuracy
