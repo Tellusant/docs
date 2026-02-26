@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # PoluSim Performance Metrics: Cost–Time–Accuracy
 
-Our PoluSim forecasting solution is widely appreciated by customers around the world. The relevance to top management is high since it simplifies global and local forecasting under a uniform umbrella.  
+Our **PoluSim** forecasting solution is widely appreciated by customers around the world. The relevance to top management is high since it simplifies global and local forecasting under a uniform umbrella.  
 
 We optimize it around three enterprise performance metrics, not only precision, to maximize relevance:  
 
