@@ -28,7 +28,7 @@ We recommend implementing our PoluSim solution and using them over one planning 
 ***Old forecasting tools should be decommissioned***. By doing this, major efficiencies will be realized both at the local operating company level, and at regional and global headquarters.  
 
 ## Time
-PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it would take weeks, if not months, to reach a point where forecasts were agreed. With PoluSim, this can be achieved in three sub-week cycles. Cycles 1 and 2 receive feedback from senior management, cycle 3 finalizes the forcasts. In total, less than 2 work weeks are spent on the forecast.  
+PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it would take weeks, if not months, to reach a point where forecasts were agreed. With PoluSim, this can be achieved in three sub-week cycles. Cycles 1 and 2 receive feedback from senior management, cycle 3 finalizes the forecasts. In total, less than 2 work weeks are spent on the forecast.  
 
 ***Old, long, planning timelines should be scrapped***. By doing this, true agility will follow.  
 
