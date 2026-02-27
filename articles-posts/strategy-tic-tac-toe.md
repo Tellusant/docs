@@ -8,7 +8,7 @@ _by Staffan Canback, Tellusant_
 
 **Strategy Tic-Tac-Toe** is a method explicitly rooted in economic theory that shows how value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels, resulting in a 3x3 strategy grid.
 
-These are **primitives**. That is, foundational building blocks from which other states (such as profitability) are derived.
+These are _**primitives**_. That is, foundational building blocks from which other states (such as profitability) are derived.
 
 In Strategy Tic-Tac-Toe, companies search for the best combination of the nine primitives in the strategy grid. This is a never-ending excercise since circumstances change forever.
 
