@@ -19,7 +19,7 @@ Most companies are not aware of the importance of the **primitives** and only me
 The strategy grid emanates from the proof provided in the last section. It is a simple way to communicate what drives corporate value and all leadership teams should have the grid populated for easy access. This is not to say that this the entire strategy, only that it is the starting point.
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid.svg" width="650" alt="Tellusant - Strategy Grid framework">
+<img  src="assets/images/tellusant-strategy-grid.svg" width="700" alt="Tellusant - Strategy Grid framework">
 </p>
 
 #### Macro
