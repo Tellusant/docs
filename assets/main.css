@@ -133,7 +133,7 @@ hr {
 }
 
 .wrapper {
-  max-width: 960px;
+  max-width: 65ch;
   margin: 0 auto;
   padding: 0 1rem;
 }
