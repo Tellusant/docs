@@ -1,7 +1,13 @@
 # Beige Book Nowcast Archive
-## November 2025
+
+## January 2026
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>
 
 ---
+## November 2025
+
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
@@ -28,6 +34,8 @@ Tariffs and erratic government policies are likely causes of the poor performanc
 <br/>
 
 ---
+## October 2025
+
 ![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)  
 
 The October 2025 reportshows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Discounting two covid periods, it is the second worst in our dataset (June 2025 being the worst).
