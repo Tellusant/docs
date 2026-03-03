@@ -54,7 +54,7 @@ Tariffs and erratic government policies are likely causes of the poor performanc
 
 ![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)  
 
-The October 2025 reportshows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Discounting two covid periods, it is the second worst in our dataset (June 2025 being the worst).
+The October 2025 report shows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Discounting two covid periods, it is the second worst in our dataset (June 2025 being the worst).
 
 Only three district show economic expansion:
 - Richmond
