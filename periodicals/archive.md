@@ -1,5 +1,6 @@
 # Beige Book Nowcast Archive
 
+---
 ## January 2026
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
