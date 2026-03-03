@@ -5,6 +5,21 @@
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
+The January 2026 report shows improved economic economic conditions, but still only slight growth.
+
+Three districts show reasonable (modest) growth:
+- Richmond
+- St. Louis
+- San Francisco
+
+Only one shows contraction:
+- New York  
+
+The rest are flat or show slight growth.
+
+Erratic government policies continue to damp growth.  
+<br/>
+
 ---
 ## November 2025
 
