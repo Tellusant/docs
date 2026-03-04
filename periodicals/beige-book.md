@@ -19,7 +19,7 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-The March 2026 report shows still shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.
+The March 2026 report shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.
 
 Three districts doing relatively well:
 - Dallas
