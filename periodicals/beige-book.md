@@ -13,25 +13,30 @@ We compute a composite score for each of the twelve districts based on a **seman
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
 ---
-## January 14, 2026
+## March 4, 2026
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-The January 2026 report shows improved economic economic conditions, but still only slight growth.
+The March 2026 report shows still shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.
 
-Three districts show reasonable (modest) growth:
+Three districts doing relatively well:
+- Dallas
+- Atlanta
+- Cleveland
+- Philadelphia
 - Richmond
-- St. Louis
-- San Francisco
 
-Only one shows contraction:
-- New York  
+Poor performers are:
+- Chicago
+- Minneapolis
+- New York
+- San Francisco  
 
 The rest are flat or show slight growth.
 
-Erratic government policies continue to damp growth.  
+Erratic government policies continue to damp growth. The Iran war is not refelcted in the Beige Book yet. 
 <br/>
 
 #### [Archive](archive.md)
