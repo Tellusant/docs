@@ -38,8 +38,8 @@ The rest are flat or show slight growth.
 
 The key resulting indexes are reported below:
 
-<p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-03.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+<p align="left">
+<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-03.svg" width="300" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
 Erratic government policies continue to damp growth. The Iran war is not refelcted in the Beige Book yet. 
