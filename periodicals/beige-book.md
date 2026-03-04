@@ -43,6 +43,7 @@ The key resulting national indexes are reported below:
 Erratic government policies continue to damp growth. The Iran war is not reflected in the Beige Book yet. 
 <br/>
 
+---
 #### [Archive](archive.md)
 
 #### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](retrospective.md)  
