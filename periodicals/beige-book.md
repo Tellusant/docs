@@ -13,8 +13,6 @@ We compute a composite score for each of the twelve districts based on a **seman
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
 ---
-## March 4, 2026
-
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
