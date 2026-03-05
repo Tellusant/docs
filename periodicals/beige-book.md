@@ -10,7 +10,16 @@ The Beige Book is useful for, among others, CEOs and management teams who want t
 
 We compute a composite score for each of the twelve districts based on a **semantic analysis** of the report, then sum the scores weighted by the GDP of each district.  
 
-We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.  
+We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there. 
+
+> After more than a decade of publishing this periodical, we decided to test our logic with ChatGPT. Its evaluation:
+> "Your methodology is actually quite good. Your method has several strengths:
+- Signal is extremely stable
+- The Fed has used the same wording patterns for ~30 years.
+- High interpretability
+- Unlike sentiment models, you can always point to the exact phrase.
+- Low model drift
+Because vocabulary is controlled, your historical series remains consistent. This is rare in text-based economic indicators.
 
 ---
 <p align="center">
