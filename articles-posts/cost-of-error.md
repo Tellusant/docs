@@ -3,7 +3,7 @@
 In January 2025, Tellusant started researching the cost of forecasting errors at large companies. Here we report some findings.  
 
 ## Introduction
-Enterprises and countries mainly create value by improving structural capital[f]. This is what is beyond contributions from labor and capital. Structural capital has grown immensely in importance over the past 50 years and is reflected in intangibles.
+Enterprises and countries mainly create value by improving structural capital¹. This is what is beyond contributions from labor and capital. Structural capital has grown immensely in importance over the past 50 years and is reflected in intangibles.
 
 Key elements of structural capital are often said to be:
 
@@ -36,9 +36,9 @@ In a significant research effort, we calculated the capital expenditure at stake
 • Future growth is naïvely set to zero
 
 FIRST
-We applied the three methods to 53 industries. We used 2013-2018 to predict 2018-2023, and 2008-2013 to predict 2013-2018. This allowed us to calculate the real prediction accuracy for two periods..
+We applied the three methods to 53 industries. We used 2013-2018 to predict 2018-2023, and 2008-2013 to predict 2013-2018. This allowed us to calculate the real prediction accuracy for two periods.  
 
-We used MAPE¹ (Mean Absolute Percentage Error) to measure the accuracy. The outcome across the 53 industries ranged from 15% to 22% error. Superb accuracy is 5%, high is 5-10%, and good is 10-20%.
+We used MAPE² (Mean Absolute Percentage Error) to measure the accuracy. The outcome across the 53 industries ranged from 15% to 22% error. Superb accuracy is 5%, high is 5-10%, and good is 10-20%.
 
 SECOND
 We used the list of the 40 largest companies in the United States and matched them against the 53 industries. We applied the MAPE for their industries to each of them. This meant some companies have as low as a 4% error, some as high as 40%.
@@ -50,15 +50,15 @@ We overlayed this on capex in 2018 (and 2013) to see how much capital was at sta
 CONCLUSION
 Having superb strategic forecasting capabilities likely is the single most important driver of shareholder value. Of course, some companies are already well on their way to achieve this, but most are not.
 
-Why not just cut, increase or redeploy capex if forecasts are off? Because capex is not easily redeployed.² Strategies are in large part developed to reduce this problem.
+Why not just cut, increase or redeploy capex if forecasts are off? Because capex is not easily redeployed.³ Strategies are in large part developed to reduce this problem.
 
 Thus, we advice companies to look over their forecasting methods for 3-, 5- or 10-year planning. These are not the time series methods used for operational planning. Instead, a more sophisticated approach is required. The good news is that the methods exist and can be put to great 𝗺𝗮𝗻𝗮𝗴𝗲𝗿𝗶𝗮𝗹 use.
 
 ---
-1. Called Total Factor Productivity (TFP) in economics.
+¹ Called Total Factor Productivity (TFP) or Solow residual in economics.
 
-— — —
+² Technically, MAPE was adjusted to avoid right-hand skew that exaggerates the error.
 
-¹ Technically, MAPE was adjusted to avoid right-hand skew that exaggerates the error.
+³ It is not only capex that is at stake. Human resources, especially in R&D and management, are hard to redeploy if strategic forecasts are off.
 
-² It is not only capex that is at stake. Human resources, especially in R&D and management, are hard to redeploy if strategic forecasts are off.
+¹²³⁴⁵⁶⁷⁸⁹⁰
