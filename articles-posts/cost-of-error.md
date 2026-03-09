@@ -20,7 +20,7 @@ In this article, we focus on forecasting and the cost of getting it wrong
 
 
 > "*We make the strategic plan demand forecast based on what happened over the past 5 years. I wish I could say that we have something better*." said the Chief Strategy Officer of a large company.
->  
+  
 >"*Our category demand grows by 1.2 times GDP growth. That is an iron law.*" said the regional CEO of a multinational company.
 
 These are quotes from our strategy development work. In our experience, most companies use variants of this, expressed in more sophisticated language, for their strategic forecasting (i.e., predictions 3-10 years out in time).
