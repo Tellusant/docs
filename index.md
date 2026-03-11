@@ -37,3 +37,5 @@ We create an immense amount of maps on various topics. See some of them in glori
 View our press releases covering important news from our company.  
 ### [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.  
+### [Recommended Readings](recommended-readings/index.md)  
+These are works we wish we had written, but did not.
