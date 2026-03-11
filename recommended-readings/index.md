@@ -10,7 +10,7 @@ Here we recommend high quality readings by external authorities, touching on our
 #### [Vaswani, A., N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A.N. Gomez, L. Kaiser, & I. Polosukhin (2017): Attention Is All You Need](google-attention-is-all-you-need-transformer-paper.pdf)
 In 2017, Google and the University of Toronto published this paper that revolutionized AI by introducing the concept of transformers. It is a surprisingly short and easy read (but not easy to understand). Flip through it, and if you are mathematically minded, read it. After all, this has had more immediate impact on humanity than anything before it.
 #### [Ananthaswamy, A. (2024): *Why Machines Learn: The Elegant Math Behind Modern AI*](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749/ref=sr_1_1?sr=8-1)
-This is the best introduction to AI we know of. It does not shy away from the math (unlike most science books for lay audiences). It also gives the history of AI starting in 1946 at Dartmouth College.
+This is the best introduction to AI we know of. It does not shy away from the math (unlike most science books for lay audiences). It also gives the history of AI including the seminal conference at Dartmouth College in 1956 (*Dartmouth Summer Research Project on Artificial Intelligence*).
 #### [A. Banerjee and E. Duflo: *The Economic Lives of the Poor*. JEP](https://www.aeaweb.org/articles?id=10.1257/jep.21.1.141)
 This groundbreaking easy-to-read paper on the lives of poor people around the world was a main contributor to their Nobel Prize in Economics award. It has influnced our quantification of socioeconomic levels. 🇴🇵ᴇ🇳 🇦🇨🇨ᴇꜱꜱ
 
