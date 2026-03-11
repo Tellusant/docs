@@ -62,3 +62,7 @@ Thus, we advice companies to look over their forecasting methods for 3-, 5- or 1
 ³ It is not only capex that is at stake. Human resources, especially in R&D and management, are hard to redeploy if strategic forecasts are off.
 
 ¹²³⁴⁵⁶⁷⁸⁹⁰
+
+---
+---
+[Find more articles and posts](index.md)
