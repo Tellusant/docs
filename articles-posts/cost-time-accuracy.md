@@ -43,5 +43,4 @@ We suggest having this mindset when installing PoluSim. It should be part of new
 It is part of a management revolution not seen since the advent of the mult-divisional enterprise more than a hundred years ago.
 
 ---
----
 [Find more articles and posts](index.md)
