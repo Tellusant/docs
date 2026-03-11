@@ -8,7 +8,7 @@ Here we recommend high quality readings by external authorities, touching on our
 
 ---
 #### [A. Aswani et al. (2017): Attention Is All You Need](google-attention-is-all-you-need-transformer-paper.pdf)
-In 2017, Google and the University of Toronto published this paper that revolutionized AI by introducing the concept of transformers. It is a surprisingly short and easy read (but not easy to understand). It is worth flipping through. After all, this has had more immediate impact on humanity than anything before it.
+In 2017, Google and the University of Toronto published this paper that revolutionized AI by introducing the concept of transformers. It is a surprisingly short and easy read (but not easy to understand). Flip through it, and if you are mathematically minded, read it. After all, this has had more immediate impact on humanity than anything before it.
 #### [A. Banerjee and E. Duflo: *The Economic Lives of the Poor*. JEP](https://www.aeaweb.org/articles?id=10.1257/jep.21.1.141)
 This groundbreaking easy-to-read paper on the lives of poor people around the world was a main contributor to their Nobel Prize in Economics award. It has influnced our quantification of socioeconomic levels. 🇴🇵ᴇ🇳 🇦🇨🇨ᴇꜱꜱ
 
