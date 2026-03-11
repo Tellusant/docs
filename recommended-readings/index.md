@@ -1,10 +1,10 @@
 ---
-title: "External Recommended Readings"
-description: "Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. These are things we wish we had written."
+title: "Recommended Readings"
+description: "Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. These are works we wish we had written, but did not."
 image: /assets/social-card-ext.png
 ---
-# External Recommended Readings
-Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. ***These are things we wish we had written.***
+# Recommended Readings
+Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. ***These are works we wish we had written, but did not.***
 
 ---
 #### [Vaswani, A., N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A.N. Gomez, L. Kaiser, & I. Polosukhin (2017): Attention Is All You Need](google-attention-is-all-you-need-transformer-paper.pdf)
