@@ -108,5 +108,5 @@ Specific VA = Operating profits + Operating expenses = Gross margin
 This concludes this year's review of the largest companies. This is now an annual release by Tellusant.  
 
 ---
-[2025-03-20]
+[2025-03-20]  
 [Find more articles and posts](index.md)
