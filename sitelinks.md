@@ -1,31 +1,13 @@
 ---
-title: "South Africa Economic Sentiment Analysis Using AI"
-description:  "This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model."
+title: "Sitelinks"
+description:  "Visualization of links on the site."
 image: /assets/social-card-pub.png
 ---
 
-# South Africa Economic Sentiment Analysis Using AI
-This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
+# Sitelinks WIP
+Visualization of links on the site.
 
-## Background
-In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper **Business Times**: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background preparaion, he did a semantic analysis of South Africa's economic sentiment (v1). Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
-
-In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis (v2). The analysis was again updated in early 2026 to incorporate the latest reports on the country (v3). 
-
-All aspects of the analyses are automated except the final quality control.
-
-## Findings
-The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores across eight measures. The scores are weighted and summarized into an overall score.
-
-For South Africa, it shows a moderately weak position. The 
-
-The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
-
-The graphs are made with **Mermaid** v11, a visualization tool suitable for demos and proof-of concept efforts, like this.  It also reduces doc-rot since the code is open source and transparent.
-
----
-**SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**  
-As of January 2026
+This is where the mermaid visualization will show up instead of current graph.
 
 <div class="mermaid">
 
@@ -68,49 +50,3 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 classDef anchor fill:transparent,stroke:transparent;
 
 </div>
-
-<p align="center">
-<img  src="assets/images/legend.svg" width="400" alt="Legend">  
-</p>
-
----
-How does South Africa compare to other nations? Below is a graph where the same method was applied to 16 select countries. Note that not only scores, but also weights, differ by country.
-
-- Affluent countries (with Switzerland as the highest scoring country)
-- Emerging countries (with Myanmar as the lowest scoring country)
-- GCC members (chosen to show how neighboring countries can differ)
-
----
-
-**COMPARISON OF ECONOMIC SENTIMENT SCORES**
-
-<div class="mermaid">
-  
----
-config:
-  xyChart:
-    width: 550
-  themeVariables:
-    xyChart:
-      plotColorPalette: "#C00000,#7b3fe4,#2aa876,#d95f02"
----
-xychart-beta horizontal
-    x-axis ["South Africa", "Switzerland", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "Myanmar", "United Arab Emirates", "Saudi Arabia", "Qatar", "Oman", "Kuwait", "Bahrain"]
-  y-axis "Weighted average score across 8 measures" 0 --> 10
-
-  %% Group A
-  bar [5.1, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
-
-  %% Group B
-  bar [-0.2, 8.0, 6.6, 5.7, 5.5, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
-
-  %% Group C
-  bar [-0.2, -0.2, -0.2, -0.2, -0.2, 6.6, 6.3, 5.7, 5.6, 5.1, 2.3, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
-
-  %% Group D
-  bar [-0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
-
-  </div>
-
----
-Source: Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model; Tellusant analysis
