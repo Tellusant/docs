@@ -62,4 +62,4 @@ Happy Holidays!
 The [Tellusant](https://tellusant.com) Team
 
 ---
-[Find more articles and posts.](index.md]
+[Find more articles and posts.](index.md)
