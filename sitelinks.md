@@ -7,8 +7,13 @@ image: /assets/social-card-pub.png
 # Sitelinks WIP
 Visualization of links on the site.
 
-This is where the mermaid visualization will show up instead of current graph.
+This is where the mermaid visualization will show up instead of current graph.  
 
+<div class="mermaid">
+
+
+
+</div>  
 <div class="mermaid">
 
 flowchart TD
