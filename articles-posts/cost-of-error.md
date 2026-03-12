@@ -64,5 +64,4 @@ Thus, we advice companies to look over their forecasting methods for 3-, 5- or 1
 ¹²³⁴⁵⁶⁷⁸⁹⁰
 
 ---
----
 [Find more articles and posts](index.md)
