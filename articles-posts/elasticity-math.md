@@ -14,28 +14,29 @@ I sometimes get the question "why do you use logarithms when calculating elastic
 I assume the reader knows elementary calculus.
 
 $$Elasticity\ \epsilon\ is\ defined\ as\ change\ in\ input\ x\ leads\ to\ change\ in\ output\ y$$
+  
 $$\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}$$
-$$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get\$$
-$$\epsilon=\ \frac{x}{y}\frac{dy}{dx}$$
-$$Reconfigure\ the\ equation$$
-$$\frac{dy}{y}=\epsilon\frac{dx}{x}$$
-$$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y\$$
-$$\ln{\left(y\right)}=\epsilon\bullet\ln{\left(x\right)}$$
-$$Or\$$
-$$\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}$$
-$$Which\ is\ equal\ to\ the\ first\ equation$$
-$$\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}
-$$QED\$$
+  
+$$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get\$$  
 
+$$\epsilon=\ \frac{x}{y}\frac{dy}{dx}$$  
 
+$$Reconfigure\ the\ equation$$ 
+$$\frac{dy}{y}=\epsilon\frac{dx}{x}$$  
 
+$$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y\$$  
 
+$$\ln{\left(y\right)}=\epsilon\bullet\ln{\left(x\right)}$$  
 
+$$Or\$$  
 
+$$\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}$$  
 
-<p align="center">
-<img  src="assets/images/tellusant-elasticity-math.svg" width="500" alt="Elasticity math">
-</p>
+$$Which\ is\ equal\ to\ the\ first\ equation$$  
+
+$$\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}$$
+  
+$$Q.E.D$$
 
 The reason the logarithm is taken is that it is equivalent to working with percentage changes, and it makes for a nice linear regression.¹ 
 
