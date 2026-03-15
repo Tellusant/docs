@@ -13,6 +13,11 @@ I sometimes get the question "why do you use logarithms when calculating elastic
 
 I assume the reader knows elementary calculus.
 
+$$Elasticity\ \epsilon\ is\ defined\ as\ change\ in\ input\ x\ leads\ to\ change\ in\ output\ y$$
+$$\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}$$
+
+
+
 <p align="center">
 <img  src="assets/images/tellusant-elasticity-math.svg" width="500" alt="Elasticity math">
 </p>
