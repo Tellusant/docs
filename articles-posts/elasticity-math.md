@@ -27,7 +27,7 @@ $$\frac{dy}{y}=\epsilon\frac{dx}{x}$$
   
 $$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y$$  
   
-$$\ln{\left(y\right)}=\epsilon\bullet\ln{\left(x\right)}$$  
+$$\ln{\left(y\right)}=\epsilon∙ln{\left(x\right)}$$  
   
 $$Or$$  
   
