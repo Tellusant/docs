@@ -10,7 +10,10 @@ Our **PoluSim** forecasting solution is widely appreciated by customers around t
 We optimize it around three enterprise performance metrics to maximize relevance:  
 
 <p align="center">
+<figure>
 <img  src="assets/images/tellusant-polusim-performance-metrics-cost-time-accuracy.svg" width="400" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
+<figcaption>PoluSim Performance Metrics: Cost–Time-Accuracy</figcaption>
+</figure>
 </p>
 
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
