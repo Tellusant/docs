@@ -12,7 +12,7 @@ We optimize it around three enterprise performance metrics to maximize relevance
 <p align="center">
 <figure>
 <img  src="assets/images/tellusant-polusim-performance-metrics-cost-time-accuracy.svg" width="400" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
-<figcaption>PoluSim Performance Metrics: Cost–Time-Accuracy</figcaption>
+<figcaption>`PoluSim Performance Metrics: Cost–Time-Accuracy`</figcaption>
 </figure>
 </p>
 
