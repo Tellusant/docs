@@ -10,11 +10,10 @@ image: /assets/social-card-pub.png
 
 
 I sometimes get the question "why do you use logarithms when calculating elasticities?" Rather than answering each time, I decided to answer once and point people to this post. Ask many, answer once.  
-<span style="font-weight: bold;">
-I assume the reader knows elementary calculus.
-</span>
 
-$\textbf{This text is bold in a display block}$
+I assume the reader knows elementary calculus.
+
+$\textbf{Elasticity e is defined as a change in input x leads to a change in output y}$
 
 $${Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
