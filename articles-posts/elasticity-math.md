@@ -13,29 +13,29 @@ I sometimes get the question "why do you use logarithms when calculating elastic
 
 I assume the reader knows elementary calculus.
   
-$$\textbf{Elasticity\ \epsilon\ is\ defined\ as\ change\ in\ input\ x\ leads\ to\ change\ in\ output\ y}$$  
+$${Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$  
    
 $$\textcolor{#c00000}{\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}}$$  
   
 $$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get$$  
   
-$$\epsilon=\ \frac{x}{y}\frac{dy}{dx}$$  
+$$\textcolor{#c00000}{\epsilon=\ \frac{x}{y}\frac{dy}{dx}}$$  
   
 $$Reconfigure\ the\ equation$$  
   
-$$\frac{dy}{y}=\epsilon\frac{dx}{x}$$  
+$$\textcolor{#c00000}{\frac{dy}{y}=\epsilon\frac{dx}{x}}$$  
   
 $$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y$$  
   
-$$\ln{\left(y\right)}=\epsilon\ \cdot\ ln{\left(x\right)}$$  
+$$\textcolor{#c00000}{\ln{\left(y\right)}=\epsilon\ \cdot\ ln{\left(x\right)}}$$  
   
 $$Or$$  
   
-$$\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}$$  
+$$\textcolor{#c00000}{\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}}$$  
 
 $$Which\ is\ equal\ to\ the\ first\ equation$$  
 
-$$\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}$$  
+$$\textcolor{#c00000}{\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}}$$  
   
 $$Q.E.D.$$  
 
