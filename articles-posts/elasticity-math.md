@@ -21,7 +21,8 @@ $$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get\$$
 
 $$\epsilon=\ \frac{x}{y}\frac{dy}{dx}$$  
 
-$$Reconfigure\ the\ equation$$ 
+$$Reconfigure\ the\ equation$$  
+
 $$\frac{dy}{y}=\epsilon\frac{dx}{x}$$  
 
 $$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y\$$  
