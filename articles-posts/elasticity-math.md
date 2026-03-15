@@ -13,7 +13,8 @@ I sometimes get the question "why do you use logarithms when calculating elastic
 
 I assume the reader knows elementary calculus.
 
-$$\textbf{Elasticity ϵ is defined as a change in input x leads to a change in output y}$$
+$$\textbf{Elasticity ϵ is defined as}$$
+$$\textbf{a change in input x leads to a change in output y}$$
 
 $${Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
