@@ -13,6 +13,9 @@ I sometimes get the question "why do you use logarithms when calculating elastic
 <span style="font-weight: bold;">
 I assume the reader knows elementary calculus.
 </span>
+
+$\textbf{This text is bold in a display block}$
+
 $${Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
 $$\textcolor{#c00000}{\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}}$$  
