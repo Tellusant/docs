@@ -29,7 +29,7 @@ $$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or
   
 $$\ln{\left(y\right)}=\epsilon\bullet\ln{\left(x\right)}$$  
   
-$$Or\$$  
+$$Or$$  
   
 $$\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}$$  
 
