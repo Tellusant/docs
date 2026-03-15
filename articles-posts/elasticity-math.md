@@ -37,7 +37,7 @@ $$Which\ is\ equal\ to\ the\ first\ equation$$
 
 $$\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}$$
   
-$$Q.E.D$$
+$$Q.E.D.$$
 
 The reason the logarithm is taken is that it is equivalent to working with percentage changes, and it makes for a nice linear regression.¹ 
 
