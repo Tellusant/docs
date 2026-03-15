@@ -33,7 +33,7 @@ document.addEventListener("scroll", function () {
 </script>
 <script src="{{ '/assets/js/header-scroll.js' | relative_url }}"></script>
 
-  <!-- MERMAID -->
+<!-- MERMAID -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
 <script>
   mermaid.initialize({
@@ -41,6 +41,21 @@ document.addEventListener("scroll", function () {
     securityLevel: "strict"
   });
 </script>
+
+<!-- END MERMAID -->
+
+<!-- LATEX -->
+    <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<!-- END LATEX -->
     
   </body>
 </html>
