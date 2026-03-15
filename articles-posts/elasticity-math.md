@@ -9,10 +9,10 @@ image: /assets/social-card-pub.png
 >*This is my most popular substance-oriented post ever.*
 
 
-I sometimes get the question "why do you use logarithms when calculating elasticities?" Rather than answering each time, I decided to answer once and point people to this post. Ask many, answer once.
-
+I sometimes get the question "why do you use logarithms when calculating elasticities?" Rather than answering each time, I decided to answer once and point people to this post. Ask many, answer once.  
+<span style="font-weight: bold;">
 I assume the reader knows elementary calculus.
-  
+</span>
 $${Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
 $$\textcolor{#c00000}{\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}}$$  
