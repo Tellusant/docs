@@ -15,6 +15,8 @@ I assume the reader knows elementary calculus.
 
 $$Elasticity\ \epsilon\ is\ defined\ as\ change\ in\ input\ x\ leads\ to\ change\ in\ output\ y$$
 $$\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}$$
+$$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get\$$
+
 
 
 
