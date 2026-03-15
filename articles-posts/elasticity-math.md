@@ -16,6 +16,19 @@ I assume the reader knows elementary calculus.
 $$Elasticity\ \epsilon\ is\ defined\ as\ change\ in\ input\ x\ leads\ to\ change\ in\ output\ y$$
 $$\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}$$
 $$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get\$$
+$$\epsilon=\ \frac{x}{y}\frac{dy}{dx}$$
+$$Reconfigure\ the\ equation$$
+$$\frac{dy}{y}=\epsilon\frac{dx}{x}$$
+$$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y\$$
+$$\ln{\left(y\right)}=\epsilon\bullet\ln{\left(x\right)}$$
+$$Or\$$
+$$\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}$$
+$$Which\ is\ equal\ to\ the\ first\ equation$$
+$$\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}
+$$QED\$$
+
+
+
 
 
 
