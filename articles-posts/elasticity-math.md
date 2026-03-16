@@ -27,7 +27,7 @@ $$\textcolor{#c00000}{\frac{dy}{y}=\epsilon\frac{dx}{x}}$$
   
 $$\mathbf{Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{var}=\ln(var)}$$  
   
-$$\textcolor{#c00000}{\ln{\left(y\right)}=\epsilon\ \cdot\ ln{\left(x\right)}}$$  
+$$\textcolor{#c00000}{\ln{\left(y\right)}=\epsilon\ \cdot\ \mathrm{ln}{\left(x\right)}}$$  
   
 $$\mathbf{Reordered}$$  
   
