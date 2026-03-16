@@ -102,6 +102,7 @@ Find the original data: **[The Palmer Penguin Dataset and Art](https://allisonho
 Source: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data.  R package version 0.1.0.
 
 ---
-[2025-11-21]
+[2025-11-21]  
+[Find more articles and posts](index.md)
 
 
