@@ -49,5 +49,5 @@ We provide free TelluBase data to select public institutions and media through t
 #### [Western Sahara](tellubase-factsheet-esh.pdf)  
 
 ---
-[Return to Repository home](../index.md)
-[Visit TelluBase On-Demand](https://tellubase.com)
+[Return to Repository home](../index.md)  
+[Visit TelluBase On-Demand](https://tellubase.com)  
