@@ -30,4 +30,6 @@ These solutions are enterprise level tools. This means we meet the strongest sec
 
 Implementing **PoluSim** is a fundamental step forward for companies. It gives a competitive advantage, but also requires learning new skills. We look forward to helping you in this journey.
 
-[2025-11-06]
+===
+[2025-11-06]  
+[Find more articles and posts](index.md)
