@@ -8,3 +8,6 @@ Value added is the increase in value of a product or service at each stage of pr
 ## *Specific Value Added*
 - Specific value added is the part of (general) value added with high asset specificity. That is, it excludes non-asset specific parts like production facilities and labor that can be, e.g., outsourced to other parties without major difficulty.  
 - Asset specificity refers to the degree to which an investment (physical, human, or location-based) is customized for a specific transaction or partner and loses value if redeployed elsewhere.
+
+---
+[Find more articles and posts](index.md)
