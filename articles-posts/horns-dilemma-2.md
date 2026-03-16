@@ -41,3 +41,4 @@ In sum, do not expect to satisfy all three conditions: prediction, explanation, 
 I learned this the hard way 25 years ago. Early in my doctoral studies I suggested a framework. A professor said "who are the authorities you cite for this framework?" I said "I created it." He responded " how dare you compare yourself to the authorities? You are are a lowly doctoral student and cannot offer anything. Prove yourself first: read read read - write write write, and you may get there."  
 
 [2025-11-07]  
+[Find more articles and posts](index.md)
