@@ -25,7 +25,7 @@ $$\mathbf{Reconfigure\ the\ equation}$$
   
 $$\textcolor{#c00000}{\frac{dy}{y}=\epsilon\frac{dx}{x}}$$  
   
-$$\mathbf{Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y}$$  
+$$\mathbf{Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z)}$$  
   
 $$\textcolor{#c00000}{\ln{\left(y\right)}=\epsilon\ \cdot\ ln{\left(x\right)}}$$  
   
