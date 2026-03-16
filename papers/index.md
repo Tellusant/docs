@@ -27,3 +27,6 @@ to an inability to identify, quantify, and capture growth opportunities. This pa
 Strategic planning often suffers from inconsistencies by cycle and business unit, a slow process, and a lack of faith in results. Companies need to find solutions to improve this critical aspect of their business.
 
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
+
+---
+[Return to Repository home](../index.md)
