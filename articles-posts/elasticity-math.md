@@ -16,7 +16,7 @@ I assume the reader knows elementary calculus.
 $$\textbf{Elasticity ϵ is defined as}$$
 $$\textbf{a change in input x leads to a change in output y}$$
 
-$$\textbf{Elasticity\ ϵ\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
+$$\mathbf{Elasticity\ ϵ\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
 $$\textcolor{#c00000}{\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}}$$  
   
