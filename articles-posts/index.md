@@ -84,4 +84,4 @@ Trade-offs between generality, precision, and realism in strategy development.
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.
 
 ---
-[Return to home](.)
+[Return to home](./index.md)
