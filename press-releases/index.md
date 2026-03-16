@@ -15,6 +15,6 @@ Read our press releases about the latest significant events at Tellusant
 #### [2024-09-24 Announcing Strategic Partnership Between Tellusant, Inc. & Berumen y Asociados](tellusant-berumen-strategic-partnership.md)
 
 ---
-[Return to Repository home](../index.md)
-[Visit TelluBase On-Demand](https://tellubase.com)
+[Return to Repository home](../index.md)  
+[Visit TelluBase On-Demand](https://tellubase.com)  
 
