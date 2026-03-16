@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 # Elasticity Math  
 *Dr. Staffan Canback, Tellusant*  
 
->*This is my most popular substance-oriented post ever.*
+>*To my surprise, this is my most popular substance-oriented post ever. There is hope.*
 
 
 I sometimes get the question "why do you use logarithms when calculating elasticities?" Rather than answering each time, I decided to answer once and point people to this post. Ask many, answer once.  
