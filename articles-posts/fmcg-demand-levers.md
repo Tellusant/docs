@@ -32,4 +32,122 @@ Tellusant, Inc.'s strategic forecasting app hashtag#PolusSim takes these levers 
 We have worked with these levers since the 2000s, so this is not a "I got inspired at the white board" type of framework. In fact, we wrote about it in 2022 in light of high inflation: [Pricing Mechanisms for Managing Through Inflation](https://medium.com/tellusant/pricing-mechanisms-for-managing-through-inflation-8e9eb1d9f33). We have also used it in a myriad of client discussions.
 
 ---
-Return to Home
+---
+title: "South Africa Economic Sentiment Analysis Using AI"
+description:  "This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model."
+image: /assets/social-card-pub.png
+---
+
+# South Africa Economic Sentiment Analysis Using AI
+This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
+
+## Background
+In 2017, our chairman, Staffan Canback, wrote an extensive article in the South African newspaper **Business Times**: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background preparaion, he did a semantic analysis of South Africa's economic sentiment (v1). Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
+
+In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis (v2). The analysis was again updated in early 2026 to incorporate the latest reports on the country (v3). 
+
+All aspects of the analyses are automated except the final quality control.
+
+## Findings
+The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores across eight measures. The scores are weighted and summarized into an overall score.
+
+For South Africa, it shows a moderately weak position. The 
+
+The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
+
+The graphs are made with **Mermaid** v11, a visualization tool suitable for demos and proof-of concept efforts, like this.  It also reduces doc-rot since the code is open source and transparent.
+
+---
+**SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**  
+As of January 2026
+
+<div class="mermaid">
+
+flowchart TD
+
+%% ========= NODES =========
+GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧<br/>Score: 3/10<br/>''Risks remain tilted to the downside''"]:::risk
+FP["𝗙𝗜𝗦𝗖𝗔𝗟 𝗣𝗢𝗟𝗜𝗖𝗬<br/>Score: 3/10<br/>''Debt remains high and rising''"]:::risk
+GJ["𝗚𝗥𝗢𝗪𝗧𝗛 & 𝗝𝗢𝗕𝗦<br/>Score: 4/10<br/>''Growth remains constrained by bottlenecks''"]:::risk
+MP["𝗠𝗢𝗡𝗘𝗧𝗔𝗥𝗬 𝗣𝗢𝗟𝗜𝗖𝗬<br/>Score: 8/10<br/>''Adoption of a lower inflation target is a major policy achievement''"]:::strong
+MS["𝗠𝗔𝗖𝗥𝗢 𝗦𝗧𝗔𝗕𝗜𝗟𝗜𝗧𝗬<br/>Score: 6/10<br/>''Frameworks support resilience''"]:::neutral
+FS["𝗙𝗜𝗡𝗔𝗡𝗖𝗜𝗔𝗟 𝗦𝗘𝗖𝗧𝗢𝗥<br/>Score: 8/10<br/>''The banking system has remained sound''"]:::strong
+SR["𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗔𝗟 𝗥𝗘𝗙𝗢𝗥𝗠𝗦<br/>Score: 5/10<br/>''Implementation needs to accelerate''"]:::mixed
+LC["𝗟𝗢𝗡𝗚-𝗧𝗘𝗥𝗠 𝗖𝗢𝗡𝗙𝗜𝗗𝗘𝗡𝗖𝗘<br/>Score: 5/10<br/>''Outlook depends on reform delivery''"]:::mixed
+
+%% ========= RELATIONSHIPS =========
+GE -->|Downside risks| GJ
+FP -->|Constrains growth| GJ
+MP -->|Anchors inflation| MS
+MS -->|Enables| GJ
+MP -->|Strengthens| FS
+FS <-->|Depends on progress| SR
+SR -->|Pace insufficient| LC
+LC <-->|Feedback loop| GJ
+
+%% ========= INVISIBLE LAYOUT CONTROL =========
+ANCHOR[" "]:::anchor
+
+%% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
+SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬<br/>Weighted average score:<br/>5.05/10<br/>''Strong monetary and financial anchors
+support stability, but fiscal constraints and slow reform implementation keep growth subdued''"]:::summary
+LC -.-> SUM:::anchor
+
+%% ========= STYLES =========
+classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef anchor fill:transparent,stroke:transparent;
+
+</div>
+
+<p align="center">
+<img  src="assets/images/legend.svg" width="400" alt="Legend">  
+</p>
+
+---
+How does South Africa compare to other nations? Below is a graph where the same method was applied to 16 select countries. Note that not only scores, but also weights, differ by country.
+
+- Affluent countries (with Switzerland as the highest scoring country)
+- Emerging countries (with Myanmar as the lowest scoring country)
+- GCC members (chosen to show how neighboring countries can differ)
+
+---
+
+**COMPARISON OF ECONOMIC SENTIMENT SCORES**
+
+<div class="mermaid">
+  
+---
+config:
+  xyChart:
+    width: 550
+  themeVariables:
+    xyChart:
+      plotColorPalette: "#C00000,#7b3fe4,#2aa876,#d95f02"
+---
+xychart-beta horizontal
+    x-axis ["South Africa", "Switzerland", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "Myanmar", "United Arab Emirates", "Saudi Arabia", "Qatar", "Oman", "Kuwait", "Bahrain"]
+  y-axis "Weighted average score across 8 measures" 0 --> 10
+
+  %% Group A
+  bar [5.1, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
+
+  %% Group B
+  bar [-0.2, 8.0, 6.6, 5.7, 5.5, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
+
+  %% Group C
+  bar [-0.2, -0.2, -0.2, -0.2, -0.2, 6.6, 6.3, 5.7, 5.6, 5.1, 2.3, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
+
+  %% Group D
+  bar [-0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
+
+  </div>
+
+---
+Source: Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model; Tellusant analysis
+
+---
+[Find more Tellusant articles and posts](index.md)
