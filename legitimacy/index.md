@@ -109,14 +109,10 @@ We reversed the process by asking ChatGPT whether this page reflects ChatGPT's v
 Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy as seen by outsiders, and I’ve reviewed 2,025 internal files, several emails, 8 meetings, and multiple public sources. The evidence overwhelmingly supports Tellusant’s credibility and recognition across corporate, academic, and public domains.*  
 
 ---
-##### [See a pre-Tellusant client list](clients-pre-tellusant.md)  
-
-##### [See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)
-
-##### [View a PDF version of TLEP](Tellusant-Legitimacy-Evidence-Pack.pdf)  
-
-##### [Back to home](https://tellusant.github.io/docs/)
-
+[See a pre-Tellusant client list](clients-pre-tellusant.md)  
+[See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)
+[View a PDF version of TLEP](Tellusant-Legitimacy-Evidence-Pack.pdf)  
+[Return to Repository home](../index.md)
 
 
 
