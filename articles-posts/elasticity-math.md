@@ -15,7 +15,7 @@ I assume the reader knows elementary calculus.
 
 $$\mathbf{Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
-$$\textcolor{#c00000}{\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}}$$  
+$$\textcolor{#c00000}{\epsilon=\frac{{\Delta y}}{y}/\frac{{\Delta x}}{x}}$$  
   
 $$\mathbf{Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get}$$  
   
@@ -25,7 +25,7 @@ $$\mathbf{Reconfigure\ the\ equation}$$
   
 $$\textcolor{#c00000}{\frac{dy}{y}=\epsilon\frac{dx}{x}}$$  
   
-$$\mathbf{Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z)}$$  
+$$\mathbf{Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{var}=\ln(var)}$$  
   
 $$\textcolor{#c00000}{\ln{\left(y\right)}=\epsilon\ \cdot\ ln{\left(x\right)}}$$  
   
