@@ -49,3 +49,6 @@ Conventional data sources tend to report back data they scrape from government a
 </p>
 
 For more on TelluBase, visit the [website](https://tellubase.com) or see our introductory [video](https://tellusant.com/repo/video/tellusant-tellubase-introduction.mp4).
+
+---
+[Find more articles and posts](index.md)
