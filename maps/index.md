@@ -59,4 +59,5 @@ See where we worked on the ground, countries we have done projects in, and our o
 <br/>
 
 ---
-#### [Visit TelluBase On-Demand](https://tellubase.com)
+[Return to Repository home](../index.md)  
+[Visit TelluBase On-Demand](https://tellubase.com)
