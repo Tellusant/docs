@@ -77,12 +77,11 @@ The fourth day of the Tellusant Global Retreat in Punta Cana saw us relaxing and
 
 What an experience! The perfect mix of work and play. An extraordinary resort with impeccable service and excellent food and wine beyond the typical hotel fare.
 
-
-
 Now back to converting our learnings into action.
 
-
-
 Next year in???
+
+---
+[Find more articles and posts](index.md)
 
 
