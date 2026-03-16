@@ -86,3 +86,6 @@ The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Deco
 </p>
 
 As for the horizontal axis, the **primitives** are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
+
+---
+[Find more articles and posts](index.md)
