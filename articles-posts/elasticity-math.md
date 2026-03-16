@@ -17,7 +17,7 @@ $$\mathbf{Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\
    
 $$\textcolor{#c00000}{\epsilon=\frac{{\Delta y}}{y}/\frac{{\Delta x}}{x}}$$  
   
-$$\mathbf{Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get}$$  
+$$\mathbf{Take\ \mathrm{\Delta\} \  to\ the\ limit\ 0\ and\ you\ get}$$  
   
 $$\textcolor{#c00000}{\epsilon=\ \frac{x}{y}\frac{dy}{dx}}$$  
   
@@ -37,7 +37,7 @@ $$\mathbf{Which\ is\ equal\ to\ the\ first\ equation}$$
 
 $$\textcolor{#c00000}{\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}}$$  
   
-$$\mathbf{Q.E.D.}$$  
+$$\mathbf{\mathrm{Q.E.D.}}$$  
 
 The reason the logarithm is taken is that it is equivalent to working with percentage changes, and it makes for a nice linear regression.¹ 
 
