@@ -35,7 +35,6 @@ The underlying thought in this post is that climate change and greenhouse gas em
 As of Dec. 2025, the World Bank has updated its data till 2023. The graphs will be updated, but changes will be small, if any.
 
 ---
-
-[© Canback Map Projection](https://publicrecords.copyright.gov/detailed-record/voyager_31865619)
-
-[2024-12-02]
+[© Canback Map Projection](https://publicrecords.copyright.gov/detailed-record/voyager_31865619)  
+[2024-12-02]  
+[Find more articles and posts](index.md)  
