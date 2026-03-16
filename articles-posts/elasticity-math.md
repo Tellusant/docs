@@ -13,34 +13,31 @@ I sometimes get the question "why do you use logarithms when calculating elastic
 
 I assume the reader knows elementary calculus.
 
-$$\textbf{Elasticity ϵ is defined as}$$
-$$\textbf{a change in input x leads to a change in output y}$$
-
-$$\mathbf{Elasticity\ ϵ\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
+$$\mathbf{Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
 $$\textcolor{#c00000}{\epsilon=\frac{\mathrm{\Delta y}}{y}/\frac{\mathrm{\Delta x}}{x}}$$  
   
-$$Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get$$  
+$$\mathbf{Take\ \Delta\ to\ the\ limit\ 0\ and\ you\ get}$$  
   
 $$\textcolor{#c00000}{\epsilon=\ \frac{x}{y}\frac{dy}{dx}}$$  
   
-$$Reconfigure\ the\ equation$$  
+$$\mathbf{Reconfigure\ the\ equation}$$  
   
 $$\textcolor{#c00000}{\frac{dy}{y}=\epsilon\frac{dx}{x}}$$  
   
-$$Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y$$  
+$$\mathbf{Integrate,\ remembering\ that\ the\ integral\ of\ \frac{1}{z}=\ln(z),\ z=x\ or\ y}$$  
   
 $$\textcolor{#c00000}{\ln{\left(y\right)}=\epsilon\ \cdot\ ln{\left(x\right)}}$$  
   
-$$Or$$  
+$$\mathbf{Or}$$  
   
 $$\textcolor{#c00000}{\epsilon =\ln{\left(y\right)}/\ln{\left(x\right)}}$$  
 
-$$Which\ is\ equal\ to\ the\ first\ equation$$  
+$$\mathbf{Which\ is\ equal\ to\ the\ first\ equation}$$  
 
 $$\textcolor{#c00000}{\epsilon =\ \frac{\Delta y}{y}/\frac{\Delta x}{x}}$$  
   
-$$Q.E.D.$$  
+$$\mathbf{Q.E.D.)$$  
 
 The reason the logarithm is taken is that it is equivalent to working with percentage changes, and it makes for a nice linear regression.¹ 
 
