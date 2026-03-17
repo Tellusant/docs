@@ -8,11 +8,11 @@ This proposal shows how we conduct research on income distribution. It is writte
 
 ### Hypotheses
 
-**Hypothesis₁**: Using income distribution instead of average income per capita increases explainability of demand for consumer goods.
+**Hypothesis₁** Using income distribution instead of average income per capita increases explainability of demand for consumer goods.
 
-**Hypothesis₂**: Using income distribution together with average income per capita increases explainability of demand for consumer goods further.
+**Hypothesis₂** Using income distribution together with average income per capita increases explainability of demand for consumer goods further.
 
-**Hypothesis₃**: Nonlinear models perform best.
+**Hypothesis₃** Nonlinear models perform best.
 
 ### Data
 
