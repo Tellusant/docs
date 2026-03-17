@@ -22,11 +22,13 @@ Income is pulled from TelluBase to match the countries in the automotive dataset
 
 ### Method
 
-Statistical methods where researched abd two were settled on.
+Statistical methods where researched and three were settled on.
 
 A. ln(Demand) = f[logit(Income bracket share 1), logit(Income bracket share 2),...]
 
 B. ln(Demand) = f[ln(Income per capita), logit(Income bracket 1), logit(Income bracket 2)...]
+
+C. Refit with income + residualized income bracket (chosen based on A and B)
 
 Income brackets can, e.g., be seen as poor, lower, lower-middle, middle, upper-middle, upper classes.
 
@@ -38,7 +40,9 @@ We will employ two tests:
 
 1. Regular goodness of fit (R²)
 
-2. Cross-validation with the OLVCC method
+2. Cross-validation with the LOOCV method
+
+3. Stepwise incremental improvement by adding each income bracket
 
 ### Results
 
