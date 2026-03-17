@@ -36,9 +36,9 @@ Later, a nonlinear differential equation (already defined by Tellusant) may be a
 
 ## Validation
 
-We will employ two tests:
+We will employ three tests:
 
-1. Regular goodness of fit (R²)
+1. Goodness of fit (R²)
 
 2. Cross-validation with the LOOCV method
 
