@@ -16,7 +16,7 @@ This proposal shows how we conduct research on, e.g., income distribution. It is
 
 ## Data
 
-Out of 164 product datasets collected, automotive demand for 144 countries was chosen as the first test case. because cars are big ticket items that should respond to income distribution signals.
+Out of 164 product datasets collected, automotive demand for 147 countries was chosen as the first test case. because cars are big ticket items that should respond to income distribution signals.
 
 Income is pulled from TelluBase to match the countries in the automotive dataset.
 
