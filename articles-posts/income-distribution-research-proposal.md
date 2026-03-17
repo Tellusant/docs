@@ -46,7 +46,7 @@ We will employ two tests:
 
 ### Results
 
-Results will be reported back as graphs and summary tables
+Results will be reported back as graphs and summary tables. If hypotheses not rejected, continue with other products in a automated fashion. If hypotheses rejected, abandon.
 
 ---
 ₁₂₃
