@@ -14,13 +14,13 @@ This proposal shows how we conduct research on, e.g., income distribution. It is
 
 **Hypothesis₃** Nonlinear models perform best.
 
-### Data
+## Data
 
 Out of 164 product datasets collected, automotive demand was chosen as the first test case because it is cars are big ticket items that should respond to income distribution signals.
 
 Income is pulled from TelluBase to match the countries in the automotive dataset.
 
-### Method
+## Method
 
 Statistical methods where researched and three were settled on.
 
@@ -34,7 +34,7 @@ Income brackets can, e.g., be soccioeconomic levels poor, lower, lower-middle, m
 
 Later, a nonlinear differential equation (already defined by Tellusant) may be applied if results are promising.
 
-### Validation
+## Validation
 
 We will employ two tests:
 
@@ -44,10 +44,15 @@ We will employ two tests:
 
 3. Stepwise incremental improvement by adding each income bracket
 
-### Results
+## Outcome
 
-Results will be reported back as graphs and summary tables. If hypotheses not rejected, continue with other products in a automated fashion. If hypotheses rejected, abandon.
+Results will be reported back as graphs and summary tables. 
+
+If hypotheses are not rejected, continue with other products in an automated fashion. If hypotheses are rejected, abandon.
 
 ---
+[2026-03-17]  
+[Find more articles and posts](index.md)
+
 ₁₂₃
 ¹²³
