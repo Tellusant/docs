@@ -30,7 +30,7 @@ B. ln(Demand) = f[ln(Income per capita), logit(Income bracket 1), logit(Income b
 
 C. Refit with income + residualized income bracket (chosen based on A and B)
 
-Income brackets can, e.g., be seen as poor, lower, lower-middle, middle, upper-middle, upper classes.
+Income brackets can, e.g., be soccioeconomic levels poor, lower, lower-middle, middle, upper-middle, upper.
 
 Later, a nonlinear differential equation (already defined by Tellusant) may be applied if results are promising.
 
