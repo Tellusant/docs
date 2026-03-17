@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [Research on Income Distribution’s Explanatory Power of Demand](income-distribution-research-proposal.md)
+#### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
 
 #### [The Strategy Tic-Tac-Toe Method: Decomposing Corporate Performance Based on a Strategy Grid](strategy-tic-tac-toe.md)
