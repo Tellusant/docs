@@ -36,9 +36,9 @@ Later, a nonlinear differential equation (already defined by Tellusant) may be a
 
 We will employ two tests:
 
-1. x
+1. Regular goodness of fit (R²)
 
-2. y
+2. Cross-validation with the OLVCC method
 
 ### Results
 
