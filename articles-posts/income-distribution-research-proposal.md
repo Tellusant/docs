@@ -40,6 +40,10 @@ We will employ two tests:
 
 2. y
 
+### Results
+
+Results will be reported back as graphs and summary tables
+
 ---
 ₁₂₃
 ¹²³
