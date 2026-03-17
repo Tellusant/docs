@@ -4,7 +4,7 @@ description: "This proposal shows how we conduct research on income distribtion.
 image: /assets/social-card-pub.png
 ---
 # Research on Income Distribution's Explanatory Power
-This proposal shows how we conduct research on income distribution. It is written to limit scope and avoid runaway exploration. It is an update on the same research documented in [Canback, S. and F D'Agnese (2008): *Where in the World Is the Market](../papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf).
+This proposal shows how we conduct research on income distribution. It is written to limit scope and avoid runaway exploration. It is an update on the same research documented in [Canback, S. and F. D'Agnese (2008): *Where in the World Is the Market](../papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf).
 
 ### Hypotheses
 
