@@ -32,7 +32,13 @@ Income brackets can, e.g., be seen as poor, lower, lower-middle, middle, upper-m
 
 Later, a nonlinear differential may be applied if results are promising.
 
+### Validation
 
+We will employ two tests:
+
+1. x
+
+2. y
 
 ---
 ₁₂₃
