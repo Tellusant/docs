@@ -16,11 +16,21 @@ This proposal shows how we conduct research on income distribution. It is writte
 
 ### Data
 
-Out of 164 product datasets, automotive demand was chosen as the first test case because it is big ticket item that should respond to income distribution signals.
+Out of 164 product datasets collected, automotive demand was chosen as the first test case because it is cars are big ticket items that should respond to income distribution signals.
 
 Income is pulled from TelluBase to match the countries in the automotive dataset.
 
 ### Method
+
+Statistical methods where researched abd two were settled on.
+
+A. ln(Demand) = f[logit(Income bracket share 1), logit(Income bracket share 2),...]
+
+B. ln(Demand) = f[ln(Income per capita), logit(Income bracket 1), logit(Income bracket 2)...]
+
+Income brackets can, e.g., be seen as poor, lower, lower-middle, middle, upper-middle, upper classes.
+
+Later, a nonlinear differential may be applied if results are promising.
 
 
 
