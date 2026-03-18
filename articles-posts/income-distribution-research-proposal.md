@@ -51,8 +51,16 @@ Results will be reported back as graphs and summary tables.
 If hypotheses are not rejected, continue with other products in an automated fashion. If hypotheses are rejected, abandon.
 
 ---
+Initial findings on 2026-03-18.
+
+- In line with 2008 results
+- Best income bracket (IB) is Pop[80-100]
+- Best model includes both income and IB Pop[80-100]
+  - R²: car demand (new reg.) = f(income) => 0.67
+  - **R²: car demand (new reg.) = f(income, IB[Pop 80-100]) => 0.86**
+  - R²: car demand (new reg.) = f(income, IB[DI 80-100]) => 0.84
+No other tests done yet
+---
 [2026-03-17]  
 [Find more articles and posts](index.md)
 
-₁₂₃
-¹²³
