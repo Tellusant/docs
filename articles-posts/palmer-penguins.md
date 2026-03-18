@@ -39,13 +39,13 @@ This particular graph was created using kernel density estimation (KDE). Those i
 
 ## How Tellusant Uses These Methods
 
-Interesting, but how does it affect companies beyond new tools like ChatGPT? The approach is easily used to categorize, e.g., countries or consumers into segments. The graph below shows how Tellusant used this machine learning approach to classify country markets for a global company.¹
+Interesting, but how does it affect companies beyond tools like ChatGPT? The approach is easily used to categorize, e.g., countries or consumers into archetypes. The graph below shows how Tellusant used this  approach to classify country markets for a global company.¹
 
 
 <p align="center">
 <img src="assets/images/tellusant-market-clustering-pca-kde.svg"  width="800" alt="Tellusant Market Clustering PCA KDE">
 </p>
-This analysis first used principal component analysis (PCA) to find relevant dimensions, then kernel density estimation to create the clusters. Easy to do in ChatGPT.
+This analysis first used principal component analysis (PCA) to find relevant dimensions, then kernel density estimation to create the clusters. A fairly easy task once the data has been collected.
 
 The difficult part is not in the calculations. It is in having the vision that this can be done and that the outcome is useful for companies. Most people do not even try because they lack the vision and the credibility to be believed.
 
@@ -76,7 +76,7 @@ ChatGPT estimates 3-5 years untill routine automation of these kinds of methods.
 > - *hybrid modeling (agent + econometric + ML)*
 > - *direct integration with forecasting systems*
 
-As a human, I will add that the real bottleneck is an organizations ability to absorb these kinds of groundbreaking approaches. So while ChatGPT says 3-5 years, I say 5-10 years based on human limitations. I confronted ChatGPT with this and it modified its perspective:
+As a human, I will add that the real bottleneck is an organization's ability to absorb these kinds of groundbreaking approaches. So while ChatGPT says 3-5 years, I say 5-10 years based on human limitations. I confronted ChatGPT with this and it modified its perspective:
 
 > *AI will be ready long before organizations are.*
 >  
