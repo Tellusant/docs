@@ -8,9 +8,9 @@ This proposal shows how we conduct research on, e.g., income distribution. It is
 
 ### Hypotheses
 
-**Hypothesis₁** Using income distribution instead of average income per capita increases explainability of demand for consumer goods.
+**Hypothesis₁** Using income distribution *instead of* average income increases explainability of demand for consumer goods.
 
-**Hypothesis₂** Using income distribution together with average income per capita increases explainability of demand for consumer goods further.
+**Hypothesis₂** Using income distribution *together* with average income increases explainability of demand for consumer goods further.
 
 **Hypothesis₃** Nonlinear models perform best.
 
@@ -26,7 +26,7 @@ Statistical methods where researched and three were settled on.
 
 A. ln(Demand) = f[logit(Income bracket share 1), logit(Income bracket share 2),...]
 
-B. ln(Demand) = f[ln(Income per capita), logit(Income bracket 1), logit(Income bracket 2)...]
+B. ln(Demand) = f[ln(Income), logit(Income bracket 1), logit(Income bracket 2)...]
 
 C. Refit with income + residualized income bracket (chosen based on A and B)
 
@@ -59,7 +59,9 @@ If hypotheses are not rejected, continue with other products in an automated fas
   - R²: car demand (new reg.) = f(income) => 0.67  
   - **R²: car demand (new reg.) = f(income, IB[Pop 80-100]) => 0.86**  
   - R²: car demand (new reg.) = f(income, IB[DI 80-100]) => 0.84
-No other tests done yet
+No other tests done yet.
+
+At this point, hypotheses 2 and 3 (ln and logit used) are not rejected. Hypothesis 1 is neutral.
 
 ---
 [2026-03-17]  
