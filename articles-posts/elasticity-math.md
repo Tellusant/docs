@@ -16,7 +16,7 @@ I assume the reader knows elementary calculus.
 $$\mathbf{Elasticity\ \epsilon\ is\ defined\ as\ a\ change\ in\ input\ x\ leads\ to\ a\ change\ in\ output\ y}$$
    
 $$\textcolor{#c00000}{\epsilon=\frac{\Delta y}{y}/\frac{\Delta x}{x}}$$  
-  
+
 $\mathbf{Take\ \mathrm{\Delta\}  \ to\ the\ limit\ 0\ and\ you\ get}$  
 
 $$\mathbf{Take\ \mathrm{\Delta\}  \ to\ the\ limit\ 0\ and\ you\ get}$$  
