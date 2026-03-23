@@ -6,7 +6,7 @@ Its purpose is to:
 - Allow for fast search engine / AI crawling and indexing  
 - Create open access and bypass gated sites like LinkedIn and Medium
 
-The site is intentionally using only basic formatting (Markdown for text, LaTeX for equations, and Mermaid (for graphs). Graphs are usually made in SVG. This makes it easier to read for humans and to index for search engines / AI.
+The site is intentionally using only basic formatting (Markdown for text, LaTeX for equations, and Mermaid or SVG (for graphs). This makes it easier to read for humans and to index for search engines / AI.
 
 For human readers, there is a basic search function.
 
