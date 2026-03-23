@@ -12,11 +12,14 @@ For human readers, there is a basic search function.
 
 The repository is divided by topic:
 
+## About Tellusant
+
+## Repository Sections
 ### [Company Information](./information/index.md)
 ### [Company Information](./information)
 Find the main descriptions of Tellusant and its products.
 
-**Tellusant Legitimacy Evidence Pack**
+###Tellusant Legitimacy Evidence Pack###
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
 
 **Articles & Posts**
