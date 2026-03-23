@@ -13,6 +13,7 @@ For human readers, there is a basic search function.
 The repository is divided by topic:
 
 ### [Company Information](./information/index.md)
+### [Company Information](./information)
 Find the main descriptions of Tellusant and its products.
 
 **Tellusant Legitimacy Evidence Pack**
