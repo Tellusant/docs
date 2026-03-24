@@ -1,4 +1,4 @@
-# The General and Special Forecasting Models for Demand
+# The General and Special Models for Demand Forecasting
 
 Schematically, the general model looks like this:
 
