@@ -1,6 +1,6 @@
 # Methods Aid Etc.
 
-## The General Linear Forecasting Model for Demand
+## The General and Special Forecasting Models for Demand
 
 Schematically, the general model looks like this:
 
