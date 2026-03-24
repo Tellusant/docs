@@ -5,7 +5,7 @@
 Schematically, the general model looks like this:
 
 <p align="center">
-<img  src="images/eq/tgde.svg" width="500" alt="">
+<img  src="assets/images/eq/tgde.svg" width="500" alt="">
 </p>
 
 This is the equation for a "raw" regression:
