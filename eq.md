@@ -64,4 +64,4 @@ For tactical forecasting less than 4 weeks out.
 <img  src="assets/images/tsdest3.svg" width="500" alt="">
 </p>
 
-Once one of these basic equations has been modelled and understood, more complex models may be pursued. These include 
+Once one of these basic equations has been modelled and understood, more complex models may be pursued such as ECM / ARDL.
