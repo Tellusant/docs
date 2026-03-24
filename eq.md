@@ -29,7 +29,7 @@ These are ARIMAX equations, but with a clear distinction between long-term and s
 
 ## Special Models
 
-All conceivable forecasting needs are covered by 5 subsets of the general model. This is MECE. 
+All conceivable forecasting needs are covered by 5 subsets of the general model. This is MECE. [It is possible to set up all kinds variants to this (such as including the timeseries component as dummies in the S/T model), but those are rearrangements, not different models.]
 
 ### A. Long-term regression without lag effects and timeseries component
 This is useful for strategic forecasting and cross-sectional analyses. Works with pooling. 3-10 years horizon.
