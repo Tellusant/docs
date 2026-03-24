@@ -1,11 +1,9 @@
-# Methods Aid Etc.
-
-## The General and Special Forecasting Models for Demand
+# The General and Special Forecasting Models for Demand
 
 Schematically, the general model looks like this:
 
 <p align="center">
-<img  src="assets/images/tellusant-general-demand-equation.svg" width="500" alt="Equation">
+<img  src="assets/images/eq/tgde.svg" width="500" alt="">
 </p>
 
 This is the equation for a "raw" regression:
