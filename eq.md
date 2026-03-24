@@ -1,5 +1,8 @@
 # The General and Special Models for Demand Forecasting
 
+These are the equations that should be starting point for any forecating effort. The general model is rarely used. Instead pick one of the special models.
+
+
 ## General Model
 
 Schematically, the general model looks like this:
@@ -26,13 +29,22 @@ These are ARIMAX equations, but with a clear distinction between long-term and s
 
 ## Special Models
 
+### Long-term regression without lag effects and timeseries component.
+This is useful for strategic forecasting and cross-sectional analyses. Works with pooling.
+
 <p align="center">
 <img  src="assets/images/tsdelt1.svg" width="500" alt="">
 </p>
 
+### Long-term regression with timeseries component.
+This is useful for strategic forecasting with a timeseries component. It cannot be pooled.
+
 <p align="center">
 <img  src="assets/images/tsdelt2.svg" width="500" alt="">
 </p>
+
+### Short-term regression with timeseries component.
+This is a typical ARIMAX or ARMAX case for operational forecasting.
 
 <p align="center">
 <img  src="assets/images/tsdest1.svg" width="500" alt="">
