@@ -1,5 +1,7 @@
 # The General and Special Models for Demand Forecasting
 
+## General Model
+
 Schematically, the general model looks like this:
 
 <p align="center">
@@ -18,9 +20,14 @@ $$(2) \quad \Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{
 
 Note the subtle variations: *(1)* has *Δw* while (2) has *w* since it is already differenced. *(1)* has *ARIMA(p,d,q)* while (2) has *ARMA(p,q)* since *d* disappears when differencing. 
 
+Note that *LF* or *HF* coefficients may be calculated in a separate model and elasticities then set as static.
 
-Note that *LF* or *HF* coefficients may be calculated in a separate model and elasticities then set as statics.
+These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables and the timeseries component.
 
-These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables.
+## Special Models
+
+<p align="center">
+<img  src="../assets/images/eq/tgdelt1.svg" width="500" alt="">
+</p>
 
 Once one of these basic equations are modelled and understood, more complex models may be pursued.
