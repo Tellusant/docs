@@ -27,7 +27,23 @@ These are ARIMAX equations, but with a clear distinction between long-term and s
 ## Special Models
 
 <p align="center">
-<img  src="../assets/images/eq/tgdelt1.svg" width="500" alt="">
+<img  src="../assets/images/tgdelt1.svg" width="500" alt="">
+</p>
+
+<p align="center">
+<img  src="../assets/images/tgdelt2.svg" width="500" alt="">
+</p>
+
+<p align="center">
+<img  src="../assets/images/tgdest1.svg" width="500" alt="">
+</p>
+
+<p align="center">
+<img  src="../assets/images/tgdest2.svg" width="500" alt="">
+</p>
+
+<p align="center">
+<img  src="../assets/images/tgdest3.svg" width="500" alt="">
 </p>
 
 Once one of these basic equations are modelled and understood, more complex models may be pursued.
