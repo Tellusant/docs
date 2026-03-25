@@ -48,7 +48,7 @@ Trade-offs between predictive, explanatory, and understandable models in statist
 ## Past
 
 #### [America's Largest Enterprises in 2024](americas-largest-enterprises-in-2024.md)
-Tellusant's third official America's Largest Enterprises Ranking (ALERT) is out. It ranks the largest U.S. companies by value added (VA) — economist's preferred way to measure size — and a better method than ranking by revenue like Fortune does.  
+Tellusant's second official America's Largest Enterprises Ranking (ALERT) is out. It ranks the largest U.S. companies by value added (VA) — economist's preferred way to measure size — and a better method than ranking by revenue like Fortune does. Amazon is largest by far.
 
 #### [Greenhouse Gas Productivity](greenhouse-gas-productivity.md)
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?  
