@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 
 # America's Largest Enterprises in 2024
-Tellusant's third official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.
+Tellusant's second official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.
 
 **Amazon** maintains its lead at the top in 2024 and is the clear #1.
 
