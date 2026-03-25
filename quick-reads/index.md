@@ -1,7 +1,7 @@
 ---
 title: "Tellusant Quick Reads"  
 description: "Two-pagers discussing important management topics relating to our expertise."
-image: /assets/social-card.png
+image: /assets/social-card-Quick.png
 ---
 # Tellusant Quick Reads  
 
