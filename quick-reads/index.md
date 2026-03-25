@@ -17,7 +17,7 @@ Tellusant covers China with income distribution and other metrics at a detailed 
 #### [What Is Our Competitive Set? The Pepsi Example](Tellusant-Quick-Read-Competitive-Set-Pepsi-Example.pdf)  
 Who do we compete with? We use the Pepsi brand to expand the definition from the obvious to the sublime. We divide the reasoning into a qualitative example and a mathematical theory.  
 #### [Ex-post and Ex-ante Validation of Statistical Models](ex-post-and-ex-ante-validation-of-statistical-models.pdf)  
-Who do we compete with? We use the Pepsi brand to expand the definition from the obvious to the sublime. We divide the reasoning into a qualitative example and a mathematical theory.  
+There are two ways to eveluate predictive models. You can evaluate the model in itself (ex-post) or evaluate the model and quality of input data jointly (ex-ante). The most common approach is ex-post since data usually is a given outside the modeller's control, ex-ante is occassionally of use when the modeller also estimates input data.  
 #### [Corporate Renewal](Tellusant-Quick-Read-Corporate-Renewal.pdf)  
 Nothing is forever, not even giant companies. It is well known that companies grow, plateau, and fade or disappear. In the short term, the Fortune top 10 US companies in 2022 saw seven new entrants and seven exits compared to 2012. This is not unique to the tech era. Churn is the norm decade after decade.  
 #### [Defining and Quantifying Socioeconomic Levels](Tellusant-Quick-Read-Socioeconomic-Levels.pdf)  
@@ -33,7 +33,7 @@ How do we evaluate whether a company is successful? There are many frameworks bu
 #### [How The Engel Curve Shapes Global Food Spending](Tellusant-Quick-Read-Engel-Curve.pdf)  
 Ernst Engel, a German economist and statistician, published what is now known as the Engel curve in 1857. He found that as household’s income increased, the share of the income spent on food decreased.  
 #### [Income Elasticity—The Global Beer Example](Tellusant-Quick-Read-Income-Elasticity-Beer-Example.pdf)  
-How does demand for a category or industry change with disposable income and how do you go from analysis to strategic implications? We use global beer demand to illustrate.  
+How does demand for a category or industry change with disposable income and how do you go from analysis to strategic implications? We use global beer demand to illustrate. 
 #### [Introducing DuPont Curves](Tellusant-Quick-Read-DuPont-Curves.pdf)  
 DuPont analysis is one of the most fundamental concepts in financial theory. Here is a new take using what we call DuPont curves.  
 #### [Introduction to TelluBase](Tellusant-Quick-Read-TelluBase-Intro.pdf)  
