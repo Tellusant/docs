@@ -16,6 +16,8 @@ The Democratic Republic of the Congo (DRC) may be the world’s second most diff
 Tellusant covers China with income distribution and other metrics at a detailed level. China’s 1st level subdivisions are the 31 provinces and equivalent units. However, the average province has a population of 45 million people. Too many for good analyses and insights. We therefore work at the 2nd level subdivisions with 343 entities.  
 #### [What Is Our Competitive Set? The Pepsi Example](Tellusant-Quick-Read-Competitive-Set-Pepsi-Example.pdf)  
 Who do we compete with? We use the Pepsi brand to expand the definition from the obvious to the sublime. We divide the reasoning into a qualitative example and a mathematical theory.  
+#### [Ex-post and Ex-ante Validation of Statistical Models](ex-post-and-ex-ante-validation-of-statistical-models.pdf)  
+Who do we compete with? We use the Pepsi brand to expand the definition from the obvious to the sublime. We divide the reasoning into a qualitative example and a mathematical theory.  
 #### [Corporate Renewal](Tellusant-Quick-Read-Corporate-Renewal.pdf)  
 Nothing is forever, not even giant companies. It is well known that companies grow, plateau, and fade or disappear. In the short term, the Fortune top 10 US companies in 2022 saw seven new entrants and seven exits compared to 2012. This is not unique to the tech era. Churn is the norm decade after decade.  
 #### [Defining and Quantifying Socioeconomic Levels](Tellusant-Quick-Read-Socioeconomic-Levels.pdf)  
