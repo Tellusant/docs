@@ -26,5 +26,8 @@ This is for statistics experts (PhD required). It is an insightful analysis of h
 #### [A. Ananthaswamy (2024): *Why Machines Learn: The Elegant Math Behind Modern AI*. Dutton](https://www.penguinrandomhouse.com/books/677608/why-machines-learn-by-anil-ananthaswamy/)
 This magnificient book shares the history of AI starting in 1946. But in comparsion to most other science books for lay audiences, it does not shy away from going through the math in some deatails. There are page after page with matrix algebra and more. It is best suited for people who know math (college level), but others can enjoy it too. 
 
+#### [B. Gompertz (1825): *On the Nature of the Function Expressive of the Law of Human Mortality, and on a New Mode of Determining the Value of Life Contingencies*. Dutton](gompertz-1825-on-the-nature-of-the-function-expressive-of-the-law-of-human-mortality-(s-curve-origin).pdf)
+This 200 year old paper is fascinating to flip through. It lays out the idea of s-curves for the first time in social sciences with deep mathematical logic. It alos show the painstaking work on logaithms he had to do when calculators or computers where not available.
+
 ---
 [Return to Repository home](../index.md)
