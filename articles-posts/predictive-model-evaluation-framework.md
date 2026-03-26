@@ -14,7 +14,8 @@ Statistical model are often not contextualized in a structured manner and evalua
 The most important part of the modelling effort is to have the right higher-level cognitive choices laid out:  
 
 **1.1 Objectives**  
-The first aspect of model objectives is to clarify it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of nureaucracy.  
+The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completetly different modeling choices.  
+The second aspect of model objectives is to clarify it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of nureaucracy.  
 
 **1.2 Modeling Philosophy**  
 There are usefully seven modeling philosophies to choose among ranging from "let theory guide choices" to "if it works, it's OK".  
