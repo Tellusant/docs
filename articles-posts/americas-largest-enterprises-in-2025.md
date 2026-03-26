@@ -19,15 +19,17 @@ We start by presenting the results which is what most people are interested in. 
 
 The ALERT list for 2025 is shown in the graph below. Companies are ranked by value added. We also show the position change from previous year (Δ24-25), and the ratio of VA to revenue, which we call density.
 
+***The graph is preliminary. Kroger and Lowe's may change slightly, but not in position.***
+
 <p align="center">
-<img  src="assets/images/tellusant-americas-largest-enterprises-in-2024.svg" width="550" alt="Tellusant: America's largest enterprises in 2024">
+<img  src="assets/images/tellusant-americas-largest-enterprises-in-2025.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
 </p>
 
 Note that it is neither good nor bad to be large from a performance perspective. Having high or low density has no impact on performance either. Our list is only for informational purposes.
 
 What jumps out from the analysis? We see a few themes:
 
-**Work in Progress**
+***Work in Progress***
 
 ## Definitions
 There are at least five ways to define corporate size:
@@ -64,10 +66,10 @@ In our case, we use Specific VA. This differs from General VA by excluding non-a
 
 Specific VA = Operating profits + Operating expenses = Gross margin
 
-120 companies were evaluated for calendar year 2024. If their fiscal year differ from calendar year³, we use the sum of the four quarters nearest to December. If companies have off-quarter reporting⁴, we use the quarters closest to the calendar year (thus maximum one month off).
+120 companies were evaluated for calendar year 2025. If their fiscal year differ from calendar year³, we use the sum of the four quarters nearest to December. If companies have off-quarter reporting⁴, we use the quarters closest to the calendar year (thus maximum one month off).
 
 ---
-This concludes this year's review of the largest companies. This is now an annual release by Tellusant.  
+This concludes this year's review of the largest companies. This is an annual release by Tellusant.  
 
 ---
 [2025-03-20]  
