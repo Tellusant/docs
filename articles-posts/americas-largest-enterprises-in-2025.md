@@ -19,15 +19,17 @@ We start by presenting the results which is what most people are interested in. 
 
 The ALERT list for 2025 is shown in the graph below. Companies are ranked by value added. We also show the position change from previous year (Δ24-25), and the ratio of VA to revenue, which we call density.
 
+***The graph below is preliminary. Kroger and Lowes may change slightly, but not in position.***
+
 <p align="center">
-<img  src="assets/images/tellusant-americas-largest-enterprises-in-2024.svg" width="550" alt="Tellusant: America's largest enterprises in 2024">
+<img  src="assets/images/tellusant-americas-largest-enterprises-in-2024.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
 </p>
 
 Note that it is neither good nor bad to be large from a performance perspective. Having high or low density has no impact on performance either. Our list is only for informational purposes.
 
 What jumps out from the analysis? We see a few themes:
 
-**Work in Progress**
+***Work in Progress***
 
 ## Definitions
 There are at least five ways to define corporate size:
