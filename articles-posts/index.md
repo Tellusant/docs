@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent
 
-#### [xyz](xyz.md)
+#### [Predictive Model Evaluation Framework](predictive-model-evaluation-framework.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
 predictive-model-evaluation-framework.md
 
