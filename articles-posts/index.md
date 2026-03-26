@@ -10,29 +10,22 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ---
 
-## Recent
+## Recent  
 
 #### [Predictive Model Evaluation Framework](predictive-model-evaluation-framework.md)
-This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
-predictive-model-evaluation-framework.md
+Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observation and questions. Here we suggest a structured approach based on the law of threes.  
 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
 
 ### [The Strategy Tic-Tac-Toe Method: Decomposing Corporate Performance Based on a Strategy Grid](strategy-tic-tac-toe.md)
 Strategy Tic-Tac-Toe is a method explicitly rooted i economic theory that shows how value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels.  
+
 ### [PoluSim Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)
 Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we optimize it around three enterprise performance metrics.  
 
 ### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.  
-
-### [2025 in Review](2025-in-review.md)
-As we approach the holidays, here's a review of the past year. We made excellent progress across the board.  
-
-### [Global Retreat in Punta Cana 2025](punta-cana.md)
-The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort.  
-
 
 ### [The Triple-A Method for Market Sizing](triple-a.md)
 The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.  
@@ -40,16 +33,21 @@ The Addressable – Available – Actual market sizing method provides a logical
 ### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.   
 
-### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md)
-The NB8 region is tightly integrated economically and politically and has a GDP almost at Italy's size.
-
-### [The Horns of the Dilemma #2](horns-dilemma-2.md) 
-Trade-offs between predictive, explanatory, and understandable models in statistical analysis.  
-
-
 <br/>
 
 ## Past
+
+### [2025 in Review](2025-in-review.md)
+As we approach the holidays, here's a review of the past year. We made excellent progress across the board.  
+
+### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md)
+The NB8 region is tightly integrated economically and politically and has a GDP almost at Italy's size.  
+
+### [Global Retreat in Punta Cana 2025](punta-cana.md)
+The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort.  
+
+### [The Horns of the Dilemma #2](horns-dilemma-2.md) 
+Trade-offs between predictive, explanatory, and understandable models in statistical analysis.  
 
 ### [America's Largest Enterprises in 2024](americas-largest-enterprises-in-2024.md)
 Tellusant's second official America's Largest Enterprises Ranking (ALERT) is out. It ranks the largest U.S. companies by value added (VA) — economist's preferred way to measure size — and a better method than ranking by revenue like Fortune does. Amazon is largest by far.
