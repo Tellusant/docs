@@ -34,7 +34,7 @@ These higher level choices are converted into specific courses of action:
 
 **2.4 Validation**  
 
-From this stem model outcomes:
+Model outcomes stem from these:
 
 **3.1 Results**
 
