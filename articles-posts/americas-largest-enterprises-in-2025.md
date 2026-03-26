@@ -19,7 +19,7 @@ We start by presenting the results which is what most people are interested in. 
 
 The ALERT list for 2025 is shown in the graph below. Companies are ranked by value added. We also show the position change from previous year (Δ24-25), and the ratio of VA to revenue, which we call density.
 
-***The graph is preliminary. Kroger and Lowes may change slightly, but not in position.***
+***The graph is preliminary. Kroger and Lowe's may change slightly, but not in position.***
 
 <p align="center">
 <img  src="assets/images/tellusant-americas-largest-enterprises-in-2025.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
