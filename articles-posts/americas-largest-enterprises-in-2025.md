@@ -9,7 +9,7 @@ image: /assets/social-card-pub.png
 
 *Under development as reports come in. Two missing late March 2026*
 
-Tellusant's third official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.
+Tellusant's third official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does (shown later in this document).
 
 **Amazon** maintains its lead at the top in 2025 and is the clear #1.
 
@@ -17,7 +17,7 @@ We start by presenting the results which is what most people are interested in. 
 
 ## The Ranking
 
-The ALERT list for 2024 is shown in the graph below. Companies are ranked by value added. We also show the position change from previous year (Δ23-24), and the ratio of VA to revenue, which we call Density.
+The ALERT list for 2025 is shown in the graph below. Companies are ranked by value added. We also show the position change from previous year (Δ24-25), and the ratio of VA to revenue, which we call density.
 
 <p align="center">
 <img  src="assets/images/tellusant-americas-largest-enterprises-in-2024.svg" width="550" alt="Tellusant: America's largest enterprises in 2024">
@@ -27,48 +27,7 @@ Note that it is neither good nor bad to be large from a performance perspective.
 
 What jumps out from the analysis? We see a few themes:
 
-## The Tech Juggernaut
-
-The U.S. has by far the most vibrant tech sector in the world. Many countries have entrepreneurs and startups, but only the U.S. has managed to scale a few such companies to become 6 out of the top 10. Facebook, now Meta, was founded 20 years before the 2024 list. Google, now Alphabet, a few years earlier.
-
-This success is not self-made by the younger companies. They stand on the shoulders of earlier giants like Hewlett-Packard, IBM, and Microsoft (still in the race), Intel, or Texas Instruments.
-
-## The Churn
-
-There is constant churn of the largest companies in America. Over the decade, expect half of the companies to be new entrants. A defining characteristic of capitalism is the reallocation of capital to the best opportunists.
-
-2024 shows this with significant movements in the list. Over a decade, expect half of the companies to be new entrants. A defining characteristic of capitalism is the reallocation of capital to the best opportunists.
-
-2024 shows this with significant movements in the list. See how **Nvidia** gained 13 places and is now at number 9, up from 22. **Broadcom**, a competitor to Nvidia, joined the forty at number 34, up 11 places. **Eli Lilly**, **Pfizer**, and **Charter Communications** also rose quickly.
-
-**The Coca-Cola Company**, **Lowe's**, and **Elevance Health** left ALERT. It is hard to see them rejoining unless they make large acquisitions.
-
-## The Top
-**Amazon** has the honor of being the largest company in 2024 as it has for a few years. 
-
-**Alphabet**. is a solid no. 2. Few know that Alphabet is such a behemoth. Large, yes, but the second largest? Revenue rankings deceive (no. 7).
-
-**Apple** is somewhat stagnant in 2024 at no. 3. Microsoft is likely to pass in 2025 to claim the no. 3 spot.
-
-**Walmart** has surprising longevity. That a retailer can be in the top five is remarkable. On the one hand, it still has growth opportunities in the U.S. (e-commerce and more). On the other hand, it has succeeded in building a position globally.
-
-**JPMorganChase** is by far the largest financial institution. It is truly an excellent company with more or less flawless execution and an ability to shift priorities within its strategic framework.
-
-**Nvidia** continuous to show extraordinary growth and profitability based on AI chips. Nothing like it has ever been seen. It reached the no. 9 spot this year. In 2023 it was no. 22, and no. 79 in 2022. An astonishing performance, but not surprising. On current form, it is likely to become America's largest company, perhaps in 7-8 years. 
-
-## The Notables
-**Berkshire Hathaway** is slightly moving up the ranks. Like General Electric many years ago, its performance defies logic. It is likely to fade and be broken up over the next decade.
-
-**Pfizer** has turned around after plunging due to its dependence on Covid-related revenue. As the CEO said: _First, the hard truth. We missed our initial projections, largely due to the decline in sales of our COVID-19 products_.
-
-Consumer goods have all but disappeared from the list. Only **Procter & Gamble** and **PepsiCo** remain.
-
-Finally, how much did ALERT grow between 2023 and 2024? 10.6%. That is, far above inflation. This growth came mainly from tech. Without tech, the growth was 6%. Still a major achievement since inflation was 2.5%.
-
-Notable growth companies beyond Nvidia and Broadcom, are Amazon , Pfizer and Eli Lilly and Company.
-
-## Comers and Goers
-New to the list in 2024 are **Broadcom**, **Charter Communications**, and **Target**. **Lowe's**, **The Coca-Cola Company**, and **Elevance Health** left the list.
+**Work in Progress**
 
 ## Definitions
 There are at least five ways to define corporate size:
