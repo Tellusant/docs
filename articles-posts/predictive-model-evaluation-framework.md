@@ -11,7 +11,7 @@ Statistical model are often not contextualized in a structured manner and evalua
 
 ## Comments
 
-The most important part of the modelling effort is to have the right higher-level cognitive choices laid out:  
+The most important part of the modelling effort is to have the correct higher-level cognitive choices laid out:  
 
 **1.1 Objectives**  
 The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completetly different modeling choices.  
@@ -24,7 +24,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 **1.3 Limitations**  
 Any model has to make the [tradeoff between being predictive, explainable or understandable](horns-dilemma-2.md). All three cannot be achieved in one model. E.g., a pure timeseries model often works well for near-term forecasts but lacks explainability and transparency. A long-term non-linear regression model typically has high predictiveness and explainability, but may be hard to understand.  
 
-These higher level choices are converted into specific modules:
+These higher level choices are converted into specific courses of action:
 
 **2.1 Data** 
 
