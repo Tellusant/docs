@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent  
 
-#### [Predictive Model Evaluation Framework](predictive-model-evaluation-framework.md)
+### [Predictive Model Evaluation Framework](predictive-model-evaluation-framework.md)
 Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observation and questions. Here we suggest a structured approach based on the law of threes.  
 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
