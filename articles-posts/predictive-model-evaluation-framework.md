@@ -8,3 +8,31 @@ Statistical model are often not contextualized in a structured manner and evalua
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
 ">
 </p>
+
+## Comments
+
+The most important part of the modelling effort is to have the right higher-level cognitive choices laid out:  
+
+**1.1 Objectives**  
+
+**1.2 Modeling Philosophy** There are usefully seven modeling philosophies to choose among ranging from "let theory guide choices" to "if it works, it's OK".  
+
+**1.3 Limitations** Horns of Dilemma 2.  
+
+These higher level choices are converted into specific modules:
+
+**2.1 Data** 
+
+**2.2 Drivers**
+
+**2.3 Model Design**
+
+**2.4 Validation**  
+
+From this stem model outcomes:
+
+**3.1 Results**
+
+**3.2 Lessons Learned**
+
+**3.3 Recommendations**
