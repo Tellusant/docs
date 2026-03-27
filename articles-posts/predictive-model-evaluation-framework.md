@@ -67,7 +67,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 
 **1.3 Limitations**  
-Any model has to make the [tradeoff between being predictive, explainable or understandable](horns-dilemma-2.md). All three cannot be achieved in one model. E.g., a pure timeseries model often works well for near-term forecasts but lacks explainability and transparency. A long-term non-linear regression model typically has high predictiveness and explainability, but may be hard to understand.  
+Any model has to make the [tradeoff between being predictive, explanatory or understandable](horns-dilemma-2.md). All three cannot be achieved in one model. E.g., a pure timeseries model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model typically has high predictiveness and is explanatory, but may be hard to understand.  
 
 ---
 ## 2. Model Specifics
