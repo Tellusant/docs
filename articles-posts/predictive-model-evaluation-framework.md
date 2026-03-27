@@ -23,7 +23,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 
 <div class="mermaid">
 
-flowchart TB  
+flowchart TD  
 
     A --> |Approximate the world| C
     A --> |Map possible worlds| D
