@@ -29,13 +29,11 @@ flowchart TD
 
 %% ========= NODES =========
 P["Prediction Philosophies"]:::risk
-
 AW["Approximate the world"]:::risk
 AD["Approximate the data"]:::risk
 PW["Map possible worlds"]:::risk
 HA ["Let humans arbitrate"]:::risk
-
-EMP["Empirical The data know more than the model"]:::strong
+EMP["Empirical The data know more than the model"]:::risk
 STR["Structural"]:::risk
 RED["Reduced-Form"]:::risk
 STA["State-Space"]:::risk
@@ -47,6 +45,7 @@ BAY["Bayesian support"]:::risk
 P --> AW
 P --> AD
 P --> PW
+P --> HA
 AW --> STR
 AW --> RED
 AW --> STA
