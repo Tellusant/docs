@@ -28,12 +28,12 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 flowchart TD
 
 %% ========= NODES =========
-GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧<br/>Score: 3/10<br/>''Risks remain tilted to the downside''"]:::risk
-GJ["𝗚𝗥𝗢𝗪𝗧𝗛 & 𝗝𝗢𝗕𝗦<br/>Score: 4/10<br/>''Growth remains constrained by bottlenecks''"]:::risk
+FP["Prediction Philosophies"]:::risk
+AW["Approximate the world"]:::risk
 
 
 %% ========= RELATIONSHIPS =========
-GE -->|Downside risks| GJ
+FP -->|Link| AW
 
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
