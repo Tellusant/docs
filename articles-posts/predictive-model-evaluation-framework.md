@@ -53,8 +53,6 @@ flowchart TB
 
     </div/
 
-    <div class="mermaid">
-
 <div class="mermaid">
 
 flowchart TD
