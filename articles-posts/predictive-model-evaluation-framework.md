@@ -24,6 +24,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 <div class="mermaid">
 
 flowchart TB
+
     A[Forecasting Philosophies] --> B[Approximate the data]
     A --> C[Approximate the world]
     A --> D[Map possible worlds]
