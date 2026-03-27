@@ -29,23 +29,12 @@ flowchart TD
 
 %% ========= NODES =========
 GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧<br/>Score: 3/10<br/>''Risks remain tilted to the downside''"]:::risk
-FP["𝗙𝗜𝗦𝗖𝗔𝗟 𝗣𝗢𝗟𝗜𝗖𝗬<br/>Score: 3/10<br/>''Debt remains high and rising''"]:::risk
 GJ["𝗚𝗥𝗢𝗪𝗧𝗛 & 𝗝𝗢𝗕𝗦<br/>Score: 4/10<br/>''Growth remains constrained by bottlenecks''"]:::risk
-MP["𝗠𝗢𝗡𝗘𝗧𝗔𝗥𝗬 𝗣𝗢𝗟𝗜𝗖𝗬<br/>Score: 8/10<br/>''Adoption of a lower inflation target is a major policy achievement''"]:::strong
-MS["𝗠𝗔𝗖𝗥𝗢 𝗦𝗧𝗔𝗕𝗜𝗟𝗜𝗧𝗬<br/>Score: 6/10<br/>''Frameworks support resilience''"]:::neutral
-FS["𝗙𝗜𝗡𝗔𝗡𝗖𝗜𝗔𝗟 𝗦𝗘𝗖𝗧𝗢𝗥<br/>Score: 8/10<br/>''The banking system has remained sound''"]:::strong
-SR["𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗔𝗟 𝗥𝗘𝗙𝗢𝗥𝗠𝗦<br/>Score: 5/10<br/>''Implementation needs to accelerate''"]:::mixed
-LC["𝗟𝗢𝗡𝗚-𝗧𝗘𝗥𝗠 𝗖𝗢𝗡𝗙𝗜𝗗𝗘𝗡𝗖𝗘<br/>Score: 5/10<br/>''Outlook depends on reform delivery''"]:::mixed
+
 
 %% ========= RELATIONSHIPS =========
 GE -->|Downside risks| GJ
-FP -->|Constrains growth| GJ
-MP -->|Anchors inflation| MS
-MS -->|Enables| GJ
-MP -->|Strengthens| FS
-FS <-->|Depends on progress| SR
-SR -->|Pace insufficient| LC
-LC <-->|Feedback loop| GJ
+
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
 ANCHOR[" "]:::anchor
