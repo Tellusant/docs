@@ -43,18 +43,17 @@ SCE["Scenario-Based"]:::risk
 JUD["Judgmental"]:::risk
 BAY["Bayesian"]:::risk
 
- AD --> EMP
- AW --> STR
- AW --> RED
- AW --> STA
- PW --> SCE
- HA --> JUD
-
-
+ 
 %% ========= RELATIONSHIPS =========
-P -->|Link| AW
+P --> AW
 P --> AD
 P --> PW
+AD --> EMP
+AW --> STR
+AW --> RED
+AW --> STA
+PW --> SCE
+HA --> JUD
 
 
 
