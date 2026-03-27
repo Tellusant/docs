@@ -79,10 +79,12 @@ Much of a modeling effort is spent on trivial, time-consuming data tasks, especi
 Develop a list of ptential drivers based on a) theory, and b) expert opinions, but do not c) test any conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
 
 **2.3 Model Development**  
-This is based on  
+Once the higher level choices are made, it is straightforward to develop the actual model. We do not deal with this here since textbooks and AI can help sort out the details.
 
 **2.4 Validation**  
-Validate using ex-post MAPE if the model is over time, LOOVC iif it cross-sectional. Be sure to include alternative models and test against Aikake Information Criterion. But most importantly, does the model meet the smell test? An example, a team developed a demand model based on the data, testing all permutations of drivers (possible or not). They found that government budget deficit was the only meaningful driver of demand. This does not meet the smell test.  
+[Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOVC iif it cross-sectional. Be sure to include alternative models and test against Aikake Information Criterion. But most importantly, does the model meet the smell test? 
+
+An example: a team developed a demand model based for a food on the data, testing all permutations of drivers (realistic or not). They found that government budget deficit was the only meaningful driver of demand. This does not meet the smell test and is likely a fluke. 
 
 ---
 Model outcomes stem from these:  
