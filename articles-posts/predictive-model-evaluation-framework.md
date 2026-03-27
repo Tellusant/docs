@@ -68,20 +68,22 @@ classDef anchor fill:transparent,stroke:transparent;
 **1.3 Limitations**  
 Any model has to make the [tradeoff between being predictive, explainable or understandable](horns-dilemma-2.md). All three cannot be achieved in one model. E.g., a pure timeseries model often works well for near-term forecasts but lacks explainability and transparency. A long-term non-linear regression model typically has high predictiveness and explainability, but may be hard to understand.  
 
-These higher level choices are converted into specific courses of action:
+---
+These higher level choices are converted into specific courses of action:  
 
 **2.1 Data**  
-Much of a modeling effort is spent on trivial. time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.
+Much of a modeling effort is spent on trivial. time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.  
 
 **2.2 Drivers**  
-Develop a list of ptential drivers based on a) theory, and b) expert opinions.
+Develop a list of ptential drivers based on a) theory, and b) expert opinions.  
 
 **2.3 Model Development**  
-This is based on 
+This is based on  
 **2.4 Validation**  
-Validate using ex-post MAPE if the model is over time, LOOVC iif it cross-sectional. Be sure to include alternative models and test against Aikake Information Criterion. But most importantly, does the model meet the smell test? An example, a team developed a demand model based on the data, testing all permutations of drivers (possible or not). They found that government budget deficit was the only meaningful driver of demand. This does not meet the smell test.
+Validate using ex-post MAPE if the model is over time, LOOVC iif it cross-sectional. Be sure to include alternative models and test against Aikake Information Criterion. But most importantly, does the model meet the smell test? An example, a team developed a demand model based on the data, testing all permutations of drivers (possible or not). They found that government budget deficit was the only meaningful driver of demand. This does not meet the smell test.  
 
-Model outcomes stem from these:
+---
+Model outcomes stem from these:  
 
 **3.1 Results**  
 
