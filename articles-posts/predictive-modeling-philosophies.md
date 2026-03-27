@@ -1,72 +1,46 @@
 tbd
 
+<div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
+  
+flowchart LR
 
-flowchart TB
+%% ========= NODES =========
+P["`1.2<br/>**Predictive Modeling**<br/>**Philosophies**`"]:::none
 
-    %% NODES
-    A[Forecasting Philosophies]
+AW["`1.21<br/>**Approximate<br/>the World**`"]:::strong
+AD["`1.22<br/>**Approximate<br/>the Data**`"]:::mixed
+PW["`1.23<br/>**Map Possible<br/>Worlds**`"]:::neutral
+HA["`1.24<br/>**Let Humans<br/>Arbitrate**`"]:::risk
 
-    B["Empirical (Data-Driven)\nLet the data speak; structure is secondary."]
-    C["Structural (Causal / Mechanistic)\nModel the system as it actually works."]
-    D["Reduced-Form (Pragmatic Causal)\nCapture stable relationships without overcommitting to theory."]
-    E["Bayesian (Belief-Updating)\nForecasting is updating beliefs under uncertainty."]
-    F["Scenario-Based (Counterfactual)\nThe future is not a single path but a set of plausible worlds."]
-    G["State-Space (Signal Extraction)\nObserved data are noisy reflections of latent processes."]
-    H["Judgmental (Heuristic)\nModels assist, but humans decide."]
+STR["`1.211<br/>**Structural**<br/>*Only what is modeled<br/>based on theory<br/>can be trusted*`"]:::strong
+RED["`1.212<br/>**Reduced-Form**<br/>*Stability is more<br/>valuable than truth*`"]:::strong
+STA["`1.213<br/>**State-Space**<br/>*The signal is<br/>never observed<br/>directly*`"]:::strong
+EMP["`1.221<br/>**Empirical**<br/>*The data are<br/>the model*`"]:::mixed
+SCE["`1.231<br/>**Scenario-Based**<br/>*There is no<br/>single future*`"]:::neutral
+JUD["`1.241<br/>**Judgemental**<br/>*The final model<br/>is human*`"]:::risk
+BAY["`1.242<br/>**Bayesian Support**<br/>*All forecasts<br/>are probabilities*`"]:::risk
 
-    %% RELATIONSHIPS
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-    A --> F
-    A --> G
-    A --> H
+%% ========= RELATIONSHIPS =========
+P --> AW
+P --> AD
+P --> PW
+P --> HA
+AW --> STR
+AW --> RED
+AW --> STA
+AD --> EMP
+PW --> SCE
+HA --> JUD
+HA --> BAY
+
+%% ========= STYLES =========
+classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef anchor fill:transparent,stroke:transparent;
 
 </div>
-
-<div class="mermaid">
-    
-flowchart TB
-
-    %% NODES
-    A[Forecasting Philosophies]
-
-    B["Approximate the Data"]
-    C["Approximate the World"]
-    D["Explore Possible Worlds"]
-    E["Human Arbitration"]
-
-    F["Empirical (Data-Driven)\nLet the data speak; structure is secondary."]
-
-    G["Structural (Causal / Mechanistic)\nModel the system as it actually works."]
-    H["Reduced-Form (Pragmatic Causal)\nCapture stable relationships without overcommitting to theory."]
-    I["State-Space (Signal Extraction)\nObserved data are noisy reflections of latent processes."]
-
-    J["Scenario-Based (Counterfactual)\nThe future is not a single path but a set of plausible worlds."]
-
-    K["Judgmental (Heuristic)\nModels assist, but humans decide."]
-
-    L["Bayesian (Belief-Updating)\nForecasting is updating beliefs under uncertainty."]
-
-    %% RELATIONSHIPS
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-
-    B --> F
-
-    C --> G
-    C --> H
-    C --> I
-
-    D --> J
-
-    E --> K
-
-    %% Bayesian spans across (placed centrally)
-    A --> L
-
-    </div>
+</div>
