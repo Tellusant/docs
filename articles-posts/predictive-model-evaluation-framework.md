@@ -27,7 +27,7 @@ P["1.2<br/>`**Prediction**`<br/>𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝗶𝗲𝘀
 flowchart LR
 
 %% ========= NODES =========
-P["`**Prediction**`"]:::none
+P["`**Prediction**<br/>**Philosophies**`"]:::none
 
 AW["1.21<br/>𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲<br/>𝘁𝗵𝗲 𝗪𝗼𝗿𝗹𝗱"]:::strong
 AD["1.22<br/>𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲<br/>𝘁𝗵𝗲 𝗗𝗮𝘁𝗮"]:::mixed
