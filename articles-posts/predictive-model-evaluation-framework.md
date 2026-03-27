@@ -30,10 +30,14 @@ flowchart TD
 %% ========= NODES =========
 FP["Prediction Philosophies"]:::risk
 AW["Approximate the world"]:::risk
-
+AD["Approximate the data"]:::risk
+PW["Map possible worlds"]:::risk
 
 %% ========= RELATIONSHIPS =========
 FP -->|Link| AW
+FP --> AD
+FP --> PW
+
 
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
