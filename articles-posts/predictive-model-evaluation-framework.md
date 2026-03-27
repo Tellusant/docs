@@ -19,7 +19,7 @@ The first aspect of objectives is whether the model is strategic horizons (3-, 5
 The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of nureaucracy.  
 
 **1.2 Modeling Philosophy**  
-There are usefully seven modeling philosophies to choose among ranging from "let theory guide choices" to "if it works, it's OK". 
+There are usefully seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK". 
 
 <div style="max-width: 400px; margin: 0 auto;">
 <div class="mermaid">
