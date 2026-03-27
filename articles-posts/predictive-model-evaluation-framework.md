@@ -30,12 +30,12 @@ flowchart TD
 %% ========= NODES =========
 P["Prediction Philosophies"]:::risk
 
-AW["Approximate the world"]:::risk
-AD["Approximate the data"]:::risk
-PW["Map possible worlds"]:::risk
-HA["Let humans arbitrate"]:::risk
+AW["Approximate<br/>the world"]:::risk
+AD["Approximate<br/>the data"]:::risk
+PW["Map possible<br/>worlds"]:::risk
+HA["Let humans<br/>arbitrate"]:::risk
 
-EMP["Empirical The data know more than the model"]:::risk
+EMP["Empirical<br/>The data know<br/>more than the model"]:::risk
 STR["Structural"]:::risk
 RED["Reduced-Form"]:::risk
 STA["State-Space"]:::risk
