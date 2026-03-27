@@ -28,20 +28,20 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 flowchart LR
 
 %% ========= NODES =========
-P["Prediction<br/>Philosophies"]:::none
+P["1.2<br/>Prediction<br/>Philosophies"]:::none
 
-AW["Approximate<br/>the world"]:::strong
-AD["Approximate<br/>the data"]:::mixed
-PW["Map possible<br/>worlds"]:::neutral
-HA["Let humans<br/>arbitrate"]:::risk
+AW["1.21<br/>Approximate<br/>the world"]:::strong
+AD["1.22<br/>Approximate<br/>the data"]:::mixed
+PW["2.23<br/>Map possible<br/>worlds"]:::neutral
+HA["1.24<br/>Let humans<br/>arbitrate"]:::risk
 
-EMP["Empirical<br/>''The data are<br/>the model''"]:::mixed
-STR["Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::strong
-RED["Reduced-Form<br/>''Stability is more<br/>valuable than truth''"]:::strong
-STA["State-Space<br/>''The signal is<br/>never observed<br/>directly''"]:::strong
-SCE["Scenario-Based<br/>''There is no<br/>single future''"]:::neutral
-JUD["Judgmental<br/>''The final model<br/>is human''"]:::risk
-BAY["Bayesian support<br/>''All forecasts<br/>are probabilities''"]:::risk
+STR["1.211<br/>Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::strong
+RED["1.212<br/>Reduced-Form<br/>''Stability is more<br/>valuable than truth''"]:::strong
+STA["1.213<br/>State-Space<br/>''The signal is<br/>never observed<br/>directly''"]:::strong
+EMP["1.221<br/>Empirical<br/>''The data are<br/>the model''"]:::mixed
+SCE["1.231<br/>Scenario-Based<br/>''There is no<br/>single future''"]:::neutral
+JUD["1.241<br/>Judgmental<br/>''The final model<br/>is human''"]:::risk
+BAY["1.242<br/>Bayesian support<br/>''All forecasts<br/>are probabilities''"]:::risk
 
 %% ========= RELATIONSHIPS =========
 P --> AW
@@ -73,10 +73,10 @@ Any model has to make the [tradeoff between being predictive, explainable or und
 These higher level choices are converted into specific courses of action:  
 
 **2.1 Data**  
-Much of a modeling effort is spent on trivial. time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.  
+Much of a modeling effort is spent on trivial, time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.  
 
 **2.2 Drivers**  
-Develop a list of ptential drivers based on a) theory, and b) expert opinions.  
+Develop a list of ptential drivers based on a) theory, and b) expert opinions, but do not c) test any conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
 
 **2.3 Model Development**  
 This is based on  
