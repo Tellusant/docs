@@ -25,14 +25,14 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 
 <div class="mermaid">
 
-flowchart TD
-
 %% ========= NODES =========
 P["Prediction Philosophies"]:::risk
+
 AW["Approximate the world"]:::risk
 AD["Approximate the data"]:::risk
 PW["Map possible worlds"]:::risk
-HA ["Let humans arbitrate"]:::risk
+HA["Let humans arbitrate"]:::risk
+
 EMP["Empirical The data know more than the model"]:::risk
 STR["Structural"]:::risk
 RED["Reduced-Form"]:::risk
@@ -53,7 +53,6 @@ AD --> EMP
 PW --> SCE
 HA --> JUD
 HA --> BAY
-
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
