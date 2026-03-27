@@ -9,7 +9,7 @@ Statistical model are often not contextualized in a logical manner and evaluatin
 ">
 </p>
 
-## Higher Order Cognitive Choices
+## 1. Higher Order Cognitive Choices
 
 The most important part of the modelling effort is to have the correct higher-order cognitive choices laid out:  
 
