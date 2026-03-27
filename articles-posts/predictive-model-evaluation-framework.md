@@ -1,6 +1,6 @@
 # Tellusant Predictive Model Evaluation Framework
 
-*Work in progress. Graph is correct*  
+*Work in progress. Text getting there. Graph is correct*  
 
 Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes.
 
