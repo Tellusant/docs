@@ -28,7 +28,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 flowchart LR
 
 %% ========= NODES =========
-P["Prediction<br/>Philosophies"]:::risk
+P["Prediction<br/>Philosophies"]:::none
 
 AW["Approximate<br/>the world"]:::strong
 AD["Approximate<br/>the data"]:::mixed
@@ -36,7 +36,7 @@ PW["Map possible<br/>worlds"]:::neutral
 HA["Let humans<br/>arbitrate"]:::risk
 
 EMP["Empirical<br/>''The data are<br/>the model''"]:::mixed
-STR["Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::srong
+STR["Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::strong
 RED["Reduced-Form<br/>''Stability is more<br/>valuable than truth''"]:::strong
 STA["State-Space<br/>''The signal is<br/>never observed<br/>directly''"]:::strong
 SCE["Scenario-Based<br/>''There is no<br/>single future''"]:::neutral
