@@ -21,7 +21,7 @@ The second aspect of model objectives is to clarify if it is developed to [save 
 **1.2 Modeling Philosophy**  
 There are usefully seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK". 
 
-<div style="max-width: 400px; margin: 0 auto;">
+<div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
   
 flowchart LR
