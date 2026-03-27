@@ -1,8 +1,8 @@
 # How to Specify and Evaluate (but not Build) Predictive Models
 
-*Work in progress. Text getting there. Graph is correct*  
+*Work in progress. Text getting there. Graphs are correct*  
 
-Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
+Statistical model are often not contextualized in a logical manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
@@ -27,7 +27,7 @@ There are usefully seven modeling philosophies to choose among and combine, rang
 flowchart LR
 
 %% ========= NODES =========
-P["`1.2<br/>**Prediction**<br/>**Philosophies**`"]:::none
+P["`1.2<br/>**Modeling**<br/>**Philosophy**`"]:::none
 
 AW["`1.21<br/>**Approximate<br/>the World**`"]:::strong
 AD["`1.22<br/>**Approximate<br/>the Data**`"]:::mixed
