@@ -33,6 +33,7 @@ D[Test3]
     A --> |Map possible worlds| D
   
     </div/
+    
 <div class="mermaid">
 
 flowchart TB  
@@ -54,9 +55,9 @@ flowchart TB
 
     <div class="mermaid">
 
-flowchart TD
-
 <div class="mermaid">
+
+flowchart TD
 
 %% ========= NODES =========
 GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧<br/>Score: 3/10<br/>''Risks remain tilted to the downside''"]:::risk
