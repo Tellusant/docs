@@ -32,7 +32,7 @@ P["1.2<br/>𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻<br/>𝗣𝗵𝗶𝗹𝗼𝘀
 
 AW["1.21<br/>𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲<br/>𝘁𝗵𝗲 𝗪𝗼𝗿𝗹𝗱"]:::strong
 AD["1.22<br/>𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲<br/>𝘁𝗵𝗲 𝗗𝗮𝘁𝗮"]:::mixed
-PW["2.23<br/>𝗠𝗮𝗽 𝗣𝗼𝘀𝘀𝗶𝗯𝗹𝗲<br/>𝗪𝗼𝗿𝗹𝗱𝘀"]:::neutral
+PW["1.23<br/>𝗠𝗮𝗽 𝗣𝗼𝘀𝘀𝗶𝗯𝗹𝗲<br/>𝗪𝗼𝗿𝗹𝗱𝘀"]:::neutral
 HA["1.24<br/>𝗟𝗲𝘁 𝗛𝘂𝗺𝗮𝗻𝘀<br/>𝗔𝗿𝗯𝗶𝘁𝗿𝗮𝘁𝗲"]:::risk
 
 STR["1.211<br/>𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗮𝗹<br/>''Only what is modeled<br/>causally can be trusted''"]:::strong
