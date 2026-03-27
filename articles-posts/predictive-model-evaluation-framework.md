@@ -25,7 +25,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 
 <div class="mermaid">
 
-flowchart TD
+flowchart LR
 
 %% ========= NODES =========
 P["Prediction Philosophies"]:::risk
