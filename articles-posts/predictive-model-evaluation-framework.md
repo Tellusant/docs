@@ -35,7 +35,7 @@ AD["Approximate the data"]:::risk
 PW["Map possible worlds"]:::risk
 HA ["Let humans arbitrate"]:::risk
 
-EMP["Empirical<br/>Score: 3/10<br/>''The data know more than the model''"]:::risk
+EMP["Empirical The data know more than the model"]:::risk
 STR["Structural"]:::risk
 RED["Reduced-Form"]:::risk
 STA["State-Space"]:::risk
