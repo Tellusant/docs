@@ -16,7 +16,7 @@ The most important part of the modelling effort is to have the correct higher-le
 **1.1 Objectives**  
 The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completetly different modeling choices.  
 
-The second aspect of model objectives is to clarify it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of nureaucracy.  
+The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of nureaucracy.  
 
 **1.2 Modeling Philosophy**  
 There are usefully seven modeling philosophies to choose among ranging from "let theory guide choices" to "if it works, it's OK". 
@@ -71,18 +71,21 @@ Any model has to make the [tradeoff between being predictive, explainable or und
 
 These higher level choices are converted into specific courses of action:
 
-**2.1 Data** 
+**2.1 Data**  
+Much of a modeling effort is spent on trivial. time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.
 
-**2.2 Drivers**
+**2.2 Drivers**  
+Develop a list of ptential drivers based on a) theory, and b) expert opinions.
 
-**2.3 Model Design**
-
+**2.3 Model Development**  
+This is based on 
 **2.4 Validation**  
+Validate using ex-post MAPE if the model is over time, LOOVC iif it cross-sectional. Be sure to include alternative models and test against Aikake Information Criterion. But most importantly, does the model meet the smell test? An example, a team developed a demand model based on the data, testing all permutations of drivers (possible or not). They found that government budget deficit was the only meaningful driver of demand. This does not meet the smell test.
 
 Model outcomes stem from these:
 
-**3.1 Results**
+**3.1 Results**  
 
-**3.2 Lessons Learned**
+**3.2 Lessons Learned**  
 
-**3.3 Recommendations**
+**3.3 Recommendations**  
