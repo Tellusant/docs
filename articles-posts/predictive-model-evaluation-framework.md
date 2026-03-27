@@ -34,7 +34,7 @@ AD["`1.22<br/>**Approximate<br/>the Data`"]:::mixed
 PW["`1.23<br/>**Map Possible<br/>Worlds`"]:::neutral
 HA["`1.24<br/>**Let Humans<br/>Arbitrate`"]:::risk
 
-STR["`1.211<br/>Structural<br/>*Only what is modeled<br/>causally can be trusted*`"]:::strong
+STR["`1.211<br/>Structural<br/>*Only what is modeled<br/>based on theory<br/>can be trusted*`"]:::strong
 RED["`1.212<br/>𝗥𝗲𝗱𝘂𝗰𝗲𝗱-𝗙𝗼𝗿𝗺<br/>Stability is more<br/>valuable than truth`"]:::strong
 STA["`1.213<br/>𝗦𝘁𝗮𝘁𝗲-𝗦𝗽𝗮𝗰𝗲<br/>The signal is<br/>never observed<br/>directly`"]:::strong
 EMP["`1.221<br/>𝗘𝗺𝗽𝗶𝗿𝗶𝗰𝗮𝗹<br/>The data are<br/>the model`"]:::mixed
