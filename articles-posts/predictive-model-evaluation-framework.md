@@ -29,10 +29,10 @@ flowchart LR
 %% ========= NODES =========
 P["`**Prediction**<br/>**Philosophies**`"]:::none
 
-AW["`1.21<br/>**Approximate<br/>the World`"]:::strong
-AD["`1.22<br/>**Approximate<br/>the Data`"]:::mixed
-PW["`1.23<br/>**Map Possible<br/>Worlds`"]:::neutral
-HA["`1.24<br/>**Let Humans<br/>Arbitrate`"]:::risk
+AW["`1.21<br/>**Approximate<br/>the World**`"]:::strong
+AD["`1.22<br/>**Approximate<br/>the Data**`"]:::mixed
+PW["`1.23<br/>**Map Possible<br/>Worlds**`"]:::neutral
+HA["`1.24<br/>**Let Humans<br/>Arbitrate**`"]:::risk
 
 STR["`1.211<br/>**Structural**<br/>*Only what is modeled<br/>based on theory<br/>can be trusted*`"]:::strong
 RED["`1.212<br/>**Reduced-Form**<br/>*Stability is more<br/>valuable than truth*`"]:::strong
