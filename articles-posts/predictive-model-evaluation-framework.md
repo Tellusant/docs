@@ -24,7 +24,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 
 
 <div class="mermaid">
-
+<div style="max-width: 550px; margin: 0 auto;">
 flowchart LR
 
 %% ========= NODES =========
@@ -65,7 +65,7 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 classDef anchor fill:transparent,stroke:transparent;
 
 </div>
-
+</div>
 **1.3 Limitations**  
 Any model has to make the [tradeoff between being predictive, explainable or understandable](horns-dilemma-2.md). All three cannot be achieved in one model. E.g., a pure timeseries model often works well for near-term forecasts but lacks explainability and transparency. A long-term non-linear regression model typically has high predictiveness and explainability, but may be hard to understand.  
 
