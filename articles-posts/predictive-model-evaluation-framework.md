@@ -31,15 +31,15 @@ flowchart LR
 P["Prediction<br/>Philosophies"]:::risk
 
 AW["Approximate<br/>the world"]:::strong
-AD["Approximate<br/>the data"]:::risk
-PW["Map possible<br/>worlds"]:::risk
+AD["Approximate<br/>the data"]:::mixed
+PW["Map possible<br/>worlds"]:::neutral
 HA["Let humans<br/>arbitrate"]:::risk
 
-EMP["Empirical<br/>''The data are<br/>the model''"]:::risk
-STR["Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::risk
-RED["Reduced-Form<br/>''Stability is more<br/>valuable than truth''"]:::risk
-STA["State-Space<br/>''The signal is<br/>never observed<br/>directly''"]:::risk
-SCE["Scenario-Based<br/>''There is no<br/>single future''"]:::risk
+EMP["Empirical<br/>''The data are<br/>the model''"]:::mixed
+STR["Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::srong
+RED["Reduced-Form<br/>''Stability is more<br/>valuable than truth''"]:::strong
+STA["State-Space<br/>''The signal is<br/>never observed<br/>directly''"]:::strong
+SCE["Scenario-Based<br/>''There is no<br/>single future''"]:::neutral
 JUD["Judgmental<br/>''The final model<br/>is human''"]:::risk
 BAY["Bayesian support<br/>''All forecasts<br/>are probabilities''"]:::risk
 
