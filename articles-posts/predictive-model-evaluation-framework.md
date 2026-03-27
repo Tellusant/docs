@@ -28,7 +28,7 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 flowchart TD
 
 %% ========= NODES =========
-p["Prediction Philosophies"]:::risk
+P["Prediction Philosophies"]:::risk
 
 AW["Approximate the world"]:::risk
 AD["Approximate the data"]:::risk
