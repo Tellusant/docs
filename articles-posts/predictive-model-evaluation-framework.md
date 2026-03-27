@@ -25,6 +25,10 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 
 flowchart TD  
 
+A[Test1]
+C[Test2]
+D[Test3]
+
     A --> |Approximate the world| C
     A --> |Map possible worlds| D
   
