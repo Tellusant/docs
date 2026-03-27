@@ -1,4 +1,4 @@
-# Tellusant Predictive Model Evaluation Framework
+# How to Design and Evaluate (but not Build) Predictive Models
 
 *Work in progress. Text getting there. Graph is correct*  
 
