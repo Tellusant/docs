@@ -41,7 +41,7 @@ RED["Reduced-Form"]:::risk
 STA["State-Space"]:::risk
 SCE["Scenario-Based"]:::risk
 JUD["Judgmental"]:::risk
-BAY["Bayesian"]:::risk
+BAY["Bayesian support"]:::risk
 
 %% ========= RELATIONSHIPS =========
 P --> AW
@@ -53,7 +53,7 @@ AW --> STA
 AD --> EMP
 PW --> SCE
 HA --> JUD
-
+HA --> BAY
 
 
 %% ========= STYLES =========
