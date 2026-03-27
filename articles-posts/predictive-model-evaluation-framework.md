@@ -1,6 +1,6 @@
 ---
 title: "How to Specify and Evaluate (but not Build) Predictive Models"
-description: "Statistical models are often not contextualized in a logical manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach."
+description: "Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach."
 image: /assets/social-card-pub.png
 ---
 
@@ -8,7 +8,7 @@ image: /assets/social-card-pub.png
 
 *Work in progress. Text getting there. Graphs are correct*  
 
-Statistical models are often not contextualized in a logical manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
+Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
