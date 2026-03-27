@@ -27,7 +27,7 @@ There are usefully seven modeling philosophies to choose among and combine, rang
 flowchart LR
 
 %% ========= NODES =========
-P["`**Prediction**<br/>**Philosophies**`"]:::none
+P["`**1.2 Prediction**<br/>**Philosophies**`"]:::none
 
 AW["`1.21<br/>**Approximate<br/>the World**`"]:::strong
 AD["`1.22<br/>**Approximate<br/>the Data**`"]:::mixed
