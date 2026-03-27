@@ -21,13 +21,14 @@ The second aspect of model objectives is to clarify if it is developed to [save 
 **1.2 Modeling Philosophy**  
 There are usefully seven modeling philosophies to choose among ranging from "let theory guide choices" to "if it works, it's OK". 
 
-<div class="mermaid">
 <div style="max-width: 550px; margin: 0 auto;">
+<div class="mermaid">
+
   
 flowchart LR
 
 %% ========= NODES =========
-P["1.2<br/>𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻<br/>𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝗶𝗲𝘀"]:::none
+P["1.2<br/>`**Prediction**`<br/>𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝗶𝗲𝘀"]:::none
 
 AW["1.21<br/>𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲<br/>𝘁𝗵𝗲 𝗪𝗼𝗿𝗹𝗱"]:::strong
 AD["1.22<br/>𝗔𝗽𝗽𝗿𝗼𝘅𝗶𝗺𝗮𝘁𝗲<br/>𝘁𝗵𝗲 𝗗𝗮𝘁𝗮"]:::mixed
