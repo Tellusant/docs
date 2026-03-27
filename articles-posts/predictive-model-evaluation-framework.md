@@ -28,20 +28,20 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 flowchart LR
 
 %% ========= NODES =========
-P["Prediction Philosophies"]:::risk
+P["Prediction<br/>Philosophies"]:::risk
 
-AW["Approximate<br/>the world"]:::risk
+AW["Approximate<br/>the world"]:::strong
 AD["Approximate<br/>the data"]:::risk
 PW["Map possible<br/>worlds"]:::risk
 HA["Let humans<br/>arbitrate"]:::risk
 
-EMP["Empirical<br/>The data know<br/>more than the model"]:::risk
-STR["Structural"]:::risk
-RED["Reduced-Form"]:::risk
-STA["State-Space"]:::risk
-SCE["Scenario-Based"]:::risk
-JUD["Judgmental"]:::risk
-BAY["Bayesian support"]:::risk
+EMP["Empirical<br/>''The data are<br/>the model''"]:::risk
+STR["Structural<br/>''Only what is modeled<br/>causally can be trusted''"]:::risk
+RED["Reduced-Form<br/>''Stability is more<br/>valuable than truth''"]:::risk
+STA["State-Spac<br/>''The signal is never observed directly''"]:::risk
+SCE["Scenario-Based<br/>''There is no<br/>single future''"]:::risk
+JUD["Judgmental<br/>''The final model is human''"]:::risk
+BAY["Bayesian support<br/>''All forecasts<br/>are probabilities''"]:::risk
 
 %% ========= RELATIONSHIPS =========
 P --> AW
