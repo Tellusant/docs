@@ -21,37 +21,7 @@ The second aspect of model objectives is to clarify it is developed to [save cos
 **1.2 Modeling Philosophy**  
 There are usefully seven modeling philosophies to choose among ranging from "let theory guide choices" to "if it works, it's OK". 
 
-<div class="mermaid">
 
-flowchart TD  
-
-A[Test1]
-C[Test2]
-D[Test3]
-
-    A --> |Approximate the world| C
-    A --> |Map possible worlds| D
-  
-    </div/
-    
-<div class="mermaid">
-
-flowchart TB  
-
-    A[Forecasting Philosophies] --> B[Approximate the data]
-    A --> C[Approximate the world]
-    A --> D[Map possible worlds]
-    A --> E[Let humans arbitrate]
-
-    B --> B1[Empirical]
-    C --> C1[Structural]
-    C --> C2[Reduced-Form]
-    C --> C3[State-Space]
-    D --> D1[Scenario-Based]
-    E --> E1[Judgmental]
-    E --> E2[Bayesian supports all through uncertainty]
-
-    </div/
 
 <div class="mermaid">
 
