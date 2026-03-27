@@ -2,7 +2,7 @@
 
 *Work in progress. Text getting there. Graph is correct*  
 
-Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes.
+Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
