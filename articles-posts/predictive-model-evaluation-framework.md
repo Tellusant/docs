@@ -34,13 +34,13 @@ AD["`1.22<br/>**Approximate<br/>the Data`"]:::mixed
 PW["`1.23<br/>**Map Possible<br/>Worlds`"]:::neutral
 HA["`1.24<br/>**Let Humans<br/>Arbitrate`"]:::risk
 
-STR["`1.211<br/>Structural<br/>*Only what is modeled<br/>based on theory<br/>can be trusted*`"]:::strong
-RED["`1.212<br/>𝗥𝗲𝗱𝘂𝗰𝗲𝗱-𝗙𝗼𝗿𝗺<br/>Stability is more<br/>valuable than truth`"]:::strong
-STA["`1.213<br/>𝗦𝘁𝗮𝘁𝗲-𝗦𝗽𝗮𝗰𝗲<br/>The signal is<br/>never observed<br/>directly`"]:::strong
-EMP["`1.221<br/>𝗘𝗺𝗽𝗶𝗿𝗶𝗰𝗮𝗹<br/>The data are<br/>the model`"]:::mixed
-SCE["`1.231<br/>𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼-𝗕𝗮𝘀𝗲𝗱<br/>There is no<br/>single future`"]:::neutral
-JUD["`1.241<br/>𝗝𝘂𝗱𝗴𝗺𝗲𝗻𝘁𝗮𝗹<br/>The final model<br/>is human`"]:::risk
-BAY["`1.242<br/>𝗕𝗮𝘆𝗲𝘀𝗶𝗮𝗻 𝗦𝘂𝗽𝗽𝗼𝗿𝘁<br/>All forecasts<br/>are probabilities`"]:::risk
+STR["`1.211<br/>**Structural**<br/>*Only what is modeled<br/>based on theory<br/>can be trusted*`"]:::strong
+RED["`1.212<br/>**Reduced-Form**<br/>*Stability is more<br/>valuable than truth*`"]:::strong
+STA["`1.213<br/>**State-Space**<br/>*The signal is<br/>never observed<br/>directly*`"]:::strong
+EMP["`1.221<br/>**Empirical**<br/>*The data are<br/>the model*`"]:::mixed
+SCE["`1.231<br/>**Scenario-Based**<br/>*There is no<br/>single future*`"]:::neutral
+JUD["`1.241<br/>**Judgemental**<br/>*The final model<br/>is human*`"]:::risk
+BAY["`1.242<br/>**Bayesian Support**<br/>*All forecasts<br/>are probabilities*`"]:::risk
 
 %% ========= RELATIONSHIPS =========
 P --> AW
