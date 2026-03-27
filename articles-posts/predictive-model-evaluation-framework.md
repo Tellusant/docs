@@ -28,25 +28,35 @@ There are usefully seven modeling philosophies to choose among ranging from "let
 flowchart TD
 
 %% ========= NODES =========
-FP["Prediction Philosophies"]:::risk
+p["Prediction Philosophies"]:::risk
+
 AW["Approximate the world"]:::risk
 AD["Approximate the data"]:::risk
 PW["Map possible worlds"]:::risk
+HA ["Let humans arbitrate"]:::risk
+
+EMP["Empirical"]:::risk
+STR["Structural"]:::risk
+RED["Reduced-Form"]:::risk
+STA["State-Space"]:::risk
+SCE["Scenario-Based"]:::risk
+JUD["Judgmental"]:::risk
+BAY["Bayesian"]:::risk
+
+ AD --> EMP
+ AW --> STR
+ AW --> RED
+ AW --> STA
+ PW --> SCE
+ HA --> JUD
+
 
 %% ========= RELATIONSHIPS =========
-FP -->|Link| AW
-FP --> AD
-FP --> PW
+P -->|Link| AW
+P --> AD
+P --> PW
 
 
-
-%% ========= INVISIBLE LAYOUT CONTROL =========
-ANCHOR[" "]:::anchor
-
-%% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
-SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬<br/>Weighted average score:<br/>5.05/10<br/>''Strong monetary and financial anchors
-support stability, but fiscal constraints and slow reform implementation keep growth subdued''"]:::summary
-LC -.-> SUM:::anchor
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
