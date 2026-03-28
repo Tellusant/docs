@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent  
 
-### [How to Specify and Evaluate Predictive Models](predictive-model-evaluation-framework.md)
+### [How to Specify and Evaluate Predictive Models](predictive-model-specification-and-evaluation-framework.md)
 Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions.  Here we suggest a structured approach based on the law of threes for both the specification and evaluation phases.  
 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
