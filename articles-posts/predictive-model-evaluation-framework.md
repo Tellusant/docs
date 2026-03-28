@@ -28,7 +28,7 @@ The first aspect of objectives is whether the model is strategic horizons (3-, 5
 
 The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
 
-**1.2 Modeling Philosophy**  
+**1.2 Philosophies of Predictive Modeling**  
 There are usefully seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK". 
 
 <div style="max-width: 450px; margin: 0 auto;">
@@ -82,21 +82,19 @@ Any model has to make the [tradeoff between being predictive, explanatory or und
 ---
 ## 2. Model Specifics
 
-These higher level choices are converted into specific courses of action:  
+These higher level choices are converted into specific courses of action. These are the subject of countless textbooks so we only touch on a few points:  
 
 **2.1 Data**  
 Much of a modeling effort is spent on trivial, time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.  
 
 **2.2 Drivers**  
-Develop a list of ptential drivers based on a) theory, and b) expert opinions, but do not c) test any conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
+Develop a list of ptential drivers based on a) theory, and b) expert opinions, but do not c) test every conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
 
 **2.3 Model Development**  
-Once the higher level choices are made, it is straightforward to develop the actual model. We do not deal with this here since textbooks and AI can help sort out the details.
+Once the higher level choices are made, it is straightforward to develop the actual model. Much work though.
 
 **2.4 Validation**  
-[Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOVC iif it cross-sectional. Be sure to include alternative models and test against Aikake Information Criterion. But most importantly, does the model meet the smell test? 
-
-An example: a team developed a demand model based for a food on the data, testing all permutations of drivers (realistic or not). They found that government budget deficit was the only meaningful driver of demand. This does not meet the smell test and is likely a fluke. 
+[Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOVC if it is cross-sectional. Be sure to include alternative models (especielly the naïve model) and compare with Aikake Information Criterion (AIC). But most importantly, does the model chosen meet the smell test?  
 
 ---
 ## 3. Model outcomes stem from from choices under 1. and 2.:  
