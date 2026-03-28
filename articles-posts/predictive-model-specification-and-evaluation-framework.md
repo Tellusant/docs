@@ -29,7 +29,7 @@ Here we mainly discuss time-dependent models (we say time-dependent, not time se
 
 The most important part of the modeling effort is to have the correct higher-order cognitive choices laid out:  
 
-### 1.0 Literature Review
+#### 1.01 Literature Review
 
 Before starting, do a thorough search of the relevant authorities. For cross-sectional and near-term predictions, there is plenty of literature; for long-term predictions there is not much. When evaluating, make sure the authorities are listed. *A model without explicit authorities cited is no model.*  
 - Economic theory (3-5 papers). Very important.  
@@ -37,12 +37,12 @@ Before starting, do a thorough search of the relevant authorities. For cross-sec
 
 We have observed that data scientists often have limited knowledge of economic theory and jump into econometrics too quickly. This sometimes makes them ill equipped to develop useful models.
 
-**1.1 Objectives**  
+### 1.1 Objectives  
 The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completely different modeling choices.  
 
 The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Too often, objectives focus on accuracy. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
 
-**1.2 Philosophies of Predictive Modeling**  
+### 1.2 Philosophies of Predictive Modeling  
 There are, usefully, seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK". 
 
 [The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.
@@ -95,7 +95,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 </div>
 
-**1.3 Limitations**  
+### 1.3 Limitations  
 Any model has to make the [tradeoff between being predictive, explanatory or understandable](horns-dilemma-2.md). All three cannot be achieved in one model. E.g., a pure time series model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model typically has high predictiveness and is explanatory, but may be hard to understand.  
 
 ---
@@ -154,5 +154,4 @@ One common problem is that the evaluation is often seconded to an academic revie
 This said, the main recommendations should be implemented in a timely manner for the good of results for years to come.
 
 ---
-[2026-03-28]  
 [Find more articles and posts](index.md)
