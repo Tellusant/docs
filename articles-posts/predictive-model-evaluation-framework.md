@@ -33,7 +33,7 @@ The most important part of the modelling effort is to have the correct higher-or
 
 ### 1.0 Literature Review
 
-Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much. When evaluating, make sure the authorities are listed. *A model without explicit authorities is no model.*  
+Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much. When evaluating, make sure the authorities are listed. *A model without explicit authorities cited is no model.*  
 - Economic theory (3-5 papers). Very important.  
 - Econometric methods (3-5 papers). Somewhat important.
 
