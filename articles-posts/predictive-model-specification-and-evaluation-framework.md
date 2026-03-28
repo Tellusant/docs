@@ -132,14 +132,16 @@ We therefore have an AND logic: **1∧2∧3**.
 
 ### 3.2 Lessons Learned  
 
-### 3.3 Recommendations  
-There will inevitably be a few recommendations, ideally three and ranked by importance. The three can then have sub-points.
+### 3.3 Recommendations 
+This is best on numerous practical recommendations rounds at various clients.
 
-Recommendations should include timing. What is important now? In next years cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to not stir up unnecessary work.
+There will inevitably be a few recommendations; ideally three and ranked by importance. The three can then have sub-points.
+
+Recommendations should include timing. What is important now? In next year's cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to not stir up unnecessary work.
 
 Most models perform well if they where developed by thoughtful people without too much rush. Therefore, one cannot expect recommendations too be overly expansive. If they are, maybe the evaluators should be scrutinized.
 
-One common problem is that the evaluation is often seconded to an academic reviewer. Those reviewers, knowingly or not, tend to offer extensive criticism of what the builders have created, especially if they come with a commercial background. The main question is: are such points truly adding to the model objectives and philosophy?
+One common problem is that the evaluation is often seconded to an academic reviewer. Those reviewers, knowingly or not, tend to offer extensive criticism of what the builders have created, especially if they come from a commercial background. The main question is: are such points truly adding to the model objectives?
 
 This said, the main recommendations should be implemented in a timely manner for the good of results for years to come.
 
