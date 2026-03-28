@@ -45,7 +45,7 @@ The second aspect of model objectives is to clarify if it is developed to [save 
 **1.2 Philosophies of Predictive Modeling**  
 There are, usefully, seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK". 
 
-(The seven philosphies are explicated in this separate document)[predictive-modeling-philosophies.md], but here is a summary.
+[The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.
 
 <p align="center">
 <b>PHILOSOPHIES OF PREDICTIVE MODELING</b>
