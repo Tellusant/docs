@@ -116,9 +116,19 @@ Once the higher level choices are made, it is straightforward to develop the act
 [Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOVC if it is cross-sectional. Be sure to include alternative models (especielly the naïve model) and compare with Aikake Information Criterion (AIC). But most importantly, does the model chosen meet the smell test?  
 
 ---
-## 3. Model outcomes stem from from choices under 1. and 2.:  
+## 3. Model outcomes  
+
+
 
 **3.1 Results**  
+The **first** dimension of results is if the model aligns with the objectives. If the model is meant to be accurate, is it? If it is meant to save cost and time, does it?
+The **second** dimension is the user interface? Can the model be used by the intended audience? Did it turn out to be a model by modellers for modellers? Delivering models in Excel and PowerPoint is prohibited. It only leads to version creep, and mistakes. Cloud-based deliveries based on modern tools is the only way to go.
+
+The **third** dimension is model consistency. There are two subdimensions: 
+- Is the model consistent for all users? E.g., will a user in one country get results generated in the same manner as a a user in another country. The method has to be the same, the data, coefficients (elasticities), and findings differ.
+- Is the model accurate. This goes back to 2.4 above. This is important, but if the model violates points **one* and *two*, accuracy does not matter.
+
+We therefore see an AND logic: 
 
 **3.2 Lessons Learned**  
 
