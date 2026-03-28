@@ -8,8 +8,6 @@ image: /assets/social-card-pub.png
 
 *by Dr. Staffan Canback, Tellusant*
 
-*Work in progress. Text getting there. Graphs are correct*  
-
 Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
 This is not about building models; it is about what happens before and after building.
@@ -103,23 +101,23 @@ Any model has to make the [tradeoff between being predictive, explanatory or und
 
 These higher level choices are converted into specific courses of action. These are the subject of countless textbooks so we only touch on a few points:  
 
-**2.1 Data**  
+### 2.1 Data
 Much of a modeling effort is spent on trivial, time-consuming data tasks, especially data wrangling. Having a clear view on what is needed saves considerable time.  
 
-**2.2 Drivers**  
+### 2.2 Drivers  
 Develop a list of ptential drivers based on a) theory, and b) expert opinions, but do not c) test every conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
 
-**2.3 Model Development**  
+### 2.3 Model Development  
 Once the higher level choices are made, it is straightforward to develop the actual model. Much work though.
 
-**2.4 Validation**  
+## 2.4 Validation  
 [Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOVC if it is cross-sectional. Be sure to include alternative models (especielly the naïve model) and compare with Aikake Information Criterion (AIC). But most importantly, does the model chosen meet the smell test?  
 
 ---
 ## 3. Model outcomes  
 Outcomes are seen in the evalution phase but are obviously not part of the specification phase.
 
-**3.1 Results**  
+### 3.1 Results  
 The **first** dimension of results is if the model aligns with the objectives. If the model is meant to be accurate, is it? If it is meant to save cost and time, does it?  
 
 The **second** dimension is the user interface? Can the model be used by the intended audience? Did it turn out to be a model by modellers for modellers? Delivering models in Excel and PowerPoint is prohibited. It only leads to version creep, and mistakes. Cloud-based deliveries based on modern tools is the only way to go.  
@@ -131,9 +129,9 @@ The **third** dimension is model consistency. There are two subdimensions:
 
 We therefore have an AND logic: **1∧2∧3**.
 
-**3.2 Lessons Learned**  
+### 3.2 Lessons Learned  
 
-**3.3 Recommendations**  
+### 3.3 Recommendations  
 There will inevitably be a few recommendations, ideally three and ranked by importance. The three can then have sub-points.
 
 Recommendations should include timing. What is important now? In next years cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to not stir up unnecessary work.
