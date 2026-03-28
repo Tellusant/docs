@@ -1,3 +1,9 @@
+---
+title: "Philosophies of Predictive Modeling"
+description: "Work-in-progress"
+image: /assets/social-card-pub.png
+---
+
 # Philosophies of Predictive Modeling
 
 Work-in-progress. The 7 boxes will be explained.
