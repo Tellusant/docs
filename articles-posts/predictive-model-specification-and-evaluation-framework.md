@@ -98,7 +98,6 @@ Any model has to make the [tradeoff between being predictive, explanatory or und
 
 ---
 ## 2. Model Specifics
-
 These higher level choices are converted into specific courses of action. These are the subject of countless textbooks so we only touch on a few points:  
 
 ### 2.1 Data
@@ -130,16 +129,23 @@ The **third** dimension is model consistency. There are two subdimensions:
 
 We therefore have an AND logic: **1∧2∧3**.
 
-### 3.2 Lessons Learned  
+### 3.2 Lessons Learned   
+There will inevitably be lessons learned in a process that often has taken 6 months up to two years (not all the time is spent on modelling, it also includes application development and user training).
+
+Lessons can often be grouped in three buckets:
+- *Improving data management*. Companies are still in the infancy of robust data management. They may collect the data, but do not wrangle it. Subsidiaries use different sources and defintions. There are always important lessons in data management. [3.21]
+- *Increasing parsimomony*. There is intense pressure from executives without statistical training to have many indpenedent variables. Therefore models tend to
+be less parsimonious and more bloated than necessary [3.22]
+- *New areas to pursue*. For example, a model may be aimed for strategic purposes, but it is learned that there is also a need for a operational model. Strategic and operational models have little in common. [3.23]
 
 ### 3.3 Recommendations 
-This is best on numerous practical recommendations rounds at various clients.
+This is based on numerous practical recommendations rounds at various clients.
 
 There will inevitably be a few recommendations; ideally three and ranked by importance. The three can then have sub-points.
 
 Recommendations should include timing. What is important now? In next year's cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to not stir up unnecessary work.
 
-Most models perform well if they where developed by thoughtful people without too much rush. Therefore, one cannot expect recommendations too be overly expansive. If they are, maybe the evaluators should be scrutinized.
+Most models perform well if they where developed by thoughtful people without too much rush. Therefore, one cannot expect recommendations too be overly expansive. If they are, maybe the evaluators should be scrutinized. Or maybe the builders and the evaluatore come from different philosophical schools (see 1.2) without knowing it.
 
 One common problem is that the evaluation is often seconded to an academic reviewer. Those reviewers, knowingly or not, tend to offer extensive criticism of what the builders have created, especially if they come from a commercial background. The main question is: are such points truly adding to the model objectives?
 
