@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 # Philosophies of Predictive Modeling
 
-Work-in-progress. The 7 boxes will be explained.
+Work-in-progress. The 11 boxes will be explained.
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
