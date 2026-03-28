@@ -14,6 +14,14 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 
 This is not about building models; it is about what happens before and after building.
 
+Predictive models mostly come in four flavors:
+- Short-term time dependent
+- Long-term time dependent
+- Geographic cross-sectional
+- Product cross-sectional
+
+Here we mainly discuss time dependent models (we say time dependent, not timeseries because timeseries is associated with ARIMA and similar, which is only one aspect of time.)
+
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
 ">
@@ -25,7 +33,11 @@ The most important part of the modelling effort is to have the correct higher-or
 
 ### 1.0 Literature Review
 
-Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much. When evaluating, make sure the authorities are listed (3-5 is sufficient). *A model without explicit authorities is no model.*
+Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much. When evaluating, make sure the authorities are listed. *A model without explicit authorities is no model.*  
+- Economic theory (3-5 papers). Very important.  
+- Econometric methods (3-5 papers). Somewhat important.
+
+We have observed that data scientistists often have little konwledge of economic theory and jump into econometrics too quickly. This sometimes make them ill equipped to develop useful models.
 
 **1.1 Objectives**  
 The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completetly different modeling choices.  
