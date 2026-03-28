@@ -6,6 +6,8 @@ image: /assets/social-card-pub.png
 
 # How to Specify and Evaluate Predictive Models
 
+*by Dr. Staffan Canback, Tellusant*
+
 *Work in progress. Text getting there. Graphs are correct*  
 
 Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
