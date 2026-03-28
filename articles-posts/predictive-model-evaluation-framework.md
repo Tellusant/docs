@@ -20,7 +20,7 @@ Predictive models mostly come in four flavors:
 - Geographic cross-sectional
 - Product cross-sectional
 
-Here we mainly discuss time dependent models (we say time dependent, not timeseries because timeseries is associated with ARIMA and similar, which is only one aspect of time.)
+Here we mainly discuss time-dependent models (we say time dependent, not timeseries because timeseries is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems.)
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
