@@ -128,7 +128,7 @@ The **second** dimension is the user interface? Can the model be used by the int
 The **third** dimension is model consistency. There are two subdimensions:  
 
 - Is the model consistent for all users? E.g., will a user in one country get results generated in the same manner as a a user in another country. The method has to be the same, the data, coefficients (elasticities), and findings differ.  
-- Is the model accurate. This goes back to 2.4 above. This is important, but if the model violates points **one* and *two*, accuracy does not matter.  
+- Is the model accurate. This goes back to 2.4 above. This is important, but if the model violates points *one* and *two*, accuracy does not matter.  
 
 We therefore have an AND logic: **1∧2∧3**.
 
