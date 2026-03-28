@@ -10,7 +10,7 @@ image: /assets/social-card-pub.png
 
 *Work in progress. Text getting there. Graphs are correct*  
 
-Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach based on the law of threes. We use Wittgenstein's numbering system.
+Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
 This is not about building models; it is about what happens before and after building.
 
