@@ -13,19 +13,19 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 This is not about building models; it is about what happens before and after building.
 
 Predictive models mostly come in four flavors:
-- Short-term time dependent
-- Long-term time dependent
+- Short-term time-dependent
+- Long-term time-dependent
 - Geographic cross-sectional
 - Product cross-sectional
 
-Here we mainly discuss time-dependent models (we say time dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems.)
+Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems.)
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
 ">
 </p>
 
-## 1. Higher Order Cognitive Choices
+## 1. Higher-Order Cognitive Choices
 
 The most important part of the modeling effort is to have the correct higher-order cognitive choices laid out:  
 
@@ -35,7 +35,7 @@ Before starting, do a thorough search of the relevant authorities. For cross-sec
 - Economic theory (3-5 papers). Very important.  
 - Econometric methods (3-5 papers). Somewhat important.
 
-We have observed that data scientists often have little knowledge of economic theory and jump into econometrics too quickly. This sometimes makes them ill equipped to develop useful models.
+We have observed that data scientists often have limited knowledge of economic theory and jump into econometrics too quickly. This sometimes makes them ill equipped to develop useful models.
 
 **1.1 Objectives**  
 The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completely different modeling choices.  
@@ -107,14 +107,14 @@ Much of a modeling effort is spent on trivial, time-consuming data tasks, especi
 Develop a list of potential drivers based on a) theory, and b) expert opinions, but do not c) test every conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
 
 ### 2.3 Model Development  
-Once the higher level choices are made, it is straightforward to develop the actual model. Much work though.
+Once the higher level choices are made, it is straightforward to develop the actual model. It is still a great deal of work.
 
 ### 2.4 Validation  
 [Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOCV if it is cross-sectional. Be sure to include alternative models (especially the naïve model) and compare with Aikaike Information Criterion (AIC). But most importantly, does the model chosen meet the smell test?  
 
 ---
 ## 3. Model outcomes  
-Outcomes are seen in the evaluation phase but are obviously not part of the specification phase. 
+Outcomes are seen in the evaluation phase, but are obviously not part of the specification phase. 
 ### 3.1 Results  
 Results are far more than model accuracy.
 
