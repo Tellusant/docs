@@ -10,7 +10,8 @@ Here we recommend high quality readings by external authorities, touching on our
 #### [Vaswani, A., N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A.N. Gomez, L. Kaiser, & I. Polosukhin (2017): Attention Is All You Need](google-attention-is-all-you-need-transformer-paper.pdf)
 In 2017, Google and the University of Toronto published this paper that revolutionized AI by introducing the concept of transformers. It is a surprisingly short and easy read (but not easy to understand). Flip through it, and if you are mathematically minded, read it. After all, this has had more immediate impact on humanity than anything before it.
 #### [Ananthaswamy, A. (2024): *Why Machines Learn: The Elegant Math Behind Modern AI*](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749/ref=sr_1_1?sr=8-1)
-This is the best introduction to AI we know of. It does not shy away from the math (unlike most science books for lay audiences). It also gives the history of AI starting in1943 with the Perceptron and covering the seminal conference at Dartmouth College in 1956 when the term Artificial Intelligence was coined (Dartmouth Summer Research Project on Artificial Intelligence).
+This magnificent book is the best introduction to AI we know of. It does not shy away from the math (unlike most science books for lay audiences). It also gives the history of AI starting in 1943 with the Perceptron and covers the seminal conference at Dartmouth College in 1956 when the term Artificial Intelligence was coined (Dartmouth Summer Research Project on Artificial Intelligence).  
+
 #### [A. Banerjee and E. Duflo: *The Economic Lives of the Poor*. JEP](https://www.aeaweb.org/articles?id=10.1257/jep.21.1.141)
 This groundbreaking easy-to-read paper on the lives of poor people around the world was a main contributor to their Nobel Prize in Economics award. It has influnced our quantification of socioeconomic levels. 🇴🇵ᴇ🇳 🇦🇨🇨ᴇꜱꜱ
 
@@ -23,8 +24,6 @@ This comparative paper between China and the Eurozone is amazingly fact based. M
 #### [Stata: *Analyzing Federal Reserve Posture with Stata Structural Break Tests*](https://www.stata.com/manuals14/tsestatsbsingle.pdf)
 This is for statistics experts (PhD required). It is an insightful analysis of how the Federal Reserve switches between full employment and low inflation postures, its two goals.
 
-#### [A. Ananthaswamy (2024): *Why Machines Learn: The Elegant Math Behind Modern AI*. Dutton](https://www.penguinrandomhouse.com/books/677608/why-machines-learn-by-anil-ananthaswamy/)
-This magnificient book shares the history of AI starting in 1946. But in comparsion to most other science books for lay audiences, it does not shy away from going through the math in some deatails. There are page after page with matrix algebra and more. It is best suited for people who know math (college level), but others can enjoy it too. 
 
 #### [B. Gompertz (1825): *On the Nature of the Function Expressive of the Law of Human Mortality, and on a New Mode of Determining the Value of Life Contingencies*. Dutton](gompertz-1825-on-the-nature-of-the-function-expressive-of-the-law-of-human-mortality-(s-curve-origin).pdf)
 This 200 year old paper is fascinating to flip through. It lays out the idea of s-curves for the first time in social sciences with deep mathematical logic. It alos show the painstaking work on logaithms he had to do when calculators or computers where not available.
