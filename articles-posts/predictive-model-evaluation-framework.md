@@ -19,13 +19,13 @@ This is not about building models; it is about what happens before and after bui
 ">
 </p>
 
-## 0. Literature Review
-
-Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much.
-
 ## 1. Higher Order Cognitive Choices
 
 The most important part of the modelling effort is to have the correct higher-order cognitive choices laid out:  
+
+### 1.0 Literature Review
+
+Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much. When evaluating, make sure the authorities are listed (3-5 is sufficient). *A model without explicit authorities is no model.*
 
 **1.1 Objectives**  
 The first aspect of objectives is whether the model is strategic horizons (3-, 5-, 10-years out) or for near-term operational or even tactical uses (0-18 months out). Or perhaps it is a geographic model (cross-sectional). These three uses lead to completetly different modeling choices.  
