@@ -15,7 +15,7 @@ This magnificent book is the best introduction to AI we know of. It does not shy
 #### [A. Banerjee and E. Duflo: *The Economic Lives of the Poor*. JEP](https://www.aeaweb.org/articles?id=10.1257/jep.21.1.141)
 This groundbreaking easy-to-read paper on the lives of poor people around the world was a main contributor to their Nobel Prize in Economics award. It has influnced our quantification of socioeconomic levels. 🇴🇵ᴇ🇳 🇦🇨🇨ᴇꜱꜱ
 
-#### [M. Rossi (2013): *Exchange Rate Predictability*. JEL](https://www.aeaweb.org/articles?id=10.1257/jel.51.4.1063))
+#### [M. Rossi (2013): *Exchange Rate Predictability*. JEL](https://www.aeaweb.org/articles?id=10.1257/jel.51.4.1063)
 This brilliant paper explains why a random walk is the best predictor of future exchange rates in the long run. Many snake oil sellers claim to have better models, but it all false.
 
 #### [A. Al-Haschimi et al. (2025): *Why Competition with China is Getting Tougher than Ever*. ECB](https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog240903~57f1b63192.en.html)
