@@ -19,6 +19,10 @@ This is not about building models; it is about what happens before and after bui
 ">
 </p>
 
+## 0. Literature Review
+
+Before starting, do a thorough a thorough search of the relevant authorities. For cross-sectional and near-term predictions there is plenty of literature, for long-term predictions there is not much.
+
 ## 1. Higher Order Cognitive Choices
 
 The most important part of the modelling effort is to have the correct higher-order cognitive choices laid out:  
