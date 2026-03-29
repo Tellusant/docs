@@ -57,7 +57,7 @@ These are not model classes, but default stances about how uncertainty is repres
 [The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.  
 
 <p align="center">
-<b>PHILOSOPHIES OF PREDICTIVE MODELING</b>
+<b>PHILOSOPHICAL STANCES OF PREDICTIVE MODELING</b>
 </p>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
@@ -103,6 +103,8 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+
+A literature review will help in finding the right philosophical stance.
 
 ### 1.3 Limitations  
 All models face tradeoffs between being predictive, explanatory, and understandable. These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
