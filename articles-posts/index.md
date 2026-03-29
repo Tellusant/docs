@@ -12,8 +12,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Recent  
 
-### [Predictive Model Evaluation Framework](predictive-model-evaluation-framework.md)
-Statistical model are often not contextualized in a structured manner and evaluating them becomes a laundry list of observation and questions. Here we suggest a structured approach based on the law of threes.  
+### [How to Specify and Evaluate Predictive Models](predictive-model-specification-and-evaluation-framework.md)
+Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions.  Here we suggest a structured approach based on the law of threes for both the specification and evaluation phases.  
 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
