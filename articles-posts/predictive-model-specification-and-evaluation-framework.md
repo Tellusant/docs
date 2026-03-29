@@ -160,7 +160,7 @@ The **third** dimension is reliability. There are two subdimensions:
 
 These three dimensions are jointly necessary.
 
-We therefore have an AND logic: 1∧2∧3.
+We therefore have an AND logic: 1 ∧ 2 ∧ 3.
 
 ### 3.2 Lessons Learned   
 There will inevitably be lessons learned in a process that often has taken 6 months up to two years (not all the time is spent on modeling; it also includes application development and user training).
