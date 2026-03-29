@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 # Philosophical Stances of Predictive Modeling
 
-Work-in-progress. The 4+7 boxes will be explained.
+Work-in-progress. Deadline: end of [week 14](https://vecka.nu/). The 4+7 boxes will be explained
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
