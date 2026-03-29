@@ -35,7 +35,7 @@ Corporate predictive models (outside engineering and finance) arguably come in f
 
 Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems).
 
-With this as background, a holistic schenatic of a predictive modeling initiatives is shown below.
+With this as background, a holistic schematic of a predictive modeling initiatives is shown below.
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="550" alt="Tellusant predictive model evaluation framework.svg
