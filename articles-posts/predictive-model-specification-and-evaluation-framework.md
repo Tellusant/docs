@@ -4,7 +4,7 @@ description: "Statistical models are seldom well contextualized and evaluating t
 image: /assets/social-card-pub.png
 ---
 
-# How to Specify and Evaluate Predictive Models - DEEP EDIT VERSION
+# How to Specify and Evaluate Predictive Models
 
 *by Dr. Staffan Canback, Tellusant*
 
