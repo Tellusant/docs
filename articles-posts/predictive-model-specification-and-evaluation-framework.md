@@ -175,5 +175,5 @@ One common problem is that evaluation is often seconded to an academic reviewer.
 This said, the main recommendations should be implemented in a timely manner for the good of results for years to come.
 
 ---
-[Find more articles and posts](index.md)
+[Find more articles and posts](index.md)  
 Deep edit version
