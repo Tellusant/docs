@@ -30,7 +30,7 @@ Here we mainly discuss time-dependent models (we say time-dependent, not time se
 With this as background, a holistic schenatic of a predictive modeling initiatives is shown below.
 
 <p align="center">
-<img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
+<img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="550" alt="Tellusant predictive model evaluation framework.svg
 ">
 </p>
 
