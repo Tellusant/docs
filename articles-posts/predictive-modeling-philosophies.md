@@ -1,12 +1,12 @@
 ---
-title: "Philosophies of Predictive Modeling"
+title: "Philosophical Stances of Predictive Modeling"
 description: "Work-in-progress"
 image: /assets/social-card-pub.png
 ---
 
-# Philosophies of Predictive Modeling
+# Philosophical Stances of Predictive Modeling
 
-Work-in-progress. The 11 boxes will be explained.
+Work-in-progress. The 4+7 boxes will be explained.
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
