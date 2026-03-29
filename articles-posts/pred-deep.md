@@ -19,15 +19,15 @@ Predictive models should be evaluated across three layers:
 
 Failure at any one layer can outweigh success at the others.  
 
-Predictive models mostly come in four flavors:  
+Corporate predictive models (outside engineering and finance) arguably come in four main categories that can be mixed:  
 - Short-term time-dependent  
 - Long-term time-dependent  
 - Geographic cross-sectional  
 - Product cross-sectional  
 
-These categories mix time horizon and domain. In practice, modeling problems are defined along three dimensions: time structure (time-dependent vs cross-sectional), horizon (short vs long), and domain (geographic vs product).  
+Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems).
 
-Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems.)  
+With this as background, a holistic schenatic of a predictive modeling initiatives is shown below.
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
