@@ -13,9 +13,9 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 This is not about building models; it is about how models should be judged.
 
 Predictive models should be evaluated across three layers:
-- the framing before modeling,
-- the technical construction
-- the outcomes and practical usage  
+1. the framing before modeling,
+2. the technical construction
+3. the outcomes and practical usage  
 
 Failure at any one layer can outweigh success at the others.  
 
