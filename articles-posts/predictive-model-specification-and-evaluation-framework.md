@@ -10,7 +10,7 @@ image: /assets/social-card-pub.png
 
 Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
-This is not about building models; it is about how models should be judged.
+This paper is not about building models; it is about how models should be framed and judged.
 
 Predictive models should be evaluated across three layers:
 1. Higher-order cognitive framing before modeling
