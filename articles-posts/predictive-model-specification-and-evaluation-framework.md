@@ -112,7 +112,8 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 </div>
 
-A literature review will help in finding the right philosophical stance. It should be combined with an interpretation of what top management is looking for.*
+A literature review will help in finding the right philosophical stance. It should be combined with an interpretation of what top management is looking for.¹
+
 
 ### 1.3 Limitations  
 All models face [tradeoffs between being predictive, explanatory, and understandable](horns-dilemma-2.md). These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
@@ -183,7 +184,7 @@ One common problem is that evaluation is often seconded to an academic reviewer.
 This said, the main recommendations should be implemented in a timely manner for the good of results for years to come.
 
 ---
-* senior executives are usually not able to articulate this clearly (few would know what state-space or Bayesian means), but it can be deduced from the interviews mentioned earlier.
+¹ Senior executives are, for good reasons, usually not able to articulate this clearly (few would know what state-space or Bayesian means), but it can be deduced from the interviews mentioned earlier.
 
 ---
 [Find more articles and posts](index.md)  
