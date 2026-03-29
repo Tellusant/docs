@@ -14,7 +14,7 @@ image: /assets/social-card-pub.png
 >
 >The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be decided before an effort starts.
 >
->It is intended as a prescriptive framework with flexibility with the aim of satisfying top managements' priorities and corporate users' needs.
+>It is intended as a prescriptive framework with flexibility, with the aim of satisfying top managements' priorities and corporate users' needs.
 
 Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
@@ -112,7 +112,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 </div>
 
-A literature review will help in finding the right philosophical stance. It should be combined with an interpretation of what top management is looking for (senior executives are usually not able to articulate this clearly (few would know what state-space or Bayesian means), but it can be deduced from the interviews mentioned earlier).
+A literature review will help in finding the right philosophical stance. It should be combined with an interpretation of what top management is looking for.*
 
 ### 1.3 Limitations  
 All models face [tradeoffs between being predictive, explanatory, and understandable](horns-dilemma-2.md). These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
@@ -181,6 +181,9 @@ Most models perform well if they were developed by thoughtful people without too
 One common problem is that evaluation is often seconded to an academic reviewer. Those reviewers, knowingly or not, tend to offer extensive criticism of what the builders have created, especially if they come from a commercial background. The main question is: are such points truly adding to the model objectives?
 
 This said, the main recommendations should be implemented in a timely manner for the good of results for years to come.
+
+---
+* senior executives are usually not able to articulate this clearly (few would know what state-space or Bayesian means), but it can be deduced from the interviews mentioned earlier.
 
 ---
 [Find more articles and posts](index.md)  
