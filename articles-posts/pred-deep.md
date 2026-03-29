@@ -14,47 +14,47 @@ This is not about building models; it is about how models should be judged.
 
 Predictive models should be evaluated across three layers:
 - the framing before modeling,
-- the technical construction, and
-- the way models are used.
+- the technical construction
+- the outcomes and practical usage  
 
-Failure at any one layer can outweigh success at the others.
+Failure at any one layer can outweigh success at the others.  
 
-Predictive models mostly come in four flavors:
-- Short-term time-dependent
-- Long-term time-dependent
-- Geographic cross-sectional
-- Product cross-sectional
+Predictive models mostly come in four flavors:  
+- Short-term time-dependent  
+- Long-term time-dependent  
+- Geographic cross-sectional  
+- Product cross-sectional  
 
-These categories mix time horizon and domain. In practice, modeling problems are defined along three dimensions: time structure (time-dependent vs cross-sectional), horizon (short vs long), and domain (geographic vs product).
+These categories mix time horizon and domain. In practice, modeling problems are defined along three dimensions: time structure (time-dependent vs cross-sectional), horizon (short vs long), and domain (geographic vs product).  
 
-Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems.)
+Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems.)  
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="500" alt="Tellusant predictive model evaluation framework.svg
 ">
 </p>
 
-## 1. Higher-Order Cognitive Choices
+## 1. Higher-Order Cognitive Choices  
 
-Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the estimation step.
+Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the estimation step.  
 
-A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, such guidance is more limited.
+A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, such guidance is more limited.  
 
 ### 1.1 Objectives  
-Objectives define what success means.
+Objectives define what success means.  
 
-The first aspect is the use case: strategic horizons (3-, 5-, 10-years out), near-term operational or tactical uses (0–18 months out), or cross-sectional analysis. These lead to fundamentally different modeling approaches.
+The first aspect is the use case: strategic horizons (3-, 5-, 10-years out), near-term operational or tactical uses (0–18 months out), or cross-sectional analysis. These lead to fundamentally different modeling approaches.  
 
-The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Accuracy is often overemphasized relative to cost and time. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.
+The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Accuracy is often overemphasized relative to cost and time. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
 
 ### 1.2 Philosophies of Predictive Modeling  
-Modeling also reflects underlying philosophical choices.
+Modeling also reflects underlying philosophical choices.  
 
-There are, usefully, seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK".
+There are, usefully, seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK".  
 
-These are not model classes, but default stances about how uncertainty is represented and resolved.
+These are not model classes, but default stances about how uncertainty is represented and resolved.  
 
-[The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.
+[The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.  
 
 <p align="center">
 <b>PHILOSOPHIES OF PREDICTIVE MODELING</b>
@@ -105,28 +105,28 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 
 ### 1.3 Limitations  
-All models face tradeoffs between being predictive, explanatory, and understandable. These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.
+All models face tradeoffs between being predictive, explanatory, and understandable. These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
 
 ---
 
 ## 2. Model Specifics
 
-Model specifics are downstream consequences of higher-order choices. These are the subject of countless textbooks, so we only touch on a few points:
+Model specifics are downstream consequences of higher-order choices. These are the subject of countless textbooks, so we only touch on a few points:  
 
 ### 2.1 Data
-Much of a modeling effort is spent on time-consuming data tasks, especially data wrangling. Having a clear view of what is needed saves considerable time.
+Much of a modeling effort is spent on time-consuming data tasks, especially data wrangling. Having a clear view of what is needed saves considerable time.  
 
 ### 2.2 Drivers  
-Develop a list of potential drivers based on a) theory, and b) expert opinions, but do not c) test every conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).
+Develop a list of potential drivers based on a) theory, and b) expert opinions, but do not c) test every conceivable driver except if you use philosophy 1.221, in which case you do not do a) and b).  
 
 ### 2.3 Model Development  
-Once the higher-level choices are made, it is straightforward to develop the actual model. It is still a great deal of work.
+Once the higher-level choices are made, it is straightforward to develop the actual model. It is still a great deal of work.  
 
 ### 2.4 Validation  
-Validation should be understood in three layers:
-- statistical fit,
-- comparison with alternatives,
-- practical plausibility.
+Validation should be understood in three layers:  
+- statistical fit  
+- comparison with alternatives  
+- practical plausibility  
 
 [Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOCV if it is cross-sectional. Be sure to include alternative models (especially the naïve model) and compare with Akaike Information Criterion (AIC). But most importantly, does the chosen model meet the smell test?
 
