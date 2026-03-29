@@ -1,10 +1,10 @@
 ---
-title: "The Horns of the Dilemma #1"
+title: "The Horns of the Dilemma in Strategy"
 description: "Trade-offs between generality, precision, and realism in strategy development"
 image: /assets/social-card-pub.png
 ---
 
-# The Horns of the Dilemma #1
+# The Horns of the Dilemma in Strategy
 ## Trade-offs between generality, precision, and realism in strategy development
 *Dr. Staffan Canback, Tellusant*  
 
