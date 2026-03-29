@@ -13,11 +13,11 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 This is not about building models; it is about how models should be judged.
 
 Predictive models should be evaluated across three layers:
-1. the framing before modeling,
-2. the technical construction
-3. the outcomes and practical usage  
+1. Higher-order cognitive framing before modeling
+2. Model construction and validation
+3. Model outcomes and practical usage  
 
-Failure at any one layer can outweigh success at the others.  
+Failure at any one layer can outweigh success at the others. However, most modeling efforts focus on the second layer.
 
 Corporate predictive models (outside engineering and finance) arguably come in four main categories that can be mixed:  
 - Short-term time-dependent  
@@ -34,7 +34,7 @@ With this as background, a holistic schenatic of a predictive modeling initiativ
 ">
 </p>
 
-## 1. Higher-Order Cognitive Choices  
+## 1. Higher-Order Cognitive Framing
 
 Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the estimation step.  
 
@@ -109,7 +109,7 @@ All models face tradeoffs between being predictive, explanatory, and understanda
 
 ---
 
-## 2. Model Specifics
+## 2. Model Construction
 
 Model specifics are downstream consequences of higher-order choices. These are the subject of countless textbooks, so we only touch on a few points:  
 
@@ -133,7 +133,7 @@ Validation should be understood in three layers:
 ---
 
 ## 3. Model outcomes  
-Outcomes are seen in the evaluation phase, but are not part of the specification phase.
+Outcomes are seen in the evaluation phase, but are not part of the framing phase.
 
 ### 3.1 Results  
 Evaluation is not reducible to accuracy.
