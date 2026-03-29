@@ -1,11 +1,11 @@
 ---
-title: "The Horns of the Dilemma #2"
+title: "The Horns of the Dilemma in Statistical Modeling"
 description: "In statistical analyses, you cannot get everything. This framework explains the trade-offs."
 image: /assets/social-card-pub.png
 ---
 
-# The Horns of the Dilemma #2
-*Dr. Staffan Canback, Tellusant*  
+# The Horns of the Dilemma in Statistical Modeling
+*by Dr. Staffan Canback, Tellusant*  
 
 When working with large companies, we often encounter people who want everything from statistical analyses. They want a model to predict well, to explain what is going on (the drivers), and to be understandable by them as non-experts.  
 

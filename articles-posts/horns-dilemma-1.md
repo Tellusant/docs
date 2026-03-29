@@ -1,14 +1,14 @@
 ---
-title: "The Horns of the Dilemma #1"
+title: "The Horns of the Dilemma in Strategy Development"
 description: "Trade-offs between generality, precision, and realism in strategy development"
 image: /assets/social-card-pub.png
 ---
 
-# The Horns of the Dilemma #1
+# The Horns of the Dilemma in Strategy Development
 ## Trade-offs between generality, precision, and realism in strategy development
 *Dr. Staffan Canback, Tellusant*  
 
-In strategic planning efforts, the team responsible has to decide upfront what it wants to achieve. It cannot get general results, precise results, and realistic results simultaneously. This is called the ***Horns of the Dilemma*** in sociology (of which management science is a part).
+In strategy development and strategic planning efforts, the team responsible has to decide upfront what it wants to achieve. It cannot get general results, precise results, and realistic results simultaneously. This is called the ***Horns of the Dilemma*** in sociology (of which management science is a part).
 
 The framework is known to countless students of sociology, marketing, and similar fields. It was put forth by PJ Runkel and JE McGrath in the book ***Research on Human Behavior: A Systematic Guide to Method*** (1972) and has become a mainstain in research methodology.
 
