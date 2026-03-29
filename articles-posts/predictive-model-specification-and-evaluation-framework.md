@@ -49,7 +49,7 @@ Higher-order choices determine what constitutes a “good” model before any es
 A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, such guidance is more limited.  
 
 ### 1.1 Objectives  
-Objectives define what success means.  
+Objectives define what success means. They are best developed through interviews with senior management.
 
 The first aspect is the use case: strategic horizons (3-, 5-, 10-years out), near-term operational or tactical uses (0–18 months out), or cross-sectional analysis. These lead to fundamentally different modeling approaches.  
 
