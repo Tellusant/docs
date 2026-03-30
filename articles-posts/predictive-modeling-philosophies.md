@@ -1,10 +1,12 @@
 ---
 title: "Philosophical Stances for Predictive Modeling"
-description: "Work-in-progress"
+description: "Forecasting differs by what it tries to approximate: the world, the data, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid. They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high."
 image: /assets/social-card-pub.png
 ---
 
 # Philosophical Stances for Predictive Modeling
+
+Forecasting differs by what it tries to approximate: the world, the data, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid. They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
