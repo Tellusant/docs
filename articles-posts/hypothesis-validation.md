@@ -42,3 +42,21 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+
+## Falsification
+
+
+## Bayesian Epistemology
+
+
+## Confirmation Theory
+
+## Inference to the Best Explanation
+
+## Pragmatism
+
+<div style=align="center">
+— — —
+</div>
+
+---
