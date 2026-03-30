@@ -62,10 +62,6 @@ There are, usefully, seven modeling philosophies to choose among and combine, ra
 
 These are not model classes, but default stances about how uncertainty is represented and resolved. 
 
-Forecasting differs by what it tries to approximate: the world around, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
-
-They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
-
 [The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). In short, forecasting differs by what it tries to approximate: the world around, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
 
 They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
