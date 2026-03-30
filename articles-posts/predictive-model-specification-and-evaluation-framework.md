@@ -1,6 +1,6 @@
 ---
 title: "How to Specify and Evaluate Predictive Models"
-description: "Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach."
+description: "Statistical models are rarely well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach."
 image: /assets/social-card-pub.png
 ---
 
@@ -16,7 +16,7 @@ image: /assets/social-card-pub.png
 >
 >It is intended as a prescriptive framework with flexibility, with the aim of satisfying top managements' priorities and corporate users' needs.
 
-Statistical models are seldom well contextualized and evaluating them becomes a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
+Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
 This paper is not about building models; it is about how models should be framed and judged.
 
