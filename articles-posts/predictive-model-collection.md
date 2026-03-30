@@ -18,8 +18,8 @@ There is a tension that runs through modern epistemology: between a culture of r
 ## [The Horns of the Dilemma in Statistical Modeling](horns-dilemma-2.md)
 In statistical analyses, you cannot get everything. This framework explains the trade-offs. It is based on Runkel and McGrath's classic framework.
 
-## [The Horns of the Dilemma in Statistical Modeling](horns-dilemma-2.md)
-In statistical analyses, you cannot get everything. This framework explains the trade-offs. It is based on Runkel and McGrath's classic framework.
+## [Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)  
+Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.
 
 ---
 [Return to Repository home](../index.md)
