@@ -1,9 +1,18 @@
+---
+title: "Ex-post and Ex-ante Validation of Statistical Models"
+description: "We evaluate model performance using a pseudo out-of-sample holdout framework. For each specification, the model is estimated using data available up to a fixed forecast origin."
+image: /assets/social-card-pub.png
+---
 #  Ex-post and Ex-ante Validation of Statistical Models
 
 ## Validation Design
-We evaluate model performance using a pseudo out-of-sample holdout framework. For each specification, the model is estimated using data available up to a fixed forecast origin (training window of 5–20 years). Let Yₜ denote the dependent variable and Xₜ the vector of independent variables. The model is estimated using observations {Yₜ, Xₜ } for t ≤ T, and forecasts are generated for t = T+1, …, T+H (H = e.g., 5 years horizon in our application).  
+We evaluate model performance using a pseudo out-of-sample holdout framework. For each specification, the model is estimated using data available up to a fixed forecast origin (training window of 5–20 years). 
 
-[g]
+Let Yₜ denote the dependent variable and Xₜ the vector of independent variables. The model is estimated using observations {Yₜ, Xₜ } for t ≤ T, and forecasts are generated for t = T+1, …, T+H (H = e.g., 5 years horizon in our application).  
+
+<p align="center">
+<img  src="assets/images/tellusant-ex-post-ex-ante-validation-schematic.svg" width="500" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
+</p>
 
 Importantly, forecasts over the holdout period are constructed conditional on the realized values of the independent variables. That is, forecasts take the form Ŷ where Xₜ are the actual observed values in the holdout period, rather than forecasts of Xₜ that would have been available at time T.  
 
