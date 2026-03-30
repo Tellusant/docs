@@ -1,10 +1,10 @@
 ---
-title: "How do I If My Model Works? Hypothesis Validation Approaches"
+title: "How do I Know If My Model Works? Hypothesis Validation Approaches"
 description: "Work-in-progress"
 image: /assets/social-card-pub.png
 ---
 
-# How do I If My Model Works? Hypothesis Validation Approaches
+# How do I Know If My Model Works? Hypothesis Validation Approaches
 
 *Work-in-progress*
 
