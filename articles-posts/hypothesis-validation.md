@@ -1,6 +1,6 @@
 ---
 title: "How do I Know Whether My Model Works? Hypothesis Validation Approaches"
-description: "Work-in-progress"
+description: "There is a tension that runs through modern epistemology: between a culture of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to affirmation."
 image: /assets/social-card-pub.png
 ---
 
