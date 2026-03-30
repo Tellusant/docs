@@ -52,3 +52,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+
+
+---
+[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
