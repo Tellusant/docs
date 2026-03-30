@@ -5,7 +5,7 @@ We evaluate model performance using a pseudo out-of-sample holdout framework. Fo
 
 [g]
 
-Importantly, forecasts over the holdout period are constructed conditional on the realized values of the independent variables. That is, forecasts take the form Ŷ where Xₜ are the actual observed values in the holdout period, rather than forecasts of Xt that would have been available at time T.  
+Importantly, forecasts over the holdout period are constructed conditional on the realized values of the independent variables. That is, forecasts take the form Ŷ where Xₜ are the actual observed values in the holdout period, rather than forecasts of Xₜ that would have been available at time T.  
 
 Forecast accuracy is assessed using symmetric Mean Absolute Percentage Error (MAPE) over the holdout period, using a Möbius[1,0,1,2] transformation.  
 
