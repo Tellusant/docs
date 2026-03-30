@@ -24,5 +24,6 @@ The issue is that it is impossible to cover all three at the same time no matter
 Senior executives tend to prefer generality. Junior employees often think in terms of precision or realism. But many people have no structured way to think about the dilemma and want it all.
 
 ---
-[2021-09-04]  
+*AI was not used.*
+
 [Find more articles and posts](index.md)
