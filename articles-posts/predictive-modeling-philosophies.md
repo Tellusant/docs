@@ -36,8 +36,8 @@ P --> PW
 P --> HA
 AW --> STR
 AW --> RED
-AW --> STA
 AD --> EMP
+AD --> STA
 PW --> SCE
 HA --> JUD
 HA --> BAY
