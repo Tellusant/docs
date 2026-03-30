@@ -21,7 +21,7 @@ flowchart LR
     I["`**Inference to the Best Explanation**<br/>*Prefer the hypothesis that best explains the evidence*`"]:::strong
     R["`**Pragmatism**<br/>*Hypotheses validated by practical success*`"]:::strong
 
-    NV["`**Not Valid**"]:::none
+    NV["`**Not Valid**`"]:::none
     CO["`**Confirmation**`"]:::mixed
 
     V --> F
