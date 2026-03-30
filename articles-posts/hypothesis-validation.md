@@ -18,7 +18,7 @@ flowchart LR
     F["`**Falsification<br/>(Not Rejected)**<br/>*Hypotheses are not<br/>confirmed; they survive<br/>attempts at refutation*`"]:::strong
     B["`**Bayesian Epistemology**<br/>*Evidence updates belief;<br/>hypotheses gain<br/>posterior probability*`"]:::strong
     C["`**Confirmation Theory**<br/>*Evidence increases<br/>degree of support*`"]:::strong
-    I["`**Inference to the Best Explanation**<br/>*Prefer the hypothesis that<br/>best explains the evidence*`"]:::strong
+    I["`**Inference to the<br/>Best Explanation**<br/>*Prefer the hypothesis that<br/>best explains the evidence*`"]:::strong
     R["`**Pragmatism**<br/>*Hypotheses validated<br/>by practical success*`"]:::strong
 
     NV["`**Not Possible**`"]:::none
