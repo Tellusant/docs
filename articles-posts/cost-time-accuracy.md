@@ -46,4 +46,5 @@ We suggest having this mindset when installing PoluSim. It should be part of new
 It is part of a management revolution not seen since the advent of the mult-divisional enterprise more than a hundred years ago.
 
 ---
+[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
 [Find more articles and posts](index.md)
