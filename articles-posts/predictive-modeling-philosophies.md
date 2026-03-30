@@ -6,6 +6,8 @@ image: /assets/social-card-pub.png
 
 # Philosophical Stances for Predictive Modeling
 
+*by Dr. Staffan Canback, Tellusant*
+
 Forecasting differs by what it tries to approximate: the world around us, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid. 
 
 They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
@@ -107,5 +109,7 @@ This allows for coherent integration of data, expert knowledge, and model struct
 
 
 ---
+*ChatGPT was used for brainstorming and drafting support.*
+
 [See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
 [Find more articles and posts](index.md)  
