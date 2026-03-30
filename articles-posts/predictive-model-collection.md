@@ -15,6 +15,9 @@ Work-in-progress. Developed by end of week 14.
 ## [How do I Know If My Model Works? Hypothesis Validation Approaches](hypothesis-validation.md)  
 There is a tension that runs through modern epistemology: between a culture of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to proof.
 
+## [Ex-post and Ex-ante Validation of Statistical Models](ex-post-ex-ante-statistical-validation.md)
+We summarize and give structure to validation methods in time-dependent forecasts.
+
 ## [The Horns of the Dilemma in Statistical Modeling](horns-dilemma-2.md)
 In statistical analyses, you cannot get everything. This framework explains the trade-offs. It is based on Runkel and McGrath's classic framework.
 
