@@ -82,5 +82,5 @@ No matter how many confirming instances we collect, there always remains the pos
 ---
 Source: Tellusant abstraction; ChatGPT synthesis
 
-See our [collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
 [Find more articles and posts](index.md)
