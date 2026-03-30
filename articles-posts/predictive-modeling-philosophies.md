@@ -56,3 +56,4 @@ classDef anchor fill:transparent,stroke:transparent;
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[Find more articles and posts](index.md)  
