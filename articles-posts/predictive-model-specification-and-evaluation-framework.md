@@ -18,7 +18,7 @@ image: /assets/social-card-pub.png
 
 Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
-This paper is not about building models; it is about how models should be framed and judged.
+This paper is not about building models. It is about how models should be framed and judged.
 
 Predictive models should be evaluated across three layers:
 1. Higher-order cognitive framing before modeling
@@ -159,7 +159,7 @@ The **second** dimension is the user interface. Can the model be used by the int
 
 The **third** dimension is reliability. There are two subdimensions:
 
-- Is the model consistent for all users? E.g., will a user in one country get results generated in the same manner as a user in another country? The method has to be the same; the data, coefficients (elasticities), and findings differ. [3.131]
+- Is the model consistent for all users? E.g., will a user in one country get results generated in the same manner as a user in another country? The method has to be the same—the data, coefficients (elasticities), and findings differ. [3.131]
 - Is the model accurate? This goes back to 2.4 above. This is important, but if the model violates points *one* and *two*, accuracy does not matter. [3.132]
 
 These three dimensions are jointly necessary.
@@ -167,7 +167,7 @@ These three dimensions are jointly necessary.
 We therefore have an AND logic: 1 ∧ 2 ∧ 3.
 
 ### 3.2 Lessons Learned   
-There will inevitably be lessons learned in a process that often has taken 6 months up to two years (not all the time is spent on modeling; it also includes application development and user training).
+There will inevitably be lessons learned in a process that often has taken 6 months up to two years (not all the time is spent on modeling. It also includes application development and user training).
 
 Lessons can often be grouped in three buckets:
 - *Improving data management*. Companies are still in the infancy of robust data management. They may collect the data but do not wrangle it. Subsidiaries use different sources and definitions. There are always important lessons in data management. [3.21]
@@ -177,7 +177,7 @@ Lessons can often be grouped in three buckets:
 ### 3.3 Recommendations 
 This is based on numerous practical recommendation rounds at various clients.
 
-There will inevitably be a few recommendations; ideally three, ranked by importance. The three can then have sub-points.
+There will inevitably be a few recommendations. Ideally three, ranked by importance. The three can then have sub-points.
 
 Recommendations should include timing. What is important now? In next year's cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to avoid unnecessary work.
 
