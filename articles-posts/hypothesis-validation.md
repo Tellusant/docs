@@ -79,5 +79,8 @@ The idea of “proving hypotheses true” runs into a structural limit: empirica
 
 No matter how many confirming instances we collect, there always remains the possibility of a counterexample tomorrow, in another setting, or under slightly different conditions. This is the classic problem of induction, articulated sharply by David Hume and later given methodological force by Karl Popper: confirmation can accumulate, but it never closes the logical gap to certainty.  
 
-
 ---
+Source: Tellusant abstraction; ChatGPT synthesis
+
+See our collection of predictive model thought pieces][predictive-model-collection]
+[Find more articles and posts](index.md)
