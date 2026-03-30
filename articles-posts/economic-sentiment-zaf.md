@@ -116,4 +116,6 @@ xychart-beta horizontal
 Source: Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model; Tellusant analysis
 
 ---
+*AI was used to structure and calculate the scores.*
+
 [Find more Tellusant articles and posts](index.md)
