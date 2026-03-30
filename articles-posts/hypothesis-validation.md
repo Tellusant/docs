@@ -69,10 +69,10 @@ In the tradition of William James and others, pragmatism ties the standing of a 
 
 Hypotheses are “validated” insofar as they work—predictively, operationally, or socially. This approach is less concerned with abstract justification and more with whether a framework delivers results in the world.
 
-<div style=align="center">
+<p align="center">
 — — —
-</div>
-Finally why hypothesis confirmation is impossible. 
+</p>
+Finally, why hypothesis confirmation is impossible. 
 
 ## Proving Hypotheses True
 The idea of “proving hypotheses true” runs into a structural limit: empirical claims always reach beyond the evidence that supports them. A hypothesis typically asserts something general—about all cases, or about the future—while any body of evidence is finite and local. 
