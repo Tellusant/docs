@@ -53,6 +53,34 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 </div>
 
+## Structural
+
+
+
+## Reduced-Form
+
+
+
+## State-Space
+
+
+
+## Empirical
+
+
+
+## Scenario-Based
+
+
+
+## Judgemental
+
+
+
+## Bayesian Support
+
+
+
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
