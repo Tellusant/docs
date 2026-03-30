@@ -45,3 +45,6 @@ Tashman, L.J. (2000). *Out-of-Sample Tests of Forecasting Accuracy: An Analysis 
 Ferraro, D., K. Rogoff, and B. Rossi (2015). *Can Oil Prices Forecast Exchange Rates?* NBER Working Paper.  
 
 Hynman, R.J., & G. Athanasopoulos (2021). Forecasting: Principles and Practice (3rd ed.).  
+
+---
+[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
