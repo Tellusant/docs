@@ -71,5 +71,7 @@ Broad-based adoption is not so much about the technical solution, but the requir
 We therefore provide training and support to make the transition to a Triple-A logic productive.
 
 ---
+*AI was not used.*
+
 [Find more articles and posts](index.md)
 
