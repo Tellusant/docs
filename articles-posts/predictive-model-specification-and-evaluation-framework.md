@@ -189,5 +189,5 @@ This said, the main recommendations should be implemented in a timely manner for
 ¹ Senior executives are, for good reasons, usually not able to articulate this clearly (few would know what state-space or Bayesian means), but it can be deduced from the interviews mentioned earlier.
 
 ---
+[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
 [Find more articles and posts](index.md)  
-Deep edit version
