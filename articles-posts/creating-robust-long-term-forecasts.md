@@ -86,4 +86,6 @@ Pooling of data between countries is a powerful technique. It also applies to lo
 Often, analysts in their home country model only their home country. Not good (in fact, awful). Much insight applicable to the home country comes from comparison countries.  
 
 ---
+*AI was not used*
+
 [Find more Tellusant articles and posts](index.md)
