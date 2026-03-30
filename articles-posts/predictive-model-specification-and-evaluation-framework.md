@@ -134,15 +134,14 @@ Develop a list of potential drivers based on a) theory, and b) expert opinions, 
 Once the higher-level choices are made, it is straightforward to develop the actual model. It is still a great deal of work.  
 
 ### 2.4 Validation  
-
-[Validation has its own philosophical underpinnings](hypothesis-validation) that we do not discuss here. We recommend using **Confirmation Theory** within models, and **Inference to the Best Explanation** between models.
+[Validations have its own philosophical underpinnings](hypothesis-validation.md) that we discuss separately. We recommend using **Confirmation Theory** within models, and **Inference to the Best Explanation** between models.
 
 Validation should be understood in three layers:  
 - statistical fit  
 - comparison with alternatives  
 - practical plausibility  
 
-[Validate using ex-post MAPE](ex-post-ex-ante-statistical-validation.md) if the model is over time, LOOCV if it is cross-sectional. Be sure to include alternative models (especially the naïve model) and compare with Akaike Information Criterion (AIC). But most importantly, does the chosen model meet the smell test?
+[Validate using ex-post MAPE](ex-post-ex-ante-statistical-validation.md) if the model is over time, LOOCV if it is cross-sectional (conform to Confirmation Theory). Be sure to include alternative models (especially the naïve model) and compare with Akaike Information Criterion (conform to Inference to the Best Explanation). But most importantly, does the chosen model meet the smell test?
 
 ---
 
