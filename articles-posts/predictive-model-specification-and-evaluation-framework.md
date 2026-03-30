@@ -65,7 +65,7 @@ These are not model classes, but default stances about how uncertainty is repres
 [The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.  
 
 <p align="center">
-<b>PHILOSOPHICAL STANCES OF PREDICTIVE MODELING</b>
+<b>PHILOSOPHICAL STANCES FOR PREDICTIVE MODELING</b>
 </p>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
@@ -139,7 +139,7 @@ Validation should be understood in three layers:
 - comparison with alternatives  
 - practical plausibility  
 
-[Validate using ex-post MAPE](../quick-reads/Tellusant-Quick-Read-Ex-post-and-Ex-ante-Validation-of-Statistical-Models.pdf) if the model is over time, LOOCV if it is cross-sectional. Be sure to include alternative models (especially the naïve model) and compare with Akaike Information Criterion (AIC). But most importantly, does the chosen model meet the smell test?
+[Validate using ex-post MAPE](ex-post-ex-ante-statistical-validation.md) if the model is over time, LOOCV if it is cross-sectional. Be sure to include alternative models (especially the naïve model) and compare with Akaike Information Criterion (AIC). But most importantly, does the chosen model meet the smell test?
 
 ---
 
