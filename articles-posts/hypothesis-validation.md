@@ -1,11 +1,12 @@
 ---
-title: "Philosophical Stances for Predictive Modeling"
+title: "How do I If My Model Works? Hypothesis Validation Approaches"
 description: "Work-in-progress"
 image: /assets/social-card-pub.png
 ---
 
-# Philosophical Stances for Predictive Modeling
+# How do I If My Model Works? Hypothesis Validation Approaches
 
+*Work-in-progress*
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
