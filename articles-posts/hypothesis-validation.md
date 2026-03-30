@@ -15,7 +15,7 @@ flowchart LR
 
     V["`**Validation Approaches**`"]:::none
 
-    F["`**Falsification<br/>(Not Rejected)**<br/>*Hypotheses are not<br/>confirmed; they survive<br/>attempts at refutation*`"]:::strong
+    F["`**Falsification<br/>(Not Rejected)**<br/>*Hypotheses are not<br/>confirmed. They survive<br/>attempts at refutation*`"]:::strong
     B["`**Bayesian Epistemology**<br/>*Evidence updates belief;<br/>hypotheses gain<br/>posterior probability*`"]:::strong
     C["`**Confirmation Theory**<br/>*Evidence increases<br/>degree of support*`"]:::strong
     I["`**Inference to the<br/>Best Explanation**<br/>*Prefer the hypothesis that<br/>best explains the evidence*`"]:::strong
@@ -43,7 +43,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 
 ## Falsification
-Associated with Karl Popper, this approach holds that hypotheses can never be confirmed as true; they can only be exposed to tests they may fail. A theory earns standing not by accumulating supporting evidence, but by surviving serious attempts to refute it.  
+Associated with Karl Popper, this approach holds that hypotheses can never be confirmed as true—they can only be exposed to tests they may fail. A theory earns standing not by accumulating supporting evidence, but by surviving serious attempts to refute it.  
 
 The emphasis is therefore on designing risky tests—situations where the theory could genuinely break. What remains after such testing is not truth, but a provisional status: not yet rejected. This discipline protects inquiry from overconfidence, even if it leaves us with a somewhat austere notion of knowledge.  
 
