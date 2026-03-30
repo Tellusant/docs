@@ -58,11 +58,17 @@ The second aspect of model objectives is to clarify if it is developed to [save 
 ### 1.2 Philosophies of Predictive Modeling  
 Modeling also reflects underlying philosophical choices.  
 
-There are, usefully, seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK".  
+There are, usefully, seven modeling philosophies to choose among and combine, ranging from "let theory guide choices" to "if it works, it's OK". 
 
-These are not model classes, but default stances about how uncertainty is represented and resolved.  
+These are not model classes, but default stances about how uncertainty is represented and resolved. 
 
-[The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). Here is a summary.  
+Forecasting differs by what it tries to approximate: the world around, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
+
+They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
+
+[The seven philosophies are explicated in this separate document](predictive-modeling-philosophies.md). In short, forecasting differs by what it tries to approximate: the world around, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
+
+They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
 
 <p align="center">
 <b>PHILOSOPHICAL STANCES FOR PREDICTIVE MODELING</b>
