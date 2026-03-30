@@ -26,9 +26,9 @@ The resulting accuracy metrics therefore isolate the contribution of model speci
 This distinction is standard in the forecasting literature, where conditional (ex-post) forecasts are used to assess the intrinsic predictive power of a model separately from upstream independent variable forecasts (Hyndman & Athanasopoulos, 2021).  
 
 ## Limitations
-Because the evaluation assumes knowledge of future Xₜ, reported accuracy should not be interpreted as directly representative of real-time forecasting performance. In practical applications where Xₜ must themselves be forecast, total forecast error will generally be larger.  
+Because the evaluation assumes knowledge of future Xₜ, reported accuracy should not be interpreted as directly representative of real-time total forecasting performance. In practical applications where Xₜ must themselves be forecast, total forecast error will generally be larger.  
 
-To complement this, an operational ex-ante analysis should be conducted, if feasible, using only information available at time T, including forecasted independent variables Xₜ.  
+To complement this, an operational ex-ante analysis may be conducted, if feasible, using only information available at time T, including forecasted independent variables Xₜ.  
 
 ## Summary
 The conditional holdout approach provides a diagnostic of whether the model Yₜ = f(Xₜ) is well-specified. When paired with ex-ante validation, it enables decomposition of forecast error into model error (structure/fit) and input error (forecast error in Xₜ).   
