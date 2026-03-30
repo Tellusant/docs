@@ -10,7 +10,7 @@ This page collects our theoretical work on predictive models in one place.
 Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions.  Here we suggest a structured approach based on the law of threes for both the specification and evaluation phases.  
 
 ## [Philosophical Stances for Predictive Modeling](predictive-modeling-philosophies.md)  
-Work-in-progress. Developed by end of week 14.  
+Forecasting differs by what it tries to approximate: the world around us, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
 
 ## [How do I Know If My Model Works? Hypothesis Validation Approaches](hypothesis-validation.md)  
 There is a tension that runs through modern epistemology: between a culture of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to proof.
