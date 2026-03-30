@@ -39,6 +39,6 @@ This dual evaluation framework is widely used in empirical forecasting applicati
 
 ---
 **References**
-Tashman, L.J. (2000). Out-of-Sample Tests of Forecasting Accuracy: An Analysis and Review. International Journal of Forecasting.  
-Ferraro, D., K. Rogoff, and B. Rossi (2015). Can Oil Prices Forecast Exchange Rates? NBER Working Paper.  
+Tashman, L.J. (2000). *Out-of-Sample Tests of Forecasting Accuracy: An Analysis and Review.* International Journal of Forecasting.  
+Ferraro, D., K. Rogoff, and B. Rossi (2015). *Can Oil Prices Forecast Exchange Rates?* NBER Working Paper.  
 Hynman, R.J., & G. Athanasopoulos (2021). Forecasting: Principles and Practice (3rd ed.).  
