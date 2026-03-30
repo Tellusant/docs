@@ -23,8 +23,8 @@ HA["`1.24<br/>**Let Humans<br/>Arbitrate**`"]:::risk
 
 STR["`1.211<br/>**Structural**<br/>*Only what is modeled<br/>based on theory<br/>can be trusted*`"]:::strong
 RED["`1.212<br/>**Reduced-Form**<br/>*Stability is more<br/>valuable than truth*`"]:::strong
-STA["`1.213<br/>**State-Space**<br/>*The signal is<br/>never observed<br/>directly*`"]:::strong
 EMP["`1.221<br/>**Empirical**<br/>*The data are<br/>the model*`"]:::mixed
+STA["`1.213<br/>**State-Space**<br/>*The signal is<br/>never observed<br/>directly*`"]:::mixed
 SCE["`1.231<br/>**Scenario-Based**<br/>*There is no<br/>single future*`"]:::neutral
 JUD["`1.241<br/>**Judgemental**<br/>*The final model<br/>is human*`"]:::risk
 BAY["`1.242<br/>**Bayesian Support**<br/>*All forecasts<br/>are probabilities*`"]:::risk
