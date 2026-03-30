@@ -38,7 +38,10 @@ The conditional holdout approach provides a diagnostic of whether the model Yₜ
 This dual evaluation framework is widely used in empirical forecasting applications, including settings where forecasts are conditioned on realized predictors (Ferraro, Rogoff, and Rossi, 2015).  
 
 ---
-**References**
+**References**  
+
 Tashman, L.J. (2000). *Out-of-Sample Tests of Forecasting Accuracy: An Analysis and Review.* International Journal of Forecasting.  
+
 Ferraro, D., K. Rogoff, and B. Rossi (2015). *Can Oil Prices Forecast Exchange Rates?* NBER Working Paper.  
+
 Hynman, R.J., & G. Athanasopoulos (2021). Forecasting: Principles and Practice (3rd ed.).  
