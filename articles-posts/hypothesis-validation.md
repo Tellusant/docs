@@ -44,19 +44,40 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 
 ## Falsification
+Associated with Karl Popper, this approach holds that hypotheses can never be confirmed as true; they can only be exposed to tests they may fail. A theory earns standing not by accumulating supporting evidence, but by surviving serious attempts to refute it.  
 
+The emphasis is therefore on designing risky tests—situations where the theory could genuinely break. What remains after such testing is not truth, but a provisional status: not yet rejected. This discipline protects inquiry from overconfidence, even if it leaves us with a somewhat austere notion of knowledge.  
 
 ## Bayesian Epistemology
+Bayesian epistemology replaces the binary of reject/accept with a continuous updating of belief. Hypotheses begin with prior probabilities, which are revised in light of new evidence using Bayes’ theorem. Strong evidence can push a hypothesis to very high probability, making it rational to treat it as effectively “confirmed” for practical purposes—while never claiming certainty. 
 
+This framework aligns closely with how scientists and analysts actually reason under uncertainty: weighing evidence, revising expectations, and comparing competing explanations quantitatively.
 
 ## Confirmation Theory
 
+Developed in the tradition of logical empiricism, notably by Rudolf Carnap, confirmation theory attempts to formalize how evidence supports a hypothesis. Instead of asking whether a theory is true or false, it asks: to what degree does the evidence confirm it? 
+
+Various measures of confirmation have been proposed, though none has resolved all conceptual difficulties. Still, the central idea endures: evidence can accumulate in favor of a hypothesis in a structured, even if imperfectly defined, way—offering a middle ground between strict falsification and uncritical acceptance.
+
 ## Inference to the Best Explanation
+Inference to the Best Explanation shifts the focus from testing single hypotheses to comparing multiple candidates. A hypothesis is accepted not because it has survived falsification, but because it explains the evidence better than its rivals—through scope, coherence, simplicity, or depth. 
+
+This is the logic often used implicitly in science: when several models fit the data, we prefer the one that makes the most sense of it. It is less formal than Bayesianism, but often more aligned with real scientific judgment.
 
 ## Pragmatism
+In the tradition of William James and others, pragmatism ties the standing of a hypothesis to its practical consequences. A belief is warranted if it proves reliable in guiding action, solving problems, or integrating experience. Truth, in this view, is not a static correspondence but something that emerges through use. 
+
+Hypotheses are “validated” insofar as they work—predictively, operationally, or socially. This approach is less concerned with abstract justification and more with whether a framework delivers results in the world.
 
 <div style=align="center">
 — — —
 </div>
+Finally why hypothesis confirmation is impossible. 
+
+## Proving Hypotheses True
+The idea of “proving hypotheses true” runs into a structural limit: empirical claims always reach beyond the evidence that supports them. A hypothesis typically asserts something general—about all cases, or about the future—while any body of evidence is finite and local. 
+
+No matter how many confirming instances we collect, there always remains the possibility of a counterexample tomorrow, in another setting, or under slightly different conditions. This is the classic problem of induction, articulated sharply by David Hume and later given methodological force by Karl Popper: confirmation can accumulate, but it never closes the logical gap to certainty.  
+
 
 ---
