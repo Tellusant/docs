@@ -1,6 +1,6 @@
 ---
 title: "Ex-post and Ex-ante Validation of Statistical Models"
-description: "We evaluate model performance using a pseudo out-of-sample holdout framework. For each specification, the model is estimated using data available up to a fixed forecast origin."
+description: "We summarize and give structure to validation methods in time-dependent forecasts."
 image: /assets/social-card-pub.png
 ---
 #  Ex-post and Ex-ante Validation of Statistical Models
