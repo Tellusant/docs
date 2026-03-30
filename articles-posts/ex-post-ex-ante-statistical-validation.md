@@ -47,5 +47,7 @@ Ferraro, D., K. Rogoff, and B. Rossi (2015). *Can Oil Prices Forecast Exchange R
 Hynman, R.J., & G. Athanasopoulos (2021). Forecasting: Principles and Practice (3rd ed.).  
 
 ---
+*ChatGPT was used for brainstorming and drafting support.*
+
 [See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
 [Find more articles and posts](index.md)  
