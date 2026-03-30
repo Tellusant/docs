@@ -6,7 +6,8 @@ image: /assets/social-card-pub.png
 
 # How do I Know Whether My Model Works? Hypothesis Validation Approaches
 
-*Work-in-progress*
+*Work-in-progress*  
+There is a tension that runs through modern epistemology: between a culture of refutation and a desire for affirmation. People want hypotheses "proven", but this is impossible. The question is central to philosophical thinking from the mid-1800s till the present.
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
@@ -21,8 +22,8 @@ flowchart LR
     I["`**Inference to the Best Explanation**<br/>*Prefer the hypothesis that best explains the evidence*`"]:::strong
     R["`**Pragmatism**<br/>*Hypotheses validated by practical success*`"]:::strong
 
-    NV["`**Not Valid**`"]:::none
-    CO["`**Confirmation**`"]:::mixed
+    NV["`**Not Possible**`"]:::none
+    CO["`**Proving Hypotheses True**`"]:::mixed
 
     V --> F
     V --> B
