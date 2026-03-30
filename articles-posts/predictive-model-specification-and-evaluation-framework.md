@@ -134,6 +134,9 @@ Develop a list of potential drivers based on a) theory, and b) expert opinions, 
 Once the higher-level choices are made, it is straightforward to develop the actual model. It is still a great deal of work.  
 
 ### 2.4 Validation  
+
+[Validation has its own philosophical underpinnings](hypothesis-validation) that we do not discuss here. We recommend using **Confirmation Theory** within models, and **Inference to the Best Explanation** between models.
+
 Validation should be understood in three layers:  
 - statistical fit  
 - comparison with alternatives  
