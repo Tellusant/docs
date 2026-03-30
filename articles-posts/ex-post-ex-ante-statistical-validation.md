@@ -21,9 +21,9 @@ Forecast accuracy is assessed using symmetric Mean Absolute Percentage Error (MA
 ## Interpretation
 This evaluation corresponds to a conditional ex-post forecast (conditional on X being known) rather than a fully operational ex-ante forecast. As such, it measures the model’s ability to map predictors Xₜ to outcomes Yₜ assuming perfect knowledge of future Xₜ.  
 
-The resulting accuracy metrics therefore isolate the contribution of model specification and parameter estimation, and the structural relationship between X and Y, while avoiding errors arising from forecasting Xt themselves.  
+The resulting accuracy metrics therefore isolate the contribution of model specification and parameter estimation, and the structural relationship between X and Y, while avoiding errors arising from forecasting Xₜ themselves.  
 
-This distinction is standard in the forecasting literature, where conditional (ex-post) forecasts are used to assess the intrinsic predictive power of a model separately from upstream predictor forecasts (Hyndman & Athanasopoulos, 2021).  
+This distinction is standard in the forecasting literature, where conditional (ex-post) forecasts are used to assess the intrinsic predictive power of a model separately from upstream independent variable forecasts (Hyndman & Athanasopoulos, 2021).  
 
 ## Limitations
 Because the evaluation assumes knowledge of future Xₜ, reported accuracy should not be interpreted as directly representative of real-time forecasting performance. In practical applications where Xₜ must themselves be forecast, total forecast error will generally be larger.  
