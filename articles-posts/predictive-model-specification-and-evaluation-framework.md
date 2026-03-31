@@ -195,5 +195,6 @@ This said, the main recommendations should be implemented in a timely manner for
 ---
 *ChatGPT was used for spelling and tone editing.*
 
-[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
+
 [Find more articles and posts](index.md)  
