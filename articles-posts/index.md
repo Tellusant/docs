@@ -12,8 +12,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 
 ## Collections
 
-### [Predictive Model Collection](predictive-model-collection.md)
-This page collects our six-part theoretical work on predictive models in one place.
+### [Predictive Modeling Collection](predictive-modeling-collection.md)
+This page collects our theoretical work on predictive modeling in one place.
 
 
 ## Recent  

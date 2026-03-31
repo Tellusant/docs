@@ -9,11 +9,8 @@ image: /assets/social-card-pub.png
 
 *by Dr. Staffan Canback, Tellusant*
 
-<span class="blockcomment">
-This paper builds on the author's decades of top management consulting experience, increasingly supported by predictive and other statistical models. It also leverages the author's academic experience over the past 30 years.
-</span>
-
-
+>This paper builds on the author's decades of top management consulting experience, increasingly supported by predictive and other statistical models. It also leverages the author's academic experience over the past 30 years.
+>
 >The central theme is that predictive models in corporate settings too often are developed myopically based on root knowledge, rather than from within a larger context.
 >
 >The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be decided before an effort starts.
@@ -198,5 +195,6 @@ This said, the main recommendations should be implemented in a timely manner for
 ---
 *ChatGPT was used for spelling and tone editing.*
 
-[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
+
 [Find more articles and posts](index.md)  
