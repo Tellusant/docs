@@ -25,7 +25,7 @@ In statistical analyses, you cannot get everything. This framework explains the 
 ## [Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)  
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
 
-## Mechanical Models and Expert Input 
+## [Combining Judgmental and Mechanical Predictive Models](judgmental-mechanical.md)
 Tbd
 
 ---
