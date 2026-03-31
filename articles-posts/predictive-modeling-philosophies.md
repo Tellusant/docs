@@ -65,23 +65,31 @@ The structural stance holds that forecasts are credible only insofar as they ref
 
 Because it models how the world works rather than how data appear, it is better suited for counterfactual analysis and regime change. Its limitation is that incorrect or incomplete specification can degrade predictive accuracy, especially in the short run.
 
+<Tellusant comment tbd
+
 ### Reduced-Form
 The reduced-form stance occupies the middle ground, seeking stable empirical relationships without fully specifying the underlying system. It accepts that causal drivers matter—such as price, income, or external conditions—but does not attempt full structural identification. 
 
 The focus is on finding relationships that are empirically robust and practically useful for prediction. This approach often delivers a balance between accuracy and interpretability, though it depends critically on the stability of observed relationships over time.
 
+<Tellusant comment tbd
+
 ## Approximate the data
-This orientation treats the historical record as the most reliable guide to the future and judges models by predictive performance on unseen data. Structure is incidental—what matters is extracting stable patterns. It excels when the data-generating process is persistent and richly observed, and it fails when regimes shift or when past patterns cease to hold.
+This orientation treats the historical record as the most reliable guide to the future and judges models by predictive performance on unseen data. Structure is incidental—what matters is extracting stable patterns. It excels when the data-generating process is persistent and richly observed, and it fails when regimes shift or when past patterns cease to hold.  
 
 ### Empirical
-The empirical stance treats forecasting as a problem of pattern extraction from data, with validity determined strictly by out-of-sample performance. It makes minimal assumptions about underlying mechanisms and instead relies on the idea that whatever structure exists will be reflected in historical observations. 
+The empirical stance treats forecasting as a problem of pattern extraction from data, with validity determined strictly by out-of-sample performance. It makes minimal assumptions about underlying mechanisms and instead relies on the idea that whatever structure exists will be reflected in historical observations.  
 
 Model choice is therefore guided by predictive accuracy rather than interpretability, and techniques range from classical time-series methods to modern machine learning. Its strength lies in adaptability and performance—its weakness is vulnerability when the data-generating process shifts.  
+
+<Tellusant comment tbd
 
 ### State-Space
 The state-space stance views observed data as noisy manifestations of underlying latent processes that evolve over time. Forecasting becomes a problem of estimating and projecting these hidden states, typically using recursive filtering methods (e.g., Kalman). 
 
-This framework is well suited for handling time variation, missing information, and real-time updating, making it central to nowcasting and dynamic modeling. Its effectiveness depends on the correct specification of the latent structure and noise processes. It is primarily used in engineering, especially electrical enginering.
+This framework is well suited for handling time variation, missing information, and real-time updating, making it central to nowcasting and dynamic modeling. Its effectiveness depends on the correct specification of the latent structure and noise processes. It is primarily used in engineering, especially electrical enginering.  
+
+<Tellusant comment tbd
 
 ## Map Possible Worlds  
 This orientation treats the future as a set of conditional outcomes under differing assumptions rather than a single prediction. It is designed for environments with structural uncertainty, policy shifts, or low-frequency shocks. Its value lies in clarifying contingencies and strategic options. Its limitation is that it does not, by itself, assign probabilities or select a single outcome.  
@@ -91,6 +99,8 @@ The scenario-based stance rejects the idea of a single predicted future and inst
 
 Scenarios are not forecasts in a strict statistical sense but structured explorations of possibility spaces, often used for strategic planning. Their value lies in broadening decision-making while their limitation is the absence of probabilistic ranking unless combined with other approaches.  
 
+<Tellusant comment tbd
+
 ## Let humans arbitrate
 This orientation recognizes that models are incomplete and that expert judgment contributes information not captured in data or structure. Forecasts are therefore adjusted, combined, or overridden based on context and experience. It can correct systematic blind spots, but introduces the risk of bias and inconsistency if not disciplined.  
 
@@ -99,13 +109,14 @@ The judgmental stance recognizes that not all relevant information can be formal
 
 While it introduces risks of bias and inconsistency, it can add value in situations where data are sparse, regimes are shifting, or models systematically miss key factors. In practice, it often complements rather than replaces formal modeling.  
 
+<Tellusant comment tbd
 
 ### Bayesian Support  
 The Bayesian stance frames forecasting as the continuous updating of probabilistic beliefs in light of new evidence. Rather than producing single-point estimates, it treats all forecasts as distributions, explicitly incorporating uncertainty and prior information. 
 
 This allows for coherent integration of data, expert knowledge, and model structure. Its strength is conceptual consistency and clarity about uncertainty; its cost is increased computational and modeling complexity.
 
-
+<Tellusant comment tbd
 
 
 ---
