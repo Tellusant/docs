@@ -119,7 +119,8 @@ This allows for coherent integration of data, expert knowledge, and model struct
 >Practical insight tbd
 
 ---
-*ChatGPT was used for brainstorming and drafting support.*
+*ChatGPT was used for brainstorming and drafting support.*  
 
-[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
+
 [Find more articles and posts](index.md)  
