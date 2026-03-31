@@ -8,13 +8,15 @@ image: /assets/social-card-pub.png
 
 *by Dr. Staffan Canback, Tellusant*
 
->This paper builds on the author's decades of top management consulting experience, increasingly supported by predictive and other statistical models. It also leverages the author's academic experience over the past 30 years.
+<span class="blockcomment">
+>This paper builds on the author's decades of top management consulting experience, increasingly supported by predictive and other statistical models. It also leverages the author's academic experience over the past 30 years.</span>
 >
 >The central theme is that predictive models in corporate settings too often are developed myopically based on root knowledge, rather than from within a larger context.
 >
 >The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be decided before an effort starts.
 >
 >It is intended as a prescriptive framework with flexibility, with the aim of satisfying top managements' priorities and corporate users' needs.
+
 
 Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
