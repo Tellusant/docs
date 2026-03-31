@@ -95,5 +95,5 @@ No matter how many confirming instances we collect, there always remains the pos
 ---
 *ChatGPT was used for brainstorming and drafting support.*
 
-[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 [Find more articles and posts](index.md)
