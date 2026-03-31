@@ -5,6 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # How to Specify and Evaluate Predictive Models
+**Under journal pre-consideration**
 
 *by Dr. Staffan Canback, Tellusant*
 
