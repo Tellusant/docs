@@ -14,7 +14,7 @@ Statistical models are rarely well contextualized and evaluating them turns into
 Forecasting differs by what it tries to approximate: the world around us, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
 
 ## [How do I Know If My Model Works? Hypothesis Validation Approaches](hypothesis-validation.md)  
-There is a tension that runs through modern epistemology: between a culture of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to proof.
+There is a tension that runs through modern epistemology: between a science of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to proof.
 
 ## [Ex-post and Ex-ante Validation of Statistical Models](ex-post-ex-ante-statistical-validation.md)
 We summarize and give structure to validation methods in time-dependent forecasts.
