@@ -8,6 +8,8 @@ image: /assets/social-card-pub.png
 
 There is a tension that runs through modern epistemology: between a science of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to proof.
 
+>In our chairman's doctoral dissertation, he said "For simplicity, the word ”confirmed” is used, although ”not rejected” is more accurate." Such tension exists forever.
+
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
 
