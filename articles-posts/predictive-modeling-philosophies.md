@@ -57,7 +57,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </div>
 </div>
 
-## Approximate the world
+## Approximate the World
 Here the aim is to model the mechanisms that produce the data—causal relationships, constraints, and latent processes. Forecasts derive their credibility from the correctness of this structure, not merely from fit. This orientation supports explanation and counterfactual reasoning, but depends on specifying the system well enough to remain valid outside the observed range.
 
 ### Structural
@@ -74,7 +74,7 @@ The focus is on finding relationships that are empirically robust and practicall
 
 >Practical insight tbd
 
-## Approximate the data
+## Approximate the Data
 This orientation treats the historical record as the most reliable guide to the future and judges models by predictive performance on unseen data. Structure is incidental—what matters is extracting stable patterns. It excels when the data-generating process is persistent and richly observed, and it fails when regimes shift or when past patterns cease to hold.  
 
 ### Empirical
@@ -101,7 +101,7 @@ Scenarios are not forecasts in a strict statistical sense but structured explora
 
 >Practical insight tbd
 
-## Let humans arbitrate
+## Let Humans Arbitrate
 This orientation recognizes that models are incomplete and that expert judgment contributes information not captured in data or structure. Forecasts are therefore adjusted, combined, or overridden based on context and experience. It can correct systematic blind spots, but introduces the risk of bias and inconsistency if not disciplined.  
 
 ### Judgemental
