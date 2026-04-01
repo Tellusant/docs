@@ -1,6 +1,4 @@
-import google.ds_python_interpreter as ds
-
-content = """# Executive Summary: Elasticity Under Short-Term Shocks
+# Shock Elasticities
 
 ## Overview
 In economic modeling, **short-term elasticity** differs significantly from steady-state figures. A "shock"—whether a sudden price spike or a recessionary income drop—forces a transition from habitual behavior to active adaptation. This document summarizes how to conceptualize these shifts and the risks associated with adjusting elasticity coefficients during uncertainty.
