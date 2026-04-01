@@ -65,14 +65,14 @@ The structural stance holds that forecasts are credible only insofar as they ref
 
 Because it models how the world works rather than how data appear, it is better suited for counterfactual analysis and regime change. Its limitation is that incorrect or incomplete specification can degrade predictive accuracy, especially in the short run.
 
->Practical insight tbd
+>This is a severe form of modeling at takes a long time to get right, the kind of time governments and academics often have. In corporate settings it can be a time sink.
 
 ### Reduced-Form
 The reduced-form stance occupies the middle ground, seeking stable empirical relationships without fully specifying the underlying system. It accepts that causal drivers matter—such as price, income, or external conditions—but does not attempt full structural identification. 
 
 The focus is on finding relationships that are empirically robust and practically useful for prediction. This approach often delivers a balance between accuracy and interpretability, though it depends critically on the stability of observed relationships over time.
 
->Practical insight tbd
+>This is the most common way to make medim and long-term predictions in the corporate world. It allows for flexibility yet is reasonably rigorous. We recommend using this.
 
 ## Approximate the Data
 This orientation treats the historical record as the most reliable guide to the future and judges models by predictive performance on unseen data. Structure is incidental—what matters is extracting stable patterns. It excels when the data-generating process is persistent and richly observed, and it fails when regimes shift or when past patterns cease to hold.  
@@ -82,7 +82,7 @@ The empirical stance treats forecasting as a problem of pattern extraction from 
 
 Model choice is therefore guided by predictive accuracy rather than interpretability, and techniques range from classical time-series methods to modern machine learning. Its strength lies in adaptability and performance—its weakness is vulnerability when the data-generating process shifts.  
 
->Practical insight tbd
+>This is mainly used in short-term forecasting. It predicts well but has limited explanatory power. Do not confuse this method with what is needed for medium and long-term forecasting.
 
 ### State-Space
 The state-space stance views observed data as noisy manifestations of underlying latent processes that evolve over time. Forecasting becomes a problem of estimating and projecting these hidden states, typically using recursive filtering methods (e.g., Kalman). 
