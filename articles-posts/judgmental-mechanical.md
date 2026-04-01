@@ -1,9 +1,11 @@
 ---
 title: "Combining Judgmental and Mechanical Predictive Models"
-description: "WIP"
+description: "Adding expert judgment to models improves their accuracy. We discuss how to do this the best way."
 image: /assets/social-card-pub.png
 ---
 # Combining Judgmental and Mechanical Predictive Models
+
+Adding expert judgment to models improves their accuracy. We discuss how to do this the best way.
 
 WIP
 
