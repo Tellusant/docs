@@ -65,7 +65,7 @@ The structural stance holds that forecasts are credible only insofar as they ref
 
 Because it models how the world works rather than how data appear, it is better suited for counterfactual analysis and regime change. Its limitation is that incorrect or incomplete specification can degrade predictive accuracy, especially in the short run.
 
->This is a severe form of modeling at takes a long time to get right, the kind of time governments and academics often have. In corporate settings it can be a time sink.
+>This is a severe form of modeling and it takes a long time to get right, the kind of time governments and academics often have. In corporate settings it can be a time sink.
 
 ### Reduced-Form
 The reduced-form stance occupies the middle ground, seeking stable empirical relationships without fully specifying the underlying system. It accepts that causal drivers matter—such as price, income, or external conditions—but does not attempt full structural identification. 
