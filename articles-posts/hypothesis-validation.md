@@ -56,7 +56,7 @@ Bayesian epistemology replaces the binary of reject/accept with a continuous upd
 
 This framework aligns closely with how scientists and analysts actually reason under uncertainty: weighing evidence, revising expectations, and comparing competing explanations quantitatively.  
 
->The word Bayesian may be ill chosen because it may leads thinking astray. However, the basic idea of adapting beliefs as new evidence arrives is powerful. In the end, one can get to proof in a laymans sense.
+>The word Bayesian may be ill chosen because it may leads thougths astray (complicated). However, the basic idea of adapting beliefs as new evidence arrives is powerful. In the end, one can get to proof in a layperson's sense.
 >
 ## Confirmation Theory
 
@@ -64,12 +64,12 @@ Developed in the tradition of logical empiricism, notably by Rudolf Carnap, conf
 
 Various measures of confirmation have been proposed, though none has resolved all conceptual difficulties. Still, the central idea endures: evidence can accumulate in favor of a hypothesis in a structured, even if imperfectly defined, way—offering a middle ground between strict falsification and uncritical acceptance.  
 
->Again truly useful. Instead and black and white, it indrocuces shades of gray. General manager can understand this.
+>Again truly useful. Instead of black and white, it indrocuces shades of gray. General managers can understand this.
 
 ## Inference to the Best Explanation
 Inference to the Best Explanation shifts the focus from testing single hypotheses to comparing multiple candidates. A hypothesis is accepted not because it has survived falsification, but because it explains the evidence better than its rivals—through scope, coherence, simplicity, or depth. 
 
-This is the logic often used implicitly in science: when several models fit the data, we prefer the one that makes the most sense of it. It is less formal than Bayesianism, but often more aligned with real scientific judgment.  
+This is the logic often used implicitly in science: when several models fit the data, we prefer the one that makes the most sense of it and is parsimonious. It is less formal than Bayesianism, but often more aligned with real scientific judgment.  
 
 >We often work with companies and say "this is closer to the truth than what you had before. It does does mean it is true, but you are better off with this than with you had before". Example: *income elasticity used to be pegged to 1.2x GDP growth. We suggest making it dependent on the category's stage of development. It now ranges from 0.1 to 1.4. A much more realistic view, don't you think?*
 
@@ -78,7 +78,7 @@ In the tradition of William James and others, pragmatism ties the standing of a 
 
 Hypotheses are “validated” insofar as they work—predictively, operationally, or socially. This approach is less concerned with abstract justification and more with whether a framework delivers results in the world.  
 
->Practical insight tbd
+>We do not recommend this. Being pragmatic allows for too much 
 
 <p align="center">
 — — —
