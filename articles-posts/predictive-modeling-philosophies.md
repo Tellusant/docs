@@ -89,7 +89,7 @@ The state-space stance views observed data as noisy manifestations of underlying
 
 This framework is well suited for handling time variation, missing information, and real-time updating, making it central to nowcasting and dynamic modeling. Its effectiveness depends on the correct specification of the latent structure and noise processes. It is primarily used in engineering, especially electrical enginering.  
 
->Of limited use in general manahgement milieus. It is a fun for scientists but real-world uses seldom benefit from this outside engineering.
+>Of limited use in general management. It is fun for scientists but real-world uses seldom benefit from this, outside engineering.
 
 ## Map Possible Worlds  
 This orientation treats the future as a set of conditional outcomes under differing assumptions rather than a single prediction. It is designed for environments with structural uncertainty, policy shifts, or low-frequency shocks. Its value lies in clarifying contingencies and strategic options. Its limitation is that it does not, by itself, assign probabilities or select a single outcome.  
@@ -109,14 +109,14 @@ The judgmental stance recognizes that not all relevant information can be formal
 
 While it introduces risks of bias and inconsistency, it can add value in situations where data are sparse, regimes are shifting, or models systematically miss key factors. In practice, it often complements rather than replaces formal modeling.  
 
->It has repeatdely been shown that judgment by experts enhances mechanical models. A good predictive model should include a judgment component, but judgment bias should be tracked and adjusted for. Experts tend to be too optimistic.
+>It has repeatedly been shown that judgment from experts enhances mechanical (statistical) models. A good predictive model should include a judgment component, but judgment bias should be tracked and adjusted for. Experts tend to be too optimistic, especially if they are employees.
 
 ### Bayesian Support  
 The Bayesian stance frames forecasting as the continuous updating of probabilistic beliefs in light of new evidence. Rather than producing single-point estimates, it treats all forecasts as distributions, explicitly incorporating uncertainty and prior information. 
 
 This allows for coherent integration of data, expert knowledge, and model structure. Its strength is conceptual consistency and clarity about uncertainty; its cost is increased computational and modeling complexity.
 
->Bayesian methods are intellectually intriguing but hard to understand for general managers that do not have the time to learn of this works. There are specialized uses, but it is nothing we recommend for widespread adoption. Too complicated.
+>Bayesian methods are intellectually intriguing but hard to understand for general managers who do not have the time to learn how this works. There are specialized uses, but it is nothing we recommend for widespread adoption. Too complicated.
 
 ---
 *ChatGPT was used for brainstorming and drafting support.*  
