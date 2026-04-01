@@ -37,6 +37,8 @@ You proposed shifting a category from a steady-state **0.2** to a shock-state **
 * **Over-Correction:** If a category is fundamentally a necessity (0.2), it is unlikely to behave like a normal good (1.0) even in a shock. This may lead to an **overly pessimistic revenue forecast**.
 * **Identity Shift:** Setting YED to 1.0 assumes the product's "budget share" remains constant, ignoring the fact that consumers usually prioritize low-elasticity goods when budgets tighten.
 
+> The category has low elasticity, but is not a necessity, so the objection does not hold fully.
+
 ---
 
 ## 4. Strategic Recommendations
