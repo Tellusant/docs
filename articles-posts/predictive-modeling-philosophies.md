@@ -72,7 +72,7 @@ The reduced-form stance occupies the middle ground, seeking stable empirical rel
 
 The focus is on finding relationships that are empirically robust and practically useful for prediction. This approach often delivers a balance between accuracy and interpretability, though it depends critically on the stability of observed relationships over time.
 
->This is the most common way to make medim and long-term predictions in the corporate world. It allows for flexibility yet is reasonably rigorous. We recommend using this.
+>This is the most common way to make medium and long-term predictions in the corporate world. It allows for flexibility yet is reasonably rigorous. We recommend using this.
 
 ## Approximate the Data
 This orientation treats the historical record as the most reliable guide to the future and judges models by predictive performance on unseen data. Structure is incidental—what matters is extracting stable patterns. It excels when the data-generating process is persistent and richly observed, and it fails when regimes shift or when past patterns cease to hold.  
