@@ -89,7 +89,7 @@ The state-space stance views observed data as noisy manifestations of underlying
 
 This framework is well suited for handling time variation, missing information, and real-time updating, making it central to nowcasting and dynamic modeling. Its effectiveness depends on the correct specification of the latent structure and noise processes. It is primarily used in engineering, especially electrical enginering.  
 
->Practical insight tbd
+>Of limited use in general manahgement milieus. It is a fun for scientists but real-world uses seldom benefit from this outside engineering.
 
 ## Map Possible Worlds  
 This orientation treats the future as a set of conditional outcomes under differing assumptions rather than a single prediction. It is designed for environments with structural uncertainty, policy shifts, or low-frequency shocks. Its value lies in clarifying contingencies and strategic options. Its limitation is that it does not, by itself, assign probabilities or select a single outcome.  
@@ -99,7 +99,7 @@ The scenario-based stance rejects the idea of a single predicted future and inst
 
 Scenarios are not forecasts in a strict statistical sense but structured explorations of possibility spaces, often used for strategic planning. Their value lies in broadening decision-making while their limitation is the absence of probabilistic ranking unless combined with other approaches.  
 
->Practical insight tbd
+>This is a truly useful philosophy. It was pioneered by Shell in the corporate world in the 1970s and is today a mainstay of planning. Ideally combined with reduced-form (above).
 
 ## Let Humans Arbitrate
 This orientation recognizes that models are incomplete and that expert judgment contributes information not captured in data or structure. Forecasts are therefore adjusted, combined, or overridden based on context and experience. It can correct systematic blind spots, but introduces the risk of bias and inconsistency if not disciplined.  
