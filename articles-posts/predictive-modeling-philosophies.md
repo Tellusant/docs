@@ -97,6 +97,7 @@ $$\
 \mathbf{X}'(x) = \mathbf{A}(x)\mathbf{X}(x) \qquad
 y(x) = \mathbf{C}\mathbf{X}(x)
 \$$
+
 $$\
 \mathbf{A}(x) = \begin{bmatrix} \dfrac{\eta}{x} - \zeta \end{bmatrix}, 
 \qquad
