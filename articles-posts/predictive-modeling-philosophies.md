@@ -109,14 +109,14 @@ The judgmental stance recognizes that not all relevant information can be formal
 
 While it introduces risks of bias and inconsistency, it can add value in situations where data are sparse, regimes are shifting, or models systematically miss key factors. In practice, it often complements rather than replaces formal modeling.  
 
->Practical insight tbd
+>It has repeatdely been shown that judgment by experts enhances mechanical models. A good predictive model should include a judgment component, but judgment bias should be tracked and adjusted for. Experts tend to be too optimistic.
 
 ### Bayesian Support  
 The Bayesian stance frames forecasting as the continuous updating of probabilistic beliefs in light of new evidence. Rather than producing single-point estimates, it treats all forecasts as distributions, explicitly incorporating uncertainty and prior information. 
 
 This allows for coherent integration of data, expert knowledge, and model structure. Its strength is conceptual consistency and clarity about uncertainty; its cost is increased computational and modeling complexity.
 
->Practical insight tbd
+>Bayesian methods are intellectually intriguing but hard to understand for general managers that do not have the time to learn of this works. There are specialized uses, but it is nothing we recommend for widespread adoption. Too complicated.
 
 ---
 *ChatGPT was used for brainstorming and drafting support.*  
