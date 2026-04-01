@@ -26,7 +26,7 @@ In statistical analyses, you cannot get everything. This framework explains the 
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
 
 ## [Combining Judgmental and Mechanical Predictive Models](judgmental-mechanical.md)
-Tbd
+WIP
 
 ---
 [Return to Repository home](../index.md)
