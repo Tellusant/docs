@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 WIP
 
 <p align="center">
-<img  src="(assets/images/(assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="400" alt="JM">
+<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="400" alt="JM">
 </p>
 
 
