@@ -9,7 +9,7 @@ WIP
 
 The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
 <p align="center">
-<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="400" alt="JM">
+<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="350" alt="JM">
 </p>
 
 ---
