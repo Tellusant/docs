@@ -91,12 +91,15 @@ This framework is well suited for handling time variation, missing information, 
 
 >Of limited use in general management. It is fun for scientists but real-world uses seldom benefit from this, outside engineering.
 >
-$$\[\boxed{\begin{aligned}\mathbf{X}'(x) &= \mathbf{A}(x)\,\mathbf{X}(x), \\[6pt]
-y(x) &= \mathbf{C}\,\mathbf{X}(x),\end{aligned}}\]
-
-\[\mathbf{X}(x)=\begin{bmatrix}X_1(x)\\X_2(x)\end{bmatrix}=\begin{bmatrix}y(x)\\y'(x)\end{bmatrix},\]
-
-\[\mathbf{A}(x)=\begin{bmatrix}0 & 1\\[6pt]-\dfrac{\eta}{x^2} & \dfrac{\eta}{x}-\zeta\end{bmatrix},\qquad\mathbf{C}=\begin{bmatrix}1 & 0\end{bmatrix}.\]$$
+$$\
+\mathbf{X}'(x) = \mathbf{A}(x)\mathbf{X}(x) \qquad
+y(x) = \mathbf{C}\mathbf{X}(x)
+\$$
+$$\
+\mathbf{A}(x) = \begin{bmatrix} \dfrac{\eta}{x} - \zeta \end{bmatrix}, 
+\qquad
+\mathbf{C} = \begin{bmatrix} 1 \end{bmatrix}.
+\$$
 
 ## Map Possible Worlds  
 This orientation treats the future as a set of conditional outcomes under differing assumptions rather than a single prediction. It is designed for environments with structural uncertainty, policy shifts, or low-frequency shocks. Its value lies in clarifying contingencies and strategic options. Its limitation is that it does not, by itself, assign probabilities or select a single outcome.  
