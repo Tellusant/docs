@@ -7,13 +7,15 @@ image: /assets/social-card-pub.png
 
 Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.
 
-Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two systems for how this is done: 
-1. Should the judgmental forecast be made independently of the mechanical forecast, and then merged?
-2. Should the experts benefit from having the mechanical forecast as a base, and then form thir judgment?
+Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This is what we allow in Polusim. 
 
-We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgment.
+There are two systems for how this can be done: 
+1. The judgmental forecast is made independently of the mechanical forecast, and then merged.
+2. The experts benefit from having the mechanical forecast as a base, and then form their judgments.
 
-The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional), the simplest and most fundamental form of a negative feedback loop system.
+We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgments.
+
+The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional controller), the simplest and most fundamental type of a negative feedback loop system.
 
 ---
 <div style="max-width: 450px; margin: 0 auto;">
