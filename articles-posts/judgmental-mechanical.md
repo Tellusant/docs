@@ -37,7 +37,7 @@ S["`**Statistical Forecast (t)**`"]:::strong
 %% ===== Judgment and correction =====
 J["`**Judgmental Overlay**`"]:::strong
 Sum((Σ)):::risk
-K["`**Gain K**`"]
+K["`**Gain K**`"]:::neutral
 F["`**Final Forecast (t)**`"]:::strong
 
 %% ===== Realized demand =====
