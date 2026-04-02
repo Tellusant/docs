@@ -32,7 +32,7 @@ S["`**Statistical Forecast (t)**`"]:::strong
 
 %% ===== Judgment and correction =====
 J["`**Judgmental Overlay**`"]:::strong
-Sum((Σ))
+Sum((Σ)):::risk
 K["`**Gain K**`"]
 F["`**Final Forecast (t)**`"]:::strong
 
@@ -107,7 +107,7 @@ The graph looks reasonable, but is not. It lacks scientific rigor. For example, 
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
 
-From this we went to a scientific approach shown in the main graph.
+From this we went to the scientific approach shown in the main graph.
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
