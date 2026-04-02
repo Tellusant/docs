@@ -15,11 +15,12 @@ The graph looks reasonable, but isn't. A negative feedback loop should be added 
 Happily, the correct diagram is now in place. It strictly follows the logic and conventions of time-discrete control theory.
 
 ---
-<div style="max-width: 450px; margin: 0 auto; font-family: Arial, sans-serif;">
+<div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
   
 flowchart TD
 
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 %% ===== Inputs =====
 D1["`**Demand (t−1)**`"]:::mixed
 X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::mixed
