@@ -1,6 +1,8 @@
-# Ratiocination of Tellusant's Judgmental-Mechanical Approach
 
-Here is an example of how our models are created for those interested in epistemic strategy (ratiocination).
+
+# Ratiocination of Tellusant's Judgmental-Mechanical Model
+
+Here is an example of how our models are created for those interested in ratiocination (epistemic strategy): the process of exact thinking.
 
 Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two systems for how this is done:
 
@@ -17,7 +19,7 @@ This graph describes System 1 above. We therefore modified it conceptually to re
 
 The graph looks reasonable, but is not. It lacks scientific rigor. For example, a negative feedback loop should be added in a formally correct manner.
 <p align="center">
-<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="250" alt="JM">
+<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
 
 We therefore developed a scientific model based on control theory:
@@ -83,4 +85,6 @@ Definitions from control theory:
 **Gain** = The sensitivity to past error (how strongly bias is corrected). Here a factor K, but can be an equation. K is often 1.
 
 ---
-qwerty
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
+
+[Find more articles and posts](index.md)

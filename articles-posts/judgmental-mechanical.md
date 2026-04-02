@@ -58,7 +58,7 @@ R --> E
 %% ===== Feedback =====
 E --> Delay
 Delay --> K
-K -->|"`⠀**−**⠀<br/>⠀Neg. feedback loop⠀`"| Sum
+K -->|"`⠀**−**⠀<br/>⠀neg. feedback loop⠀`"| Sum
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
@@ -71,7 +71,7 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 </div>
 
 Definitions from control theory:  
-**Plant** = A real-world process. The term is central to control theoty. A plant can be human hearing, a car brake, an AI prompt; anything that modifies an input.  
+**Plant** = A real-world process. The term is central to control theory. A plant can be human hearing, a car brake, an AI prompt; anything that modifies an input.  
 **Plant model** = An approximation of the plant. Here a statistical analysis.  
 **z<sup>−1</sup>** = the time-shift operator, here 1 year, z<sup>−1</sup>(t) = t-1  
 **Gain** = The sensitivity to past error (how strongly bias is corrected). Here a factor K, but can be an equation. K is often 1.
@@ -100,20 +100,7 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 
 
 ---
-Here is an example of how our models are created for those interested in epistemic strategy (ratiocination).
-
-We started with a graph in an academic journal: Punia (2025):
-<p align="center">
-<img  src="assets/images/punia.svg" width="600" alt="Punia schematic">
-</p>
-This graph describes System 1 above. We therefore modified it conceptually to represent System 2.  
-
-The graph looks reasonable, but is not. It lacks scientific rigor. For example, a negative feedback loop should be added in a formally correct manner.
-<p align="center">
-<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
-</p>
-
-From this we went to the scientific approach shown in the main graph.
+[Ratiocination (epistemic strategy) of the model](ratiocination.md)
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
