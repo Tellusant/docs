@@ -29,7 +29,7 @@ M["`**Plant Model**<br/>(Statistical)`"]:::strong
 S["`**Statistical Forecast (t)**`"]:::strong
 
 %% ===== Judgment and correction =====
-J["`**Judgment Overlay**`"]:::strong
+J["`**Judgmental Overlay**`"]:::strong
 Sum((Σ))
 K["`**Gain K**`"]
 F["`**Final Forecast (t)**`"]:::strong
