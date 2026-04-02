@@ -17,6 +17,7 @@ They are complementary rather than competing, and most systems combine them. The
   
 flowchart LR
 
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 %% ========= NODES =========
 P["`1.2<br/>**Predictive Modeling**<br/>**Philosophies**`"]:::none
 
