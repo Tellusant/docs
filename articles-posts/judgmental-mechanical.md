@@ -21,8 +21,8 @@ Happily, the correct diagram is now in place. It strictly follows the logic and 
 flowchart TD
 
 %% ===== Inputs =====
-D1["`**Demand (t−1)**`"]:::strong
-X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::strong
+D1["`**Demand (t−1)**`"]:::mixed
+X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::mixed
 
 %% ===== Baseline model =====
 M["`**Plant Model**<br/>(Statistical)`"]:::strong
@@ -32,7 +32,7 @@ S["`**Statistical Forecast (t)**`"]:::strong
 J["`**Judgment Overlay**`"]:::strong
 Sum((Σ))
 K["`**Gain K**`"]
-F["`Final Forecast (t)`"]:::strong
+F["`**Final Forecast (t)**`"]:::strong
 
 %% ===== Realized demand =====
 R["`**Realized Demand (t)**`"]:::mixed
