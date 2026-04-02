@@ -48,7 +48,7 @@ D1 --> M
 X -->|⠀given⠀| M
 M --> S
 S --> J
-J -->|"` **+** `"| Sum
+J -->|"`⠀**+**⠀`"| Sum
 Sum --> F
 
 %% ===== Error computation =====
@@ -104,7 +104,7 @@ Here is an example of how our models are created for those interested in epistem
 
 We started with a graph in an academic journal: Punia (2025):
 <p align="center">
-<img  src="assets/images/punia.png" width="500" alt="Punia schematic">
+<img  src="assets/images/punia.svg" width="500" alt="Punia schematic">
 </p>
 This graph describes System 1 above. We therefore modified it conceptually to represent System 2.  
 
