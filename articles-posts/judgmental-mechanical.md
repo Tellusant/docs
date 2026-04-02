@@ -22,24 +22,24 @@ flowchart TD
 
 %% ===== Inputs =====
 D1["`**Demand (t−1)**`"]:::strong
-X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]
+X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::strong
 
 %% ===== Baseline model =====
-M["`**Plant Model**<br/>(Statistical)`"]
-S["`**Statistical Forecast (t)**`"]
+M["`**Plant Model**<br/>(Statistical)`"]:::strong
+S["`**Statistical Forecast (t)**`"]:::strong
 
 %% ===== Judgment and correction =====
-J["`**Judgment Overlay**`"]
+J["`**Judgment Overlay**`"]:::strong
 Sum((Σ))
 K["`**Gain K**`"]
-F["`Final Forecast (t)`"]
+F["`Final Forecast (t)`"]:::strong
 
 %% ===== Realized demand =====
-R["`**Realized Demand (t)**`"]
+R["`**Realized Demand (t)**`"]:::mixed
 
 %% ===== Error and delay =====
-E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]
-Delay["`**z⁻¹**`"]
+E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::neutral
+Delay["`**z⁻¹**`"]:::neutral
 
 %% ===== Forward path =====
 D1 --> M
