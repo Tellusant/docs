@@ -11,7 +11,7 @@ Several authorities have found that mechanical (statistical) forecasts benefit f
 1. Should the judgmental forecast be made independently of the mechanical forecast, and then merged?
 2. Should the experts benefit from having the mechanical forecast as a base, and then form thir judgment?
 
-We have chosen the second method. Experts should have all tools at their disposable: senior executives, colleagues, AI, market reports, and the PoluSim forecast.
+We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast.
 
 The diagram below shows how this by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional), the simplest form of negative feedback loop system.
 
