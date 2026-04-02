@@ -8,7 +8,7 @@ This page collects our theoretical work on predictive modeling in one place.
 
 ## [How to Specify and Evaluate Predictive Models](predictive-model-specification-and-evaluation-framework.md) 
 ***Under journal pre-consideration***  
-Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions.  Here we suggest a structured approach based on the law of threes for both the specification and evaluation phases.  
+Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes.  
 
 ## [Philosophical Stances for Predictive Modeling](predictive-modeling-philosophies.md)  
 Forecasting differs by what it tries to approximate: the world around us, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid.
@@ -25,8 +25,8 @@ In statistical analyses, you cannot get everything. This framework explains the 
 ## [Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)  
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
 
-## [Combining Judgmental and Mechanical Predictive Models](judgmental-mechanical.md)
-Tbd
+## [Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic](judgmental-mechanical.md)
+WIP
 
 ---
 [Return to Repository home](../index.md)

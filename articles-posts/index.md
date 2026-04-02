@@ -88,7 +88,7 @@ This short document describes how sophisticated and careful our long-term predic
 ### [FMCG Demand Drivers](fmcg-demand-levers.md)
 We are often asked what levers can be pulled to stimulate demand. Is there a systematic taxonomy that can always can be used? Yes.  
 
-### [The Horns of the Dilemma #1](horns-dilemma-1.md)
+### [The Horns of the Dilemma in Strategy Development](horns-dilemma-1.md)
 Trade-offs between generality, precision, and realism in strategy development.  
 
 ### [Five Insights on Strategic Predictions](tellusant-five-insights-on-strategic-predictions.pdf)

@@ -37,7 +37,7 @@ Corporate predictive models (outside engineering and finance) arguably come in f
 
 Here we mainly discuss time-dependent models (we say time-dependent, not time series because time series is associated with moving averages, ARIMA and similar, which is only one aspect of solving time problems).
 
-With this as background, a holistic schematic of a predictive modeling initiatives is shown below.
+With background, a holistic schematic of predictive modeling initiatives is shown below.
 
 <p align="center">
 <img  src="assets/images/tellusant-predictive-model-evaluation-framework.svg" width="550" alt="Tellusant predictive model evaluation framework.svg
@@ -48,7 +48,7 @@ With this as background, a holistic schematic of a predictive modeling initiativ
 
 Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the estimation step.  
 
-A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, such guidance is more limited.  
+A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, there is less material available.  
 
 ### 1.1 Objectives  
 Objectives define what success means. They are best developed through interviews with senior management.
