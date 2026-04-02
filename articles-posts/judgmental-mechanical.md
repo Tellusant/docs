@@ -71,6 +71,7 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 </div>
 
 ---
+This diagram can be converted to a set of equations:
 
 $$\begin{align}
 x_t &= \text{externally forecast independent variables} \\[4pt]
