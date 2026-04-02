@@ -18,7 +18,8 @@ Happily, the correct diagram is now in place. It stricy=tly follows the logic an
 
 It just doesn't display yet.
 
-<div style="mermaid">
+<div style="max-width: 450px; margin: 0 auto;">
+<div class="mermaid">
 
 flowchart TD
 
@@ -61,6 +62,7 @@ R --> B
 B --> K
 K -->|−| Sum
 
+</div>
 </div>
 
 ---
