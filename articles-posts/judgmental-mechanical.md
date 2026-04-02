@@ -66,6 +66,58 @@ K -->|−| Sum
 </div>
 
 ---
+
+<div style="max-width: 450px; margin: 0 auto;">
+<div class="mermaid">
+
+  flowchart TD
+
+%% ===== Inputs =====
+D1["Demand (t−1)"]
+X["Independent Variables (Forecasted Externally / Exogenous)"]
+
+%% ===== Baseline model =====
+M["Plant Model (Statistical)"]
+S["Statistical Forecast (t)"]
+
+%% ===== Judgment and correction =====
+J["Judgment Overlay"]
+Sum((Σ))
+K["Gain K"]
+F["Final Forecast (t)"]
+
+%% ===== Plant =====
+P["Plant (Market / Reality)"]
+R["Realized Demand (t)"]
+
+%% ===== Error and delay =====
+E["Error e(t) = Forecast(t) − Demand(t)"]
+Delay["z⁻¹"]
+
+%% ===== Forward path =====
+D1 --> M
+X -->|given| M
+M --> S
+S --> J
+J -->|+| Sum
+Sum --> F
+F --> P
+P --> R
+
+%% ===== Feedback path (explicit loop) =====
+F --> E
+R --> E
+E --> Delay
+Delay --> K
+K -->|−| Sum
+
+%% ===== Visual loop emphasis =====
+Delay -. "negative feedback (t−1)" .-> Sum
+
+</div>
+</div>
+
+---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 
 [Find more articles and posts](index.md)
