@@ -58,7 +58,7 @@ R --> E
 %% ===== Feedback =====
 E --> Delay
 Delay --> K
-K -->|➖<br/>⠀Neg. feedback loop⠀| Sum
+K -->|"`⠀**−**⠀<br/>⠀Neg. feedback loop⠀`"| Sum
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
