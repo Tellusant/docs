@@ -1,5 +1,5 @@
 ---
-title: "How do I KnowIf My Model Works? Hypothesis Validation Approaches"  
+title: "How do I Know If My Model Works? Hypothesis Validation Approaches"  
 description: "There is a tension that runs through modern epistemology: between a science of refutation and a desire for affirmation. We want hypotheses ''proven'', but this is impossible. Here we delineate the approaches that can be used to get closer to affirmation."  
 image: /assets/social-card-pub.png  
 ---
