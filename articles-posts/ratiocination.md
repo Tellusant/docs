@@ -2,7 +2,7 @@
 
 # Ratiocination of Tellusant's Judgmental-Mechanical Approach
 
-Here is an example of how our models are created for those interested in epistemic strategy (ratiocination).
+Here is an example of how our models are created for those interested in ratiocination (epistemic strategy): the process of exact thinking.
 
 Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two systems for how this is done:
 
