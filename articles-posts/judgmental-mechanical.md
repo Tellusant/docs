@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic
 
-Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you here is how PoluSim, our strategic forecasting solution, works.
+Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.
 
 Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two systems for how this is done: 
 1. Should the judgmental forecast be made independently of the mechanical forecast, and then merged?
