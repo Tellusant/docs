@@ -13,14 +13,7 @@ Several authorities have found that mechanical (statistical) forecasts benefit f
 
 We have chosen the second method. Experts should have all tools at their disposable: senior executives, colleagues, AI, market reports, and the PoluSim forecast.
 
-The diagram below shows how this by applying control theory to the logical solution. What you see is a formal way to describe the system we use.
-
-The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
-<p align="center">
-<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
-</p>
-
-Happily, the correct diagram is now in place. It strictly follows the logic and conventions of time-discrete control theory.
+The diagram below shows how this by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional), the simplest form of negative feedback loop system.
 
 ---
 <div style="max-width: 450px; margin: 0 auto;">
@@ -97,6 +90,17 @@ m_t &= g(\hat d_t)
 d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
 && \text{(true demand / plant)}
 \end{align}$$
+
+
+---
+For review purposes, here is what we started with from an academic journal.
+
+
+
+The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
+<p align="center">
+<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
+</p>
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
