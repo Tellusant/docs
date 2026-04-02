@@ -1,6 +1,6 @@
 
 
-# Ratiocination of Tellusant's Judgmental-Mechanical Approach
+# Ratiocination of Tellusant's Judgmental-Mechanical Model
 
 Here is an example of how our models are created for those interested in ratiocination (epistemic strategy): the process of exact thinking.
 
