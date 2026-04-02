@@ -17,7 +17,7 @@ This graph describes System 1 above. We therefore modified it conceptually to re
 
 The graph looks reasonable, but is not. It lacks scientific rigor. For example, a negative feedback loop should be added in a formally correct manner.
 <p align="center">
-<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="250" alt="JM">
+<img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
 
 We therefore developed a scientific model based on control theory:
