@@ -18,8 +18,8 @@ We have chosen the second method. Experts should have all tools at their disposa
 The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use.  
 
 For those familiar with control theory, you immediately see a P controller (proportional controller), the simplest and most fundamental type of a negative feedback loop system.
+<br/>
 
----
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
   
