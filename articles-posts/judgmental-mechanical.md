@@ -98,15 +98,15 @@ Here is an example of how our models are created for those interested in epistem
 
 We started with a graph in an academic journal: Punia (2025):
 <p align="center">
-<img  src="assets/images/punia.png" width="300" alt="Punia schematic">
+<img  src="assets/images/punia.png" width="500" alt="Punia schematic">
 </p>
-This graph describes System 1 above. We modified it conceptually to represent system 2.
-
-From this we constructed a slightly modified
-The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
+This graph describes System 1 above. We therefore modified it conceptually to represent system 2.
+The graph looks reasonable, but isn't. For example, a negative feedback loop should be added in a formally correct manner.
 <p align="center">
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
+
+From this we went to a scientific approach shown in the main graph.
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
