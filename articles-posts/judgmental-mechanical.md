@@ -58,7 +58,7 @@ R --> E
 %% ===== Feedback =====
 E --> Delay
 Delay --> K
-K -->|"`⠀**−**⠀<br/>⠀Neg. feedback loop⠀`"| Sum
+K -->|"`⠀**−**⠀<br/>⠀neg. feedback loop⠀`"| Sum
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
@@ -71,7 +71,7 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 </div>
 
 Definitions from control theory:  
-**Plant** = A real-world process. The term is central to control theoty. A plant can be human hearing, a car brake, an AI prompt; anything that modifies an input.  
+**Plant** = A real-world process. The term is central to control theory. A plant can be human hearing, a car brake, an AI prompt; anything that modifies an input.  
 **Plant model** = An approximation of the plant. Here a statistical analysis.  
 **z<sup>−1</sup>** = the time-shift operator, here 1 year, z<sup>−1</sup>(t) = t-1  
 **Gain** = The sensitivity to past error (how strongly bias is corrected). Here a factor K, but can be an equation. K is often 1.
