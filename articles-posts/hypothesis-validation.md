@@ -17,6 +17,8 @@ There is a tension that runs through modern epistemology: between a science of r
 
 flowchart LR
 
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
+
     V["`**Validation Approaches**`"]:::none
 
     F["`**Falsification<br/>(Not Rejected)**<br/>*Hypotheses are not<br/>confirmed. They survive<br/>attempts at refutation*`"]:::strong
