@@ -13,7 +13,7 @@ Several authorities have found that mechanical (statistical) forecasts benefit f
 
 We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgment.
 
-The diagram below shows how this by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional), the simplest form of negative feedback loop system.
+The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional), the simplest and most fundamental form of a negative feedback loop system.
 
 ---
 <div style="max-width: 450px; margin: 0 auto;">
