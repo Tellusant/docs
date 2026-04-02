@@ -23,25 +23,25 @@ Happily, the correct diagram is now in place. It stricy=tly follows the logic an
 flowchart TD
 
 %% ===== Inputs =====
-D1["Demand (t−1)"]:::strong
-X["Independent Variables (Forecasted Externally / Exogenous)"]
+D1["`**Demand (t−1)**`"]:::strong
+X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]
 
 %% ===== Baseline model =====
-M["Plant Model (Statistical)"]
-S["Statistical Forecast (t)"]
+M["`**Plant Model**<br/>(Statistical)`"]
+S["`**Statistical Forecast (t)**`"]
 
 %% ===== Judgment and correction =====
-J["Judgment Overlay"]
+J["`**Judgment Overlay**`"]
 Sum((Σ))
-K["Gain K"]
-F["Final Forecast (t)"]
+K["`**Gain K**`"]
+F["`Final Forecast (t)`"]
 
 %% ===== Realized demand =====
-R["Realized Demand (t)"]
+R["`**Realized Demand (t)**`"]
 
 %% ===== Error and delay =====
-E["Error e(t) = Forecast(t) − Demand(t)"]
-Delay["z⁻¹"]
+E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]
+Delay["`**z⁻¹**`"]
 
 %% ===== Forward path =====
 D1 --> M
@@ -58,7 +58,7 @@ R --> E
 %% ===== Feedback =====
 E --> Delay
 Delay --> K
-K -->|−| Sum
+K -->|−<br/><br/>Neg. feedback loop| Sum
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
