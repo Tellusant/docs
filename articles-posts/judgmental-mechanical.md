@@ -24,12 +24,12 @@ It just doesn't display yet.
 flowchart TD
 
 %% ===== Inputs =====
-D1["Demand (t−1)"]
-X["Independent Variables (Forecasted Externally / Exogenous)"]
+D1["1**Demand** (t−1)`"]
+X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]
 
 %% ===== Baseline model =====
-M["Plant Model (Statistical)"]
-S["Statistical Forecast (t)"]
+M["**Plant Model**<br/>(Statistical)`"]
+S["`**Statistical Forecast** (t)"]
 
 %% ===== Judgment and correction =====
 J["Judgment Overlay"]
