@@ -7,9 +7,9 @@ image: /assets/social-card-pub.png
 
 Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you here is how PoluSim, our strategic forecasting solution, works.
 
-Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two ways this can be done: 
-- Should the judgmental forecast be made independently of the mechanical forecast, and then merged?
-- Should the experts benefit from having the mechanical forecast as a base, and then form thir judgment?
+Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two systems for how this is done: 
+1. Should the judgmental forecast be made independently of the mechanical forecast, and then merged?
+2. Should the experts benefit from having the mechanical forecast as a base, and then form thir judgment?
 
 We have chosen the second method. Experts should have all tools at their disposable: senior executives, colleagues, AI, market reports, and the PoluSim forecast.
 
@@ -94,10 +94,15 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 
 
 ---
-For review purposes, here is what we started with from an academic journal.
+Here is an example of how our models are created for those interested in epistemic strategy (ratiocination).
 
+We started with a graph in an academic journal: Punia (2025):
+<p align="center">
+<img  src="assets/images/punia.png" width="300" alt="Punia schematic">
+</p>
+This graph describes System 1 above. We modified it conceptually to represent system 2.
 
-
+From this we constructed a slightly modified
 The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
 <p align="center">
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
