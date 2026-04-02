@@ -23,7 +23,7 @@ The graph looks reasonable, but is not. It lacks scientific rigor and is plain w
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
 <br/>
-We therefore developed a scientific model aligned on control theory. This is an example s-called P controller, the most fundamental of control theory constructs.
+We therefore developed a scientific model aligned on control theory. This is an example s-called P controller, the simplest and most fundamental of control theory constructs.
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
