@@ -12,17 +12,18 @@ Several authorities have found that mechanical (statistical) forecasts benefit f
 We have chosen the second method. 
 
 We started with a graph in an academic journal: Punia (2025):
+<br/>
 <p align="center">
 <img  src="assets/images/punia.svg" width="700" alt="Punia schematic">
 </p>
 This graph describes System 1 above. We therefore modified it conceptually to represent System 2.  
 
-The graph looks reasonable, but is not. It lacks scientific rigor. For example, a negative feedback loop should be added in a formally correct manner.
+The graph looks reasonable, but is not. It lacks scientific rigor and is plain wrong. For example, a negative feedback loop should be added in a formally correct manner.
 <p align="center">
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
-
-We therefore developed a scientific model based on control theory:
+<br/>
+We therefore developed a scientific model aligned on control theory. This is an example s-called P controller, the most fundamental of control theory constructs.
 
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
