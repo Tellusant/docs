@@ -92,7 +92,7 @@ This framework is well suited for handling time variation, missing information, 
 
 >Of limited use in general management. It is fun for scientists but real-world uses seldom benefit from this, outside engineering.
 >
->Note that even though this is a philosophical stance, there is a direct link to practical predictive models. Here is demand model we use all the time expressed in state-space notation:
+>Note that even though this is a philosophical stance, there is a direct link to practical predictive models. Here is the demand model we use routinely expressed in state-space notation:
 
 $$\
 \mathbf{X}'(x) = \mathbf{A}(x)\mathbf{X}(x) \qquad
