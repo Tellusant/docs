@@ -1,20 +1,18 @@
 ---
-title: "Combining Judgmental and Mechanical Predictive Models"
+title: "Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic"
 description: "Adding expert judgment to models improves their accuracy. We discuss how to do this the best way."
 image: /assets/social-card-pub.png
 ---
-# Combining Judgmental and Mechanical Predictive Models
+# Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic
 
 Adding expert judgment to models improves their accuracy. We discuss how to do this the best way.
-
-WIP
 
 The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
 <p align="center">
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
 
-Happily, the correct diagram is now in place. It stricy=tly follows the logic and conventions of time-discrete control theory.
+Happily, the correct diagram is now in place. It strictly follows the logic and conventions of time-discrete control theory.
 
 ---
 <div style="max-width: 450px; margin: 0 auto; font-family: Arial, sans-serif;">
