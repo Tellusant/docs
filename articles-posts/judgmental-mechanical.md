@@ -100,7 +100,7 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 
 
 ---
-For those interested in the ratiocination (epistemic strategy) of the model](ratiocination.md)
+For those interested in the [ratiocination (epistemic strategy) of the model](ratiocination.md)
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
