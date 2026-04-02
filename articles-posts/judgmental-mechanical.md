@@ -17,13 +17,13 @@ The graph looks reasonable, but isn't. A negative feedback loop should be added 
 Happily, the correct diagram is now in place. It stricy=tly follows the logic and conventions of time-discrete control theory.
 
 ---
-<div style="max-width: 450px; margin: 0 auto;">
+<div style="max-width: 450px; margin: 0 auto;"font-family: Arial, sans-serif;">
 <div class="mermaid">
   
 flowchart TD
 
 %% ===== Inputs =====
-D1["Demand (t−1)"]
+D1["Demand (t−1)"]:::strong
 X["Independent Variables (Forecasted Externally / Exogenous)"]
 
 %% ===== Baseline model =====
@@ -59,6 +59,13 @@ R --> E
 E --> Delay
 Delay --> K
 K -->|−| Sum
+
+%% ========= STYLES =========
+classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 
 </div>
 </div>
