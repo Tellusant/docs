@@ -12,7 +12,7 @@ Forecasting differs by what it tries to approximate: the world around us, the da
 
 They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
 
-<div style="max-width: 550px; margin: 0 auto;">
+<div style="max-width: 600px; margin: 0 auto;">
 <div class="mermaid">
   
 flowchart LR
