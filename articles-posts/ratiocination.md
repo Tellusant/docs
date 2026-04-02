@@ -1,3 +1,5 @@
+
+
 # Ratiocination of Tellusant's Judgmental-Mechanical Approach
 
 Here is an example of how our models are created for those interested in epistemic strategy (ratiocination).
@@ -83,4 +85,6 @@ Definitions from control theory:
 **Gain** = The sensitivity to past error (how strongly bias is corrected). Here a factor K, but can be an equation. K is often 1.
 
 ---
-qwerty
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
+
+[Find more articles and posts](index.md)
