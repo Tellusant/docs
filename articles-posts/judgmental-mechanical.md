@@ -48,7 +48,7 @@ D1 --> M
 X -->|given| M
 M --> S
 S --> J
-J -->| + | Sum
+J -->|&#160;+&#160;| Sum
 Sum --> F
 
 %% ===== Error computation =====
