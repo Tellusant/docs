@@ -15,7 +15,9 @@ There are two systems for how this can be done:
 
 We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgments.
 
-The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional controller), the simplest and most fundamental type of a negative feedback loop system.
+The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use.  
+
+For those familiar with control theory, you immediately see a P controller (proportional controller), the simplest and most fundamental type of a negative feedback loop system.
 
 ---
 <div style="max-width: 450px; margin: 0 auto;">
