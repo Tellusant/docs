@@ -25,10 +25,10 @@ flowchart TD
 
 %% ===== Inputs =====
 D1["Demand (t−1)"]
-X["Independent Variables (Forecasted Externally / Exogenous)"]
+X["Independent Variables (Forecasted<br/>Externally / Exogenous)"]
 
 %% ===== Plant model =====
-M["Plant Model (Statistical)"]
+M["Plant Model<br/>(Statistical)"]
 S["Statistical Forecast (t)"]
 
 %% ===== Summing junction =====
