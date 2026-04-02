@@ -10,8 +10,8 @@ Adding expert judgment to models improves their accuracy. We discuss how to do t
 Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This is what we allow in Polusim. 
 
 There are two systems for how this can be done: 
-1. The judgmental forecast is made independently of the mechanical forecast, and then merged.
-2. The experts benefit from having the mechanical forecast as a base, and then form their judgments.
+1. The judgmental forecast is made independently of the mechanical forecast, and they are then merged.
+2. The experts benefit from having the mechanical forecast as a base, and then form their judgments, that are superimposed on the mechanical model.
 
 We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgments.
 
