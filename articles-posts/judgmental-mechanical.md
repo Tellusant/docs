@@ -102,6 +102,15 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 && \text{(true demand / plant)}
 \end{align}$$
 
+Or in state-space:
+
+$$\begin{align}
+s_t &\equiv e_{t-1} \\[4pt]
+\hat d_t &= f(d_{t-1},x_t) + j_t - K s_t \\[4pt]
+s_{t+1} &= \hat d_t - d_t \\[4pt]
+m_t &= g(\hat d_t)
+\end{align}$$
+
 
 ---
 [Ratiocination (epistemic strategy) of the model](ratiocination.md)
