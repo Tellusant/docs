@@ -25,39 +25,41 @@ flowchart TD
 
 %% ===== Inputs =====
 D1["Demand (t−1)"]
-X["Independent Variables (Forecasted<br/>Externally / Exogenous)"]
+X["Independent Variables (Forecasted Externally / Exogenous)"]
 
-%% ===== Plant model =====
-M["Plant Model<br/>(Statistical)"]
+%% ===== Baseline model =====
+M["Plant Model (Statistical)"]
 S["Statistical Forecast (t)"]
 
-%% ===== Summing junction =====
+%% ===== Judgment and correction =====
+J["Judgment Overlay"]
 Sum((Σ))
-
-%% ===== Judgment layer =====
-J["Judgment Adjustment"]
+K["Gain K"]
 F["Final Forecast (t)"]
 
 %% ===== Plant =====
 P["Plant (Market / Reality)"]
 R["Realized Demand (t)"]
 
-%% ===== Lagged feedback =====
-E["Error (Bias) e(t−1)"]
-K["Gain K"]
+%% ===== Error and delay =====
+E["Error e(t) = Forecast(t) − Demand(t)"]
+Delay["z⁻¹"]
 
 %% ===== Forward path =====
 D1 --> M
 X -->|given| M
 M --> S
-S -->|+| Sum
-Sum --> J
-J --> F
+S --> J
+J -->|+| Sum
+Sum --> F
 F --> P
 P --> R
 
-%% ===== Feedback loop =====
-E --> K
+%% ===== Feedback path =====
+F --> E
+R --> E
+E --> Delay
+Delay --> K
 K -->|−| Sum
 
 </div>
