@@ -100,7 +100,8 @@ We started with a graph in an academic journal: Punia (2025):
 <p align="center">
 <img  src="assets/images/punia.png" width="500" alt="Punia schematic">
 </p>
-This graph describes System 1 above. We therefore modified it conceptually to represent System 2.
+This graph describes System 1 above. We therefore modified it conceptually to represent System 2.  
+
 The graph looks reasonable, but is not. It lacks scientific rigor. For example, a negative feedback loop should be added in a formally correct manner.
 <p align="center">
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
