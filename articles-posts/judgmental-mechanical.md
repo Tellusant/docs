@@ -17,7 +17,7 @@ The graph looks reasonable, but isn't. A negative feedback loop should be added 
 Happily, the correct diagram is now in place. It stricy=tly follows the logic and conventions of time-discrete control theory.
 
 ---
-<div style="max-width: 450px; margin: 0 auto;"font-family: Arial, sans-serif;">
+<div style="max-width: 450px; margin: 0 auto; font-family: Arial, sans-serif;">
 <div class="mermaid">
   
 flowchart TD
