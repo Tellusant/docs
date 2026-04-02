@@ -17,6 +17,7 @@ They are complementary rather than competing, and most systems combine them. The
   
 flowchart LR
 
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 %% ========= NODES =========
 P["`1.2<br/>**Predictive Modeling**<br/>**Philosophies**`"]:::none
 
@@ -91,20 +92,13 @@ This framework is well suited for handling time variation, missing information, 
 
 >Of limited use in general management. It is fun for scientists but real-world uses seldom benefit from this, outside engineering.
 >
->Note that even though this is a philosophical stance, there is a direct link to practical predictive models. Here is demand model we use all the time expressed in state-space notation:
+>Note that even though this is a philosophical stance, there is a direct link to practical predictive models. Here is the demand model we use routinely expressed in state-space notation:
 
-$$\
-\mathbf{X}'(x) = \mathbf{A}(x)\mathbf{X}(x) \qquad
-y(x) = \mathbf{C}\mathbf{X}(x)
-\$$
+$$\\mathbf{X}'(x) = \mathbf{A}(x)\mathbf{X}(x) \qquad \y(x) = \mathbf{C}\mathbf{X}(x)\$$
 
-$$\
-\mathbf{A}(x) = \begin{bmatrix} \dfrac{\eta}{x} - \zeta \end{bmatrix}, 
-\qquad
-\mathbf{C} = \begin{bmatrix} 1 \end{bmatrix}.
-\$$
+$$\\mathbf{A}(x) = \begin{bmatrix} \dfrac{\eta}{x} - \zeta \end{bmatrix}, \qquad\mathbf{C} = \begin{bmatrix} 1 \end{bmatrix}.\$$
 
->Six of the seven philosophical stances (not pragmatism though) have directly corresponding math that is used in statistical models.
+>Six of the seven philosophical stances (not pragmatism though) have directly corresponding math that is used in statistical models.  
 
 ## Map Possible Worlds  
 This orientation treats the future as a set of conditional outcomes under differing assumptions rather than a single prediction. It is designed for environments with structural uncertainty, policy shifts, or low-frequency shocks. Its value lies in clarifying contingencies and strategic options. Its limitation is that it does not, by itself, assign probabilities or select a single outcome.  

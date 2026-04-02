@@ -5,13 +5,13 @@ image: /assets/social-card-pub.png
 ---
 # Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic
 
-Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you here is how PoluSim, our strategic forecasting solution, works.
+Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.
 
 Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This what we allow in Polusim. There are two systems for how this is done: 
 1. Should the judgmental forecast be made independently of the mechanical forecast, and then merged?
 2. Should the experts benefit from having the mechanical forecast as a base, and then form thir judgment?
 
-We have chosen the second method. Experts should have all tools at their disposable: senior executives, colleagues, AI, market reports, and the PoluSim forecast.
+We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgment.
 
 The diagram below shows how this by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use. For those familiar with control theory, you immediately see a P controller (proportional), the simplest form of negative feedback loop system.
 
@@ -32,7 +32,7 @@ S["`**Statistical Forecast (t)**`"]:::strong
 
 %% ===== Judgment and correction =====
 J["`**Judgmental Overlay**`"]:::strong
-Sum((Σ))
+Sum((Σ)):::risk
 K["`**Gain K**`"]
 F["`**Final Forecast (t)**`"]:::strong
 
@@ -45,10 +45,10 @@ Delay["`**z⁻¹**`"]:::neutral
 
 %% ===== Forward path =====
 D1 --> M
-X -->|given| M
+X -->|⠀given⠀| M
 M --> S
 S --> J
-J -->|&nbsp;+&nbsp;| Sum
+J -->|"` **+** `"| Sum
 Sum --> F
 
 %% ===== Error computation =====
@@ -58,7 +58,7 @@ R --> E
 %% ===== Feedback =====
 E --> Delay
 Delay --> K
-K -->|−<br/>Neg. feedback loop| Sum
+K -->|➖<br/>⠀Neg. feedback loop⠀| Sum
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
@@ -69,6 +69,12 @@ classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 
 </div>
 </div>
+
+Definitions from control theory:  
+**Plant** = A real-world process. The term is central to control theoty. A plant can be human hearing, a car brake, an AI prompt; anything that modifies an input.  
+**Plant model** = An approximation of the plant. Here a statistical analysis.  
+**z<sup>−1</sup>** = the time-shift operator, here 1 year, z<sup>−1</sup>(t) = t-1  
+**Gain** = The sensitivity to past error (how strongly bias is corrected). Here a factor K, but can be an equation. K is often 1.
 
 ---
 This diagram can be converted to a set of equations:
@@ -98,15 +104,16 @@ Here is an example of how our models are created for those interested in epistem
 
 We started with a graph in an academic journal: Punia (2025):
 <p align="center">
-<img  src="assets/images/punia.png" width="300" alt="Punia schematic">
+<img  src="assets/images/punia.png" width="500" alt="Punia schematic">
 </p>
-This graph describes System 1 above. We modified it conceptually to represent system 2.
+This graph describes System 1 above. We therefore modified it conceptually to represent System 2.  
 
-From this we constructed a slightly modified
-The graph looks reasonable, but isn't. A negative feedback loop should be added in a formally correct manner.
+The graph looks reasonable, but is not. It lacks scientific rigor. For example, a negative feedback loop should be added in a formally correct manner.
 <p align="center">
 <img  src="assets/images/tellusant-judgmental-mechanical-predictive-model.svg" width="300" alt="JM">
 </p>
+
+From this we went to the scientific approach shown in the main graph.
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
