@@ -119,13 +119,19 @@ $$\begin{align}
 s_t &\equiv e_{t-1} \\[4pt]
 \end{align}$$  
 
+1dollar align  
+
+$\begin{align}
+s_t &\equiv e_{t-1} \\[4pt]
+\end{align}$  
+
 2dollar  
 
-$$\s_t &\equiv e_{t-1} \\[4pt]$$  
+$$\s_t \equiv e_{t-1} \\[4pt]$$  
 
 1dollar  
 
-$\s_t &\equiv e_{t-1} \\[4pt]$  
+$\s_t \equiv e_{t-1} \\[4pt]$  
 
  denote the previous period’s error. The final forecast at time 
 𝑡
