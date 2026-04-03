@@ -105,14 +105,11 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 
 Or in state-space:
 
-$$\begin{align}
-s_t &\equiv e_{t-1} \\[4pt]
-\hat d_t &= f(d_{t-1},x_t) + j_t - K s_t \\[4pt]
-s_{t+1} &= \hat d_t - d_t \\[4pt]
-m_t &= g(\hat d_t)
-\end{align}$$
+The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error. 
 
-The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error. The final forecast at time $t$ combines the statistical plant model, a judgment overlay, and a proportional correction based on this state. The state then updates as the newly realized forecast error once demand becomes known. This yields a minimal state-space representation in which the dynamics are driven entirely by the propagation of forecast error, while demand itself remains an exogenous realization of the underlying process.
+The final forecast at time $t$ combines the statistical plant model, a judgment overlay, and a proportional correction based on this state. The state then updates as the newly realized forecast error once demand becomes known. 
+
+This yields a minimal state-space representation in which the dynamics are driven entirely by the propagation of forecast error, while demand itself remains an exogenous realization of the underlying process.
 
 $$\begin{align}
 s_t &\equiv e_{t-1} \\[4pt]
