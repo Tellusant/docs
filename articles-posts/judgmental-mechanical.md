@@ -104,6 +104,24 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 && \text{(true demand / plant)}
 \end{align}$$
 
+$$begin{align}
+
+\hat d^{\,S}_t &= f(d_{t-1}, x_t) 
+&& \text{(statistical / plant model)} \\[4pt]
+
+\hat d_t &= \hat d^{\,S}_t + j_t - K e_{t-1} 
+&& \text{(final forecast with judgment and correction)} \\[4pt]
+
+e_t &= \hat d_t - d_t 
+&& \text{(forecast error / bias)} \\[4pt]
+
+m_t &= g(\hat d_t) 
+&& \text{(management decisions)} \\[4pt]
+
+d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
+&& \text{(true demand / plant)}
+\end{align}$$
+
 Or in state-space:
 
 The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error. 
