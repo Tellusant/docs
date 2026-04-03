@@ -53,7 +53,7 @@ E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::red
 Delay["`**z⁻¹**`"]:::red
 
 %% ===== Management decision =====
-MGT["`**Management Decison**`"]:::grey
+MGT["`**Management Decision**`"]:::blue
 
 %% ===== Forward path =====
 D1 --> M
