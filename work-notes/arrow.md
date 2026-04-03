@@ -12,6 +12,6 @@ GE --> GJ
 FP --> GJ
 MP --> MS
 
-linkStyle 1 stroke-width:0;
+linkStyle 1 stroke:transparent,stroke-width:0;
 
 </div>
