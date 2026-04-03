@@ -1,4 +1,4 @@
-# Arrow
+# Arrows in Mermaid
 
 <div class="mermaid">
 
