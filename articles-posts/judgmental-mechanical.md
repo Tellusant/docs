@@ -84,7 +84,7 @@ Definitions from control theory:
 ---
 This diagram can be converted to a set of equations:
 
-$$begin{alignat*}{2}
+$$begin{align}
 x_t &= z 
 && \text{externally forecast independent variables} \\[4pt]
 
