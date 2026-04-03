@@ -73,9 +73,9 @@ Delay --> K
 K -->|"`⠀**−**⠀<br/>⠀Neg. feedback loop⠀`"| Sum
 
 F -.-> MGT
-K --> MGT:::clear
+K --> MGT:::grey
 
-linkStyle 8 stroke:transparent,stroke-width:0;
+linkStyle 13 stroke:transparent,stroke-width:0;
 
 %% ========= STYLES =========
 classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
