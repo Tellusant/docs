@@ -42,7 +42,7 @@ S["`**Statistical Forecast (t)**`"]:::green
 %% ===== Judgment and correction =====
 J["`**Judgmental Overlay**`"]:::green
 Sum((⠀Σ⠀)):::base
-K["`**Gain K**`"]***red
+K["`**Gain K**`"]:::red
 F["`**Final Forecast (t)**`"]:::green
 
 %% ===== Realized demand =====
