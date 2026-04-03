@@ -51,7 +51,7 @@ MP -->|Strengthens| FS
 FS <-->|Depends on progress| SR
 SR -->|Pace insufficient| LC
 LC <-->|Feedback loop| GJ
-linkStyle 3 stroke:transparent,stroke-width:0px;
+linkStyle 3 stroke-width:0px;
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
 ANCHOR[" "]:::anchor
