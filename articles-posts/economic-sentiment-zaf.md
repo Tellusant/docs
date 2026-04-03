@@ -31,6 +31,7 @@ As of January 2026
 
 flowchart TD
 
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 %% ========= NODES =========
 GE["𝗚𝗟𝗢𝗕𝗔𝗟 𝗘𝗡𝗩𝗜𝗥𝗢𝗡𝗠𝗘𝗡𝗧<br/>Score: 3/10<br/>''Risks remain tilted to the downside''"]:::risk
 FP["𝗙𝗜𝗦𝗖𝗔𝗟 𝗣𝗢𝗟𝗜𝗖𝗬<br/>Score: 3/10<br/>''Debt remains high and rising''"]:::risk
