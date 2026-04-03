@@ -85,6 +85,7 @@ Definitions from control theory:
 This diagram can be converted to a set of equations:
 
 $$\begin{alignat}{2}
+d_t &= \text{demand as dependent variable} \\[4pt]
 x_t &= \text{externally forecast independent variables} \\[4pt]
 
 \hat d^{\,S}_t &= f(d_{t-1}, x_t) 
