@@ -36,7 +36,7 @@ S["`**Statistical Forecast (t)**`"]:::green
 
 %% ===== Judgment and correction =====
 J["`**Judgmental Overlay**`"]:::green
-Sum((Σ)):::risk
+Sum((Σ)):::base
 K["`**Gain K**`"]:::red
 F["`**Final Forecast (t)**`"]:::green
 
@@ -70,7 +70,7 @@ classDef blue    fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
 classDef orange  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
 classDef red     fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
 classDef grey    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
-classDef base    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef base    fill:#ECECFF,stroke:#9370DB,stroke-width:2px,color:#111;
 
 </div>
 </div>
