@@ -51,6 +51,7 @@ MP -->|Strengthens| FS
 FS <-->|Depends on progress| SR
 SR -->|Pace insufficient| LC
 LC <-->|Feedback loop| GJ
+linkStyle 3 stroke:none;
 
 %% ========= INVISIBLE LAYOUT CONTROL =========
 ANCHOR[" "]:::anchor
@@ -59,6 +60,7 @@ ANCHOR[" "]:::anchor
 SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬<br/>Weighted average score:<br/>5.05/10<br/>''Strong monetary and financial anchors
 support stability, but fiscal constraints and slow reform implementation keep growth subdued''"]:::summary
 LC -.-> SUM:::anchor
+
 
 %% ========= STYLES =========
 classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
