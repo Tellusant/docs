@@ -84,27 +84,7 @@ Definitions from control theory:
 ---
 This diagram can be converted to a set of equations:
 
-$$begin{align}
-x_t &= z 
-&& \text{externally forecast independent variables} \\[4pt]
-
-\hat d^{\,S}_t &= f(d_{t-1}, x_t) 
-&& \text{(statistical / plant model)} \\[4pt]
-
-\hat d_t &= \hat d^{\,S}_t + j_t - K e_{t-1} 
-&& \text{(final forecast with judgment and correction)} \\[4pt]
-
-e_t &= \hat d_t - d_t 
-&& \text{(forecast error / bias)} \\[4pt]
-
-m_t &= g(\hat d_t) 
-&& \text{(management decisions)} \\[4pt]
-
-d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
-&& \text{(true demand / plant)}
-\end{align}$$
-
-$$\begin{align}
+$$\begin{alignat}{2}
 x_t &= \text{externally forecast independent variables} \\[4pt]
 
 \hat d^{\,S}_t &= f(d_{t-1}, x_t) 
@@ -121,7 +101,7 @@ m_t &= g(\hat d_t)
 
 d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
 && \text{(true demand / plant)}
-\end{align}$$
+\end{alignat}$$
 
 Or in state-space:
 
