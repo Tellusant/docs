@@ -104,19 +104,20 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 && \text{(true demand / plant)}
 \end{align}$$
 
-$$begin{align}
+$$\begin{align}
+x_t &= \text{externally forecast independent variables} \\[4pt]
 
 \hat d^{\,S}_t &= f(d_{t-1}, x_t) 
-&& \text{(statistical / plant model)} \\[4pt]
+&& \text{(statistical / plant model)} \\[6pt]
 
 \hat d_t &= \hat d^{\,S}_t + j_t - K e_{t-1} 
-&& \text{(final forecast with judgment and correction)} \\[4pt]
+&& \text{(final forecast with judgment and correction)} \\[6pt]
 
 e_t &= \hat d_t - d_t 
-&& \text{(forecast error / bias)} \\[4pt]
+&& \text{(forecast error / bias)} \\[6pt]
 
 m_t &= g(\hat d_t) 
-&& \text{(management decisions)} \\[4pt]
+&& \text{(management decisions)} \\[6pt]
 
 d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
 && \text{(true demand / plant)}
