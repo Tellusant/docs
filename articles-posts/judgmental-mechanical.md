@@ -45,7 +45,7 @@ R["`**Realized Demand (t)**`"]:::orange
 
 %% ===== Error and delay =====
 E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::red
-Delay["`**z⁻¹**`"]::red
+Delay["`**z⁻¹**`"]:::red
 
 %% ===== Forward path =====
 D1 --> M
