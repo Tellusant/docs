@@ -27,21 +27,21 @@ flowchart TD
 
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 %% ===== Inputs =====
-D1["`**Demand (t−1)**`"]:::mixed
-X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::mixed
+D1["`**Demand (t−1)**`"]:::orange
+X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::orange
 
 %% ===== Baseline model =====
-M["`**Plant Model**<br/>(Statistical)`"]:::strong
-S["`**Statistical Forecast (t)**`"]:::strong
+M["`**Plant Model**<br/>(Statistical)`"]:::green
+S["`**Statistical Forecast (t)**`"]:::green
 
 %% ===== Judgment and correction =====
-J["`**Judgmental Overlay**`"]:::strong
+J["`**Judgmental Overlay**`"]:::green
 Sum((Σ)):::risk
 K["`**Gain K**`"]:::neutral
-F["`**Final Forecast (t)**`"]:::strong
+F["`**Final Forecast (t)**`"]:::green
 
 %% ===== Realized demand =====
-R["`**Realized Demand (t)**`"]:::mixed
+R["`**Realized Demand (t)**`"]:::orange
 
 %% ===== Error and delay =====
 E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::neutral
@@ -65,11 +65,11 @@ Delay --> K
 K -->|"`⠀**−**⠀<br/>⠀neg. feedback loop⠀`"| Sum
 
 %% ========= STYLES =========
-classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
-classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
-classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
-classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
-classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef blue    fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef orange  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef red     fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef grey    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 
 </div>
 </div>
@@ -111,13 +111,11 @@ s_{t+1} &= \hat d_t - d_t \\[4pt]
 m_t &= g(\hat d_t)
 \end{align}$$
 
-The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let 
-$𝑠𝑡≡𝑒𝑡−1st≡et−1$  
+The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let   
 
-$$\begin{align}
+$\begin{align}
 s_t &\equiv e_{t-1} \\[4pt]
-\end{align}$$
-	​
+\end{align}$
 
  denote the previous period’s error. The final forecast at time 
 𝑡
