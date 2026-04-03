@@ -52,6 +52,9 @@ R["`**Realized Demand (t)**`"]:::orange
 E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::red
 Delay["`**z⁻¹**`"]:::red
 
+%% ===== Management decision =====
+MGT["`**Management Decison**`"]:::grey
+
 %% ===== Forward path =====
 D1 --> M
 X -->|⠀given⠀| M
@@ -68,6 +71,9 @@ R --> E
 E --> Delay
 Delay --> K
 K -->|"`⠀**−**⠀<br/>⠀Neg. feedback loop⠀`"| Sum
+
+F --> MGT
+K --> MGT
 
 %% ========= STYLES =========
 classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
