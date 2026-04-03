@@ -32,25 +32,25 @@ flowchart TD
 
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 %% ===== Inputs =====
-D1["`**Demand (t−1)**`"]:::mixed
-X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::mixed
+D1["`**Demand (t−1)**`"]:::orange
+X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::orange
 
 %% ===== Baseline model =====
-M["`**Plant Model**<br/>(Statistical)`"]:::strong
-S["`**Statistical Forecast (t)**`"]:::strong
+M["`**Plant Model**<br/>(Statistical)`"]:::green
+S["`**Statistical Forecast (t)**`"]:::green
 
 %% ===== Judgment and correction =====
-J["`**Judgmental Overlay**`"]:::strong
-Sum((Σ)):::risk
+J["`**Judgmental Overlay**`"]:::green
+Sum((Σ)):::base
 K["`**Gain K**`"]
-F["`**Final Forecast (t)**`"]:::strong
+F["`**Final Forecast (t)**`"]:::green
 
 %% ===== Realized demand =====
-R["`**Realized Demand (t)**`"]:::mixed
+R["`**Realized Demand (t)**`"]:::orange
 
 %% ===== Error and delay =====
-E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::neutral
-Delay["`**z⁻¹**`"]:::neutral
+E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::red
+Delay["`**z⁻¹**`"]:::red
 
 %% ===== Forward path =====
 D1 --> M
@@ -70,11 +70,12 @@ Delay --> K
 K -->|"`⠀**−**⠀<br/>⠀Neg. feedback loop⠀`"| Sum
 
 %% ========= STYLES =========
-classDef strong  fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
-classDef neutral fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
-classDef mixed   fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
-classDef risk    fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
-classDef summary fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+classDef blue    fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef orange  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+classDef red     fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
+classDef grey    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef base    fill:#ECECFF,stroke:#9370DB,stroke-width:2px,color:#111;
 
 </div>
 </div>
