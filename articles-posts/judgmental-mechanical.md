@@ -37,15 +37,15 @@ S["`**Statistical Forecast (t)**`"]:::green
 %% ===== Judgment and correction =====
 J["`**Judgmental Overlay**`"]:::green
 Sum((Σ)):::risk
-K["`**Gain K**`"]:::neutral
+K["`**Gain K**`"]:::red
 F["`**Final Forecast (t)**`"]:::green
 
 %% ===== Realized demand =====
 R["`**Realized Demand (t)**`"]:::orange
 
 %% ===== Error and delay =====
-E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::neutral
-Delay["`**z⁻¹**`"]:::neutral
+E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::red
+Delay["`**z⁻¹**`"]::red
 
 %% ===== Forward path =====
 D1 --> M
@@ -70,6 +70,7 @@ classDef blue    fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
 classDef orange  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
 classDef red     fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
 classDef grey    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
+classDef base    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
 
 </div>
 </div>
@@ -111,7 +112,9 @@ s_{t+1} &= \hat d_t - d_t \\[4pt]
 m_t &= g(\hat d_t)
 \end{align}$$
 
-The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let   
+The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $\begin{align}
+s_t &\equiv e_{t-1}
+\end{align}$ 
 
 2dollar align  
 
@@ -127,11 +130,11 @@ s_t &\equiv e_{t-1}
 
 2dollar  
 
-$$\s_t \equiv e_{t-1}$$  
+$$s_t \equiv e_{t-1}$$  
 
 1dollar  
 
-$\s_t \equiv e_{t-1}$  
+$s_t \equiv e_{t-1}$  
 
  denote the previous period’s error. The final forecast at time 
 𝑡
