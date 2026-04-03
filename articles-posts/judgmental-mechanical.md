@@ -113,9 +113,19 @@ m_t &= g(\hat d_t)
 
 The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let   
 
-$\begin{align}
+2dollar align  
+
+$$\begin{align}
 s_t &\equiv e_{t-1} \\[4pt]
-\end{align}$
+\end{align}$$  
+
+2dollar  
+
+$$\s_t &\equiv e_{t-1} \\[4pt]$$  
+
+1dollar  
+
+$\s_t &\equiv e_{t-1} \\[4pt]$  
 
  denote the previous period’s error. The final forecast at time 
 𝑡
