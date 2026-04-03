@@ -103,7 +103,7 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 && \text{(true demand / plant)}
 \end{alignat}$$
 
-Or in state-space:
+Or in expressed in **state-space**:
 
 The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error. 
 
