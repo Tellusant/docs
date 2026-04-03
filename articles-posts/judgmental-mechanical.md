@@ -116,22 +116,22 @@ The system can be expressed in a discrete-time state-space form by defining the 
 2dollar align  
 
 $$\begin{align}
-s_t &\equiv e_{t-1} \\[4pt]
+s_t &\equiv e_{t-1}
 \end{align}$$  
 
 1dollar align  
 
 $\begin{align}
-s_t &\equiv e_{t-1} \\[4pt]
+s_t &\equiv e_{t-1}
 \end{align}$  
 
 2dollar  
 
-$$\s_t \equiv e_{t-1} \\[4pt]$$  
+$$\s_t \equiv e_{t-1}$$  
 
 1dollar  
 
-$\s_t \equiv e_{t-1} \\[4pt]$  
+$\s_t \equiv e_{t-1}$  
 
  denote the previous period’s error. The final forecast at time 
 𝑡
