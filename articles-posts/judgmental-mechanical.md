@@ -93,18 +93,13 @@ Definitions from control theory:
 ---
 This diagram can be converted to a set of equations:
 
-$\begin{align}
-d_t &= \text{demand as dependent variable} 
-\end{align}$
+$d_t = \text{demand as dependent variable}$
 
 $\begin{align}
 x_t &= \text{externally forecast independent variables} \\
 \end{align}$
 
-$\begin{align}
-\hat d^{\,S}_t &= f(d_{t-1}, x_t) 
-&& \text{(statistical / plant model)} \\
-\end{align}$
+$\hat d^{\,S}_t = f(d_{t-1}, x_t) \quad \text{(statistical / plant model)}$
 
 $\begin{align}
 \hat d_t &= \hat d^{\,S}_t + j_t - K e_{t-1} 
