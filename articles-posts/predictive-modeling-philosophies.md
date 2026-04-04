@@ -128,8 +128,8 @@ This allows for coherent integration of data, expert knowledge, and model struct
 >Bayesian methods are intellectually intriguing but hard to understand for general managers who do not have the time to learn how this works. There are specialized uses, but it is nothing we recommend for widespread adoption. Too complicated.
 
 ---
-*ChatGPT was used for brainstorming and drafting support.*  
-
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 
 [Find more articles and posts](index.md)  
+
+*ChatGPT was used for brainstorming and drafting support.*   
