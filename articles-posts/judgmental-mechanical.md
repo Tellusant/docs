@@ -100,17 +100,11 @@ $x_t = \text{externally forecast independent variables}$
 $\hat d^S_t = f(d_{t-1}, x_t)
 \qquad \text{(statistical / plant model)}$
 
-$\hat d^{\,S}_t = f(d_{t-1}, x_t)  
-\qquad \text{(statistical / plant model)}$
-
 $\hat d_t = \hat d^S_t + j_t - K e_{t-1}  
 \qquad \text{(final forecast with judgment and correction)}$
 
 $e_t = \hat d_t - d_t 
 \qquad \text{(forecast error / bias)}$
-
-$d_t = h(d_{t-1}, x_t, \varepsilon_t) 
-\qquad \text{(true demand / plant)}$
 
 $d_t = h(d_{t-1}, x_t, \varepsilon_t) 
 \qquad \text{(true demand / plant)}$
