@@ -112,12 +112,12 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 
 Outside the model:
 
-$$\begin{align}
+$\begin{align}
 m_t &= g(\hat d_t) 
-&& \text{(management decisions)}
-\end{align}$$
+&& \text{(management decisions)} \\
+\end{align}$
 
-Or, expressed in **state-space** logic:
+Or, expressed with **state-space** logic:
 
 The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error. 
 
