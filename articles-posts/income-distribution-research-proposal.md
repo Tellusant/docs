@@ -65,5 +65,8 @@ At this point, hypotheses 2 and 3 (ln and logit used) are not rejected. Hypothes
 
 ---
 [2026-03-17]  
+
 [Find more articles and posts](index.md)
+
+*AI was not used.*  
 
