@@ -110,6 +110,11 @@ d_t &= h(d_{t-1}, x_t, \varepsilon_t)
 && \text{(true demand / plant)} \\[6pt]
 \end{align}$$
 
+$\begin{align}
+d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
+&& \text{(true demand / plant)} \\[6pt]
+\end{align}$
+
 Outside the model:
 
 $\begin{align}
