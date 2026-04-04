@@ -19,14 +19,14 @@ There is a tension that runs through modern epistemology: between a science of r
 ## [Ex-post and Ex-ante Validation of Statistical Models](ex-post-ex-ante-statistical-validation.md)
 We summarize and give structure to validation methods in time-dependent forecasts.
 
+## [Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic](judgmental-mechanical.md)  
+Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.  
+
 ## [The Horns of the Dilemma in Statistical Modeling](horns-dilemma-2.md)
 In statistical analyses, you cannot get everything. This framework explains the trade-offs. It is based on Runkel and McGrath's classic framework.
 
 ## [Performance Metrics: Cost–Time–Accuracy](cost-time-accuracy.md)  
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
-
-## [Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic](judgmental-mechanical.md)  
-Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.
 
 ---
 [Return to Repository home](../index.md)
