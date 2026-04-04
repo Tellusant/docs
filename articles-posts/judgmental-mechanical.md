@@ -138,4 +138,4 @@ m_t &= g(\hat d_t)
 
 [Find more articles and posts](index.md)
 
-*ChatGPT was used for brainstorming*
+*ChatGPT was used for brainstorming.*
