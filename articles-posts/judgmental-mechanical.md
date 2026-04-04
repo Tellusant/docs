@@ -97,9 +97,14 @@ $d_t = \text{demand as dependent variable}$
 
 $x_t = \text{externally forecast independent variables}$
 
-$\hat d^{\,S}_t = f(d_{t-1}, x_t) \qquad \text{(statistical / plant model)}$
+$d^{\,S}_t = f(d_{t-1}, x_t) 
+\qquad \text{(statistical / plant model)}$
 
-$\hat d_t = \hat d^{\,S}_t + j_t - K e_{t-1}  \qquad \text{(final forecast with judgment and correction)}$
+$\hat d^{\,S}_t = f(d_{t-1}, x_t) 
+\qquad \text{(statistical / plant model)}$
+
+$\hat d_t = \hat d^{\,S}_t + j_t - K e_{t-1}  
+\qquad \text{(final forecast with judgment and correction)}$
 
 $e_t = \hat d_t - d_t 
 \qquad \text{(forecast error / bias)}$
