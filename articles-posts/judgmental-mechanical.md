@@ -93,7 +93,7 @@ Definitions from control theory:
 ---
 This diagram can be converted to a set of equations:
 
-$\begin{align}
+$$\begin{align}
 d_t &= \text{demand as dependent variable} \\[4pt]
 x_t &= \text{externally forecast independent variables} \\[4pt]
 
@@ -108,7 +108,7 @@ e_t &= \hat d_t - d_t
 
 d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
 && \text{(true demand / plant)} \\[6pt]
-\end{align}$
+\end{align}$$
 
 Outside the model:
 
