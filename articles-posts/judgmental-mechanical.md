@@ -97,7 +97,7 @@ $d_t = \text{demand as dependent variable}$
 
 $x_t = \text{externally forecast independent variables}$
 
-$d^{S}_t = f(d_{t-1}, x_t) \text{(statistical / plant model)}$
+$x_t = \text{externally forecast independent variables}$
 
 $\hat d^{\,S}_t = f(d_{t-1}, x_t) 
 \qquad \text{(statistical / plant model)}$
