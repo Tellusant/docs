@@ -50,4 +50,4 @@ It is part of a management revolution not seen since the advent of the mult-divi
 
 [Find more articles and posts](index.md)  
 
-*AI was not used*  
+*AI was not used.*  
