@@ -13,7 +13,9 @@ There are two systems for how this can be done:
 1. The judgmental forecast is made independently of the mechanical forecast, and they are then merged.
 2. The experts benefit from having the mechanical forecast as a base, and then form their judgments, that are superimposed on the mechanical model.
 
-We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgments.
+We have chosen the second method. Experts should have all tools at their disposal: senior executives, colleagues, AI, market reports, and the PoluSim forecast when they form their judgments.  
+
+## Diagram of Judgmental-Mechanical Model
 
 The diagram below shows how this is done by applying time-discrete control control theory to the logical solution. What you see is a formal way to describe the system we use.  
 
@@ -91,7 +93,7 @@ Definitions from control theory:
 **Gain** = The sensitivity to past error (how strongly bias is corrected). Here a factor K, but can be an equation. K is often 1.
 
 ---
-This diagram can be converted to a set of equations:
+## Control Theory Equations:
 
 $d_t = \text{demand as dependent variable}$
 
@@ -113,7 +115,7 @@ Outside the model:
 
 $m_t = g(\hat d_t) \qquad  \text{(management decisions)}$  
 
-Or, with **state-space** logic:  
+## State-Sspace Representation  
 
 The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error.  
 
