@@ -134,8 +134,8 @@ m_t &= g(\hat d_t)
 [Ratiocination (epistemic strategy) of the model](ratiocination.md)
 
 ---
-*ChatGPT was used for brainstorming*
-
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 
 [Find more articles and posts](index.md)
+
+*ChatGPT was used for brainstorming*
