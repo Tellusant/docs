@@ -108,8 +108,9 @@ e_t &= \hat d_t - d_t
 
 d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
 && \text{(true demand / plant)} \\[6pt]
-
-\text{outside the model} \\
+\end{align}$$
+Outside the model:
+$$\begin{align}
 m_t &= g(\hat d_t) 
 && \text{(management decisions)}
 \end{align}$$
