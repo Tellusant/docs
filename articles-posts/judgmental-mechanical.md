@@ -98,12 +98,12 @@ d_t &= \text{demand as dependent variable}
 \end{align}$
 
 $\begin{align}
-x_t &= \text{externally forecast independent variables} 
+x_t &= \text{externally forecast independent variables} \\
 \end{align}$
 
 $\begin{align}
 \hat d^{\,S}_t &= f(d_{t-1}, x_t) 
-&& \text{(statistical / plant model)} 
+&& \text{(statistical / plant model)} \\
 \end{align}$
 
 $\begin{align}
