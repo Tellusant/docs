@@ -95,38 +95,25 @@ This diagram can be converted to a set of equations:
 
 $d_t = \text{demand as dependent variable}$
 
-$\begin{align}
-x_t &= \text{externally forecast independent variables} \\
-\end{align}$
+$x_t = \text{externally forecast independent variables}$
 
-$\hat d^{\,S}_t = f(d_{t-1}, x_t) \quad \text{(statistical / plant model)}$
+$\hat d^{\,S}_t = f(d_{t-1}, x_t) \qquad \text{(statistical / plant model)}$
 
-$\begin{align}
-\hat d_t &= \hat d^{\,S}_t + j_t - K e_{t-1} 
-&& \text{(final forecast with judgment and correction)} \\
-\end{align}$
+$\hat d_t = \hat d^{\,S}_t + j_t - K e_{t-1}  \qquad 
+\text{(final forecast with judgment and correction)}$
 
-$\begin{align}
-e_t &= \hat d_t - d_t 
-&& \text{(forecast error / bias)} \\
-\end{align}$
+$e_t = \hat d_t - d_t 
+\qquad \text{(forecast error / bias)}$
 
-$\begin{align}
-d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
-&& \text{(true demand / plant)} \\
-\end{align}$
+$d_t = h(d_{t-1}, x_t, \varepsilon_t) 
+\qquad \text{(true demand / plant)}$
 
-$\begin{align}
-d_t &= h(d_{t-1}, x_t, \varepsilon_t) 
-&& \text{(true demand / plant)} \\
-\end{align}$
+$d_t = h(d_{t-1}, x_t, \varepsilon_t) 
+\qquad \text{(true demand / plant)}$
 
 Outside the model:
 
-$\begin{align}
-m_t &= g(\hat d_t) 
-&& \text{(management decisions)} \\
-\end{align}$
+$m_t = g(\hat d_t) \qquad  \text{(management decisions)}$
 
 Or, expressed with **state-space** logic:
 
