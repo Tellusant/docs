@@ -115,3 +115,5 @@ Source: Various text-based documents from public institutions such as the IMF, W
 
 ---
 [Find more Tellusant articles and posts](index.md)
+
+*AI was used for model design and scoring.*
