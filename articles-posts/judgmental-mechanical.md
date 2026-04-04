@@ -115,7 +115,7 @@ Outside the model:
 
 $m_t = g(\hat d_t) \qquad  \text{(management decisions)}$  
 
-## State-Sspace Representation  
+## State-Space Representation  
 
 The system can be expressed in a discrete-time state-space form by defining the state as the lagged forecast error, which is the only quantity that carries forward through the feedback loop. Let $s_t \equiv e_{t-1}$ denote the previous period’s error.  
 
