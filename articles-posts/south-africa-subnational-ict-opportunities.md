@@ -70,4 +70,7 @@ As far as we know, **no other company in the world has Tellusant's capability**.
 
 ---
 This effort built on Tellusant's long and deep telecom knowledge (see [Staffan Canback](https://www.linkedin.com/in/scanback/) and [Kennet Rådne](https://www.linkedin.com/in/kennetradne/)).  
-[Find more articles and posts](index.md)
+
+[Find more articles and posts](index.md)  
+
+*AI was not used.^
