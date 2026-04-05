@@ -56,6 +56,7 @@ _**Old improvised local approaches shall be banished, yet local insights shall b
 </p>
 
 <p align="center">— — —</p>
+
 We suggest having this mindset when installing PoluSim. It should be part of new digital and AI-based solutions aiming at transforming the enterprise and its workflows.  
 
 It is part of a management revolution not seen since the advent of the mult-divisional enterprise more than a hundred years ago.
