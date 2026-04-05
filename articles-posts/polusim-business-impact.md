@@ -17,6 +17,10 @@ The two views stem from the same reality, but the board room view is more holist
 
 ## Board Room Logic and Language System
 
+Board members have a different logic and language system than people at the operating level. They deal with higher levels of abstracion such as stragey, and assume that details are handled at lower levels.
+
+They are interested in building competitive advantage over years to come (while keeping an eye on current performance). It is a world operational people often find puzzling and find hard to navigate. Abstraction rules, rather than day-today practicalities.
+
 <p align="center">
 <img  src="assets/images/performance/tellusant-board-level.svg" width="300" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
 </p>
