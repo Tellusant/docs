@@ -21,6 +21,8 @@ Board members have a different logic and language system than people at the oper
 
 They are interested in building competitive advantage over years to come (while keeping an eye on current performance). It is a world operational people often find puzzling and hard to navigate. Abstraction rules, rather than day-today practicalities.
 
+The graph below shows what a board member is looking for in PoluSim.
+
 <p align="center">
 <img  src="assets/images/performance/tellusant-board-level.svg" width="300" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
 </p>
