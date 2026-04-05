@@ -10,10 +10,7 @@ Our **PoluSim** forecasting solution is widely appreciated by customers around t
 We optimize it around three enterprise performance metrics to maximize relevance:  
 
 <p align="center">
-<figure>
-<img  src="assets/images/tellusant-board-operating-levels.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
-<figcaption class="unseen">PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy</figcaption>
-</figure>
+<img  src="assets/images/performance/tellusant-board-operating-levels.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
 </p>
 
 
