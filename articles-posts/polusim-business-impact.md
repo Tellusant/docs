@@ -81,7 +81,7 @@ We suggest having these mindsets when installing PoluSim. It should be part of n
 It is part of a management revolution not seen since the advent of the mult-divisional enterprise more than a hundred years ago.
 
 ---
-There is a third view, often promulgated by data scientists. That is that a one-dimensional measure, accuracy, is what matters. We disagree with this view because it is too narrow, and frankly, pointless.
+There is a third view, often promulgated by data scientists. It holds that a one-dimensional measure, accuracy, is what matters. We disagree with this view because it is too narrow, and frankly, pointless.
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
