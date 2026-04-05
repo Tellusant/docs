@@ -1,13 +1,19 @@
 ---
-title: "PoluSim Performance Dimensions: Board Room and Operating Level Views"
-description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we measure it in terms of business impact, not narrow metrics like accuracy."
+title: "PoluSim Business Impact: Board Room and Operating Level Views"
+description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we design it for business impact, not only for narrow metrics like accuracy."
 image: /assets/social-card-pub.png
 ---
-# PoluSim Performance Dimensions: Board Room and Operating Level Views
+# PoluSim Business Impact: Board Room and Operating Level Views
 
-Our **PoluSim** forecasting solution is widely appreciated by customers around the world. A key reason is that we measure it in terms of business impact, not narrow metrics like accuracy.
+Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for business impact, not only for narrow metrics like accuracy.
 
 We optimize it around three enterprise performance dimensions to maximize relevance. People who think only in terms of accuracy are thinking myopically.
+
+We discuss this business impact from two vantage points:
+- The board room
+- The operating level
+
+The two views stem from the same reality, but the board room view is more holistic and complex than the operating level view. 
 
 ## Board Room Logic and Language System
 
