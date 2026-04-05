@@ -54,7 +54,7 @@ PoluSim enhances the reliability and usefulness of forecasts as inputs to decisi
 
 Decisions become less reactive and more forward-looking, grounded in a consistent and empirically validated view of demand, pricing, and market dynamics.
 
-***Together, they represent new organizational capabilities that builds the structural capital (TFP) of the enterprise.*** By pursuing this, resource allocation errors will be reduced.
+***Together, they represent new organizational capabilities that build the structural capital (TFP) of the enterprise.*** By pursuing this, resource allocation errors will be reduced.
 
 ## Operating Level Logic and Language
 
