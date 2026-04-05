@@ -1,21 +1,19 @@
 ---
-title: "PoluSim Performance Metrics: Cost–Time–Accuracy"
-description: "Our PoluSim forecasting solution is optimized around three performance metrics, not only accuracy. Its goal is to reduce corporate friction in its domain."
+title: "PoluSim Performance Metrics:Efficiency–Consistency-Accuracy"
+description: "Our PoluSim forecasting solution is optimized around three performance dimensions, not only accuracy. Its goal is to reduce corporate friction."
 image: /assets/social-card-pub.png
 ---
-# PoluSim Performance Metrics: Cost–Time–Accuracy
+# PoluSim Performance Dimensions: Efficiency–Consistency-Accuracy
 
 Our **PoluSim** forecasting solution is widely appreciated by customers around the world. The relevance to top management is high since it simplifies global and local forecasting under a uniform umbrella.  
 
-We optimize it around three enterprise performance metrics to maximize relevance:  
+We optimize it around three enterprise performance dimensions to maximize relevance:  
 
 <p align="center">
 <img  src="assets/images/performance/tellusant-board-operating-levels.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
 </p>
 
 
-
-tellusant-resource-productivity-system-integrity-decision-quqlity
 
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
 
