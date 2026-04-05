@@ -23,9 +23,9 @@ The two views stem from the same reality, but the board room view is more holist
 
 
 **OLD TEXT. TOO BE REPLACED**  
-Forecasting is often discussed around predictive accuracy. But for enterprises, the positive business impact comes fromthree orthogonal sources. From a board members perspective. PouSim's relevance is that it has three positive attributes. It creates: 
+Forecasting is often discussed around predictive accuracy. But for enterprises, the positive business impact comes fromthree orthogonal sources. From a board members perspective. PoluSim's relevance is that it leads to enterprise-wide improvements. It offers: 
 
-- Higher **Resource productivity**
+- Higher **resource productivity**
 - Increased **system integrity**  
 - Improved **decision quality**  
 
