@@ -12,7 +12,7 @@ We optimize it around three enterprise performance dimensions to maximize releva
 ## Board Level Logic and Language System
 
 <p align="center">
-<img  src="assets/images/performance/tellusant-board-level.svg" width="600" alt="PoluSim performance dimensions: Resource productivity-system integrity-decision quality">
+<img  src="assets/images/performance/tellusant-board-level.svg" width="350" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
 </p>
 
 
@@ -40,6 +40,10 @@ PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it
 Achieving high accuracy is a given. The predictions have to be robust enough that everyone agrees: "this is as good as we can do it". Accuracy and model validation is important during the first year; later this should be routine, automated follow-ups. There will always be learnings to enhance of PoluSim.  
 
 ## Operating Level Logic and Language
+
+<p align="center">
+<img  src="assets/images/performance/tellusant-operating-level.svg" width="350" alt="PoluSim operating-level performance dimensions: Efficiency-Consistency-Accuracy">
+</p>
 
 _**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
 
