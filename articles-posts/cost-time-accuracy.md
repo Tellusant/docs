@@ -9,10 +9,10 @@ Our **PoluSim** forecasting solution is widely appreciated by customers around t
 
 We optimize it around three enterprise performance dimensions to maximize relevance. People who think only in terms of accuracy are thinking myopically.
 
-## Board Level Logic and Language
+## Board Level Logic and Language System
 
 <p align="center">
-<img  src="assets/images/performance/tellusant-board-level.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
+<img  src="assets/images/performance/tellusant-board-level.svg" width="600" alt="PoluSim performance dimensions: Resource productivity-system integrity-decision quality">
 </p>
 
 
