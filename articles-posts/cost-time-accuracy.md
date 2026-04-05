@@ -11,10 +11,14 @@ We optimize it around three enterprise performance metrics to maximize relevance
 
 <p align="center">
 <figure>
-<img  src="assets/images/tellusant-polusim-performance-metrics-cost-time-accuracy.svg" width="400" alt="PoluSim Performance Metrics: Cost–Time-Accuracy">
-<figcaption class="unseen">PoluSim Performance Metrics: Cost–Time-Accuracy</figcaption>
+<img  src="assets/images/tellusant-board-operating-levels.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
+<figcaption class="unseen">PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy</figcaption>
 </figure>
 </p>
+
+
+
+tellusant-resource-productivity-system-integrity-decision-quqlity
 
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
 
