@@ -29,11 +29,13 @@ The graph below shows what a board member is looking for in PoluSim.
 
 
 **OLD TEXT. TOO BE REPLACED**  
-Forecasting is often discussed around predictive accuracy. But for enterprises, the positive business impact comes fromthree orthogonal sources. From a board members perspective. PoluSim's relevance is that it leads to enterprise-wide improvements. It offers: 
+For board members, PoluSim's relevance is that it leads to enterprise-wide improvements. It offers:  
 
-- Higher **resource productivity**
+- Higher **resource productivity**  
 - Increased **system integrity**  
 - Improved **decision quality**  
+
+These three elements are orthogonal. That is, they do not depend on each other and are uncorrelated. This means they can be discussed one by one, making for a nice compartmentalization of the opportunties at hand.
 
 
 ## Resource Productivity
