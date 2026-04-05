@@ -35,8 +35,6 @@ For board members, PoluSim's relevance is that it leads to enterprise-wide impro
 
 These three elements are orthogonal. That is, they do not depend on each other and are uncorrelated. This means they can be discussed one by one, making for a nice compartmentalization of the opportunties at hand.
 
-**OLD TEXT. TOO BE REPLACED**  
-
 ## Resource Productivity
 A new enterprise solution has to lead to cost savings and better workflows. If this does not happen, the solution can be ever so good. It will not matter.  
 
@@ -44,15 +42,23 @@ We recommend implementing our PoluSim solution and using them over one planning 
 
 ***Old forecasting tools should be decommissioned***. By doing this, major efficiencies will be realized both at the local operating company level, and at regional and global headquarters.  
 
-## System Integrity
-PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it would take weeks, if not months, to reach a point where forecasts were agreed. With PoluSim, this can be achieved in three sub-week cycles. Cycles 1 and 2 receive feedback from senior management, cycle 3 finalizes the forecasts. In total, less than 2 work weeks are spent on the forecast.  
+**OLD TEXT. TOO BE REPLACED**  
 
-***Old long planning timelines should be scrapped***. By doing this, true agility will follow.  
+## System Integrity
+PoluSim works on a global scsale and across business units. This means that the "PoluSim logic" is the same around the entire enterprise. 
+
+- Data sources are harmonized and mean the same thing to all
+- Demand drivers work the same way for all.
+- Scenarios are generated in the fashion eveywhere
+
+What differs are the market conditions each unit faces.
+
+_**Old, improvised, local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations. 
 
 ## Decision Quality
 Achieving high accuracy is a given. The predictions have to be robust enough that everyone agrees: "this is as good as we can do it". Accuracy and model validation is important during the first year; later this should be routine, automated follow-ups. There will always be learnings to enhance of PoluSim.  
 
-_**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
+ 
 
 **OLD TEXT ENDS**
 
