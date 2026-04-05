@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # PoluSim Business Impact: Board Room and Operating Level Views
 
-Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for business impact, not only for myoppic metrics like accuracy only.
+Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for business impact.
 
 We optimize it around three enterprise performance dimensions to maximize the impact.
 
@@ -13,7 +13,7 @@ We discuss this business impact from two vantage points:
 - The board room
 - The operating level
 
-The two views stem from the same reality, but the board room view is more holistic and complex than the operating level view. 
+The two views stem from the same reality, but the board room view is more holistic and complex than the operating-level view. 
 
 ## Board Room Logic and Language System
 
@@ -27,8 +27,6 @@ The graph below shows what a board member is looking for in PoluSim.
 <img  src="assets/images/performance/tellusant-board-level.svg" width="300" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
 </p>
 
-
-**OLD TEXT. TOO BE REPLACED**  
 For board members, PoluSim's relevance is that it leads to enterprise-wide improvements. It offers:  
 
 - Higher **resource productivity**  
@@ -37,6 +35,7 @@ For board members, PoluSim's relevance is that it leads to enterprise-wide impro
 
 These three elements are orthogonal. That is, they do not depend on each other and are uncorrelated. This means they can be discussed one by one, making for a nice compartmentalization of the opportunties at hand.
 
+**OLD TEXT. TOO BE REPLACED**  
 
 ## Resource Productivity
 A new enterprise solution has to lead to cost savings and better workflows. If this does not happen, the solution can be ever so good. It will not matter.  
