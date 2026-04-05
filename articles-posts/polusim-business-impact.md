@@ -45,15 +45,15 @@ PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it
 ## Accuracy
 Achieving high accuracy is a given. The predictions have to be robust enough that everyone agrees: "this is as good as we can do it". Accuracy and model validation is important during the first year; later this should be routine, automated follow-ups. There will always be learnings to enhance of PoluSim.  
 
+_**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
+
+**OLD TEXT ENDS**
+
 ## Operating Level Logic and Language
 
 <p align="center">
 <img  src="assets/images/performance/tellusant-operating-level.svg" width="300" alt="PoluSim operating-level performance dimensions: Efficiency-Consistency-Accuracy">
 </p>
-
-**OLD TEXT. TOO BE REPLACED**  
-
-_**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
 
 <p align="center">— — —</p>
 We suggest having this mindset when installing PoluSim. It should be part of new digital and AI-based solutions aiming at transforming the enterprise and its workflows.  
