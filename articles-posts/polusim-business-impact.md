@@ -1,15 +1,15 @@
 ---
-title: "PoluSim Performance Dimensions: Board and Operating Level Views"
+title: "PoluSim Performance Dimensions: Board Room and Operating Level Views"
 description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we measure it in terms of business impact, not narrow metrics like accuracy."
 image: /assets/social-card-pub.png
 ---
-# PoluSim Performance Dimensions: Board and Operating Level Views
+# PoluSim Performance Dimensions: Board Room and Operating Level Views
 
 Our **PoluSim** forecasting solution is widely appreciated by customers around the world. A key reason is that we measure it in terms of business impact, not narrow metrics like accuracy.
 
 We optimize it around three enterprise performance dimensions to maximize relevance. People who think only in terms of accuracy are thinking myopically.
 
-## Board Level Logic and Language System
+## Board Room Logic and Language System
 
 <p align="center">
 <img  src="assets/images/performance/tellusant-board-level.svg" width="300" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
