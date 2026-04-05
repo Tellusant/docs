@@ -5,9 +5,9 @@ image: /assets/social-card-pub.png
 ---
 # PoluSim Business Impact: Board Room and Operating Level Views
 
-Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for business impact, not only for narrow metrics like accuracy.
+Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for business impact, not only for myoppic metrics like accuracy.
 
-We optimize it around three enterprise performance dimensions to maximize relevance. People who think only in terms of accuracy are thinking myopically.
+We optimize it around three enterprise performance dimensions to maximize the impact.
 
 We discuss this business impact from two vantage points:
 - The board room
