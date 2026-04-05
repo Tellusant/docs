@@ -68,13 +68,11 @@ The language and scope at the oerating level differ from the board room, but hav
 - Increased **consistency**  
 - Improved **accuracy**
 
-***Efficiency:*** *Do more with fewer resources* is more targeted than *resource productivity*. It speaks to the direct cost and time savings from implementing PoluSim, rather than he enterprise-wide impact.
+***Efficiency:*** *,do more with fewer resources,* is more targeted than *resource productivity*. It speaks to the direct cost and time savings from implementing PoluSim, rather than he enterprise-wide impact.
 
-***Consistency:*** *Get the same answer everywhere* 
+***Consistency:*** *,Get the same answer everywhere,* 
 
-
-
-*Accuracy* speaks to observed model performance rather than the decision-making quality that a board is looking for. It is less focus on judgmental biases, especially in the early implementation of PoluSim.
+***Accuracy*** *,Get the answer right,* speaks to observed model performance rather than the decision-making quality that a board is looking for. It is less focus on judgmental biases, especially in the early implementation of PoluSim.
 
 <p align="center">— — —</p>
 
