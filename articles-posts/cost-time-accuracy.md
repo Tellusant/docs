@@ -1,16 +1,18 @@
 ---
-title: "PoluSim Performance Metrics:Efficiency–Consistency-Accuracy"
+title: "PoluSim Performance Dimensions: Board and Operating Level Versions"
 description: "Our PoluSim forecasting solution is optimized around three performance dimensions, not only accuracy. Its goal is to reduce corporate friction."
 image: /assets/social-card-pub.png
 ---
-# PoluSim Performance Dimensions: Efficiency–Consistency-Accuracy
+# PoluSim Performance Dimensions: Board and Operating Level Versions
 
 Our **PoluSim** forecasting solution is widely appreciated by customers around the world. The relevance to top management is high since it simplifies global and local forecasting under a uniform umbrella.  
 
-We optimize it around three enterprise performance dimensions to maximize relevance:  
+We optimize it around three enterprise performance dimensions to maximize relevance. People who think only in terms of accuracy are thinking myopically.
+
+## Board Level Logic and Language
 
 <p align="center">
-<img  src="assets/images/performance/tellusant-board-operating-levels.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
+<img  src="assets/images/performance/tellusant-board-level.svg" width="600" alt="PoluSim Performance Dimensions: Efficiency-Consistency-Accuracy">
 </p>
 
 
@@ -36,6 +38,8 @@ PoluSim shortens the turnaround time for generating forecasts. Before PoluSim it
 
 ## Accuracy
 Achieving high accuracy is a given. The predictions have to be robust enough that everyone agrees: "this is as good as we can do it". Accuracy and model validation is important during the first year; later this should be routine, automated follow-ups. There will always be learnings to enhance of PoluSim.  
+
+## Operating Level Logic and Language
 
 _**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
 
