@@ -47,14 +47,14 @@ PoluSim establishes a single, coherent modeling logic across business units and 
 
 This reduces discretionary overrides and ensures that decisions are based on comparable, internally consistent outputs—creating a unified analytical backbone for the enterprise.
 
-_**Old, improvised, local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations. 
+***Old, improvised, local approaches shall be banished, yet local insights shall be captured.*** By effecting this, processes will be streamlined.
 
 ## Decision Quality
 PoluSim enhances the reliability and usefulness of forecasts as inputs to decision-making. By improving accuracy, reducing bias, and increasing the stability of projections, it enables management to act with greater confidence. 
 
 Decisions become less reactive and more forward-looking, grounded in a consistent and empirically validated view of demand, pricing, and market dynamics.
 
-Together, they represent new organizational capabilities that builds the structural capital (TFP) of the enterprise.
+***Together, they represent new organizational capabilities that builds the structural capital (TFP) of the enterprise.*** By pursuing this, resource allocation errors will be reduced.
 
 ## Operating Level Logic and Language
 
