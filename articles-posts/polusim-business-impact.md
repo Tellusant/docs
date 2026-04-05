@@ -22,7 +22,7 @@ The two views stem from the same reality, but the board room view is more holist
 </p>
 
 
-**OLD TEXT. TOO BE REPLACED**
+**OLD TEXT. TOO BE REPLACED**  
 Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
 
 - **Cost** savings from higher efficiency  
@@ -51,7 +51,7 @@ Achieving high accuracy is a given. The predictions have to be robust enough tha
 <img  src="assets/images/performance/tellusant-operating-level.svg" width="300" alt="PoluSim operating-level performance dimensions: Efficiency-Consistency-Accuracy">
 </p>
 
-**OLD TEXT. TOO BE REPLACED**
+**OLD TEXT. TOO BE REPLACED**  
 
 _**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
 
