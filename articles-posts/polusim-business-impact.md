@@ -62,7 +62,7 @@ It is part of a management revolution not seen since the advent of the mult-divi
 There is a third view, often promulgated by data scientists. That is that a one-dimensional measure, accuracy, is what matters. We disagree with this view because it is too narrow, and frankly, pointless.
 
 ---
-[See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
+[See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 
 [Find more articles and posts](index.md)  
 
