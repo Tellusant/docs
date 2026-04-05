@@ -36,31 +36,25 @@ For board members, PoluSim's relevance is that it leads to enterprise-wide impro
 These three elements are orthogonal. That is, they do not depend on each other and are uncorrelated. This means they can be discussed one by one, making for a nice compartmentalization of the opportunties at hand.
 
 ## Resource Productivity
-A new enterprise solution has to lead to cost savings and better workflows. If this does not happen, the solution can be ever so good. It will not matter.  
+PoluSim materially reduces the resources required to plan and forecast. By automating core analytical tasks and standardizing workflows, it shortens planning cycles, lowers the cost per forecast, and frees up managerial time for higher-value decisions. 
 
-We recommend implementing our PoluSim solution and using them over one planning cycle, perhaps in parallel with existing solutions. In the second cycle, PoluSim is the only solution.  
+The result is not just efficiency in isolation, but a structurally leaner planning process that scales across markets without proportional increases in effort.
 
 ***Old forecasting tools should be decommissioned***. By doing this, major efficiencies will be realized both at the local operating company level, and at regional and global headquarters.  
 
-**OLD TEXT. TOO BE REPLACED**  
-
 ## System Integrity
-PoluSim works on a global scsale and across business units. This means that the "PoluSim logic" is the same around the entire enterprise. 
+PoluSim establishes a single, coherent modeling logic across business units and geographies. Rather than relying on fragmented, locally developed approaches, the system enforces consistent structures, economically sound relationships, and transparent governance. 
 
-- Data sources are harmonized and mean the same thing to all
-- Demand drivers work the same way for all.
-- Scenarios are generated in the fashion eveywhere
-
-What differs are the market conditions each unit faces.
+This reduces discretionary overrides and ensures that decisions are based on comparable, internally consistent outputs—creating a unified analytical backbone for the enterprise.
 
 _**Old, improvised, local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations. 
 
 ## Decision Quality
-Achieving high accuracy is a given. The predictions have to be robust enough that everyone agrees: "this is as good as we can do it". Accuracy and model validation is important during the first year; later this should be routine, automated follow-ups. There will always be learnings to enhance of PoluSim.  
+PoluSim enhances the reliability and usefulness of forecasts as inputs to decision-making. By improving accuracy, reducing bias, and increasing the stability of projections, it enables management to act with greater confidence. 
 
- 
+Decisions become less reactive and more forward-looking, grounded in a consistent and empirically validated view of demand, pricing, and market dynamics.
 
-**OLD TEXT ENDS**
+Together, they represent new organizational capabilities that builds the structural capital (TFP) of the enterprise.
 
 ## Operating Level Logic and Language
 
