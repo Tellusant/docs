@@ -1,18 +1,18 @@
 ---
-title: "PoluSim Performance Dimensions: Board and Operating Level Versions"
-description: "Our PoluSim forecasting solution is optimized around three performance dimensions, not only accuracy. Its goal is to reduce corporate friction."
+title: "PoluSim Performance Dimensions: Board and Operating Level Views"
+description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we measure it in terms of business impact, not narrow metrics like accuracy."
 image: /assets/social-card-pub.png
 ---
-# PoluSim Performance Dimensions: Board and Operating Level Versions
+# PoluSim Performance Dimensions: Board and Operating Level Views
 
-Our **PoluSim** forecasting solution is widely appreciated by customers around the world. The relevance to top management is high since it simplifies global and local forecasting under a uniform umbrella.  
+Our **PoluSim** forecasting solution is widely appreciated by customers around the world. A key reason is that we measure it in terms of business impact, not narrow metrics like accuracy.
 
 We optimize it around three enterprise performance dimensions to maximize relevance. People who think only in terms of accuracy are thinking myopically.
 
 ## Board Level Logic and Language System
 
 <p align="center">
-<img  src="assets/images/performance/tellusant-board-level.svg" width="350" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
+<img  src="assets/images/performance/tellusant-board-level.svg" width="300" alt="PoluSim board-level performance dimensions: Resource productivity-system integrity-decision quality">
 </p>
 
 
@@ -42,7 +42,7 @@ Achieving high accuracy is a given. The predictions have to be robust enough tha
 ## Operating Level Logic and Language
 
 <p align="center">
-<img  src="assets/images/performance/tellusant-operating-level.svg" width="350" alt="PoluSim operating-level performance dimensions: Efficiency-Consistency-Accuracy">
+<img  src="assets/images/performance/tellusant-operating-level.svg" width="300" alt="PoluSim operating-level performance dimensions: Efficiency-Consistency-Accuracy">
 </p>
 
 _**Old improvised local approaches shall be banished, yet local insights shall be captured**_. By doing this, the enterprise will move in sync with shared expectations.  
