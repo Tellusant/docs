@@ -1,6 +1,6 @@
 # Fletcher Competition
 
-[Today's document](docs/presentations/fletcher.md)
+[Today's document](docs/presentations/fletcher.pdf)
 
 [Breakout: Mexico](../presentations/fletcher-mex.pdf)
 
