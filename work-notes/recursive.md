@@ -1,4 +1,6 @@
 # Recursive Linear Regression
+Work note
+
 Stata can perform recursive linear regression from the command line, primarily using the rolling prefix command. In a recursive regression, the starting observation is held fixed while the ending observation advances, causing the window size to grow with each iteration. [1, 2, 3] 
 ## Core Command Syntax
 To run a recursive regression, you must first set your data as a time series using tsset. The basic syntax is: [4, 5, 6] 
