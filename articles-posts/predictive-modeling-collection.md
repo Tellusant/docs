@@ -22,8 +22,8 @@ We summarize and give structure to validation methods in time-dependent forecast
 ## [Combining Judgmental and Mechanical Predictive Models: The PoluSim P Controller Logic](judgmental-mechanical.md)  
 Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.  
 
-## [Performance Metrics: Board Room and Operating Level Views](polusim-business-impact.md)  
-Forecasting is often discussed around predictive accuracy. But for enterprises, the cost and time savings are at least as important to maximize relevance.  
+## [PoluSim Business Impact: Board Room and Operating Level Views](polusim-business-impact.md)  
+Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we designed it for business impact in total.
 
 ## [The Horns of the Dilemma in Statistical Modeling](horns-dilemma-2.md)
 In statistical analyses, you cannot get everything. This framework explains the trade-offs. It is based on Runkel and McGrath's classic framework.
