@@ -1,11 +1,11 @@
 ---
 title: "PoluSim Business Impact: Board Room and Operating Level Views"
-description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we design it for business impact, not only for narrow metrics like accuracy only."
+description: "Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we design it for total business impact instead of narrow gauges like accuracy alone."
 image: /assets/social-card-pub.png
 ---
 # PoluSim Business Impact: Board Room and Operating Level Views
 
-Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for business impact.
+Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for total business impact instead of narrow gauges like accuracy alone.
 
 We optimize it around three enterprise performance dimensions to maximize the impact.
 
