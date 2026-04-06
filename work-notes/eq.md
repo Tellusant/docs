@@ -1,4 +1,5 @@
 # The General and Special Models for Demand Forecasting
+Work note
 
 These are the equations that should be starting point for any forecating effort. The general model is rarely used. Instead pick one of the special models.
 
