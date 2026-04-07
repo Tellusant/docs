@@ -1,6 +1,6 @@
 # Fletcher: The Hidden Structure of Global Markets
 
-### [Today's document](presentations/fletcher.pdf)
+### [Today's document](presentations/fletcher/S.Canback-Tellusant-Fletcher-Student-Workshop.pdf)
 
 ### [Breakout: Mexico](presentations/fletcher-mex.pdf)
 
