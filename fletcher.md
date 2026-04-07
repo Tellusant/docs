@@ -1,4 +1,4 @@
-# Flatcher: The Hidden Structure of Global Markets
+# Fletcher: The Hidden Structure of Global Markets
 
 ### [Today's document](presentations/fletcher.pdf)
 
