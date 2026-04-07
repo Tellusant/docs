@@ -1,4 +1,4 @@
-# The Fletcher Flash
+# The Hidden Structure of Global Markets
 
 ### [Today's document](presentations/fletcher.pdf)
 
