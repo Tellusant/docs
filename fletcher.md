@@ -8,5 +8,5 @@
 
 ### [Breakout: Viet Nam](presentations/fletcher-vnm.pdf)
 
-### [Country economic sentiment / Risk](https://tellubase.com/country-sentiment-analysis/)
+### [AI: Country economic sentiment / Risk](https://tellubase.com/country-sentiment-analysis/)
 
