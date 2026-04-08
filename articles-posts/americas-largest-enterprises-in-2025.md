@@ -10,3 +10,7 @@ image: /assets/social-card-pub.png
 <p align="center">
 <img  src="assets/images/alert/tellusant-americas-largest-enterprises-in-2025.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
 </p>
+
+<p align="center">
+<img  src="assets/images/alert/tellusant-americas-largest-enterprises-growth-2025.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
+</p>
