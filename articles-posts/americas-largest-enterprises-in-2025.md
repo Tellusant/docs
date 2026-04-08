@@ -22,7 +22,7 @@ The ALERT list for 2025 is shown in the graph below. Companies are ranked by val
 ***The graph is preliminary. Kroger and Lowe's may change slightly, but not in position.***
 
 <p align="center">
-<img  src="assets/images/tellusant-americas-largest-enterprises-in-2025.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
+<img  src="assets/images/alert/tellusant-americas-largest-enterprises-in-2025.svg" width="550" alt="Tellusant: America's largest enterprises in 2025">
 </p>
 
 Note that it is neither good nor bad to be large from a performance perspective. Having high or low density has no impact on performance either. Our list is only for informational purposes.
