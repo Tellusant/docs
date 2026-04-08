@@ -6,7 +6,7 @@
 
 ### [Breakout: USA](presentations/fletcher/Tellusant-Fletcher-USA-Breakout.pdf)
 
-### [Breakout: Viet Nam](presentations/presentations/fletcher/Tellusant-Fletcher-VNM-Breakout.pdf.pdf)
+### [Breakout: Viet Nam](presentations/fletcher/Tellusant-Fletcher-VNM-Breakout.pdf)
 
 ### [AI: Country economic sentiment / Risk](https://tellubase.com/country-sentiment-analysis/)
 
