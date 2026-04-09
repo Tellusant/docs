@@ -18,7 +18,7 @@ This page collects our theoretical work on predictive modeling in one place.
 
 ## Recent  
 
-### [America's Largest Enterprises in 2025](americas-largest-enterprises-in-2025.html)
+### [America's Largest Enterprises in 2025](americas-largest-enterprises-in-2025.md)
 WIP
 
 ### [How to Specify and Evaluate Predictive Models](predictive-model-specification-and-evaluation-framework.md)
