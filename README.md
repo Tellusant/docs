@@ -1,7 +1,7 @@
 # Tellusant Publications Repository
 This repository contains various published materials by Tellusant team members. 
 Its purpose is to:
-- Serve as a consolidated hub of all publications  
+- Serve as a consolidated hub for all our publications  
 - Give longevity beyond what social media offer  
 - Allow for fast search engine / AI crawling and indexing  
 - Create open access and bypass gated sites like LinkedIn and Medium
