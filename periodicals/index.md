@@ -14,4 +14,6 @@ Building on Ben Bernanke's recession probability model, we created an improvemen
 View our quarterly analysis of trends in U.S. e-commerce relative to total retail. Based on quarterly FRED ECOMPCTSA data. **Quarterly**.
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)
