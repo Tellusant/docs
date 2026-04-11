@@ -40,4 +40,6 @@ A while back I created this training material for project managers in **strategy
 A central theme is that project management is much more than putting together presentations. It covers all kinds of high-level cognitive efforts.
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)
