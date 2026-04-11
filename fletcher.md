@@ -12,3 +12,6 @@
 
 ### [AI: Country economic sentiment / Risk](https://tellubase.com/country-sentiment-analysis/)
 
+---
+Source: Tellusant, Inc.
+
