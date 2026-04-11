@@ -29,4 +29,6 @@ This is for statistics experts (PhD required). It is an insightful analysis of h
 This 200 year old paper is fascinating to flip through. It lays out the idea of s-curves for the first time in social sciences with deep mathematical logic. It alos show the painstaking work on logaithms he had to do when calculators or computers where not available.
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)
