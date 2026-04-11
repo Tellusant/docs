@@ -35,4 +35,6 @@ What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantita
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)

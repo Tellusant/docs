@@ -181,4 +181,6 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 XCom Africa (2013): *Food processing and packaging in Kenya - East Africa*
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)

@@ -76,6 +76,8 @@ How should we look at country risk? We present the risk of nations based on a qu
 Surprisingly, marketing spend is not a widely tracked metric. As part of building a model for the cost of forecasting errors, we needed this, R&D spend, and capex. Therefore, data were collected for large U.S. companies, one by one.  
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)  
 [Visit TelluBase On-Demand](https://tellubase.com)  
 

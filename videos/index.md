@@ -27,6 +27,8 @@ The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this yea
 Although emerging markets present large opportunities for companies, uncertainty and high variability pose challenges to developing confident growth strategies. Joining CNBC Africa's to talk more about these themes which are highlighted in the latest Canback Whitepaper is Dr Staffan Canback.
 
 ---
+Source: Tellusant, Inc.
+
 [Return to Repository home](../index.md)
 [Visit our Vimeo page with many more videos](https://vimeo.com/tellusant/)
 [Visit TelluBase On-Demand](https://tellubase.com)

@@ -23,8 +23,8 @@ This page gives descriptions and links to our extensive library of *Tellusant Qu
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
 ## [Presentations](presentations/index.md)  
 Public speeches, lectures and other presentations in slide format by Tellusant members.  
-## [Periodicals](periodicals/index.md) 
-We release our [Beige Book Nowcast](periodicals/beige-book.md) of Current Economic Activity every 1½ months, our [U.S. Recession Nowcast](periodicals/recession-nowcast.md) every day, and our [E-Commerce Analysis](periodicals/e-commerce.md) every quarter.  
+## [Nowcasts & Ongoing Analyses](nowcasts-ongoing-analyses/index.md)  
+These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily. They include our nowcasted **recession predictor**, the global **economic sentiment engine**, and the **beige book nowcast**.   
 ## [Fact Sheets](fact-sheets/index.md)  
 We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.  
 ## [Videos](videos/index.md)  
@@ -39,3 +39,6 @@ We summarize the legitimacy of Tellusant as validated by ChatGPT through a call 
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.  
 ## [Recommended Readings](recommended-readings/index.md)  
 These are works we wish we had written, but did not.
+
+---
+Source: Tellusant, Inc.
