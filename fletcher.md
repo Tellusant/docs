@@ -1,6 +1,6 @@
 # Fletcher: The Hidden Structure of Global Markets
 
-### [Invitational Flyer: The Hidden Structure of Global Markets](presentations/fletcher/S.Canback-Tellusant-Fletcher-Flyer-Hidden-Structure-of-Global-Markets)
+### [Invitational Flyer](presentations/fletcher/S.Canback-Tellusant-Fletcher-Flyer-Hidden-Structure-of-Global-Markets)
 
 ### [Today's document](presentations/fletcher/S.Canback-Tellusant-Fletcher-Student-Workshop.pdf)
 
