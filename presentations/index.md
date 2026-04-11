@@ -10,6 +10,9 @@ Public speeches, lectures and other presentations in slide format by Tellusant m
 #### [Introduction to Tellusant](../information/Tellusant-Introduction.pdf)
 Learn about company, why we are to be trusted, and our products in seven light slides.
 
+#### [Staffan Canbäck: The Hidden Structure of Global Markets](S.Canback-Tellusant-Lund-Lecture.pdf)  
+Our executive chairman, Staffan Canback, led a workshop at the [Fletcher Scool at Tufts University](https://fletcher.tufts.edu/): *The Hidden Structure of Global Markets*. It had three parts: An introductory presentation; Breakout groups solving business problems in Mexico, the U.S. and Viet Nam; Jury selection of a winner.
+
 #### [Staffan Canback: The Nature of Predictions: Negative Feedback Loops ∧ P.I.D Controllers](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
 What are predictions and how are they made. Negative feedback loops and P.I.D controllers make life possible. Learn about this from an internal training session.
 
