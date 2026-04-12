@@ -11,8 +11,8 @@
 > - *Low model drift*
 >   
 > *Because vocabulary is controlled, your historical series remains consistent. This is rare in text-based economic indicators."*
-
-It then suggested adding the indexes you see in the table at the bottom.
+>
+> It then suggested adding the indexes you see in the table at the bottom.
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
