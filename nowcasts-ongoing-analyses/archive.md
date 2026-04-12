@@ -2,6 +2,18 @@
 
 ---
 ## March 2026
+> After more than a decade of publishing this periodical, we decided to test our logic with ChatGPT. Its evaluation:   
+> *"Your methodology is actually quite good. Your method has several strengths:*
+> - *Signal is extremely stable*  
+> - *The Fed has used the same wording patterns for ~30 years*  
+> - *High interpretability*  
+> - *Unlike sentiment models, you can always point to the exact phrase*  
+> - *Low model drift*
+>   
+> *Because vocabulary is controlled, your historical series remains consistent. This is rare in text-based economic indicators."*
+
+It then suggested adding the indexes you see in the table at the bottom.
+
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
