@@ -11,7 +11,7 @@ We have published this nowcast since 2006 until 2025 with Bernanke's specificati
 ---
 ### Today's Recession Probability
 
-The recession predicor page is reached [here](https://tellubase.com/recession-predictor/). You can see it below too. 
+[The recession predicor page is found here](https://tellubase.com/recession-predictor/). You can see it below too. 
 <p align="center">
 <iframe src="https://tellubase.com/recession-predictor/" height="600" width="600"></iframe>
 </p>
