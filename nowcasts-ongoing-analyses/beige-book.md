@@ -22,8 +22,8 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 > - *Low model drift*
 >   
 > *Because vocabulary is controlled, your historical series remains consistent. This is rare in text-based economic indicators."*
-
-It then suggested adding the indexes you see at the bottom.
+>
+> It then suggested adding the indexes you see in the table at the bottom.
 
 ---
 <p align="center">
