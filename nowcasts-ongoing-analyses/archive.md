@@ -2,7 +2,35 @@
 
 ---
 ## March 2026
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>
 
+The March 2026 report shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.  
+
+Three districts doing relatively well:  
+- Dallas  
+- Atlanta  
+- Cleveland  
+- Philadelphia  
+- Richmond  
+
+Poor performers are:  
+- Chicago  
+- Minneapolis  
+- New York  
+- San Francisco  
+
+The rest are flat or show slight growth.  
+
+The key resulting national indexes are reported below:  
+
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-03.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+</p>
+
+Erratic government policies continue to damp growth. The Iran war is not reflected in the Beige Book yet.  
+<br/>
 
 
 ---
