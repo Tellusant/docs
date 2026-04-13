@@ -60,7 +60,7 @@ Outside the list, **General Motors** and **Ford** had the worst performances of 
 ### Comers and Goers
 New to the list in 2025 are **Visa** and **Salesforce**. **Charter Communications** and **Target** left the list.  
 
-### Growth  
+## Growth  
 Below is a view of year-on-year growth for the 40 companies. Tech overwhelms non-tech. Since value added is what makes up GDP (see Methods section, below), the growth of the companies can be directly compared to GDP.  
 
 Tech is what drives the U.S. economy. Non-tech is a drag on the economy.  
