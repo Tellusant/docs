@@ -116,7 +116,7 @@ This concludes this year's review of the largest companies. This is now an annua
 ---
 ¹ After deducting subsidies and adding taxes.
 
-² There is much too the analysis not reported here. E.g., Berkshire Hathaway has "investment and derivative contract gains" that are excluded. Financial institutions do not report in the fashion described but have corresponding data.
+² There is much to the analysis not reported here. E.g., Berkshire Hathaway has "investment and derivative contract gains" that are excluded. Financial institutions do not report in the fashion described but have corresponding data.
 
 ³ 9 of 120 companies
 
