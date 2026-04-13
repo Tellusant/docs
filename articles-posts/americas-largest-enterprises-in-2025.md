@@ -1,14 +1,14 @@
 ---
 title: "America's Largest Enterprises in 2025"
-description: "Tellusant's third official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)."
+description: "Tellusant's third official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value-added (VA)."
 image: /assets/social-card-pub.png
 ---
 
 
 # America's Largest Enterprises in 2025
-Tellusant's third official **America's Largest Enterprises Ranking in the Twenties (ALERT)** is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.  
+Tellusant's third official **America's Largest Enterprises Ranking in the Twenties (ALERT)** is out. It ranks the largest U.S. companies by value-added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.  
 
-Amazon maintains its lead at the top in 2025 and is the clear #1.  
+Amazon maintains its lead at the top in 2025 and is the clear no. 1.  
 
 We start by presenting the **results**, which is what most people are interested in. After this follow **definitions** and **methods**.  
 
@@ -61,7 +61,7 @@ Outside the list, **General Motors** and **Ford** had the worst performances of 
 New to the list in 2025 are **Visa** and **Salesforce**. **Charter Communications** and **Target** left the list.  
 
 ## Growth  
-Below is a view of year-on-year growth for the 40 companies. Tech overwhelms non-tech. Since value added is what makes up GDP (see Methods section, below), the growth of the companies can be directly compared to GDP.  
+Below is a view of year-on-year growth for the 40 companies. Tech overwhelms non-tech. Since value-added is what makes up GDP (see Methods section, below), the growth of the companies can be directly compared to GDP.  
 
 Tech is what drives the U.S. economy. Non-tech is a drag on the economy.  
 
@@ -72,7 +72,7 @@ Tech is what drives the U.S. economy. Non-tech is a drag on the economy.
 ## Definitions
 There are at least five ways to define corporate size:
 
-Value Added (VA)
+Value-Added (VA)
 Assets (net operating assets)
 (number of) Employees
 Revenue
@@ -84,7 +84,7 @@ Why not revenue which is so often used? Consider the following example:
 
 Let us say that you sell us a pen for 1 trillion and 1 dollars (1,000,000,000,001). We immediately sell it back to you for 1 trillion dollars.
 
-You have suddenly created the world’s largest company by revenue (and we the second largest). Yet your value added is only 1 dollar; not noteworthy. 
+You have suddenly created the world’s largest company by revenue (and we the second largest). Yet your value-added is only 1 dollar; not noteworthy. 
 
 If we were to merge our companies, what will the combined revenue be? 1 trillion and 1 dollars (1,000,000,000,001). Not 2 trillion and 1.
 
@@ -116,7 +116,7 @@ This concludes this year's review of the largest companies. This is now an annua
 ---
 ¹ After deducting subsidies and adding taxes.
 
-² There is much to the analysis not reported here. E.g., Berkshire Hathaway has "investment and derivative contract gains" that are excluded. Financial institutions do not report in the fashion described but have corresponding data.
+² There is much more to the analysis that is not reported here. E.g., Berkshire Hathaway has "investment and derivative contract gains" that are excluded. Financial institutions do not report in the fashion described but have corresponding data.
 
 ³ 9 of 120 companies
 
