@@ -1,10 +1,10 @@
 ---
 title: "Predictive Modeling Collection"
-description: "This page collects our theoretical work on predictive modeling in one place."
+description: "This page collects our philosophical and theoretical work on predictive modeling in one place."
 image: /assets/social-card-pub.png
 ---
 # Predictive Modeling Collection  
-This page collects our theoretical work on predictive modeling in one place.    
+This page collects our philosophical and theoretical work on predictive modeling in one place.    
 
 ## [How to Specify and Evaluate Predictive Models](predictive-model-specification-and-evaluation-framework.md) 
 ***Under journal pre-consideration***  
