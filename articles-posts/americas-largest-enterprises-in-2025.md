@@ -26,7 +26,7 @@ What jumps out from the analysis? We see a few themes:
 ### The Tech Juggernaut  
 The U.S., with China, have by far the most vibrant tech sectors in the world. Many countries have entrepreneurs and startups, but only the U.S. has managed to scale a few such companies to become 6 out of the top 10. **Meta** was founded 21 years before the 2025 list. **Alphabet** a few years earlier.  
 
-This success is not self-made only by the younger companies. They stand on the shoulders of earlier giants like Hewlett-Packard, IBM, and Microsoft (still in the race), Intel, or Texas Instruments.  
+This success is not self-made by the younger companies. They stand on the shoulders of earlier giants like Hewlett-Packard, IBM, and Microsoft (still in the race), Intel, or Texas Instruments.  
 
 ### The Top  
 **Amazon** has the honor of being the largest company in 2025 as it has been for a few years. Note that Amazon changed its accounting practice in 2024. Before this change, it was no. 5. We believe the new accounting practice reflects reality better.  
