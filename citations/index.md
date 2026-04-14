@@ -59,6 +59,7 @@ Alphabetically listed by authority.
 #### [Diageo (2013): *Entering the African Beer Market: Uncovering the Strategies to Enable Success*](assets/pdf/diageo-africa.pdf)  
 #### [Ecobank (2014): *Presentation to 38th General Assembly of FANAF Ouagadougou*](assets/pdf/ecobank-38th-general-assembly-fanaf.pdf)
 #### [Economics & Sociology (2017): *Constructing poverty lines in Croatia using Kakwani’s model*](https://typeset.io/pdf/constructing-poverty-lines-in-croatia-using-kakwani-s-model-7po3aycsfh.pdf)
+#### [Economisch Bureau Amsterdam (2024): *When Small Gets Too Big: Exploring Diseconomies of Scale in Island Economies)*](https://www.qracao.com/docs/diseconomies-of-scale_SIDS_EBA_working-paper_20112024.pdf)
 #### [EconPol Forum (2025): *How Containerization Reshaped GlobalTrade – And Our Cities*](https://www.ifo.de/DocDL/econpol-forum-2025-2-steinwender-et-al-containerization.pdf)
 #### [EIBD (2014): *EU-Indonesia Business Dialogue: Pharmaceutical-Cosmetic Sector Meeting*](assets/pdf/eibd-pharma-cosmetics.pdf) 
 #### [Environment & Urbanization (2020): *Can people on low incomes access affordable housing loans in urban Africa and Asia?*](https://reall.net/wp-content/uploads/2020/10/Jones-Stead-EU-Low-Income-Housing-Finance.pdf)
