@@ -26,6 +26,7 @@ Alphabetically listed by authority.
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
 #### [Applied Business and Economics, Journal of (2024): *Scaling Up Performance: The Impact of Economies of Scale in the Sportswear Industry*](https://articlegateway.com/index.php/JABE/article/view/7148/6743)
 #### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf)
+#### [Asian Development Review (2010): *Asian Regional Income, Growth, and Distribution till 2030*](https://lib.ncdd.gov.kh/storage/app/public/library_backend/CAT_19923_1/2010-Asian%20Regional%20Income,%20Growth,%20and%20Distribution%202030.pdf)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf)
 #### [AUHF-IUHF (2019): *Realising affordability in global housing markets*](https://fsdafrica.org/wp-content/uploads/2025/05/Joint_AUHF_IUHF_Conference_Brochure.pdf)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf)
