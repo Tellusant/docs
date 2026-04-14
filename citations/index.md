@@ -14,6 +14,7 @@ These are the first 165 of our citations (to be built out during 2026).
 
 ---
 Alphabetically listed by authority.  
+#### [AB InBev (2018): *Investor Seminar 2018: What Beer Is and What it Can Do*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/presentations-pdf-archive/presentations/2018/2.%20VP%20Category%20Expansion%20Framework_Anne%20Stephens.pdf)
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
 #### [AB InBev (2015): *Quarterly divisional seminar series—Africa*](assets/pdf/ab-inbev-sabmiller-africa-2015.pdf)
 #### [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](assets/pdf/ab-inbev-sabmiller-asia-pacific-2013.pdf)
@@ -26,6 +27,7 @@ Alphabetically listed by authority.
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
 #### [Applied Business and Economics, Journal of (2024): *Scaling Up Performance: The Impact of Economies of Scale in the Sportswear Industry*](https://articlegateway.com/index.php/JABE/article/view/7148/6743)
 #### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf)
+#### [Asian Development Review (2010): *Asian Regional Income, Growth, and Distribution till 2030*](https://lib.ncdd.gov.kh/storage/app/public/library_backend/CAT_19923_1/2010-Asian%20Regional%20Income,%20Growth,%20and%20Distribution%202030.pdf)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf)
 #### [AUHF-IUHF (2019): *Realising affordability in global housing markets*](https://fsdafrica.org/wp-content/uploads/2025/05/Joint_AUHF_IUHF_Conference_Brochure.pdf)
 #### [Badan Koordinasi Penanaman Modal (BKPM) (2019): *Indonesia investment updates*](assets/pdf/bkpm-indonesia-investment-update.pdf)
@@ -71,6 +73,7 @@ Alphabetically listed by authority.
 #### [IGI Global (publisher) (2020): *Multiple scenarios-based impact analysis of predicted land-use change on ecosystem services value*](https://www.igi-global.com/chapter/multiple-scenarios-based-impact-analysis-of-predicted-land-use-change-on-ecosystem-services-value/257935)
 #### [IJARSCT (2025): *Demographic Transition and Household Consumption Dynamics in India: Recent Trends and Policy Implications*](https://ijarsct.co.in/Paper30399.pdf)
 #### [Imperial (2014): *Interim results presentation*](assets/pdf/imperial-interim-results-2014.pdf)  
+#### [Imperial Brands (2019): *Maximising Category Opportunities (CAGNY)*](https://www.imperialbrandsplc.com/content/dam/imperialbrands/corporate/documents/investors/presentations/2019/conference/CAGNY-Presentation.pdf.downloadasset.pdf)
 #### [IMS Health (2014): *Africa: A ripe opportunity - Understanding the pharmaceutical market opportunity and developing sustainable business models in Africa*](http://www.fullertreacymoney.com/system/data/files/PDFs/2014/April/29th/IMS_Africa_Opportunity_Whitepaper.pdf)
 #### [India Perspectives Magazine (2014): *India Aspires to Build Future Africa*](assets/pdf/ipm-africa.pdf)
 #### [Indonesian Embassy in Argentina (2019): *Indonesia - Un mercado de oportunidades*](https://equilibriumglobal.com/wp-content/uploads/2019/05/Presentacion-Indonesia.pdf)
@@ -82,6 +85,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [IOSR Journal Of Humanities And Social Science (2019): *Media popular culture and the influence of western celebrities on Nigerian youth culture*](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue4/Series-10/D2404102027.pdf)
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](assets/pdf/italia-bruno-ssa.pdf)
+#### [Krane Funds Advisors (2021): *Krane-UBS China A Share Fund*](https://kraneshares.com/resources/presentation/2021_06_03_krane-ubs-china-a-share-fund_presentation.pdf)
 #### [KTH Royal Institute of Tecnology (2017): *Ranking risks and opportunities of African cities*](http://www.diva-portal.se/smash/get/diva2:1118259/FULLTEXT01.pdf)
 #### [Lagos State Government (2018): *Affordable housing deal book*](assets/pdf/lagos-state-global-housing-deal-book.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
@@ -142,6 +146,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Nova, Universidade (2023): *Designing a collaborative AutoML tool to help organizations become data-driven*](https://run.unl.pt/bitstream/10362/148721/1/TGI1403.pdf)
 #### [NSCB Biodiversity Conference, Proceedings of 6th (2018): *Survey of wood carving activities in selected local government areas*](https://nscbconf2018.files.wordpress.com/2018/05/48_71-nscb-2018b.pdf)
 #### [Osaka University (2019): *Study of emission control for passenger car in Indonesia*](https://ir.library.osaka-u.ac.jp/repo/ouka/all/72412/30409_Dissertation.pdf)
+#### [Oxford Handbook of Management Consulting (2012): *Chapter 4: Institutional Change and the Growth of Strategy Consulting in the United States*](https://www.mcgill.ca/desautels/files/desautels/david-strat-consulting-oxford-university-press_0.pdf)
 #### [Partnership for New York City (2013): *NYC jobs blueprint*](assets/pdf/partnership-for-new-york-city-nyc-jobs-blueprint.pdf)
 #### [Pharmaceutical Research, World Journal of (2018): *Antifungal activities of seed extracts of mahogany on Carica papaya*](https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1531805465.pdf)
 #### [Pioneer Foods (2013): *Annual results presentation*](assets/pdf/pioneerfoods-annual-report-2013.pdf)  
@@ -166,6 +171,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://www.sciencedirect.com/science/article/pii/S0277953622007109)
 #### [Springer (publisher) (2014): *China 2.0: The rising middle class*](https://link.springer.com/chapter/10.1007/978-3-319-07677-5_7)
 #### [States of Jersey (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](https://statesassembly.je/getmedia/38352765-d92a-4bc1-806e-f11ef95e38a2/Report%20-%20Economic%20Affairs%20Panel-Jersey%20Telecom%20Privatisation%20-%2006%20March%202007.aspx?ext=.pdf)
+#### [Strategic Review for South Africa (2017): *A Competitiveness Assessment of South Africa's Leading Cities*](assets/pdf/strategic-review-for-south-africa-competitiveness-assessment-of-South-Africa's-leading-cities.pdf)
 #### [Supply Chain Quarterly (2015): *Winning supply chain strategies for African markets*](assets/pdf/supply-chain-quarterly-winning-supply-chain-strategies-for-african-markets.pdf)
 #### [Swiss Political Science Association (2016): *Survival of the fittest: Explaining the success of ethnic autonomy arrangements*](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12229)
 #### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45) (broken)
