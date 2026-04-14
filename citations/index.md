@@ -73,7 +73,7 @@ Alphabetically listed by authority.
 #### [IGI Global (publisher) (2020): *Multiple scenarios-based impact analysis of predicted land-use change on ecosystem services value*](https://www.igi-global.com/chapter/multiple-scenarios-based-impact-analysis-of-predicted-land-use-change-on-ecosystem-services-value/257935)
 #### [IJARSCT (2025): *Demographic Transition and Household Consumption Dynamics in India: Recent Trends and Policy Implications*](https://ijarsct.co.in/Paper30399.pdf)
 #### [Imperial (2014): *Interim results presentation*](assets/pdf/imperial-interim-results-2014.pdf)  
-#### [Imperial Brands (2019): *Maximising Category Opportunities*](https://www.imperialbrandsplc.com/content/dam/imperialbrands/corporate/documents/investors/presentations/2019/conference/CAGNY-Presentation.pdf.downloadasset.pdf)
+#### [Imperial Brands (2019): *Maximising Category Opportunities (CAGNY)*](https://www.imperialbrandsplc.com/content/dam/imperialbrands/corporate/documents/investors/presentations/2019/conference/CAGNY-Presentation.pdf.downloadasset.pdf)
 #### [IMS Health (2014): *Africa: A ripe opportunity - Understanding the pharmaceutical market opportunity and developing sustainable business models in Africa*](http://www.fullertreacymoney.com/system/data/files/PDFs/2014/April/29th/IMS_Africa_Opportunity_Whitepaper.pdf)
 #### [India Perspectives Magazine (2014): *India Aspires to Build Future Africa*](assets/pdf/ipm-africa.pdf)
 #### [Indonesian Embassy in Argentina (2019): *Indonesia - Un mercado de oportunidades*](https://equilibriumglobal.com/wp-content/uploads/2019/05/Presentacion-Indonesia.pdf)
