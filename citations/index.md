@@ -65,6 +65,7 @@ Alphabetically listed by authority.
 #### [E-Trade (2015): *Opening the Wallets of 2.8 Billion People*](http://imgstock.naver.com/upload/research/invest/1421020253517.pdf)
 #### [Financial Mail (2016): *Business in Africa: Understanding the market*](https://www.businesslive.co.za/fm/fm-fox/2016-06-30-business-in-africa-understanding-the-market/)
 #### [FUDMA Journal of Sciences (2023): *Occurrence of parasites in live Clarias gariepinus*](https://www.researchgate.net/publication/370446298_OCCURRENCE_OF_PARASITES_IN_LIVE_Clarias_gariepinus_SOLD_AT_JIMETA_MODERN_MARKET_YOLA_ADAMAWA_STATE)
+#### [Gates Foundation (2014): *Digitizing Government Payments in Nigeria*](https://docs.gatesfoundation.org/documents/digitizing%20government%20payments%20in%20nigeria.pdf)
 #### [Ghent University (2010): *Welke rol speelt olie in de mobilisatie van jongeren in de Niger delta?*](http://lib.ugent.be/fulltxt/RUG01/001/491/060/RUG01-001491060_2011_0001_AC.pdf)
 #### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
 #### [Health Sciences and Research, International Journal of (2020): *The prevalence of natural mixed infection of T. congolense and T. vivax in cattle*](https://www.ijhsr.org/IJHSR_Vol.10_Issue.11_Nov2020/8.pdf)
