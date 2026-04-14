@@ -20,6 +20,7 @@ Alphabetically listed by authority.
 #### [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](assets/pdf/ab-inbev-sabmiller-asia-pacific-2013.pdf)
 #### [AB InBev (2014): *Quarterly divisional seminar series—South Africa*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/divisional-seminars/quarterly-divisional-seminar-south-africa-2014.pdf)
 #### [Accenture (2013): *Consumer Goods in Africa and Nigeria*](http://www.slideshare.net/accenture/consumer-goods-in-africa-and-nigeria)
+#### [Advances in Management & Applied Economics (2014): *The Analysis of the Four Paradigms of Business Management consulting in Portugal in the Light of the Research Field of Strategy-as-practice*](https://www.scienpress.com/Upload/AMAE/Vol%204_3_3.pdf)
 #### [Ahmadu Bello University (2014): *The imperative of sand dune stabilization in semi arid zone*](https://physicalsciences.abu.edu.ng/department/geography/public/journal/2014/files/12.pdf)
 #### [AIG (2013): *AIG in Africa*](assets/pdf/aig-africa.pdf)  
 #### [Airbnb (2017): *Women hosts and Airbnb: Building a global community*](https://www.airbnbcitizen.com/wp-content/uploads/2017/03/Women-Hosts-and-Airbnb_Building-a-Global-Community.pdf)
