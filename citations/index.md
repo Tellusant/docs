@@ -172,6 +172,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Skift Research (2025): *State of Travel 2025*](https://www.rto9.ca/wp-content/uploads/2025/08/State-of-Travel-2025.pdf)  
 #### [Slate Afrique (2015): *Pourquoi les Africains sont soit très riches, soit très pauvres*](http://www.slateafrique.com/625551/afrique-revenu-par-habitant)
 #### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://www.sciencedirect.com/science/article/pii/S0277953622007109)
+#### [Solina Health (2017): *Preliminary results from direct-to-facilityvaccine deliveries in Kano, Nigeria*](https://pdfs.semanticscholar.org/a6a6/d5a2204da4df0a11d8bac076fc28b9b3ffce.pdf)  
 #### [South African Cities Network (2015): *Potential of a Better Life - The Tale of Nine Cities*](https://www.sacities.net/wp-content/uploads/2019/12/final_sa_cities_growth_index_assessment_report_Jan_2015.pdf)
 #### [Springer (publisher) (2014): *China 2.0: The rising middle class*](https://link.springer.com/chapter/10.1007/978-3-319-07677-5_7)
 #### [States of Jersey (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](https://statesassembly.je/getmedia/38352765-d92a-4bc1-806e-f11ef95e38a2/Report%20-%20Economic%20Affairs%20Panel-Jersey%20Telecom%20Privatisation%20-%2006%20March%202007.aspx?ext=.pdf)  
