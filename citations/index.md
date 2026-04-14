@@ -85,6 +85,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [IOSR Journal Of Humanities And Social Science (2019): *Media popular culture and the influence of western celebrities on Nigerian youth culture*](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue4/Series-10/D2404102027.pdf)
 #### [ISEAS (2021): *Urban transition in Hanoi*](https://www.iseas.edu.sg/wp-content/uploads/2020/12/TRS2_21.pdf)
 #### [Italia—Gianpaulo Bruno (2012): *Africa sub-sahariana—mercato emergente dalle grandi prospettive*](assets/pdf/italia-bruno-ssa.pdf)
+#### [Krane Funds Advisors (2021): *Krane-UBS China A Share Fund*](https://kraneshares.com/resources/presentation/2021_06_03_krane-ubs-china-a-share-fund_presentation.pdf)
 #### [KTH Royal Institute of Tecnology (2017): *Ranking risks and opportunities of African cities*](http://www.diva-portal.se/smash/get/diva2:1118259/FULLTEXT01.pdf)
 #### [Lagos State Government (2018): *Affordable housing deal book*](assets/pdf/lagos-state-global-housing-deal-book.pdf)
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
