@@ -179,6 +179,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [STeP Sanitation Technology Platform (2017): *Market Insights for the Reinvented Toilet*](https://gatesopenresearch-files.f1000.com/posters/docs/gatesopenres-190897.pdf)
 #### [Strategic Review for South Africa (2017): *A Competitiveness Assessment of South Africa's Leading Cities*](assets/pdf/strategic-review-for-south-africa-competitiveness-assessment-of-South-Africa's-leading-cities.pdf)
 #### [Supply Chain Quarterly (2015): *Winning supply chain strategies for African markets*](assets/pdf/supply-chain-quarterly-winning-supply-chain-strategies-for-african-markets.pdf)
+#### [Suatainable Energy for ALL (2020): *Scope of Work - LOT 1: Nigeria Integrated Energy and COVID-19 Vaccine Distribution Plans*](https://www.seforall.org/system/files/2020-12/LOT1-Nigeria-IEP-COVID-19-Vaccine-Distribution.pdf)
 #### [Swiss Political Science Association (2016): *Survival of the fittest: Explaining the success of ethnic autonomy arrangements*](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12229)
 #### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45) (broken)
 #### [TAP-TUMI (2025): *Investor Brief*](https://transformative-mobility.org/wp-content/uploads/2025/06/TAP-TUMI-Investor-Brief_VF.pdf)
