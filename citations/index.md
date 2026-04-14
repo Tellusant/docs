@@ -40,6 +40,7 @@ Alphabetically listed by authority.
 #### [BeautyWorld (2017): *Attractive Africa: Five growth drivers in Africa’s beauty and personal care*](https://www.beautyworldme.com/resources/files/reports/BWME2017_E_book_Attractive_Africa.pdf)
 #### [Bioscience Research, Open Journal of (2020): *Prevalence of bacterial pathogens associated with wound infections from diabetic out-patients at Plateau Specialist Hospital, Jos, Nigeria*](https://www.openjournalsnigeria.org.ng/journals/index.php/ojbr/article/view/143)
 #### [Bogotá, Secretaría General de la Alcaldía Mayor de (2025): *Entorno Economico*](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)
+#### [British Council (2021): *Managing Conflict in Nigeria*](https://www.justice-security.ng/sites/default/files/research_report_sgbv_yobe_final_web.pdf)
 #### [Bucharest University (2014): *Constructing official poverty lines for countries in transition*](https://www.econstor.eu/bitstream/10419/168830/1/aej-v16-i35-p0368.pdf)
 #### [CARD International Journal of Medical Science and Applied Biosciences (2017): *Survey and control of tomato (Solanum lycopersicum L.) wilt caused by Fusarium oxysporum Schlecht*](https://casirmediapublishing.com/wp-content/uploads/2019/09/Pages-44-61.pdf)
 #### [CDP (2013): *Wealtier, healthier cities*](assets/pdf/cdp-cities.pdf)   
