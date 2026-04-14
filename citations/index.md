@@ -159,6 +159,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [RUAF (2024): *Dhaka City Food System Profile*](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 #### [Russian Science Foundation (2017): *Ethnic regional autonomies database (ERAD) Codebook*](http://identityworld.ru/maps_aera/database/ERAD_2.1_Codebook_2017_English.pdf)
 #### [Scientific & Technology Research, International Journal of (2013): *The Quality of Mass Transit Service in Abuja, Nigeria: An Analysis Of Customers Opinions*](https://www.researchgate.net/publication/318859389_The_Quality_Of_Mass_Transit_Service_In_Abuja_Nigeria_An_Analysis_Of_Customers_Opinions)
+#### [Savills (2018): *Spotlight - Vietnam Residential*](https://pdf.savills.asia/asia-pacific-research/vietnam-research/spotlight/vietnam-residential-20181127-en.pdf)
 #### [Skift Research (2025): *State of Travel 2025*](https://www.rto9.ca/wp-content/uploads/2025/08/State-of-Travel-2025.pdf)  
 #### [Slate Afrique (2015): *Pourquoi les Africains sont soit très riches, soit très pauvres*](http://www.slateafrique.com/625551/afrique-revenu-par-habitant)
 #### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://www.sciencedirect.com/science/article/pii/S0277953622007109)
