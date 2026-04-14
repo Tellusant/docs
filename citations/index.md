@@ -171,6 +171,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://www.sciencedirect.com/science/article/pii/S0277953622007109)
 #### [Springer (publisher) (2014): *China 2.0: The rising middle class*](https://link.springer.com/chapter/10.1007/978-3-319-07677-5_7)
 #### [States of Jersey (2007): *Economic affairs scrutiny panel Jersey Telecom - Privatisation*](https://statesassembly.je/getmedia/38352765-d92a-4bc1-806e-f11ef95e38a2/Report%20-%20Economic%20Affairs%20Panel-Jersey%20Telecom%20Privatisation%20-%2006%20March%202007.aspx?ext=.pdf)
+#### [Strategic Review for South Africa (2017): *A Competitiveness Assessment of South Africa's Leading Cities*](assets/pdf/strategic-review-for-south-africa-competitiveness-assessment-of-South-Africa's-leading-cities.pdf)
 #### [Supply Chain Quarterly (2015): *Winning supply chain strategies for African markets*](assets/pdf/supply-chain-quarterly-winning-supply-chain-strategies-for-african-markets.pdf)
 #### [Swiss Political Science Association (2016): *Survival of the fittest: Explaining the success of ethnic autonomy arrangements*](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12229)
 #### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45) (broken)
