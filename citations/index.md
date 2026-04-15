@@ -100,7 +100,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty-analyst-day-2013.pdf)
 #### [Management and Entrepreneurship, Journal of (2022): *Ownership Structure, Firm Value and the Moderating Effects of Firm Size*](assets/pdf/jmk-ownership-structure-firm-value-moderating-effects-of-firm-size.pdf)  
 #### [Management and Sustainability, Journal of (2013): *The “Fashionable Knowledge” of Management Consulting*](assets/pdf/j-manag-sustain-fashionable-knowledge-of-management-consulting.pdf)
-#### [Management Today: *The Problem with Size*](https://www.managementtoday.co.uk/problem-size/article/757880)
+#### [Management Today (2007): *The Problem with Size*](https://www.managementtoday.co.uk/problem-size/article/757880)
 #### [Massachusetts, University of (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
 #### [MasterCard (2013): *African cities growth index 2013*](https://www.researchgate.net/publication/260185819_MasterCard_African_Cities_Growth_Index_2013)
 #### [MasterCard (2014): *Mapping the path to future prosperity—Emerging markets inclusive growth index*](assets/pdf/mastercard-prosperity.pdf)
