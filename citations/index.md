@@ -98,8 +98,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [Landscape and Urban Planning (2020): *Urban socioeconomic inequality and biodiversity often converge, but not always*](https://doi.org/10.1016/j.landurbplan.2020.103799)
 #### [LEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](assets/pdf/lem-marche-pharmaceutique-en-afrique-subsaharienne.pdf)
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty-analyst-day-2013.pdf)
-tbd #### [Management and Entrepreneurship, Journal of (2022):  *Ownership Structure, Firm Vakue and the Moderating Effects of Firm Size](assets/pdf/)  
-
+#### [Management and Entrepreneurship, Journal of (2022):  *Ownership Structure, Firm Vakue and the Moderating Effects of Firm Size](assets/pdf/ownership-structure-firm-value-moderating-effects-of-firm size.pdf)  
 #### [Management and Sustainability, Journal of (2013): *The “Fashionable Knowledge” of Management Consulting*](assets/pdf/management-and-sustainability-fashionable-knowledge-of-management-consulting.pdf)
 #### [Management Today: *The Problem with Size*](https://www.managementtoday.co.uk/problem-size/article/757880)
 #### [Massachusetts, University of (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
