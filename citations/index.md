@@ -99,6 +99,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [LEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](assets/pdf/lem-marche-pharmaceutique-en-afrique-subsaharienne.pdf)
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty-analyst-day-2013.pdf)
 TBD #### [Management and Entrepreneurship, Journal of (2022):  *Ownership Strucrure, Firm Vakue and the Moderating Effects of Firm Size]()  
+
 TBD #### [Management and Sustainability, Journal of (2013): *The “Fashionable Knowledge” of Management Consulting*]()
 #### [Management Today: *The Problem with Size*](https://www.managementtoday.co.uk/problem-size/article/757880)
 #### [Massachusetts, University of (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
