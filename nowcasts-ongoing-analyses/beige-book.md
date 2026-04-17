@@ -35,7 +35,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 > A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="400" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
 The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
