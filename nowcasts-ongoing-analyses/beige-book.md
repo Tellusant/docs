@@ -22,6 +22,14 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >
 >In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as GitHub Action.
 
+Economic activity increased slightly in the April Beige Book, with conditions improving across a broader set of districts even as overall momentum softened from the prior report. 
+
+Eight districts reported expansion, two were little changed, and two noted declines, indicating a more widely distributed but still modest pace of growth. 
+
+The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
+
+Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
+
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-04.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
