@@ -16,9 +16,9 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >Our analysis is now entirely performed by our Fedora AI agent (v1.1.1). It consists of five parts:
 >
 >- ChatGPT = runtime environment
->- YAML = serialization algorithm
+>- YAML = analytical serialization
 >- Excel = model + parameters
->- Mermaid = workflow graphing
+>- Mermaid v11 = workflow graphing
 
 >In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as *cron* in GitHub Action.
 
