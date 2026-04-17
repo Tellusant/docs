@@ -12,8 +12,6 @@ We compute a composite score for each of the twelve districts based on a **seman
 
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
----
-
 >Our analysis is now entirely performed by our Fedora AI agent (v1.1.1). It consists of three parts:
 >
 >- ChatGPT = runtime environment
@@ -22,6 +20,7 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >
 >In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as GitHub Action.
 
+---
 Economic activity increased slightly in the April Beige Book, with conditions improving across a broader set of districts even as overall momentum softened from the prior report. 
 
 <p align="center">
