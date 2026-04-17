@@ -39,6 +39,12 @@ Poor performers are:
 
 The rest are flat or show slight growth.  
 
+> A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
+
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="400" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+</p>
+
 The key resulting national indexes are reported below:  
 
 <p align="center">
@@ -47,12 +53,6 @@ The key resulting national indexes are reported below:
 
 Erratic government policies continue to damp growth. The Iran war is not reflected in the Beige Book yet.  
 <br/>
-
-> A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
-
-<p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="400" alt="Nowcast: Federal Reserve Beige Book contributing factors">
-</p>
 
 ---
 #### [Archive](archive.md)
