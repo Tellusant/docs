@@ -30,8 +30,6 @@ Economic activity increased slightly in the April Beige Book, with conditions im
 
 Eight districts reported expansion, two were little changed, and two noted declines, indicating a more widely distributed but still modest pace of growth. 
 
-The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
-
 Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
 > A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
@@ -40,7 +38,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 <img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="400" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-The key resulting national indexes are reported below:  
+The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-indexes-2026-04.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
