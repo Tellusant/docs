@@ -51,7 +51,7 @@ The key resulting national indexes are reported below:
 <img  src="assets/images/tellusant-fed-beige-book-indexes-2026-04.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
-Erratic government policies continue to damp growth. The Iran war is not reflected in the Beige Book yet.  
+Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book but has a small effect except on inflation.  
 <br/>
 
 ---
