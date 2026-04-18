@@ -4,6 +4,19 @@
 
 sankey
 
+USA then,USA mid,60
+CHN then,CHN now,120
+USA then,USA now2,140
+USA mid, USA now1,40
+
+</div>
+
+---
+
+<div class="mermaid">
+
+sankey
+
 USA then,USA now1,100
 CHN then,CHN now,120
 USA then,USA now2,140
