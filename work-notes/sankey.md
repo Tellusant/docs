@@ -10,13 +10,10 @@ USA then,USA now2,140
 
 </div>
 
+---
+
 <div class="mermaid">
 
----
-config:
-  sankey:
-    showValues: false
----
 sankey
 
 Agricultural 'waste',Bio-conversion,124.729
