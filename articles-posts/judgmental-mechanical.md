@@ -72,6 +72,7 @@ K -->|"`⠀**−**⠀<br/>⠀neg. feedback loop⠀`"| Sum
 F -.-> MGT
 K --> MGT
 
+linkStyle 10 stroke:blue
 linkStyle 12 stroke:transparent,stroke-width:0;
 
 %% ========= STYLES =========
