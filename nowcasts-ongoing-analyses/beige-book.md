@@ -13,7 +13,7 @@ We compute a composite score for each of the twelve districts based on a **seman
 
 We have published these nowcasts since June 2015 on LinkedIn. The new series published here starts in October 2025. The LinkedIn series can still be found there.
 
->Our analysis is now entirely performed by our Fedora AI agent (v1.1.1). It consists of five parts:
+>Ther analysis is now entirely performed by our Fedora AI agent (v1.1.1). It consists of five parts:
 >
 >- ChatGPT = runtime environment
 >- YAML = analytical serialization
