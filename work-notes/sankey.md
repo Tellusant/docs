@@ -14,6 +14,11 @@ USA then,USA now2,140
 
 <div class="mermaid">
 
+---
+config:
+  sankey:
+    showValues: false
+---
 sankey
 
 Agricultural 'waste',Bio-conversion,124.729
