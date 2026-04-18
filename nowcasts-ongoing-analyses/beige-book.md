@@ -1,9 +1,9 @@
 ---
-title: "Nowcast: Sentiment Analysis of Economic Activity Based on the Beige Book of April 15, 2026"
+title: "Nowcast: Sentiment Analysis of Economic Activity—Based on the Beige Book of April 15, 2026"
 description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast."
 image: /assets/social-card-beig.png
 ---
-# Nowcast: Sentiment Analysis of Economic Activity Based on the Beige Book of April 15, 2026
+# Nowcast: Sentiment Analysis of Economic Activity—Based on the Beige Book of April 15, 2026
 The Fed's Beige Book, *[Summary of Commentary on Current Economic Conditions](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)*, covers current economic activity for the 12 Federal Reserve Districts. It is published sesqui-monthly (every 1½
 months). Tellusant converts it into a quantitative nowcast.  
 
