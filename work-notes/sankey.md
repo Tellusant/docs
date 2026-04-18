@@ -1,5 +1,14 @@
 # Sankey
+
+<div class="mermaid">
+
 sankey
+
+USA then,USA now1,100
+CHN thenCHN now,120
+USA then,USA now2,140
+
+</div>
 
 <div class="mermaid">
 
