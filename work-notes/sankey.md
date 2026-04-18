@@ -1,7 +1,7 @@
 # Sankey
 sankey
 
-<div style="mermaid"?
+<div class="mermaid">
 
 ---
 config:
