@@ -5,7 +5,7 @@
 sankey
 
 USA then,USA now1,100
-CHN thenCHN now,120
+CHN then,CHN now,120
 USA then,USA now2,140
 
 </div>
