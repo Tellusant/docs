@@ -19,7 +19,7 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >- YAML = analytical serialization
 >- Excel = model + parameters
 >- Mermaid v11 = workflow graphing
-
+>
 >In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as *cron* in GitHub Action.
 
 ---
