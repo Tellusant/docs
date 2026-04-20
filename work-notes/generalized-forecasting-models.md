@@ -26,7 +26,7 @@ Note the subtle variations: *(1)* has *Δw* while (2) has *w* since it is alread
 
 Note that *LF* or *HF* coefficients may be calculated in a separate model and elasticities then set as static.
 
-These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables and the timeseries component.
+**These are ARIMAX equations with a clear distinction between long-term independent variables, short-term independent variables. and the timeseries component.**
 
 ## Special Models
 
