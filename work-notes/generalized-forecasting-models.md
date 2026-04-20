@@ -9,7 +9,7 @@ These are the equations that should be starting point for any forecating effort.
 Schematically, the general model looks like this:
 
 <p align="center">
-<img  src="assets/images/general-forecasting-model.svg" width="400" alt="">
+<img  src="assets/images/general-forecasting-model.svg" width="500" alt="">
 </p>
 
 This is the equation for a "raw" regression:
@@ -33,7 +33,7 @@ Note that *LF* or *HF* coefficients may be calculated in a separate model and el
 All conceivable forecasting needs are covered by 5 subsets of the general model. This is MECE. [It is possible to set up all kinds variants to this (such as including the timeseries component as dummies in the S/T model), but those are rearrangements, not different models.]
 
 <p align="center">
-<img  src="assets/images/special-forecasting-models.svg" width="300" alt="Predictive anchors">  
+<img  src="assets/images/special-forecasting-models.svg" width="500" alt="Predictive anchors">  
 </p>
 
 
