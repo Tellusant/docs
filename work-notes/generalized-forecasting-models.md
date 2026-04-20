@@ -37,36 +37,24 @@ All conceivable forecasting needs are covered by 5 subsets of the general model.
 </p>
 
 
-### A. Long-term regression without lag effects and timeseries component
-This is useful for strategic forecasting and cross-sectional analyses. Works with pooling. 3-10 years horizon.
+### A. Long-term regression without lag effects and timeseries component  
+This is useful for strategic forecasting and cross-sectional analyses. Works with pooling. 3-10 years horizon.  
+<br/>
 
-<p align="center">
-<img  src="assets/images/tsdelt1.svg" width="500" alt="">
-</p>
+### B. Long-term regression with timeseries component  
+This is useful for strategic forecasting with a timeseries component. It cannot easily be pooled. 3-10 years horizon.  
+<br/>
 
-### B. Long-term regression with timeseries component
-This is useful for strategic forecasting with a timeseries component. It cannot easily be pooled. 3-10 years horizon.
+### C. Ultra-short-term regression with only timeseries component  
+For tactical forecasting less than 4 weeks out.  
+<br/>
 
-<p align="center">
-<img  src="assets/images/tsdelt2.svg" width="500" alt="">
-</p>
-
-### C. Ultra-short-term regression with only timeseries component
-For tactical forecasting less than 4 weeks out.
-
-
-### D. Short-term regression with timeseries component
-This is a typical ARIMAX or ARMAX case for operational forecasting 1 to 12 months out.
-
-<p align="center">
-<img  src="assets/images/tsdest1.svg" width="500" alt="">
-</p>
+### D. Short-term regression with timeseries component  
+This is a typical ARIMAX or ARMAX case for operational forecasting 1 to 12 months out.  
+<br/>
 
 ### E. Short-term regression with long-term drivers inpact and with timeseries component
 This is the most complex model. Seldom used, but important. It allows for combination of short-term and long-term demand drivers. The long-term drivers are usually estimated with A. or B. above, and then "grafted" on as predetermined static coefficients. Also for operational forecasting 1-12 months out.
+<br/>
 
-<p align="center">
-<img  src="assets/images/tsdest2.svg" width="500" alt="">
-</p>
-
-Once one of these basic equations has been modelled and understood, more complex models may be pursued such as ECM / ARDL.
+There are more complex forms of the models above, nut thay all build on the same logic.
