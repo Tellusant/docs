@@ -53,7 +53,7 @@ For tactical forecasting less than 4 weeks out.
 This is a typical ARIMAX or ARMAX case for operational forecasting 1 to 12 months out.  
 <br/>
 
-### E. Short-term regression with long-term drivers inpact and with timeseries component
+### E. Short-term regression with long-term driver impact and timeseries component
 This is the most complex model. Seldom used, but important. It allows for combination of short-term and long-term demand drivers. The long-term drivers are usually estimated with A. or B. above, and then "grafted" on as predetermined static coefficients. Also for operational forecasting 1-12 months out.
 <br/>
 
