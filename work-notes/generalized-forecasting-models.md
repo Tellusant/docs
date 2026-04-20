@@ -9,7 +9,7 @@ These are the equations that should be starting point for any forecating effort.
 Schematically, the general model looks like this:
 
 <p align="center">
-<img  src="assets/images/tgde.svg" width="500" alt="">
+<img  src="assets/images/special-forecasting-models.svg" width="400" alt="">
 </p>
 
 This is the equation for a "raw" regression:
