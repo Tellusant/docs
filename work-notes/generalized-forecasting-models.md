@@ -57,4 +57,8 @@ This is a typical ARIMAX or ARMAX case for operational forecasting 1 to 12 month
 This is the most complex model. Seldom used, but important. It allows for combination of short-term and long-term demand drivers. The long-term drivers are usually estimated with A. or B. above, and then "grafted" on as predetermined static coefficients. Also for operational forecasting 1-12 months out.
 <br/>
 
+<p align="center">
+— — —
+</p>
+
 There are more complex forms of the models above, nut thay all build on the same logic.
