@@ -34,15 +34,15 @@ How should we think about productivity? There are three components working on GD
 
 Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity inproves beyond this, the country is said to be improving.
 
-This is expressed in a Cobb-Douglas equation:
+This is expressed in a Cobb-Douglas equation:  
 
 $$GDP = A K^{\alpha} L^{1-\alpha}$$  
 $$A = Structural \ productivity$$  
 $${\alpha} = \ Share \ of \ capital \ in \ the \ economy$$  
 
-Global average for ${\alpha}$ is ≈0.45 with large variations between countries.
+Global average for ${\alpha}$ is ≈0.45 with large variations between countries.  
 
-With some mathematical manipulation, we see that:
+With some mathematical manipulation, we see that:  
 
 $${\Delta} GDP = {\Delta}A + {\alpha}{\Delta}K + ({1-\alpha}){\Delta}L$$
 
