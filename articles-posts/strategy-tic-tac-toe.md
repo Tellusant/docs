@@ -36,11 +36,16 @@ Structural productivity is if the country is *getting better*, in some sense. If
 
 This is excressed in a Cobb-Douglas equation:
 
-$$GDP = A K^{\alpha} L^{1-\alpha} \qquad \alpha \= \ share \ of \ capital \ in \ the \ economy$$
+$$GDP = A K^{\alpha} L^{1-\alpha}$$
+$$ A = Structural \ productivity$$
+$${\alpha} \= \ Share \ of \ capital \ in \ the \ economy$$
+Global average for ${\alpha}$ is 
 
 with some mathematical manipulation, we see that:
 
+$${\Delta} GDP = {\Delta}A + {\alpha}{\Delta}K + ({1-\alpha}){\Delta}L$$
 
+Thus the change in GDP is a function of changes in structural productivity, capital, and labor.
 
 In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the primitive.  
 
