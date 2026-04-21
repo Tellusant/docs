@@ -40,7 +40,7 @@ $$GDP = A K^{\alpha} L^{1-\alpha}$$
 $$A = Structural \ productivity$$  
 $${\alpha} = \ Share \ of \ capital \ in \ the \ economy$$  
 
-(Global average for ${\alpha}$ is ≈0.4 with large country variations.)
+Global average for ${\alpha}$ is ≈0.45 with large variations between countries.
 
 With some mathematical manipulation, we see that:
 
