@@ -27,21 +27,22 @@ The horizontal axis starts with macro. Any CEO would say it is better to be in a
 
 But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth.  
 
-How should you think about productivity? There are three components working on GDP creation:
+How should we think about productivity? There are three components working on GDP:
 - Labor
 - Capital
 - Structural productivity ≡ total factor productivity (TFP) ≡  Solow residual  
 
-Structural productivity is if the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If Structural productivity inproves beyond thia, the country is said to be imptoving.
+Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity inproves beyond this, the country is said to be improving.
 
-This is excressed in a Cobb-Douglas equation:
+This is expressed in a Cobb-Douglas equation:
 
-$$GDP = A K^{\alpha} L^{1-\alpha}$$
-$$ A = Structural \ productivity$$
-$${\alpha} \= \ Share \ of \ capital \ in \ the \ economy$$
-Global average for ${\alpha}$ is 
+$$GDP = A K^{\alpha} L^{1-\alpha}$$  
+$$ A = Structural \ productivity$$  
+$${\alpha} \= \ Share \ of \ capital \ in \ the \ economy$$  
 
-with some mathematical manipulation, we see that:
+(Global average for ${\alpha}$ is ≈0.4 with large country variations.)
+
+With some mathematical manipulation, we see that:
 
 $${\Delta} GDP = {\Delta}A + {\alpha}{\Delta}K + ({1-\alpha}){\Delta}L$$
 
