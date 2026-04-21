@@ -27,6 +27,21 @@ The horizontal axis starts with macro. Any CEO would say it is better to be in a
 
 But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth.  
 
+How should you think about productivity? There are three components working on GDP creation:
+- Labor
+- Capital
+- Structural productivity ≡ total factor productivity (TFP) ≡  Solow residual  
+
+Structural productivity is if the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If Structural productivity inproves beyond thia, the country is said to be imptoving.
+
+This is excressed in a Cobb-Douglas equation:
+
+$$GDP = A K^{\alpha} L^{1-\alpha} \qquad \alpha \= \ share \ of \ capital \ in \ the \ economy$$
+
+with some mathematical manipulation, we see that:
+
+
+
 In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the primitive.  
 
 #### Company
