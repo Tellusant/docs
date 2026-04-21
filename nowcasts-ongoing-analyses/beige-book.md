@@ -31,9 +31,9 @@ Economic activity increased slightly in the April Beige Book, with conditions im
 
 Eight districts reported expansion, two were little changed, and two noted declines, indicating a more widely distributed but still modest pace of growth. 
 
-Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
-
 > A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
+
+Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
@@ -52,3 +52,5 @@ Erratic government policies continue to damp growth. The Iran war is reflected i
 #### [Archive](archive.md)
 
 #### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](retrospective.md)  
+
+*ChatGPT was used for the entire analysis.*
