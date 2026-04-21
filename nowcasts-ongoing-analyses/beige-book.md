@@ -53,4 +53,4 @@ Erratic government policies continue to damp growth. The Iran war is reflected i
 
 #### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](retrospective.md)  
 
-*ChatGPT was used for the entire analysis*
+*ChatGPT was used for the entire analysis.*
