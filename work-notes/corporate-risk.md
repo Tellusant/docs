@@ -1,5 +1,6 @@
 # Corporate Operating Risk – Discussion Notes
 
+---
 ## Current Approach
 - Measuring operating risk as standard deviation of YoY revenue growth over 40 quarters
 - Using Möbius transformation for symmetry: f(x) = x / (x + 2)
