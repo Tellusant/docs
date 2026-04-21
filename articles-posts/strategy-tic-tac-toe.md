@@ -36,8 +36,8 @@ Structural productivity is whether the country is *getting better*, in some sens
 
 This is expressed in a Cobb-Douglas equation:
 
-$$GDP = A K^{\alpha} L^{1-\alpha}$$
-$$A = Structural \ productivity$$
+$$GDP = A K^{\alpha} L^{1-\alpha}$$  
+$$A = Structural \ productivity$$  
 $${\alpha} = \ Share \ of \ capital \ in \ the \ economy$$  
 
 Global average for ${\alpha}$ is ≈0.45 with large variations between countries.
