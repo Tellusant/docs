@@ -1,6 +1,6 @@
 # Sankey
 
-<div class="mermaid">
+<pre class="mermaid">
 
 sankey
 
@@ -10,7 +10,7 @@ CHN then, USA now1, 40
 USA then,USA now2,140
 USA mid, USA now1,40
 
-</div>
+</pre>
 
 ---
 
