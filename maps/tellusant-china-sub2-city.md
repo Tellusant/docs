@@ -14,3 +14,6 @@ Note that what many think are cities, the so-called prefecture-level cities (PLC
 #### <img  src="assets/svg/tellusant-china-sub2-city.svg" alt="China – Cities and Secondary Subdivisions Covered in TelluBase">
 
 ---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  
