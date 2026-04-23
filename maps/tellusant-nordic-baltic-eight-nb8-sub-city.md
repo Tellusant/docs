@@ -8,3 +8,8 @@ image: /assets/social-card-map.png
 ## *TelluBase Definitions*
 
 #### <img  src="assets/svg/tellusant-nordic-baltic-eight-nb8-sub-city.svg" width="600" alt="TelluBase Coverage of Nordic-Baltic 8">
+
+---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  
