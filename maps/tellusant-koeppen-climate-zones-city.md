@@ -14,3 +14,6 @@ The map shows the Köppen climate zones for the 2600 cities we cover in TelluBas
 #### <img  src="assets/svg/tellusant-koeppen-climate-zones-city.svg" alt="The World's Cities by Köppen Climate Zones">
 
 ---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  
