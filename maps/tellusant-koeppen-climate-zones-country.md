@@ -14,3 +14,6 @@ Note: Only a handful of countries have diffuse climate zones (notably U.S., Chin
 #### <img  src="assets/svg/tellusant-koeppen-climate-zones-country.svg" alt="The World by Köppen Climate Zones">
 
 ---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  
