@@ -68,9 +68,6 @@ These are not model classes, but default stances about how uncertainty is repres
 
 They are complementary rather than competing, and most systems combine them. Their differences matter most when conditions change or uncertainty is high.
 
-<p align="center">
-<b>PHILOSOPHICAL STANCES FOR PREDICTIVE MODELING</b>
-</p>
 <figure>
     <figcaption style="font-weight: bold; text-align: center;">PHILOSOPHICAL STANCES FOR PREDICTIVE MODELING</figcaption>
     <br/>
