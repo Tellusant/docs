@@ -48,6 +48,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+<figcaption>Hypotheses Validation Approaches</figcaption>
 </figure>
 
 ## Falsification
