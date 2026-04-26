@@ -12,6 +12,7 @@ There is a tension that runs through modern epistemology: between a science of r
 
 >In our chairman's doctoral dissertation, he said: *For simplicity, the word ”confirmed” is used, although ”not rejected” is more accurate.* Such tension exists forever.
 
+<figure>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
 
@@ -47,6 +48,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+</figure>
 
 ## Falsification
 Associated with Karl Popper, this approach holds that hypotheses can never be confirmed as true—they can only be exposed to tests they may fail. A theory earns standing not by accumulating supporting evidence, but by surviving serious attempts to refute it.  
