@@ -13,6 +13,7 @@ There is a tension that runs through modern epistemology: between a science of r
 >In our chairman's doctoral dissertation, he said: *For simplicity, the word ”confirmed” is used, although ”not rejected” is more accurate.* Such tension exists forever.
 
 <figure>
+    <figcaption style="font-weight: bold; text-align: center;">HYPOTHESIS VALIDATION APPROACHES</figcaption>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
 
@@ -48,9 +49,6 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
-<p style="center">
-<figcaption style="font-weight: bold; text-align: center;">Hypotheses Validation Approaches</figcaption>
-</p>
 </figure>
 
 ## Falsification
