@@ -71,6 +71,9 @@ They are complementary rather than competing, and most systems combine them. The
 <p align="center">
 <b>PHILOSOPHICAL STANCES FOR PREDICTIVE MODELING</b>
 </p>
+<figure>
+    <figcaption style="font-weight: bold; text-align: center;">PHILOSOPHICAL STANCES FOR PREDICTIVE MODELING</figcaption>
+    <br/>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
   
@@ -115,6 +118,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+</figure>
 
 A literature review will help in finding the right philosophical stance. It should be combined with an interpretation of what top management is looking for.¹
 
