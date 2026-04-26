@@ -14,6 +14,7 @@ There is a tension that runs through modern epistemology: between a science of r
 
 <figure>
     <figcaption style="font-weight: bold; text-align: center;">HYPOTHESIS VALIDATION APPROACHES</figcaption>
+    <br/>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
 
