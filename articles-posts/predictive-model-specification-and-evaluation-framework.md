@@ -17,7 +17,6 @@ image: /assets/social-card-pub.png
 >
 >It is intended as a prescriptive framework with flexibility, with the aim of satisfying top managements' priorities and corporate users' needs.
 
-
 Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
 This paper is not about building models. It is about how models should be framed and judged.
@@ -55,7 +54,7 @@ Objectives define what success means. They are best developed through interviews
 
 The first aspect is the use case: strategic horizons (3-, 5-, 10-years out), near-term operational or tactical uses (0–18 months out), or cross-sectional analysis. These lead to fundamentally different modeling approaches.  
 
-The second aspect of model objectives is to clarify if it is developed to [improve efficiency, increase accuracy, and/or achieve consistency](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Accuracy is often overemphasized relative to efficiency and consistency. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
+The second aspect of model objectives is to clarify if it is developed to [improve efficiency, increase accuracy, and/or achieve consistency](polusim-business-impact.html). Accuracy is often overemphasized relative to efficiency and consistency. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
 
 ### 1.2 Philosophies of Predictive Modeling  
 Modeling also reflects underlying philosophical choices.  
