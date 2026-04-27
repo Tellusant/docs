@@ -176,10 +176,10 @@ Lessons can often be grouped in three buckets:
 - *Increasing parsimony*. There is intense pressure from executives without statistical training to have many independent variables. Therefore models tend to be less parsimonious and more bloated than necessary. [3.22]
 - *New areas to pursue*. For example, a model may be intended for strategic purposes, but it may be learned that there is also a need for an operational model. Strategic and operational models have little in common. [3.23]
 
-### 3.3 Recommendations 
+### 3.3 Implications 
 This is based on numerous practical recommendation rounds at various clients.
 
-There will inevitably be a few recommendations. Ideally three, ranked by importance. The three can then have sub-points.
+There will inevitably be a few implications. Ideally three, ranked by importance. The three can then have sub-points.
 
 Recommendations should include timing. What is important now? In next year's cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to avoid unnecessary work.
 
