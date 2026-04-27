@@ -14,4 +14,7 @@ What is the probability of a recession in a given country? We analyzed data for 
 #### <img  src="assets/svg/tellusant-recession-pressure-by-country.svg" alt="Recession Pressure by Country">
 
 ---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  
 

@@ -232,3 +232,8 @@ Here is the infomation in tabular form. Mainly for search indexing and AI.
 |Halden, Norway|Oslo, Norway|Zug, Switzerland|
 |Halifax, Canada|Oswiecim, Poland|Zurich, Switzerland|
 |Hallstavik, Sweden|Oxford, United Kingdom||
+
+---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  

@@ -15,3 +15,6 @@ This variability leads to differing consumer preferences and cultures around the
 #### <img  src="assets/svg/tellusant-koeppen-climate-zones-china.svg" alt="China by Köppen Climate Zones">
 
 ---
+[Find more maps](index.md)  
+
+*Source: Tellusant, Inc.*  

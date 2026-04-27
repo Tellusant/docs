@@ -12,6 +12,9 @@ There is a tension that runs through modern epistemology: between a science of r
 
 >In our chairman's doctoral dissertation, he said: *For simplicity, the word ”confirmed” is used, although ”not rejected” is more accurate.* Such tension exists forever.
 
+<figure>
+    <figcaption style="font-weight: bold; text-align: center;">HYPOTHESIS VALIDATION APPROACHES</figcaption>
+    <br/>
 <div style="max-width: 450px; margin: 0 auto;">
 <div class="mermaid">
 
@@ -47,6 +50,7 @@ classDef anchor fill:transparent,stroke:transparent;
 
 </div>
 </div>
+</figure>
 
 ## Falsification
 Associated with Karl Popper, this approach holds that hypotheses can never be confirmed as true—they can only be exposed to tests they may fail. A theory earns standing not by accumulating supporting evidence, but by surviving serious attempts to refute it.  
@@ -92,7 +96,7 @@ Finally, why hypothesis confirmation is impossible.
 ## Proving Hypotheses True
 The idea of “proving hypotheses true” runs into a structural limit: empirical claims always reach beyond the evidence that supports them. A hypothesis typically asserts something general—about all cases, or about the future—while any body of evidence is finite and local. 
 
-No matter how many confirming instances we collect, there always remains the possibility of a counterexample tomorrow, in another setting, or under slightly different conditions. This is the classic problem of induction, articulated sharply by David Hume and later given methodological force by Karl Popper: confirmation can accumulate, but it never closes the logical gap to certainty.  
+No matter how many confirming instances we collect, there always remains the possibility of a counterexample tomorrow, in another setting, or under slightly different conditions. This is the classic problem of induction, articulated by David Hume and later made stringent by Karl Popper: confirmation can accumulate, but it never closes the logical gap to certainty.  
 
 >We are always asked for this and can never deliver it. Nor can the reader of this piece.
 

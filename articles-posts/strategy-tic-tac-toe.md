@@ -22,24 +22,47 @@ The strategy grid emanates from the proof provided in the last section. It is a 
 <img  src="assets/images/tellusant-strategy-grid.svg" width="700" alt="Tellusant - Strategy Grid framework">
 </p>
 
-#### Macro
+### Macro
 The horizontal axis starts with macro. Any CEO would say it is better to be in a growing country than a declining country.  
 
 But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth.  
 
+How should we think about productivity? There are three components working on GDP:
+- Labor
+- Capital
+- Structural productivity ≡ total factor productivity (TFP) ≡  Solow residual  
+
+Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity inproves beyond this, the country is said to be improving.
+
+This is expressed in a Cobb-Douglas equation:  
+
+$$GDP = A K^{\alpha} L^{1-\alpha}$$  
+$$A = Structural \ productivity$$  
+$${\alpha} = \ Share \ of \ capital \ in \ the \ economy$$  
+
+Global average for ${\alpha}$ is ≈0.45 with large variations between countries.  
+
+With some mathematical manipulation, we see that:  
+
+$${\Delta} GDP = {\Delta}A + {\alpha}{\Delta}K + ({1-\alpha}){\Delta}L$$
+
+Thus the change in GDP is a function of changes in structural productivity, capital, and labor.
+
 In addition, country risk should be part of the perspective on country attractiveness. It often is, but sometimes with the wrong metrics. We suggest a volatility measure as the primitive.  
 
-#### Company
+### Company
 Then follows the company and its competitors. Growth is often reasonably well understood, but with low precision. In our experience all companies can improve on this metric.  
 
-Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using similar methods as in country analysis: labor, capital, and total factor productivity. These are well-known metrics, but rarely used.  
+Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using similar methods as in country analysis: labor, capital, and structural productivity. These are well-known metrics, but rarely used.  
 
 Risk at the company level should also focus on volatility (stock market beta is not part of the consideration though). Quarterly or monthly data makes it easy to measure volatility for the company, its competitors, and the market as a whole.  
 
-#### Business Unit
+### Business Unit
 The logic for business units is the same as for the company as a whole, just scaled down. The comparisons are both against competiton and against other business units. The latter allows for a way to calibrate BU performance in a scientific way.
 
 ---
+## Illustrations
+
 To illustrate, here are two examples from the grid:
 
 ### Grid cell 22: Company productivity
