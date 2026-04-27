@@ -115,8 +115,7 @@ xychart-beta horizontal
   </div>
 
 ---
-Source: Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model; Tellusant analysis
-
+Source: Tellusant analysis; Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model
 ---
 [Find more Tellusant articles and posts](index.md)
 
