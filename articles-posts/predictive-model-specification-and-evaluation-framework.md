@@ -120,7 +120,7 @@ A literature review will help in finding the right philosophical stance. It shou
 
 
 ### 1.3 Limitations  
-All models face [tradeoffs between being predictive, explanatory, and understandable](horns-dilemma-2.md). These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
+All models face [tradeoffs between being predictive, explanatory, and understandable](horns-dilemma-2.md). These goals are inherently in conflict. E.g., a pure time-dependent model such as moving-average often works well for near-term forecasts but is poor at explaining, yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
 
 ---
 
