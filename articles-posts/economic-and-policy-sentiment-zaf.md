@@ -26,7 +26,7 @@ The graphs are made with **Mermaid** v11, a visualization tool suitable for demo
     <figcaption style="text-align: center;"><span style="font-weight: bold;">SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS</span><br/>As of January 2026</figcaption>
     <br/>
 
-<div style="max-width: 650px; margin: 0 auto;">
+<div style="max-width: 800px; margin: 0 auto;">
 <div class="mermaid">
 
 flowchart TD
@@ -115,7 +115,7 @@ xychart-beta horizontal
   </div>
 
 ---
-Source: Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model; Tellusant analysis
+Source: Tellusant analysis; Various text-based documents from public institutions such as the IMF, World Bank, and local institutions; Tellusant AI model
 
 ---
 [Find more Tellusant articles and posts](index.md)

@@ -20,32 +20,21 @@ $$
 y_t = \log R_t - \log R_{t-4}
 $$
 
-Relationship:
-$$
-y_t = x_t + x_{t-1} + x_{t-2} + x_{t-3}
-$$
+Relationship: $y_t = x_t + x_{t-1} + x_{t-2} + x_{t-3}$
 
 ---
 
 ## 3. Volatility Measure
 
-Primary operating risk measure:
-$$
-\sigma_{\text{YoY}} = \text{StdDev}(y_t)
-$$
+Primary operating risk measure: $\sigma_{\text{YoY}} = \text{StdDev}(y_t)$
 
 ---
 
 ## 4. Möbius Transformation
 
-$$
-f(x) = \frac{x}{x + 2}
-$$
+$$f(x) = \frac{x}{x + 2}$$
 
-General form:
-$$
-f_k(x) = \frac{x}{x + k}, \quad k > 1
-$$
+General form: $f_k(x) = \frac{x}{x + k}, \quad k > 1$
 
 ---
 
@@ -89,10 +78,7 @@ $$
 
 ## 8. Example Insight
 
-For $\phi \approx 0$:
-$$
-\sigma_{\text{YoY}} \approx 2\sigma_\epsilon
-$$
+For $\phi \approx 0: \sigma_{\text{YoY}} \approx 2\sigma_\epsilon$
 
 ---
 
