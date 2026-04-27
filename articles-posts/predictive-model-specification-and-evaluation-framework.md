@@ -46,7 +46,7 @@ With background, a holistic schematic of predictive modeling initiatives is show
 
 ## 1. Higher-Order Cognitive Framing
 
-Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the estimation step.  
+Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the 'model construction' step (2).  
 
 A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, there is less material available.  
 
