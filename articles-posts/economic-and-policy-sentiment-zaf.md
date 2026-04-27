@@ -26,8 +26,9 @@ The graphs are made with **Mermaid** v11, a visualization tool suitable for demo
 As of January 2026
 
 <figure>
-    <figcaption style="font-weight: bold; text-align: center;"SOUTH AFRICA ECONOMIC SENTIMENT:</figcaption>
+    <figcaption style="font-weight: bold; text-align: center;"SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS"</figcaption>
     <br/>
+
 <div class="mermaid">
 
 flowchart TD
