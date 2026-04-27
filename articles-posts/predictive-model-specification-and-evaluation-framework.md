@@ -13,7 +13,7 @@ image: /assets/social-card-pub.png
 >
 >The central theme is that predictive models in corporate settings too often are developed myopically based on root knowledge, rather than from within a larger context.
 >
->The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be decided before an effort starts.
+>The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be considered before an effort starts.
 >
 >It is intended as a prescriptive framework with flexibility, with the aim of satisfying top managements' priorities and corporate users' needs.
 
