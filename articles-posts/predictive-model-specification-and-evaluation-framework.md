@@ -13,10 +13,9 @@ image: /assets/social-card-pub.png
 >
 >The central theme is that predictive models in corporate settings too often are developed myopically based on root knowledge, rather than from within a larger context.
 >
->The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be decided before an effort starts.
+>The paper steps back from the details of model construction and instead discusses what surrounds this, including philosophical stances that should be considered before an effort starts.
 >
 >It is intended as a prescriptive framework with flexibility, with the aim of satisfying top managements' priorities and corporate users' needs.
-
 
 Statistical models are rarely well contextualized and evaluating them turns into a laundry list of observations and questions. Here we suggest a structured approach inspired by the law of threes. We use Wittgenstein's numbering system.
 
@@ -46,7 +45,7 @@ With background, a holistic schematic of predictive modeling initiatives is show
 
 ## 1. Higher-Order Cognitive Framing
 
-Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the estimation step.  
+Higher-order choices determine what constitutes a “good” model before any estimation takes place. Most modeling failures originate here rather than in the 'model construction' step (2).  
 
 A brief review of relevant theory and prior empirical work is often useful, especially for cross-sectional and near-term models. For long-term prediction, there is less material available.  
 
@@ -55,7 +54,7 @@ Objectives define what success means. They are best developed through interviews
 
 The first aspect is the use case: strategic horizons (3-, 5-, 10-years out), near-term operational or tactical uses (0–18 months out), or cross-sectional analysis. These lead to fundamentally different modeling approaches.  
 
-The second aspect of model objectives is to clarify if it is developed to [save cost, reduce time or increase accuracy](https://tellusant.github.io/docs/articles-posts/cost-time-accuracy.md). Accuracy is often overemphasized relative to cost and time. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
+The second aspect of model objectives is to clarify if it is developed to [improve efficiency, increase accuracy, and/or achieve consistency](polusim-business-impact.md). Accuracy is often overemphasized relative to efficiency and consistency. However, no senior executive will approve an accuracy-only model if it adds another layer of bureaucracy.  
 
 ### 1.2 Philosophies of Predictive Modeling  
 Modeling also reflects underlying philosophical choices.  
@@ -121,7 +120,7 @@ A literature review will help in finding the right philosophical stance. It shou
 
 
 ### 1.3 Limitations  
-All models face [tradeoffs between being predictive, explanatory, and understandable](horns-dilemma-2.md). These goals typically conflict at the margin. E.g., a pure time-dependent model often works well for near-term forecasts but is poor at explaining yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
+All models face [tradeoffs between being predictive, explanatory, and understandable](horns-dilemma-2.md). These goals are inherently in conflict. E.g., a pure time-dependent model such as moving-average often works well for near-term forecasts but is poor at explaining, yet easy to understand. A long-term non-linear regression model may be predictive and explanatory but harder to understand.  
 
 ---
 
@@ -177,10 +176,10 @@ Lessons can often be grouped in three buckets:
 - *Increasing parsimony*. There is intense pressure from executives without statistical training to have many independent variables. Therefore models tend to be less parsimonious and more bloated than necessary. [3.22]
 - *New areas to pursue*. For example, a model may be intended for strategic purposes, but it may be learned that there is also a need for an operational model. Strategic and operational models have little in common. [3.23]
 
-### 3.3 Recommendations 
+### 3.3 Implications 
 This is based on numerous practical recommendation rounds at various clients.
 
-There will inevitably be a few recommendations. Ideally three, ranked by importance. The three can then have sub-points.
+There will inevitably be a few implications. Ideally three, ranked by importance. The three can then have sub-points.
 
 Recommendations should include timing. What is important now? In next year's cycle of improvements? In the unknown future? What looks important here and now often fades in importance in a few weeks or months. Therefore, patience is required to avoid unnecessary work.
 
