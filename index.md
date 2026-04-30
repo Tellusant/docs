@@ -35,10 +35,12 @@ We create an immense amount of maps on various topics. See some of them in glori
 View our press releases covering important news from our company.  
 ## [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
 We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.  
+
 ## [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.  
 ## [Recommended Readings](recommended-readings/index.md)  
 These are works we wish we had written, but did not.
-
+## [Other Materials](other/index.md)
+Bits and pieces such as event posters and photos
 ---
 Source: Tellusant, Inc.
