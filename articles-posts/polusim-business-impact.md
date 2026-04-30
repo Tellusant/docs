@@ -58,7 +58,7 @@ Decisions become less reactive and more forward-looking, grounded in a consisten
 
 ## Operating Level Logic and Language
 
-The language and scope at the oerating level differ from the board room, but have the same essence. The graph below shows the distinction.
+The language and scope at the operating level differ from the board room, but have the same essence. The graph below shows the distinction.
 
 <p align="center">
 <img  src="assets/images/performance/tellusant-operating-level.svg" width="300" alt="PoluSim operating-level performance dimensions: Efficiency-Consistency-Accuracy">
