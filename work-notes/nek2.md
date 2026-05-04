@@ -12,23 +12,23 @@ X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::orang
 
 %% ===== Baseline model =====
 M["`**Plant Model**<br/>(Statistical)`"]:::green
-S["`**Statistical Forecast (t)**`"]:::green
+S["`**Statistical<br/>Forecast (t)**`"]:::green
 
 %% ===== Judgment and correction =====
-J["`**Judgmental Overlay**`"]:::green
+J["`**Judgmental<br/>Overlay**`"]:::green
 Sum((⠀Σ⠀)):::base
 K["`**Gain K**`"]:::red
-F["`**Final Forecast (t)**`"]:::green
+F["`**Final<br/>Forecast (t)**`"]:::green
 
 %% ===== Realized demand =====
-R["`**Realized Demand (t)**`"]:::orange
+R["`**Realized<br/>Demand (t)**`"]:::orange
 
 %% ===== Error and delay =====
 E["`**Error e(t)**<br/>= Forecast(t) − Demand(t)`"]:::red
 Delay["`**z⁻¹**`"]:::red
 
 %% ===== Management =====
-MGT["`**Management Decisions**`"]:::blue
+MGT["`**Management<br/>Decisions**`"]:::blue
 
 %% ===== Forward path =====
 D1 --> M
