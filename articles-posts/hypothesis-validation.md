@@ -82,7 +82,7 @@ This is the logic often used implicitly in science: when several models fit the 
 >We often work with companies on quick analyses and say "this is closer to the truth than what you had before. It does not mean it is true, but you are better off with this than with what you had before". Example: *You used to say that income elasticity is 1.2. We suggest making it dependent on the category's stage of development. After a statistical analysis based on this, it now ranges from 0.1 to 1.4. A much more realistic view, don't you think?*
 
 ## Pragmatism
-In the tradition of William James and others, pragmatism ties the standing of a hypothesis to its practical consequences. A belief is warranted if it proves reliable in guiding action, solving problems, or integrating experience. Truth, in this view, is not a static correspondence but something that emerges through use. 
+In the tradition of William James and others, pragmatism ties the standing of a hypothesis to its practical consequences. Belief is warranted if it proves reliable in guiding action, solving problems, or integrating experience. Truth, in this view, is not a static correspondence but something that emerges through use. 
 
 Hypotheses are “validated” insofar as they work—predictively, operationally, or socially. This approach is less concerned with abstract justification and more with whether a framework delivers results in the world.  
 
