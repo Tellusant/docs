@@ -16,7 +16,7 @@ flowchart TD
     R["`**Pragmatism**<br/>*Hypotheses validated<br/>by practical success*`"]:::strong
 
     NV["`**Not Possible**`"]:::none
-    CO["`**Proving Hypotheses True**`"]:::mixed
+    CO["`**Proving<br/>Hypotheses<br/>True**`"]:::mixed
 
     V --> F
     V --> B
