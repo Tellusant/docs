@@ -1,4 +1,4 @@
-# Akaike AIC
+# Akaike Infrormation Criterion (AIC) for Comparing Models
 
 $$AIC = - 2\ln(\hat{L}) + 2k\qquad\ (general\ definition)$$
 
