@@ -10,6 +10,16 @@ $$SSE = sum\ of\ squared\ errors = \sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
 
 $$k = \text{number of estimated parameters}$$
 
+
+
+Burhham-Anderson criteria
+
+| ΔAIC | Interpretation |
+|----------|----------|
+| 0–2 | Essentially equivalent |
+| 4–7 | Some support for lower model |
+| >10 | Very strong evidence for lower AIC model |
+
 Akaike called it an "entropy maximization principle". Compare with Shannon information entropy equation:
 
 $$\[
