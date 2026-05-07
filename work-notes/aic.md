@@ -12,5 +12,6 @@ $$k = \text{number of estimated parameters}$$
 
 Akaike called it an "entropy maximization principle". Compare with Shannon information entropy equation:
 
-
-
+$$\[
+H = -\sum_{i=1}^{n} p_i \ln p_i
+\]$$
