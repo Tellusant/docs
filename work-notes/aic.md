@@ -10,3 +10,7 @@ $$SSE = sum\ of\ squared\ errors = \sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
 
 $$k = \text{number of estimated parameters}$$
 
+Akaike called it an "entropy maximization principle". Compare with Shannon information entropy equation:
+
+
+
