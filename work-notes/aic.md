@@ -1,5 +1,7 @@
 # Akaike Information Criterion (AIC) for Comparing Models
 
+## Equations
+
 $$AIC = - 2\ln(\hat{L}) + 2k\qquad\ (general\ definition)$$
 
 $$AIC = n\ln\left(\frac{SSE}{n}\right) + 2k\qquad\ (statistical\ analysis\ definition)$$
@@ -9,6 +11,8 @@ $$ n = \text{number of observations}$$
 $$SSE = sum\ of\ squared\ errors = \sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
 
 $$k = \text{number of estimated parameters}$$
+
+## Evaluation
 
 AIC evaluation works by taking the difference between AIC (model A) and AIC (model B): AIC(A) – AIC(B)
 
