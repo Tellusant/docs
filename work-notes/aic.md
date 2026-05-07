@@ -24,6 +24,10 @@ Burnham-Anderson criteria
 | 4–7 | Some support for lower model |
 | >10 | Very strong evidence for lower AIC model |
 
+##Link to Claude Shannon's Information Entropy
+
 Akaike called it an "entropy maximization principle". Compare with Shannon information entropy equation (one of many ways to express it):
 
 $$H = -\sum_{i=1}^{n} p_i \ln p_i$$
+
+Anthropic's Claude is named in honor of Shannon.
