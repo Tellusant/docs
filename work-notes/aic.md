@@ -12,7 +12,7 @@ $$k = \text{number of estimated parameters}$$
 
 AIC evaluation works by taking the difference between AIC (model A) and AIC (model B): AIC(A) – AIC(B)
 
-Burhham-Anderson criteria
+Burnham-Anderson criteria
 
 | ΔAIC | Interpretation |
 |----------|----------|
