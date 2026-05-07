@@ -10,7 +10,7 @@ $$SSE = sum\ of\ squared\ errors = \sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
 
 $$k = \text{number of estimated parameters}$$
 
-
+AIC evaluation works by taking the difference between AIC (model A) and AIC (model B): AIC(A) – AIC(B)
 
 Burhham-Anderson criteria
 
