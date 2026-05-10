@@ -1,8 +1,8 @@
 title: "TELLUSANT, INC."
 description: "Published materials by Tellusant team members"
 
-url: "https://tellusant.github.io"
-baseurl: "/docs"
+url: "https://docs.tellusant.com"
+baseurl: ""
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
