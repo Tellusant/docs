@@ -10,7 +10,7 @@ This open access repository will contain the complete published works by Tellusa
 - Give longevity beyond what social media offer  
 - Allow for fast search engine / AI crawling and indexing  
 
-*This is a sub-ste of our [main website](https://tellusant.com).*  
+*This is a sub-site of our [main website](https://tellusant.com).*  
 
 ---
 ## [Company Information](information/index.md)
