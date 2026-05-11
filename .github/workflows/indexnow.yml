@@ -14,8 +14,8 @@ jobs:
       - name: Submit changed pages to IndexNow
         shell: bash
         env:
-          HOST: scanback.github.io
-          BASE_PATH: /docs
+          HOST: docs.tellusant.com
+          BASE_PATH:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
           set -euo pipefail
