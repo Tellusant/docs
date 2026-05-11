@@ -1,3 +1,9 @@
+---
+title: "The Cost of Error"
+description: "In January 2025, Tellusant started researching the cost of forecasting errors at large companies. Here we report some findings."
+image: /assets/social-card-pub.png
+---
+
 # The Cost of Error
 
 In January 2025, Tellusant started researching the cost of forecasting errors at large companies. Here we report some findings.  
