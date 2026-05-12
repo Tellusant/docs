@@ -1,6 +1,6 @@
 ---
 title: "Recommended Readings"
-description: "Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development."
+description: "These are works we wish we had written, but did not."
 image: /assets/social-card-ext.png
 ---
 # Recommended Readings
