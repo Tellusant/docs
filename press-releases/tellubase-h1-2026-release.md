@@ -19,7 +19,7 @@ The release incorporates new global data such as the International Monetary Fund
 
 TelluBase does not, however, report back raw data from these sources. Instead, it uses the data to calculate data series not found anywhere else in the world. These include income and age bracket series, socioeconomic levels, and more.
 
-Here is a deeply analytical example of how TelluBase is used: [Subnational ICT Opportunities in South Africa](../articles-posts/south-africa-subnational-ict-opportunities.html).
+Here is a deeply analytical example of how TelluBase is used: [Subnational ICT Opportunities in South Africa](../articles-posts/south-africa-subnational-ict-opportunities.md).
 
 **STRATBOARD ADDITION**
 Stratboard is Tellusant's advanced AI-based insights-automation agent. It converts TelluBase information and forecasts into insights. It delivers structured, consistent, and comprehensive presentations on macro topics, leveraging the latest and most accurate data available from TelluBase.
