@@ -40,6 +40,6 @@ With TelluBase your perspective on the world will change forever. It is truly th
 TelluBase stems from an initiative started in 1992 by [Dr. Staffan Canback](https://canback.net) (our executive chair). Over the years, the database has been enhanced from national to subnational data; from historical perspective to forward looking; from static dataset to interactive web-based interface, and much more.
 
 ---
-TelluBase: Tellus from Earth in Latin, and Base from database.
+TelluBase: *Tellus* from the Latin word for Earth, and *Base* from database.
 
 ---
