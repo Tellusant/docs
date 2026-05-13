@@ -45,10 +45,6 @@ Its founders are uniquely qualified to achieve this, bringing strong top managem
 Today, the vision is becoming a reality. Tellusant offers a range of cloud-based products including PoluSim, TelluBase, and PACE (Pricing Aligned with Consumer Economics). It serves clients around the world and has earned an outstanding reputation in the corporate sector.  
 
 ---
-**Shane Ezepik**  
-Tellusant, Inc.  
-+1-617-394-1800  
-[info@tellusant.com](mailto:info@tellusant.com)  
 
 ---
-TelluBase is a Tellusant trade secret.
+TelluBase is a Tellusant [trade secret](../trade-secrets).
