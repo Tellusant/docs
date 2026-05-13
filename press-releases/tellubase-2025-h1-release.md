@@ -3,7 +3,7 @@ title: "TelluBase Update H1 2025"
 description: "TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update."
 image: https://tellusant.github.io/docs/assets/social-card-pub.png
 ---
-# TelluBase Launches New Features and Adds Latest Global Data in Semi-Annual Update  
+# TelluBase Launches New Features and Adds Latest Global Data in H1 2025 Semi-Annual Update  
 
 News Provided By Tellusant, Inc. July 08, 2025, 12:00 GMT
 
