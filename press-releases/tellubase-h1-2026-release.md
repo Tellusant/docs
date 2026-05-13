@@ -12,7 +12,7 @@ News Provided By Tellusant, Inc. May 14, 2026, 12:30 GMT
 *TelluBase contains consumer classes, socioeconomic, economic, and demographic data for 218 countries, 2600 cities and 2500 subdivisions, 2000–2050.*  
 
 BOSTON, MA, UNITED STATES, December 9, 2025 /EINPresswire.com/ --  
-Tellusant today released the May 2026 update of TelluBase. This is the eighth major update. The forecast for 2026 shows 0.3% lower global growth compared to previous (November 2025) edition.
+Tellusant today released the May 2026 update of [TelluBase](https://tellubase.com). This is the eighth major update. The forecast for 2026 shows 0.3% lower global growth compared to previous (November 2025) edition.
 
 **UPDATE SPECIFICS**
 The release incorporates new global data such as the International Monetary Fund's April 2026 country forecasts, the US government's Economic Research Service's long-term economic growth forecasts, new data from national statistics offices, and more.
@@ -37,7 +37,7 @@ TelluBase is best used in combination with product or category data. By combinin
 
 With TelluBase your perspective on the world will change forever. It is truly the world as no one has seen before.
 
-TelluBase stems from an initiative started in 1992 by Dr. Staffan Canback (our executive chair). Over the years, the database has been enhanced from national to subnational data; from historical perspective to forward looking; from static dataset to interactive web-based interface, and much more.
+TelluBase stems from an initiative started in 1992 by [Dr. Staffan Canback](https://canback.net) (our executive chair). Over the years, the database has been enhanced from national to subnational data; from historical perspective to forward looking; from static dataset to interactive web-based interface, and much more.
 
 ---
 TelluBase: Tellus from Earth in Latin, and Base from database.
