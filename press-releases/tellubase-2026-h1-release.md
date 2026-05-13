@@ -43,4 +43,4 @@ TelluBase stems from an initiative started in 1992 by [Dr. Staffan Canback](http
 TelluBase: *Tellus* from the Latin word for Earth, and *Base* from database.
 
 ---
-TelluBase is a Tellusant trade secret.
+[TelluBase is a Tellusant trade secret](../trade-secrets.md).
