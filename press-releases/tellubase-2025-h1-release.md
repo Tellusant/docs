@@ -54,4 +54,4 @@ Tellusant, Inc.
 [info@tellusant.com](mailto:info@tellusant.com)
 
 ---
-TelluBase is a Tellusant trade secret.
+[TelluBase is a Tellusant trade secret](../trade-secrets.md).
