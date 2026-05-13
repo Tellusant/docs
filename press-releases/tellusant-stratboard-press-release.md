@@ -50,4 +50,4 @@ Tellusant, Inc.
 info@tellusant.com  
 
 ---
-Stratboard is a Tellusant trade secret.
+[PoluSim and Stratboard are Tellusant trade secrets](../trade-secrets.md).
