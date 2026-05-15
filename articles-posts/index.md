@@ -18,7 +18,7 @@ This page collects our philosophical and theoretical work on predictive modeling
 
 ## Recent  
 
-### [PoluSim Use-Cases](assets/images/tellusant-polusim-use-cases.svg)
+### [PoluSim Use-Cases](polusim-use-cases.md)
 PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
 ### [America's Largest Enterprises in 2025](americas-largest-enterprises-in-2025.md)
