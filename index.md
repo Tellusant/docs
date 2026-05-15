@@ -10,7 +10,7 @@ This open access repository will contain the complete published works by Tellusa
 - Give longevity beyond what social media offer  
 - Allow for fast search engine / AI crawling and indexing  
 
-*This is not our [main website](https://tellusant.com).*  
+*This is a sub-site of our [main website](https://tellusant.com).*  
 
 ---
 ## [Company Information](information/index.md)
@@ -38,9 +38,6 @@ We summarize the legitimacy of Tellusant as validated by ChatGPT through a call 
 ## [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.  
 ## [Recommended Readings](recommended-readings/index.md)  
-These are works we wish we had written, but did not.
+These are works we wish we had written, but did not.  
 ## [Other Materials](other/index.md)  
-Bits and pieces such as event posters and photos
-
----
-Source: Tellusant, Inc.
+Bits and pieces such as event posters and photos  

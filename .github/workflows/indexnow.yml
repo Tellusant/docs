@@ -1,21 +1,27 @@
-name: IndexNow
+name: IndexNowDocs
+
 on:
   push:
     branches: ["main"]
+    paths:
+      - "**.md"
+      - "**.html"
+      - ".github/workflows/indexnow.yml"
+  workflow_dispatch:
 
 jobs:
   indexnow:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
 
       - name: Submit changed pages to IndexNow
         shell: bash
         env:
-          HOST: scanback.github.io
-          BASE_PATH: /docs
+          HOST: docs.tellusant.com
+          BASE_PATH: ""
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
           set -euo pipefail
@@ -23,7 +29,6 @@ jobs:
           BEFORE="${{ github.event.before }}"
           AFTER="${{ github.sha }}"
 
-          # If BEFORE is missing (rare), fall back to previous commit
           if [ -z "${BEFORE}" ] || [ "${BEFORE}" = "0000000000000000000000000000000000000000" ]; then
             BEFORE="$(git rev-parse HEAD^ || true)"
           fi
@@ -37,18 +42,15 @@ jobs:
           while IFS=$'\t' read -r status path; do
             [ -z "${path:-}" ] && continue
 
-            # Only pages
             case "$path" in
               *.md|*.html) ;;
               *) continue ;;
             esac
 
-            # Ignore non-page sources / plumbing
             case "$path" in
               _includes/*|_layouts/*|_sass/*|assets/*|.github/*|README.md) continue ;;
             esac
 
-            # Map file -> URL for your /page.html pattern
             if [[ "$path" == "index.md" || "$path" == "index.html" ]]; then
               url="https://${HOST}${BASE_PATH}/"
             elif [[ "$path" =~ /index\.(md|html)$ ]]; then
@@ -69,21 +71,18 @@ jobs:
             exit 0
           fi
 
-          # De-dupe
           mapfile -t uniq_urls < <(printf "%s\n" "${urls[@]}" | sort -u)
 
           echo "Submitting URLs:"
           printf "%s\n" "${uniq_urls[@]}"
 
-          # Build JSON payload
-          python3 - << 'PY' > payload.json
+          printf "%s\n" "${uniq_urls[@]}" | python3 -c '
           import json, os, sys
           host = os.environ["HOST"]
-          key  = os.environ["INDEXNOW_KEY"]
+          key = os.environ["INDEXNOW_KEY"]
           urls = [line.strip() for line in sys.stdin if line.strip()]
           print(json.dumps({"host": host, "key": key, "urlList": urls[:10000]}))
-          PY
-          <<< "$(printf "%s\n" "${uniq_urls[@]}")"
+          ' > payload.json
 
           code=$(curl -sS -o /dev/null -w "%{http_code}" \
             -X POST "https://api.indexnow.org/indexnow" \

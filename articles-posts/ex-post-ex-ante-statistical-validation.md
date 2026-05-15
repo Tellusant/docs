@@ -50,5 +50,3 @@ Hynman, R.J., & G. Athanasopoulos (2021). Forecasting: Principles and Practice (
 [See our collection of thought pieces on predictive model theory](predictive-model-collection.md)  
 
 [Find more articles and posts](index.md)  
-
-*ChatGPT was used for brainstorming and drafting support.*

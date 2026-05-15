@@ -6,7 +6,7 @@ image: https://tellusant.github.io/docs/assets/social-card-pub.png
 # Tellusant, Inc. Releases Semi-Annual Data Update of Its TelluBase Product
 News Provided By Tellusant, Inc. November 25, 2024, 13:45 GMT  
 
-[Originally published om EIN Presswire](https://www.einpresswire.com/article/759701717/tellusant-inc-releases-semi-annual-data-update-of-its-tellubase-product)
+[Originally published om EIN Presswire](https://www.einpresswire.com/article/912017685/tellubase-h1-2026-semi-annual-edition-now-released-by-tellusant)
 
 ---
 *TelluBase contains consumer classes, socioeconomic, economic, and demographic data for 218 countries, 2,600 cities and 2,500 subdivisions, 2000–2050.*  
@@ -45,10 +45,4 @@ Its founders are uniquely qualified to achieve this, bringing strong top managem
 Today, the vision is becoming a reality. Tellusant offers a range of cloud-based products including PoluSim, TelluBase, and PACE (Pricing Aligned with Consumer Economics). It serves clients around the world and has earned an outstanding reputation in the corporate sector.  
 
 ---
-**Shane Ezepik**  
-Tellusant, Inc.  
-+1-617-394-1800  
-[info@tellusant.com](mailto:info@tellusant.com)  
-
----
-TelluBase is a Tellusant trade secret.
+[TelluBase is a Tellusant trade secret](../trade-secrets.md).

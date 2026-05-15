@@ -1,3 +1,9 @@
+---
+title: "The Cost of Error"
+description: "In January 2025, Tellusant started researching the cost of forecasting errors at large companies. Here we report some findings."
+image: /assets/social-card-pub.png
+---
+
 # The Cost of Error
 
 In January 2025, Tellusant started researching the cost of forecasting errors at large companies. Here we report some findings.  
@@ -5,7 +11,7 @@ In January 2025, Tellusant started researching the cost of forecasting errors at
 ## Introduction
 Enterprises and countries mainly create value by improving structural capital¹. This is what is beyond contributions from labor and capital. Structural capital has grown immensely in importance over the past 50 years and is reflected in intangibles.
 
-Key elements of structural capital are often said to be:
+Key elements of structural capital are often considered to be:
 
 - Management processes
 - Institutional rules

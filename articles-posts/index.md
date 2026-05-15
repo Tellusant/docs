@@ -33,7 +33,7 @@ Strategy Tic-Tac-Toe is a method explicitly rooted i economic theory that shows 
 ### [PoluSim Business Impact: The Board Room and Operating Level Views](polusim-business-impact.md)
 Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we design it for total business impact instead of narrow gauges like accuracy alone.
 
-### [South Africa Economic Sentiment Analysis Using AI](economic-and-policy-sentiment-zaf.md)
+### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.  
 
 ### [The Triple-A Method for Market Sizing](triple-a.md)

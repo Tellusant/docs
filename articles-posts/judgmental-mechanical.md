@@ -138,5 +138,3 @@ m_t &= g(\hat d_t)
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 
 [Find more articles and posts](index.md)
-
-*ChatGPT was used for brainstorming.*

@@ -1,6 +1,6 @@
 ---
 title: "2025 in Review"
-description: "As we approach the holidays, here's a review of the past year. We made excellent progress across the board."
+description: "As we approach the holidays, here is a review of the past year. We made excellent progress across the board."
 image: /assets/social-card-pub.png
 ---
 <p align="center">

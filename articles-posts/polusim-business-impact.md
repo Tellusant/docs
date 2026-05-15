@@ -84,5 +84,3 @@ It is part of a management revolution not seen since the advent of the mult-divi
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
 
 [Find more articles and posts](index.md)  
-
-*ChatGPT was used for brainstorming.*  
