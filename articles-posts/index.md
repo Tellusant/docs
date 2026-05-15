@@ -19,7 +19,7 @@ This page collects our philosophical and theoretical work on predictive modeling
 ## Recent  
 
 ### [PoluSim Use-Cases](assets/images/tellusant-polusim-use-cases.svg)
-tbd
+PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
 ### [America's Largest Enterprises in 2025](americas-largest-enterprises-in-2025.md)
 Tellusant’s third official America’s Largest Enterprises Ranking in the Twenties (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist’s preferred way to measure size.  
