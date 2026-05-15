@@ -1,8 +1,10 @@
 ---
 title: "PoluSim Use-Cases"
-description: "Tellusant has always been at the forefront of the AI revolution. It was the intent behind founding the company and abandoning management consulting."
+description: "PoluSim has multiple uses within large companies. Here we share summaries of six use-cases."
 image: /assets/social-card-info.png
 ---
 
 # PoluSim Use-Cases
+PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
+tbd
