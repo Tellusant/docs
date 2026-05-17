@@ -38,12 +38,12 @@ USA then,USA now2,140
 config:
   sankey:
       nodeColors:
-      "Node 1": "transparent"
-      "Node 2": "transparent"
+      Node1: "transparent"
+      Node2: "transparent"
       nodePadding: 0
 ---
 sankey
-Node 1, Node 2, 10
+Node1, Node2, 10
 
 </div>
 
