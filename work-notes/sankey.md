@@ -40,8 +40,6 @@ config:
       nodeColors:
       Node1: "transparent"
       Node2: "transparent"
-  nodePadding: 0
-  
 ---
 sankey
 Node1, Node2, 10
