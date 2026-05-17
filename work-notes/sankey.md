@@ -1,7 +1,14 @@
 # Sankey
 
 <pre class="mermaid">
-
+  
+---
+config:
+  sankey:
+    nodeColors:
+      "USA": "transparent"
+      "Node 2": "transparent"
+---
 sankey
 
 USA then,USA mid,60
