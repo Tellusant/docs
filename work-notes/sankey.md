@@ -37,7 +37,10 @@ USA then,USA now2,140
 ---
 config:
   sankey:
-    nodePadding: 0
+      nodeColors:
+      "Node 1": "transparent"
+      "Node 2": "transparent"
+      nodePadding: 0
 ---
 sankey
 Node 1, Node 2, 10
