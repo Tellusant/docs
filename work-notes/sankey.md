@@ -43,7 +43,9 @@ config:
 ---
 sankey
 Node1, Node2, 10
-
+Node1, Node3, 20
+Node1, Node2, 5
+  
 </pre>
 
 ---
