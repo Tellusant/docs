@@ -6,8 +6,8 @@
 config:
   sankey:
     nodeColors:
-      "USA": "transparent"
-      "Node 2": "transparent"
+      "USA then": "transparent"
+      "CHN now": "transparent"
 ---
 sankey
 
