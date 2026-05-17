@@ -32,6 +32,19 @@ USA then,USA now2,140
 </div>
 
 ---
+<div class="mermaid">
+  
+---
+config:
+  sankey:
+    nodePadding: 0
+---
+sankey
+Node 1, Node 2, 10
+
+</div>
+
+---
 
 <div class="mermaid">
 
