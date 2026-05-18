@@ -28,6 +28,6 @@ Third, we map possible worlds, not just one world. That is, running scenarios ar
 ---
 Case studies are found on our main website.
 
-[Finding the Next Pathway to Growth](https://tellusant.com/case-pathways/)
-[Getting Started with PoluSim](https://tellusant.com/case-pathways/)
-[Leveraging TelluBase Data for Strategic Insights](https://tellusant.com/case-tellubase/)
+[Finding the Next Pathway to Growth](https://tellusant.com/case-pathways/)  
+[Getting Started with PoluSim](https://tellusant.com/case-pathways/)  
+[Leveraging TelluBase Data for Strategic Insights](https://tellusant.com/case-tellubase/)  
