@@ -7,7 +7,7 @@ image: /assets/social-card-info.png
 # PoluSim Use-Cases
 PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
-The graph is self-explanatory. Below it we describe some additional consideations for the top case.
+The graph is self-explanatory. Below it we describe some additional considerations for the top case.
 
 <p align="center">
 <img  src="assets/images/tellusant-polusim-use-cases.svg" width="700" alt="PoluSim Use-Cases">
