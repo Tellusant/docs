@@ -7,7 +7,7 @@ image: /assets/social-card-info.png
 # PoluSim Use-Cases
 PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
-The heart of of PoluSim is the strategic forecasting capability, the top use-case. The PoluSim platform allows companies to accurately, consistently and efficiently see how its markets are likelily to grow. 
+The heart of of PoluSim is the **strategic forecasting capability**, the top use-case. The PoluSim platform allows companies to accurately, consistently and efficiently see how its markets are likelily to grow. 
 
 It combines mechanical (statistical) forecasts with use judgment overlays. It allows for simulations with both platform- and use-generated scenarios.  
 
@@ -22,3 +22,15 @@ Third, we map possible worlds, not just one world. That is, running scenarios ar
 <p align="center">
 <img  src="assets/images/tellusant-polusim-use-cases.svg" width="700" alt="PoluSim Use-Cases">
 </p>
+
+**Annual plan budgets**. 
+
+**Marketing spend prioritization**. 
+
+**Premiumization opportunities**. 
+
+**Portfolio gaps identification**.
+
+**Fixed assets location choices**.
+
+
