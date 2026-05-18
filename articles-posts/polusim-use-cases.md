@@ -21,7 +21,7 @@ It combines mechanical (statistical) forecasts with use judgment overlays. It al
 
 First, it models the world, not the data. This is a fundamental choice for any model. We have found that executives, not surprisingly, want to have insights on the world and not the data.  
 
-Second, it takes the stance that expert judgment is important and a predictive platform should not be only mechanical. We recently saw this when we tested the IMF's World Economic Outlook forecasts against mechanical models. WEO outperformed the mechanical models infinitely (ΔAIC ≥ −282 ⇒ ∞). In sum, we let humans arbitrate.  
+Second, it takes the stance that expert judgment is important and a predictive platform should not be only mechanical. We recently saw this when we tested the IMF's World Economic Outlook forecasts against mechanical models. WEO outperformed the mechanical models infinitely (ΔAIC ≥ −282 ⇒ ∞). This equally true at category or product levels. Experts matter. We therefore let humans arbitrate.  
 
 Third, we map possible worlds, not just one world. That is, running scenarios are encouraged. It has been shown that point estimates of category or company outlooks are myopic. It is always important to consider the alternatives to the base case.   
 
