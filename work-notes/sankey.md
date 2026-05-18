@@ -1,7 +1,14 @@
 # Sankey
 
 <pre class="mermaid">
-
+  
+---
+config:
+  sankey:
+    nodeColors:
+      "USA then": "transparent"
+      "CHN now": "transparent"
+---
 sankey
 
 USA then,USA mid,60
@@ -14,7 +21,7 @@ USA mid, USA now1,40
 
 ---
 
-<div class="mermaid">
+<pre class="mermaid">
 
 sankey
 
@@ -22,11 +29,28 @@ USA then,USA now1,100
 CHN then,CHN now,120
 USA then,USA now2,140
 
-</div>
+</pre>
+
+---
+<pre class="mermaid">
+  
+---
+config:
+  sankey:
+      nodeColors:
+        Node1: "transparent"
+        Node2: "transparent"
+---
+sankey
+Node1, Node2, 10
+Node1, Node3, 20
+Node1, Node2, 5
+  
+</pre>
 
 ---
 
-<div class="mermaid">
+<pre class="mermaid">
 
 ---
 config:
@@ -104,4 +128,4 @@ UK land based bioenergy,Bio-conversion,182.01
 Wave,Electricity grid,19.013
 Wind,Electricity grid,289.366
 
-</div>
+</pre>
