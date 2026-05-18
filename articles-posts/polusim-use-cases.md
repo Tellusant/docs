@@ -13,7 +13,7 @@ The graph is self-explanatory. Below it we describe some additional consideratio
 <img  src="assets/images/tellusant-polusim-use-cases.svg" width="700" alt="PoluSim Use-Cases">
 </p>
 
-The heart of of PoluSim is the **strategic forecasting capability**, the prime use-case. The PoluSim platform allows companies to accurately, consistently and efficiently see how its markets are likely to grow. 
+The heart of PoluSim is the **strategic forecasting capability**, the prime use-case. The PoluSim platform allows companies to accurately, consistently and efficiently see how its markets are likely to grow. 
 
 It combines mechanical (statistical) forecasts with use judgment overlays. It allows for simulations with both platform- and use-generated scenarios.  
 
