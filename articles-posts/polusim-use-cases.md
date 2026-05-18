@@ -25,3 +25,9 @@ Second, it takes the stance that expert judgment is important and a predictive p
 
 Third, we map possible worlds, not just one world. That is, running scenarios are encouraged. It has been shown that point estimates of category or company outlooks are myopic. It is always important to consider the alternatives to the base case.   
 
+---
+Case studies are found on our main website.
+
+[Finding the Next Pathway to Growth](https://tellusant.com/case-pathways/)
+[Getting Started with PoluSim](https://tellusant.com/case-pathways/)
+[Leveraging TelluBase Data for Strategic Insights](https://tellusant.com/case-tellubase/)
