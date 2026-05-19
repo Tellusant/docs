@@ -30,8 +30,8 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
 
-### [The Strategy Grid Method: Decomposing Corporate Performance Based on Groath, Productivity, and Risk](strategy-grid.md)
-The strategy grid is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
+### [The Strategy Grid: Decomposing Corporate Performance Based on Groath, Productivity, and Risk](strategy-grid.md)
+Tellusant's **strategy grid* is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
 
 <br/>
 
