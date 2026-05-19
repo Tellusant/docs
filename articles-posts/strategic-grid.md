@@ -3,7 +3,7 @@ title: "The Strategic Grid: Decomposing Corporate Performance Based on Groath, P
 description: "Tellusant's strategic grid is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels."
 image: /assets/social-card-pub.png
 ---
-# The Strategegic Grid: Decomposing Corporate Performance Based on Groath, Productivity, and Risk
+# The Strategic Grid: Decomposing Corporate Performance Based on Groath, Productivity, and Risk
 _by Staffan Canback, Tellusant_  
 
 Tellusant's **strategic grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels.
