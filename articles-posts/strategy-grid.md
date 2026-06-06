@@ -1,12 +1,12 @@
 ---
-title: "The Strategy Tic-Tac-Toe Method: Decomposing Corporate Performance Based on a Strategy Grid"
-description: "Strategy Tic-Tac-Toe is a method explicitly rooted in economic theory that shows how value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels"
+title: "The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk"
+description: "Tellusant's strategy grid is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels."
 image: /assets/social-card-pub.png
 ---
-# The Strategy Tic-Tac-Toe Method: Decomposing Corporate Performance Based on a Strategy Grid
+# The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk
 _by Staffan Canback, Tellusant_  
 
-**Strategy Tic-Tac-Toe** is a method explicitly rooted in economic theory that shows how value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels, resulting in a 3x3 strategy grid.
+Tellusant's **strategy grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels.
 
 These are _**primitives**_. That is, foundational building blocks that cannot be subdivided, from which other states (such as profitability) are derived.
 

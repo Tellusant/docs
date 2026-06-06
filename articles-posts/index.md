@@ -30,8 +30,12 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
 
-### [The Strategy Tic-Tac-Toe Method: Decomposing Corporate Performance Based on a Strategy Grid](strategy-tic-tac-toe.md)
-Strategy Tic-Tac-Toe is a method explicitly rooted i economic theory that shows how value is a function of three strategic levers: Growth, productivity, and risk. All applied at country, company, and business unit levels.  
+### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
+Tellusant's **strategy grid* is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
+
+<br/>
+
+## Past
 
 ### [PoluSim Business Impact: The Board Room and Operating Level Views](polusim-business-impact.md)
 Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we design it for total business impact instead of narrow gauges like accuracy alone.
@@ -42,13 +46,8 @@ This article shows how we perform semantic analysis of qualitative reports using
 ### [The Triple-A Method for Market Sizing](triple-a.md)
 The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.  
 
-### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article
+### [The Palmer Penguins and their Role in Business](palmer-penguins.md)  
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.   
-
-<br/>
-
-## Past
-
 ### [2025 in Review](2025-in-review.md)
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.  
 
