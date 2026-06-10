@@ -1,26 +1,42 @@
 # Beige Book Nowcast Archive
 
 ---
+## April 2026
+Economic activity increased slightly in the April Beige Book, with conditions improving across a broader set of districts even as overall momentum softened from the prior report. 
+
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-summary-2026-04.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>
+
+Eight districts reported expansion, two were little changed, and two noted declines, indicating a more widely distributed but still modest pace of growth. 
+
+> A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
+
+Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
+
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+</p>
+
+The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
+
+<p align="center">
+<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-04.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+</p>
+
+Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book but has a small effect except on inflation.  
+
+---
 ## March 2026
-> After more than a decade of publishing this periodical, we decided to test our logic with ChatGPT. Its evaluation:   
-> *"Your methodology is actually quite good. Your method has several strengths:*
-> - *Signal is extremely stable*  
-> - *The Fed has used the same wording patterns for ~30 years*  
-> - *High interpretability*  
-> - *Unlike sentiment models, you can always point to the exact phrase*  
-> - *Low model drift*
->   
-> *Because vocabulary is controlled, your historical series remains consistent. This is rare in text-based economic indicators."*
->
-> It then suggested adding the indexes you see in the table at the bottom.
+The March 2026 report shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.  
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-The March 2026 report shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.  
 
-Three districts doing relatively well:  
+
+Five districts are doing relatively well:  
 - Dallas  
 - Atlanta  
 - Cleveland  
@@ -47,11 +63,10 @@ Erratic government policies continue to damp growth. The Iran war is not reflect
 
 ---
 ## January 2026
+The January 2026 report shows improved economic economic conditions, but still only slight growth.
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
-
-The January 2026 report shows improved economic economic conditions, but still only slight growth.
 
 Three districts show reasonable (modest) growth:
 - Richmond
