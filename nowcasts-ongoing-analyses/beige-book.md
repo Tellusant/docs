@@ -36,7 +36,7 @@ Ten districts reported expansion, one was little changed, and one noted decline,
 Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
 The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
