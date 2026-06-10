@@ -18,8 +18,6 @@ Underlying conditions point to continued support from demand and labor markets, 
 <img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-> A new feature is a dispersion indexes.
-
 The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
 
 <p align="center">
@@ -52,6 +50,8 @@ Poor performers are:
 - San Francisco  
 
 The rest are flat or show slight growth.  
+
+> A new feature is dispersion indexes.
 
 The key resulting national indexes are reported below:  
 
