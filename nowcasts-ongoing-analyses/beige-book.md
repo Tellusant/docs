@@ -42,7 +42,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-04.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-06.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
 Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book but has a small effect except on inflation.  
