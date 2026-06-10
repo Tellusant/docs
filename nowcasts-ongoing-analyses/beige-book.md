@@ -39,7 +39,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 <img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
+The GDP-weighted growth index is 1.16, up from 0.68 in April, but still representing only a slight growth rate. Both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across ditricts. 
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-indexes-2026-06.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
