@@ -23,8 +23,6 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as *cron* in GitHub Action.
 
 ---
-*Updating on June 10*
-
 Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts. National performance was higher than in the April Beige Book. 
 
 <p align="center">
