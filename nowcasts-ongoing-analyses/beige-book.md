@@ -25,15 +25,13 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 ---
 *Updating on June 10*
 
-Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts even as overall momentum softened from the prior report. 
+Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts. National performance was higher than in the April Beige Book. 
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-summary-2026-06.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
-Eight districts reported expansion, two were little changed, and two noted declines, indicating a more widely distributed but still modest pace of growth. 
-
-> A new feature is a breakdown of contributing factors to the scores. These are also created through semantic analysis of the beige book.
+Ten districts reported expansion, one was little changed, and one noted decline, indicating a more widely distributed but still low pace of growth. 
 
 Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
