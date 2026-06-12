@@ -8,5 +8,5 @@ Although emerging markets present large opportunities for companies, uncertainty
 ### [Classic Business Radio: *Michael Avery Interviews Staffan Canback*](https://soundcloud.com/canback/dr-staffan-canback-interviewed-by-michael-avery-on-classic-business-june-2017)
 The Johannesburg radio station interviews our chairman on opportunities in sub-Saharan Africa.
 
-### [Classic Business Radio: *Michael Avery Interviews Staffan Canback*](https://soundcloud.com/canback/171103_canback_classicbusiness))
+### [Classic Business Radio: *Michael Avery Interviews Staffan Canback*](https://soundcloud.com/canback/171103_canback_classicbusiness)
 With decisive leadership taking positive steps, South Africa can achieve its true potential.
