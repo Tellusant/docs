@@ -61,7 +61,9 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)
 
 ## 5. Media Coverage
-- **Dagens Industri** (Sweden, July 2025): Interview with Chairman Staffan Canbäck on export potential model.  
+- **Affärsvärlden** (Sweden, June 2026) — Extensive interview with Chairman Staffan Canback featuring TelluBase data and analysis in Sweden's leading business and investment publication.  
+[Affärsvärlden Interview (in Swedish)](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
+- **Dagens Industri** (Sweden, July 2025): Interview with Chairman Staffan Canbäck on model of export potential.  
 [Dagens Industry Interview (in Swedish)](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)  
 - **Harvard Club of Boston** (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
