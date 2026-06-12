@@ -1,6 +1,6 @@
 
 # Media Appearances
-TV, radio, podcasts and more
+Interviews with our leaders on TV, radio, podcasts and more.
 
 [Classic Business Radio (2017): *Michael Avery Interviews Staffan Canback*](https://soundcloud.com/canback/dr-staffan-canback-interviewed-by-michael-avery-on-classic-business-june-2017)
 The Johannesburg radio station interviews our chairman on opportunities in Sub-sahran Africa.
