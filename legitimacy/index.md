@@ -118,8 +118,8 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy
 Source: Tellusant, Inc.
 
 [See a pre-Tellusant client list](clients-pre-tellusant.md)  
-[See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)
-[View a PDF version of TLEP](Tellusant-Legitimacy-Evidence-Pack.pdf)  
+[See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)  
+[View a PDF version of the legitimacy pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
 [Return to Repository home](../index.md)
 
 
