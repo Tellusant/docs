@@ -119,7 +119,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2017): *Lions (still) on the move: Growth in Africa’s consumer sector*](assets/pdf/mckinsey-lions-still-on-the-move.pdf)
 #### [McKinsey (2016): *Lions on the move II: Realizing the potential of Africa's consumers*](assets/pdf/mckinsey-lions-on-the-move-2.pdf)
 #### [McKinsey (2010): *Lions on the move—The progress and potential of African economies*](assets/pdf/mckinsey-lions-on-the-move.pdf)
-Manufacturing Productivity
+#### [McKinsey (1993): *Manufacturing Productivity*](https://www.mckinsey.com/~/media/mckinsey/business%20functions/economic%20studies%20temp/our%20insights/manufacturing%20productivity/mgi_manufacturing_productivity_report.pdf)
 #### [McKinsey (2013): *Myanmar’s moment—Unique opportunities, major challenges*](assets/pdf/mckinsey-myanmar's-moment.pdf)
 #### [McKinsey (2014): *Nigeria’s renewal—Delivering inclusive growth in Africa’s largest economy*](http://www.mckinsey.com/global-themes/middle-east-and-africa/nigerias-renewal-delivering-inclusive-growth)
 #### [McKinsey (2014): *Offline and falling behind: Barriers to Internet adoption*](assets/pdf/mckinsey-offline-and-falling-behind.pdf)
