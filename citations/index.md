@@ -27,7 +27,7 @@ Alphabetically listed by authority.
 #### [Ambev (2022): *Investor Day*](https://api.mziq.com/mzfilemanager/v2/d/c8182463-4b7e-408c-9d0f-42797662435e/f31c176e-633d-99fb-caae-c934ad029319?origin=1)
 #### [Amfiteatru Economic (2014): *Income Distribution Determinants and Inequality – International Comparison*](http://www.amfiteatrueconomic.ro/temp/Article_1328.pdf)
 #### [Applied Business and Economics, Journal of (2024): *Scaling Up Performance: The Impact of Economies of Scale in the Sportswear Industry*](https://articlegateway.com/index.php/JABE/article/view/7148/6743)
-[Armbrüster, T. (2009): *The Economics and Sociology of Management Consulting*](https://www.cambridge.org/core/books/economics-and-sociology-of-management-consulting/11C934443968AEF5A48F6FC1A93DAF2B)
+#### [Armbrüster, T. (2009): *The Economics and Sociology of Management Consulting*](https://www.cambridge.org/core/books/economics-and-sociology-of-management-consulting/11C934443968AEF5A48F6FC1A93DAF2B)
 #### [Asian Development Bank (2010): *The Rise of Asia's Middle Class*](assets/pdf/adb-key-indicators-special-chapter.pdf)
 #### [Asian Development Review (2010): *Asian Regional Income, Growth, and Distribution till 2030*](https://lib.ncdd.gov.kh/storage/app/public/library_backend/CAT_19923_1/2010-Asian%20Regional%20Income,%20Growth,%20and%20Distribution%202030.pdf)
 #### [Atkins (2012): *Future proofing cities*](assets/pdf/atkins-future-proofing-cities.pdf)
@@ -119,6 +119,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [McKinsey (2017): *Lions (still) on the move: Growth in Africa’s consumer sector*](assets/pdf/mckinsey-lions-still-on-the-move.pdf)
 #### [McKinsey (2016): *Lions on the move II: Realizing the potential of Africa's consumers*](assets/pdf/mckinsey-lions-on-the-move-2.pdf)
 #### [McKinsey (2010): *Lions on the move—The progress and potential of African economies*](assets/pdf/mckinsey-lions-on-the-move.pdf)
+Manufacturing Productivity
 #### [McKinsey (2013): *Myanmar’s moment—Unique opportunities, major challenges*](assets/pdf/mckinsey-myanmar's-moment.pdf)
 #### [McKinsey (2014): *Nigeria’s renewal—Delivering inclusive growth in Africa’s largest economy*](http://www.mckinsey.com/global-themes/middle-east-and-africa/nigerias-renewal-delivering-inclusive-growth)
 #### [McKinsey (2014): *Offline and falling behind: Barriers to Internet adoption*](assets/pdf/mckinsey-offline-and-falling-behind.pdf)
