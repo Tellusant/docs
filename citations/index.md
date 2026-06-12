@@ -159,6 +159,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Nordisk Försäkringstidning (1993): *Fördelning av LF Hallands driftskostnader på brevobjekt*](https://nft.nu/sites/default/files/1994106.pdf)
 #### [Nova, Universidade (2023): *Designing a collaborative AutoML tool to help organizations become data-driven*](https://run.unl.pt/bitstream/10362/148721/1/TGI1403.pdf)
 #### [NSCB Biodiversity Conference, Proceedings of 6th (2018): *Survey of wood carving activities in selected local government areas*](https://nscbconf2018.files.wordpress.com/2018/05/48_71-nscb-2018b.pdf)
+#### [Organization Studies (2003): *Bridging Uncertainty in Management Consulting: The Mechanisms of Trust and Networked Reputation*](https://www.researchgate.net/publication/240279679_Bridging_Uncertainty_in_Management_Consulting_The_Mechanisms_of_Trust_and_Networked_Reputation)
 #### [Osaka University (2019): *Study of emission control for passenger car in Indonesia*](https://ir.library.osaka-u.ac.jp/repo/ouka/all/72412/30409_Dissertation.pdf)
 #### [Oxford Handbook of Management Consulting (2012): *Chapter 4: Institutional Change and the Growth of Strategy Consulting in the United States*](https://www.mcgill.ca/desautels/files/desautels/david-strat-consulting-oxford-university-press_0.pdf)
 #### [Partnership for New York City (2013): *NYC jobs blueprint*](assets/pdf/partnership-for-new-york-city-nyc-jobs-blueprint.pdf)
