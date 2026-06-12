@@ -77,6 +77,7 @@ Alphabetically listed by authority.
 #### [Heineken (2025): 3rd Quarter Results—Bram Westenbrink, CCO](assets/pdf/heineken-cme-2025-growth-bram-westenbrink.pdf)  
 #### [Heineken Beverages (2019): *Investment community trade visit*](assets/pdf/heineken-beverages-distell-investment-community-trade-visit.pdf)  
 #### [Heineken Beverages (2016): *Results presentation 2016*](assets/pdf/heineken-beverages-distell-results-presentation-2016.pdf)
+#### [IEEE (2009): *Research on the Rational Scale of Construction Enterprise Based on DEA*](https://ieeexplore.ieee.org/abstract/document/4680299/references#references)
 #### [IGI Global (publisher) (2020): *Multiple scenarios-based impact analysis of predicted land-use change on ecosystem services value*](https://www.igi-global.com/chapter/multiple-scenarios-based-impact-analysis-of-predicted-land-use-change-on-ecosystem-services-value/257935)
 #### [IJARSCT (2025): *Demographic Transition and Household Consumption Dynamics in India: Recent Trends and Policy Implications*](https://ijarsct.co.in/Paper30399.pdf)
 #### [Imperial (2014): *Interim results presentation*](assets/pdf/imperial-interim-results-2014.pdf)  
