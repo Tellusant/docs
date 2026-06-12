@@ -104,6 +104,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 ## Foundational Heritage (Pre-2020)  
 TBD
+
 ---
 
 We reversed the process by asking ChatGPT whether this page reflects ChatGPT's verification.  
