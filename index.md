@@ -22,7 +22,9 @@ This page gives descriptions and links to our extensive library of *Tellusant Qu
 ## [Scientific Papers et Plus](papers/index.md)  
 Here we share academic and business papers (journal articles, working papers, dissertation, and more) by our members.  
 ## [Presentations](presentations/index.md)  
-Public speeches, lectures and other presentations in slide format by Tellusant members.  
+Public speeches, lectures and other presentations in slide format by Tellusant members. 
+## [Media](media/index.md)  
+
 ## [Nowcasts & Ongoing Analyses](nowcasts-ongoing-analyses/index.md)  
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily. They include our nowcasted **recession predictor**, the global **economic sentiment engine**, and the **beige book nowcast**.   
 ## [Fact Sheets](fact-sheets/index.md)  
