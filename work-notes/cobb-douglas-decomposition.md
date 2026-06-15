@@ -15,7 +15,7 @@ where:
 - $$\(A\) = total factor productivity (TFP)$$  
 - $$\(K\) = capital\ input$$  
 - $$\(L\) = labor\ input$$
-- $$(L) = labor\ input$$ 
+- $(L) = labor\ input$  
  - $$\(\alpha\) = capital share$$  
 - $$\(1-\alpha\) = labor share$$  
 
