@@ -30,10 +30,10 @@ $$
 
 where:
 
-- \(g_Y\) = output growth
-- \(g_A\) = TFP growth
-- \(g_K\) = capital growth
-- \(g_L\) = labor growth
+- $\(g_Y\) = output growth$
+- $\(g_A\) = TFP growth$
+- $\(g_K\) = capital growth$
+- $\(g_L\) = labor growth$
 
 Rearranging:
 
@@ -143,9 +143,9 @@ Three productivity measures can now be reported:
 
 | Measure | Formula |
 |----------|----------|
-| TFP Growth | \(g_A\) |
-| Labor Productivity Growth | \(g_A+\alpha(g_K-g_L)\) |
-| Capital Productivity Growth | \(g_A+(1-\alpha)(g_L-g_K)\) |
+| TFP Growth | $\(g_A\)$ |
+| Labor Productivity Growth | $\(g_A+\alpha(g_K-g_L)\)$ |
+| Capital Productivity Growth | $\(g_A+(1-\alpha)(g_L-g_K)\)$ |
 
 The decomposition separates:
 
