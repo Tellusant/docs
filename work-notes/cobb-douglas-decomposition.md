@@ -11,13 +11,12 @@ $$
 
 where:
 
-- $(Y) = output\ (GDP,\ value\ added,\ gross\ profit,\ or\ revenue)$
 - $(Y) = \text{output (GDP, value added, gross profit, or revenue)}$
 - $(A) = \text{total factor productivity (TFP) = Solow residual}$  
-- $(K) = capital\ input$ 
-- $(L) = labor\ input$  
-- $(\alpha) = capital\ share$  
-- $(1-\alpha) = labor\ share$  
+- $(K) = \text{capital input}$ 
+- $(L) = \text{labor input}$  
+- $(\alpha) = \text{capital share}$  
+- $(1-\alpha) = \text{labor share}$  
 
 ---
 
@@ -31,10 +30,10 @@ $$
 
 where:
 
-- $(g_Y)\ = output\ growth$
-- $(g_A)\ = TFP\ growth$
-- $(g_K)\ = capital\ growth$
-- $(g_L)\ = labor\ growth$
+- $(g_Y)\ = \text{output growth}$
+- $(g_A)\ = \text{TFP\ growth}$
+- $(g_K)\ = \text{capital\ growth}$
+- $(g_L)\ = \text{labor\ growth}$
 
 Rearranging:
 
