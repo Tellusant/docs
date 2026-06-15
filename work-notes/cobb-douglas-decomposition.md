@@ -30,10 +30,10 @@ $$
 
 where:
 
-- $\(g_Y\) = output growth$
-- $\(g_A\) = TFP growth$
-- $\(g_K\) = capital growth$
-- $\(g_L\) = labor growth$
+- $(g_Y)\ = output\ growth$
+- $(g_A)\ = TFP\ growth$
+- $(g_K)\ = capital\ growth$
+- $(g_L)\ = labor\ growth$
 
 Rearranging:
 
