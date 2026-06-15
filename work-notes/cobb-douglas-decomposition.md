@@ -178,7 +178,7 @@ As a result, the decomposition is often more informative at the firm level than 
 
 ---
 
-# Suggested Reporting Framework
+# Reporting Framework
 
 | Metric | Growth |
 |----------|----------:|
