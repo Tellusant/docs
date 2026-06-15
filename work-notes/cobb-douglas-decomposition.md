@@ -41,7 +41,7 @@ $$
 g_A = g_Y - \alpha g_K - (1-\alpha)g_L
 $$
 
-This is the standard TFP calculation already implemented in the model.
+This is the standard TFP calculation from economic theory already implemented in the model.
 
 ---
 
