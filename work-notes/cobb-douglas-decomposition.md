@@ -11,8 +11,9 @@ $$
 
 where:
 
-- $(Y) = output\ (GDP,\ value\ added,\ gross\ profit,\ or\ revenue)$  
-- $(A) = total\ factor\ productivity\ (TFP)$  
+- $(Y) = output\ (GDP,\ value\ added,\ gross\ profit,\ or\ revenue)$
+- $(Y) = \text{output (GDP, value added, gross profit, or revenue)}$
+- $(A) = \text{total factor productivity (TFP) = Solow residual}$  
 - $(K) = capital\ input$ 
 - $(L) = labor\ input$  
 - $(\alpha) = capital\ share$  
