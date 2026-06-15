@@ -183,8 +183,8 @@ As a result, the decomposition is often more informative at the firm level than 
 | Metric | Growth |
 |----------|----------:|
 | Output Growth | x.x% |
-| Labor Productivity Growth | x.x% |
 | TFP Growth | x.x% |
+| Labor Productivity Growth | x.x% |
 | Capital Deepening Contribution | x.x% |
 | Capital Productivity Growth | x.x% |
 | Labor Deepening Contribution | x.x% |
