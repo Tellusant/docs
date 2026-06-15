@@ -11,13 +11,12 @@ $$
 
 where:
 
-- $$\(Y\) = output (GDP, value added, gross profit, or revenue)$$  
-- $$\(A\) = total factor productivity (TFP)$$  
-- $$\(K\) = capital\ input$$  
-- $$\(L\) = labor\ input$$
+- $(Y) = output\ (GDP,\ value\ added,\ gross\ profit,\ or\ revenue)$  
+- $(A) = total\ factor\ productivity\ (TFP)$  
+- $(K) = capital\ input$ 
 - $(L) = labor\ input$  
- - $$\(\alpha\) = capital share$$  
-- $$\(1-\alpha\) = labor share$$  
+- $(\alpha) = capital\ share$  
+- $(1-\alpha) = labor\ share$  
 
 ---
 
