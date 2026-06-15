@@ -1,4 +1,4 @@
-# Productivity Decomposition Using Cobb-Douglas
+# Country and Firm Productivity Decomposition Using Cobb-Douglas
 *By Dr Staffan Canback, Tellusant*
 
 One of the strengths of my productivity framework is that it works for both countries and companies. Because I use the same underlying definitions, I can directly compare national productivity and firm productivity.
