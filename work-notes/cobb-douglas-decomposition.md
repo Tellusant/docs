@@ -11,7 +11,7 @@ I have worked on developing the [Tellusant strategy grid](../articles-posts/stra
 
 One of the strengths of my productivity framework is that it works for both countries and companies. Because I use the same underlying definitions, I can directly compare national productivity and firm productivity.
 
-The math is simple. This is a mechanical, deterministic model, not statistical. It is fully explained in Solow growth economics. The growth model is widely used at the national level, less so at the firm level. Hardly any CEOs know their company's productivity levels or how to measure it.  
+The math is simple. This is a mechanical, deterministic model, not statistical. It is fully explained in Solow growth economics. The growth model is widely used at the national level, less so at the firm level. Hardly any CEOs know their company's productivity levels or how to measure them.  
 
 The basic production function is:  
 
