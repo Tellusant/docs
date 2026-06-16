@@ -32,14 +32,6 @@ where:
 - $(\alpha) = \text{capital share}$  
 - $(1-\alpha) = \text{labor share}$
 
-$A \text{\\\&} B$  
-$C \text{\\&} D$  
-$\text{E\&F}$  
-$\mathrm{G\&H}$  yes  
-$\textrm{I\&J}$  
-$\operatorname{K\&L}$  yes  
-$M\mathbin{\&}N$  
-
 ---
 
 ## Growth Accounting
