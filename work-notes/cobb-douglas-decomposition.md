@@ -13,7 +13,7 @@ One of the strengths of my productivity framework is that it works for both coun
 
 The math is simple. This is a mechanical, deterministic model, not statistical. It is fully explained in Solow growth economics. The growth model is widely used at the national level, less so at the firm level. Hardly any CEOs know their company's productivity levels or how to measure them.  
 
-Only four data series need to be collected and are readily available at country and firm level. I used UN National Accounts and TelluBase for countries, and MacroTrends (complemented by Gemini) for companies.
+Only five data series need to be collected and are readily available at country and firm level. I used UN National Accounts and TelluBase for countries, and MacroTrends (complemented by Gemini) for companies.
 
 ---
 ## Starting Point
@@ -27,7 +27,7 @@ where:
 
 - $(Y) = \text{output (GDP, value added, gross profit, or revenue)}$
 - $(A) = \text{total factor productivity (TFP) = Solow residual}$  
-- $(K) = \text{capital input}$ 
+- $(K) = \text{capital input, with capitalized R&D included}$ 
 - $(L) = \text{labor input}$  
 - $(\alpha) = \text{capital share}$  
 - $(1-\alpha) = \text{labor share}$  
