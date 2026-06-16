@@ -57,7 +57,8 @@ $$
 
 Substituting the Cobb-Douglas production function:
 
-$$\frac{Y}{L}
+$$
+\frac{Y}{L}
 =
 A\left(\frac{K}{L}\right)^{\alpha}
 $$
