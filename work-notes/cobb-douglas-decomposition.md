@@ -34,7 +34,7 @@ where:
 
 $A \text{\\\&} B$  
 $A \text{\\&} B$  
-$\\\&$
+$\text{R\&D}$
 
 ---
 
