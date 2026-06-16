@@ -27,7 +27,7 @@ where:
 
 - $(Y) = \text{output (GDP, value added, gross profit, or revenue)}$
 - $(A) = \text{total factor productivity (TFP) = Solow residual}$  
-- $(K) = \text{capital input, with capitalized} \mathrm{G\&H} \text{included}$ 
+- $(K) = \text{capital input, with capitalized } \mathrm{R\&D} \text{ included}$ 
 - $(L) = \text{labor input}$  
 - $(\alpha) = \text{capital share}$  
 - $(1-\alpha) = \text{labor share}$
@@ -35,9 +35,9 @@ where:
 $A \text{\\\&} B$  
 $C \text{\\&} D$  
 $\text{E\&F}$  
-$\mathrm{G\&H}$  yes
+$\mathrm{G\&H}$  yes  
 $\textrm{I\&J}$  
-$\operatorname{K\&L}$  yes
+$\operatorname{K\&L}$  yes  
 $M\mathbin{\&}N$  
 
 ---
