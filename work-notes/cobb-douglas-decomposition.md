@@ -3,7 +3,7 @@
 
 One of the strengths of my productivity framework is that it works for both countries and companies. Because I use the same underlying definitions, I can directly compare national productivity and firm productivity.
 
-The math is simple. This is a mechanical, determinstics model, not statistical. It is fully explained in Solow-Swan growth economics. The growth model is widely used at the national level, less so at the firm level. Few, if any, CEOs know what their company's prdoductivity is.  
+The math is simple. This is a mechanical, determinstics model, not statistical. It is fully explained in Solow-Swan growth economics. The growth model is widely used at the national level, less so at the firm level. Few, if any, CEOs know what their companies' prdoductivity is.  
 
 The basic production function is:  
 
