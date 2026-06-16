@@ -1,10 +1,10 @@
 ---
-title: " Country and Firm Productivity Decomposition Using Cobb-Douglas"
+title: " Country and Firm Productivity Decomposition Using Cobb-Douglas and Solow"
 description: "There are three primitives in the Tellusant strategy grid: growth, productivity, and risk. Here I show how productivity is defined and easily calculated."
 image: /assets/social-card-pub.png
 ---
 
-# Country and Firm Productivity Decomposition Using Cobb-Douglas
+# Country and Firm Productivity Decomposition Using Cobb-Douglas and Solow
 *By Dr Staffan Canback, Tellusant*
 
 I have worked on developing the [Tellusant strategy grid](../articles-posts/strategy-grid.md). There are three primitives in the Tellusant strategy grid: growth, productivity, and risk. Here I show how productivity is defined and easily calculated.
@@ -33,7 +33,8 @@ where:
 - $(1-\alpha) = \text{labor share}$
 
 $A \text{\\\&} B$  
-$A \text{\\&} B$
+$A \text{\\&} B$  
+$\\\&$
 
 ---
 
