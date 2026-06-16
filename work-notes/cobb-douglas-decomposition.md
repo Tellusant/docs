@@ -13,6 +13,8 @@ One of the strengths of my productivity framework is that it works for both coun
 
 The math is simple. This is a mechanical, deterministic model, not statistical. It is fully explained in Solow growth economics. The growth model is widely used at the national level, less so at the firm level. Hardly any CEOs know their company's productivity levels or how to measure them.  
 
+---
+## Starting Point
 The basic production function is:  
 
 $$
@@ -30,7 +32,7 @@ where:
 
 ---
 
-# Growth Accounting
+## Growth Accounting
 
 Taking growth rates:
 
@@ -55,7 +57,7 @@ This is the standard TFP calculation from economic theory already implemented in
 
 ---
 
-# Labor Productivity
+## Labor Productivity
 
 Labor productivity is:
 
@@ -101,7 +103,7 @@ $$
 
 ---
 
-# Capital Productivity
+## Capital Productivity
 
 Capital productivity is:
 
@@ -147,7 +149,7 @@ $$
 
 ---
 
-# Interpretation
+## Interpretation
 
 Three productivity measures can now be reported:
 
@@ -165,7 +167,7 @@ The decomposition separates:
 
 ---
 
-# Why This Matters
+## Why This Matters
 
 For countries:
 
@@ -188,7 +190,7 @@ As a result, the decomposition is often more informative at the firm level than 
 
 ---
 
-# Reporting Framework
+## Reporting Framework
 
 | Metric | Growth |
 |----------|----------:|
