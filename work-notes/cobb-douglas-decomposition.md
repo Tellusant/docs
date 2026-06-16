@@ -32,6 +32,9 @@ where:
 - $(\alpha) = \text{capital share}$  
 - $(1-\alpha) = \text{labor share}$
 
+$A \text{\\\&} B$  
+$A \text{\\&} B$
+
 ---
 
 ## Growth Accounting
