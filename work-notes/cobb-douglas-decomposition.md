@@ -35,6 +35,10 @@ where:
 $A \text{\\\&} B$  
 $C \text{\\&} D$  
 $\text{R\&D}$
+$\mathrm{R\&D}$
+$\textrm{R\&D}$
+$\operatorname{R\&D}$
+$R\mathbin{\&}D$
 
 ---
 
