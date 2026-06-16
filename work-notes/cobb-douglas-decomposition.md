@@ -27,7 +27,7 @@ where:
 
 - $(Y) = \text{output (GDP, value added, gross profit, or revenue)}$
 - $(A) = \text{total factor productivity (TFP) = Solow residual}$  
-- $(K) = \text{capital input, with capitalized R&D included}$ 
+- $(K) = \text{capital input, with capitalized R and } \text{D included}$ 
 - $(L) = \text{labor input}$  
 - $(\alpha) = \text{capital share}$  
 - $(1-\alpha) = \text{labor share}$  
