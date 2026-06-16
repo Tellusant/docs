@@ -1,7 +1,7 @@
 # Country and Firm Productivity Decomposition Using Cobb-Douglas
 *By Dr Staffan Canback, Tellusant*
 
-I have worked on developing the [Tellusant strategy grid](../articles-posts/strategy-grid). There are three primitives: growth, productivity, and risk in the framework. Here I show how productivity is denfined and easily calculated.
+I have worked on developing the [Tellusant strategy grid](../articles-posts/strategy-grid.md). There are three primitives: growth, productivity, and risk in the framework. Here I show how productivity is denfined and easily calculated.
 
 One of the strengths of my productivity framework is that it works for both countries and companies. Because I use the same underlying definitions, I can directly compare national productivity and firm productivity.
 
