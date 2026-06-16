@@ -33,7 +33,7 @@ where:
 - $(1-\alpha) = \text{labor share}$
 
 $A \text{\\\&} B$  
-$A \text{\\&} B$  
+$C \text{\\&} D$  
 $\text{R\&D}$
 
 ---
