@@ -13,6 +13,8 @@ One of the strengths of my productivity framework is that it works for both coun
 
 The math is simple. This is a mechanical, deterministic model, not statistical. It is fully explained in Solow growth economics. The growth model is widely used at the national level, less so at the firm level. Hardly any CEOs know their company's productivity levels or how to measure them.  
 
+Only four data series need to be collected and are readily available at country and firm level. I used UN National Accounts and TelluBase for countries, and MacroTrends, complemented by Gemini, for companies.
+
 ---
 ## Starting Point
 The basic production function is:  
