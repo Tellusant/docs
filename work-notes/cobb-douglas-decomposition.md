@@ -3,13 +3,15 @@
 
 One of the strengths of my productivity framework is that it works for both countries and companies. Because I use the same underlying definitions, I can directly compare national productivity and firm productivity.
 
-The basic production function is:
+The math is simple. This is a mechanical, determinstics model, not statistical. It is fully explained in Solow-Swan growth economics. The growth model is widely used at the national level, less so at the firm level. Few, if any, CEOs know what their company's prdoductivity is.  
+
+The basic production function is:  
 
 $$
 Y = A K^{\alpha} L^{1-\alpha}
 $$
 
-where:
+where:  
 
 - $(Y) = \text{output (GDP, value added, gross profit, or revenue)}$
 - $(A) = \text{total factor productivity (TFP) = Solow residual}$  
@@ -55,8 +57,7 @@ $$
 
 Substituting the Cobb-Douglas production function:
 
-$$
-\frac{Y}{L}
+$$\frac{Y}{L}
 =
 A\left(\frac{K}{L}\right)^{\alpha}
 $$
