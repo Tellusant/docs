@@ -23,8 +23,6 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as *cron* in GitHub Action.
 
 ---
-*Updating on June 10*
-
 Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts. National performance was higher than in the April Beige Book. 
 
 <p align="center">
@@ -39,13 +37,13 @@ Underlying conditions point to continued support from demand and labor markets, 
 <img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
+The GDP-weighted growth index is 1.16, up from 0.68 in April, but still representing only at a slight growth rate. Both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across ditricts. 
 
 <p align="center">
 <img  src="assets/images/tellusant-fed-beige-book-indexes-2026-06.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
-Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book but has a small effect except on inflation.  
+Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book. It has a small effect except on inflation.  
 <br/>
 
 ---
