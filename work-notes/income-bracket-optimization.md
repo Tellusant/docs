@@ -41,9 +41,9 @@ Differencing may be useful when:
 
 For a country observed in year t:
 
-$$\
+$$
 y_i - y_{US,t}
-\$$
+$$
 
 This measures deviation from a reference economy.
 
@@ -75,9 +75,9 @@ TVs per capita
 
 Typically modeled as:
 
-$$\
+$$
 \ln(TVpc)
-\$$
+$$
 
 ## Candidate Explanatory Variables
 
@@ -99,7 +99,7 @@ Relationship:
 
 $$
 LM+ \ge M+ \ge UM+
-\$$
+$$
 
 ---
 
@@ -111,13 +111,13 @@ This is expected because the variables are highly collinear.
 
 Example:
 
-$$\
+$$
 LM+ = M+ + \text{Lower-Middle Only}
-\$$
+$$
 
-$$\
+$$
 M+ = UM+ + \text{Middle Only}
-\$$
+$$
 
 Therefore all three variables carry nearly the same information.
 
@@ -133,21 +133,21 @@ Convert cumulative classes into exclusive segments:
 
 Lower-middle only:
 
-$$\
+$$
 LM_{only}=LM+ - M+
-\$$
+$$
 
 Middle only:
 
-$$\
+$$
 M_{only}=M+ - UM+
-\$$
+$$
 
 Upper-middle and above:
 
-$$\
+$$
 UM_{plus}=UM+
-\$$
+$$
 
 Advantages:
 
@@ -166,9 +166,9 @@ The data contained both:
 
 Because the dependent variable was already per capita:
 
-$$\
+$$
 TVpc
-\$$
+$$
 
 shares were generally preferred.
 
@@ -199,6 +199,8 @@ $$\
 $$\
 \text{logit}(s)=\ln\left(\frac{s}{1-s}\right)
 \$$
+
+Where $\left(\frac{s}{1-s}\right)$ is the odds function.
 
 Advantages:
 
