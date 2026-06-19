@@ -66,7 +66,7 @@ It does not become ordinary cross-sectional differencing.
 
 ---
 
-***This is the relevant part. It runs till the end.***
+***This is the relevant part. It runs till the end: Sections 3-18.***
 
 # 3. TV Demand Problem
 
