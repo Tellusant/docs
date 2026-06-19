@@ -190,15 +190,15 @@ Use the raw share directly.
 
 Possible but problematic near zero.
 
-$$\
-\ln(s)
-\$$
+$$
+ln(s)
+$$
 
 ## Logit Share (Recommended)
 
-$$\
+$$
 \text{logit}(s)=\ln\left(\frac{s}{1-s}\right)
-\$$
+$$
 
 Where $\left(\frac{s}{1-s}\right)$ is the odds function.
 
@@ -247,19 +247,19 @@ Recommended:
 
 Ordinary R-squared:
 
-$$\
+$$
 R^2 = 1 - \frac{SSE}{SST}
-\$$
+$$
 
 Cross-validated R-squared:
 
-$$\
+$$
 R^2_{CV}
 =
 1-
 \frac{\sum (y_i-\hat y_i^{CV})^2}
 {\sum(y_i-\bar y)^2}
-\$$
+$$
 
 where predictions are generated from models that did not use the observation being predicted.
 
@@ -296,9 +296,9 @@ Several nonlinear approaches were considered.
 
 ## Splines
 
-$$\
+$$
 \ln(TVpc)=f(x)+\varepsilon
-\$$
+$$
 
 Advantages:
 
@@ -312,12 +312,12 @@ Recommended as the first nonlinear model.
 
 ## Logistic Models
 
-$$\
+$$
 TVpc
 =
 \frac{A}
 {1+\exp(-k(\ln GDPpc-c))}
-\$$
+$$
 
 Interpretation:
 
@@ -339,7 +339,7 @@ Useful when adoption accelerates after a certain income level.
 
 The strongest predictor was found to be:
 
-$$\
+$$
 \ln(TVpc)
 =
 \alpha
@@ -347,7 +347,7 @@ $$\
 \beta \cdot \text{logit}(UM+)
 +
 \varepsilon
-\$$
+$$
 
 where UM+ denotes the share of population in the upper-middle-income-and-above segment.
 
