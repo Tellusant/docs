@@ -4,12 +4,13 @@
 
 The discussion began with a methodological question:
 
-> Can differencing be used in cross-sectional statistical analysis?
+> Can differencing be used in cross-sectional statistical analysis?  
 
-This evolved into a practical investigation of a cross-country demand model for TVs per capita using income-distribution variables.
+This evolved into a practical investigation of a cross-country demand model for TVs per capita using income-distribution variables.  
+
+***Sections 1 and 2 are irrelevant to the issue at hand.***  
 
 ---
-
 # 1. Differencing in Cross-Sectional Analysis
 
 ## Standard Differencing
