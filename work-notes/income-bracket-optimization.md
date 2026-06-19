@@ -1,4 +1,4 @@
-# Summary of Cross-Sectional Demand Modeling Discussion
+# Summary of Income Bracket Demand Modeling Discussion
 
 ## Objective
 
