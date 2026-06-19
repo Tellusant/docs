@@ -66,6 +66,8 @@ It does not become ordinary cross-sectional differencing.
 
 ---
 
+***This is the relevant part. It runs till the end.***
+
 # 3. TV Demand Problem
 
 The empirical problem involved:
