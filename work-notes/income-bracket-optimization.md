@@ -134,13 +134,13 @@ Convert cumulative classes into exclusive segments:
 Lower-middle only:
 
 $$
-LM_{only}=(LM+) - \(M+)
+LM_{only}=(LM+) - (M+)
 $$
 
 Middle only:
 
 $$
-M_{only}=(M+) - \(UM+)
+M_{only}=(M+) - (UM+)
 $$
 
 Upper-middle and above:
