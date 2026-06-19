@@ -16,7 +16,7 @@ This evolved into a practical investigation of a cross-country demand model for 
 
 Differencing is normally a time-series technique:
 
-$$\
+$$
 \Delta y_t = y_t - y_{t-1}
 \$$
 
