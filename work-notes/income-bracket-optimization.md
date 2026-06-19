@@ -16,9 +16,9 @@ This evolved into a practical investigation of a cross-country demand model for 
 
 Differencing is normally a time-series technique:
 
-$$\[
+$$\
 \Delta y_t = y_t - y_{t-1}
-\]$$
+\$$
 
 Its purpose is to:
 
@@ -41,9 +41,9 @@ Differencing may be useful when:
 
 For a country observed in year t:
 
-$$\[
+$$\
 y_i - y_{US,t}
-\]$$
+\$$
 
 This measures deviation from a reference economy.
 
@@ -75,9 +75,9 @@ TVs per capita
 
 Typically modeled as:
 
-$$\[
+$$\
 \ln(TVpc)
-\]$$
+\$$
 
 ## Candidate Explanatory Variables
 
@@ -97,9 +97,9 @@ Notation introduced:
 
 Relationship:
 
-$$[
+$$
 LM+ \ge M+ \ge UM+
-\]$$
+\$$
 
 ---
 
@@ -111,13 +111,13 @@ This is expected because the variables are highly collinear.
 
 Example:
 
-$$\[
+$$\
 LM+ = M+ + \text{Lower-Middle Only}
-\]$$
+\$$
 
-$$\[
+$$\
 M+ = UM+ + \text{Middle Only}
-\]$$
+\$$
 
 Therefore all three variables carry nearly the same information.
 
