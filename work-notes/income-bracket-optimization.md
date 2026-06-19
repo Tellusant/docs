@@ -190,15 +190,15 @@ Use the raw share directly.
 
 Possible but problematic near zero.
 
-\[
+$$\[
 \ln(s)
-\]
+\]$$
 
 ## Logit Share (Recommended)
 
-\[
+$$\[
 \text{logit}(s)=\ln\left(\frac{s}{1-s}\right)
-\]
+\]$$
 
 Advantages:
 
@@ -245,19 +245,19 @@ Recommended:
 
 Ordinary R-squared:
 
-\[
+$$\[
 R^2 = 1 - \frac{SSE}{SST}
-\]
+\]$$
 
 Cross-validated R-squared:
 
-\[
+$$\[
 R^2_{CV}
 =
 1-
 \frac{\sum (y_i-\hat y_i^{CV})^2}
 {\sum(y_i-\bar y)^2}
-\]
+\]$$
 
 where predictions are generated from models that did not use the observation being predicted.
 
@@ -294,9 +294,9 @@ Several nonlinear approaches were considered.
 
 ## Splines
 
-\[
+$$\[
 \ln(TVpc)=f(x)+\varepsilon
-\]
+\]$$
 
 Advantages:
 
@@ -310,12 +310,12 @@ Recommended as the first nonlinear model.
 
 ## Logistic Models
 
-\[
+$$\[
 TVpc
 =
 \frac{A}
 {1+\exp(-k(\ln GDPpc-c))}
-\]
+\]$$
 
 Interpretation:
 
@@ -337,7 +337,7 @@ Useful when adoption accelerates after a certain income level.
 
 The strongest predictor was found to be:
 
-\[
+$$\[
 \ln(TVpc)
 =
 \alpha
@@ -345,7 +345,7 @@ The strongest predictor was found to be:
 \beta \cdot \text{logit}(UM+)
 +
 \varepsilon
-\]
+\]$$
 
 where UM+ denotes the share of population in the upper-middle-income-and-above segment.
 
@@ -416,29 +416,29 @@ Recommended comparison:
 
 ## Model 1
 
-\[
+$$\[
 \ln(TVpc)
 =
 f(\ln GDPpc)
-\]
+\]$$
 
 ## Model 2
 
-\[
+$$\[
 \ln(TVpc)
 =
 \beta \cdot \text{logit}(UM+)
-\]
+$$
 
 ## Model 3
 
-\[
+$$\[
 \ln(TVpc)
 =
 f(\ln GDPpc)
 +
 \beta \cdot \text{logit}(UM+)
-\]
+\]$$
 
 Compare using:
 
@@ -455,17 +455,17 @@ To separate income effects from distribution effects:
 
 First estimate:
 
-\[
+$$\[
 \text{logit}(UM+)
 =
 g(\ln GDPpc)
 +
 u
-\]
+\]$$
 
 Then estimate:
 
-\[
+$$\[
 \ln(TVpc)
 =
 f(\ln GDPpc)
@@ -473,7 +473,7 @@ f(\ln GDPpc)
 \gamma u
 +
 \varepsilon
-\]
+\]$$
 
 Interpretation:
 
@@ -494,7 +494,7 @@ This is strong evidence for a true affordability-threshold effect.
 5. Logit transformations are often superior to raw shares for bounded variables.
 6. The best-performing specification identified was:
 
-\[
+$$\[
 \ln(TVpc)
 =
 \alpha
@@ -502,7 +502,7 @@ This is strong evidence for a true affordability-threshold effect.
 \beta \cdot \text{logit}(UM+)
 +
 \varepsilon
-\]
+\]$$
 
 7. This result supports an affordability-threshold interpretation of consumer durable demand.
 8. Income distribution may explain adoption better than average income alone.
