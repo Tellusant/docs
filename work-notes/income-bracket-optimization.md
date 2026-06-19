@@ -18,7 +18,7 @@ Differencing is normally a time-series technique:
 
 $$
 \Delta y_t = y_t - y_{t-1}
-\$$
+$$
 
 Its purpose is to:
 
