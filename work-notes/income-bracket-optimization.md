@@ -97,7 +97,7 @@ Notation introduced:
 
 Relationship:
 
-$$\[
+$$[
 LM+ \ge M+ \ge UM+
 \]$$
 
