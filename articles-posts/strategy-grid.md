@@ -10,7 +10,7 @@ Tellusant's **strategy grid** is rooted in economic theory that shows how value 
 
 These are _**primitives**_. That is, foundational building blocks that cannot be subdivided, from which other states (such as profitability) are derived.
 
-In Strategy Tic-Tac-Toe, companies search for the best combination of the nine primitives in the strategy grid. This is a never-ending excercise since circumstances change forever.
+In a strategic tic-tac-toe, companies search for the best combination of the nine primitives in the strategy grid. This is a never-ending excercise since circumstances change forever.
 
 Most companies are not aware of the importance of the primitives and only measure some of them. We know from our practical work that all nine can be quantified and automatically updated, and we already have seven up and running in our solutions.
 
