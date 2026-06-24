@@ -3,4 +3,4 @@ Beeswarm graphs (stripplots) are excellent for showing a data series when there 
 
 This is an example with the world's coountries and the largest U.S. companies on a comparbale metric: value-added.
 
-[Beeswarm](..articles-posts/assets/images/country-firm/s.canback-tellusant-country-firm-comparison.svg)
+[Beeswarm](../articles-posts/assets/images/country-firm/s.canback-tellusant-country-firm-comparison.svg)
