@@ -64,7 +64,7 @@ predict imputed_aic if participating == 0, equation(ln_pli_aic)
 * 4. Exponentiate back to standard PLI scale
 gen pli_gdp_final = exp(imputed_gdp)
 ```
-This is the basis for our impuation of missing countries, but can also be used to estimate all countries. Note that te log transformation is not good enough. We have better, proprietary, way to do this.
+This is the basis for our imputation of missing countries, but can also be used to place all countries along a best fit line. Note that the log transformation is not good enough. We have a better, proprietary, way to do this.
 
 ---
 
