@@ -1,5 +1,5 @@
 # Example of Stata Beeswarm Graph (stripplot)
-Beeswarm graphs (made with stripplot) are excellent for showing a data series when there are 50-300 observations. Beyond 300, use violinplots.  
+Beeswarm graphs (here made with Stata stripplot) are excellent for showing a data series when there are 50-300 observations. Beyond 300, use violinplots.  
 
 This is an example with the world's coountries and the largest U.S. companies on the same metric: value-added.  
 
