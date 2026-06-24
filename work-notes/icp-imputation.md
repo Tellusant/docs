@@ -19,7 +19,7 @@ For any country $i$, variables are normalized and modeled relative to the base c
 
 $$\ln(\text{PLI}_{i}) - \ln(\text{PLI}_{\text{USA}}) = \beta (X_{i} - X_{\text{USA}}) + \epsilon_{i}$$
 
-*Because $\text{PLI}_{\text{USA}} = 100$, the left-hand side reduces to the log of the country's price level.*
+Because $\text{PLI}_{\text{USA}} = 100$, the left-hand side reduces to the log of the country's price level.
 
 ---
 
