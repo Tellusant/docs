@@ -72,7 +72,7 @@ To illustrate, here are three examples from the grid:
 Growth is a well-known metric at all companies. The violinplot below shows the inflation-adjusted grwoth for large U.S. companies.The median is 1.1% over the past decade which likely is less than the casual observer expect. However, since the sum of all companies' value-added is their contribution to GDP, the growth rate has to be in that neighborhood.
 
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="500" alt="Tellusant - Strategy grid cell 12">
+<img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="400" alt="Tellusant - Strategy grid cell 12">
 </p>
 
 Note the high growth of some companies, led by Uber. These tropes are not the norm though.
