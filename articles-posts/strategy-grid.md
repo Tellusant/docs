@@ -1,12 +1,14 @@
 ---
-title: "The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk"
+title: "The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk"
 description: "Tellusant's strategy grid is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels."
 image: /assets/social-card-strategy-grid.png
 ---
-# The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk
-_by Staffan Canback, Tellusant_  
+# The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk
+_by Dr. Staffan Canback, Tellusant_  
 
-Tellusant's **strategy grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels.
+>Strategic thinking is often muddled because there are too many concepts thrown around with an unclear understanding of what truly matter. Take Porter's Five Forces: an excellent framework, but what in the framework affects corporate performance and by how much? One can create ever-increasing detail without getting smarter.
+
+Tellusant's **strategy grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. They directly link to the value of the company.
 
 These are _**primitives**_. That is, foundational building blocks that cannot be subdivided, from which other states (such as profitability) are derived.
 
@@ -63,19 +65,25 @@ The logic for business units is the same as for the company as a whole, just sca
 ---
 ## Illustrations
 
-To illustrate, here are two examples from the grid:
+To illustrate, here are three examples from the grid:
 
-### Grid cell 22: Company productivity
-Most companies are not aware of their productivity in robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not improving its practices.
+### Grid cell 12: Company Growth
 
-This bears repeating. Is the company just scaling, or is it improving. In the example, Microsoft shows improving practices over time, PepsiCo is slipping.
+<p align="center">
+<img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="500" alt="Tellusant - Strategy grid cell 12">
+</p>
+
+### Grid cell 22: Company Productivity
+Most companies are not aware of their productivity in a robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not advancing its practices. If it negative, the company is regressing.
+
+This bears repeating. Is the company just scaling, or is it advancing? In the example (with real data), Coca-Cola shows sharply advancing practices over time, PepsiCo is regressing.
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-cell-22.svg" width="500" alt="Tellusant - Strategy grid cell 22">
 </p>
 
 ### Grid cell 31: Country risk
-Too much time is often spent looking at political risk. A better starting point is to understand the real economy risk and financial risk of a country. Below is an example for a few countries.
+Too much time is often spent looking at political risk. A better starting point is to understand the real economy risk and financial risk of a country. Below is an example for larger countries (with real data).
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-cell-31.svg" width="600" alt="Tellusant - Strategy grid cell 31">
@@ -111,6 +119,4 @@ The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Deco
 As for the horizontal axis, the **primitives** are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
 
 ---
-*AI was used for brainstorming.*
-
 [Find more articles and posts](index.md)
