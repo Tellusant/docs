@@ -1,12 +1,12 @@
 ---
-title: "The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity and Risk"
+title: "The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk"
 description: "Tellusant's strategy grid is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels."
 image: /assets/social-card-strategy-grid.png
 ---
-# The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity and Risk
+# The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk
 _by Staffan Canback, Tellusant_  
 
-Strategic thinking is often muddled because there are too many concepts thrown around with an unclear understanding of what truly matter. Take Porter's Five Forces: an exxcellent framework, but affects performance and how much? One can create ever-increasing detail without getting smarter.
+> Strategic thinking is often muddled because there are too many concepts thrown around with an unclear understanding of what truly matter. Take Porter's Five Forces: an excellent framework, but what in the framework affects corporate performance and by how much? One can create ever-increasing detail without getting smarter.
 
 Tellusant's **strategy grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. they directly link to the value of the company.
 
