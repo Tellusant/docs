@@ -66,16 +66,16 @@ The logic for business units is the same as for the company as a whole, just sca
 To illustrate, here are two examples from the grid:
 
 ### Grid cell 22: Company productivity
-Most companies are not aware of their productivity in robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not improving its practices.
+Most companies are not aware of their productivity in a robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not advancing its practices. If it negative, the company is regressing.
 
-This bears repeating. Is the company just scaling, or is it improving. In the example, Microsoft shows improving practices over time, PepsiCo is slipping.
+This bears repeating. Is the company just scaling, or is it advancing? In the example (with real data), Coca-Cola shows sharply advancing practices over time, PepsiCo is regressing.
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-cell-22.svg" width="500" alt="Tellusant - Strategy grid cell 22">
 </p>
 
 ### Grid cell 31: Country risk
-Too much time is often spent looking at political risk. A better starting point is to understand the real economy risk and financial risk of a country. Below is an example for a few countries.
+Too much time is often spent looking at political risk. A better starting point is to understand the real economy risk and financial risk of a country. Below is an example for larger countries (with real data).
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-cell-31.svg" width="600" alt="Tellusant - Strategy grid cell 31">
