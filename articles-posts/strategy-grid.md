@@ -8,7 +8,7 @@ _by Staffan Canback, Tellusant_
 
 >Strategic thinking is often muddled because there are too many concepts thrown around with an unclear understanding of what truly matter. Take Porter's Five Forces: an excellent framework, but what in the framework affects corporate performance and by how much? One can create ever-increasing detail without getting smarter.
 
-Tellusant's **strategy grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. they directly link to the value of the company.
+Tellusant's **strategy grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. They directly link to the value of the company.
 
 These are _**primitives**_. That is, foundational building blocks that cannot be subdivided, from which other states (such as profitability) are derived.
 
