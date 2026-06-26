@@ -69,9 +69,13 @@ To illustrate, here are three examples from the grid:
 
 ### Grid cell 12: Company Growth
 
+Growth is a well-known metric at all companies. The violinplot below shows the inflation-adjusted grwoth for large U.S. companies.The median is 1.1% over the past decade which likely is less than the casual observer expects. However, since the sum of all companies' value-added is their contribution to GDP, the growth rate has to be in that neighborhood.
+
 <p align="center">
-<img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="500" alt="Tellusant - Strategy grid cell 12">
+<img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="400" alt="Tellusant - Strategy grid cell 12">
 </p>
+
+Note the high growth of some companies, led by Uber. These tropes are not the norm though.
 
 ### Grid cell 22: Company Productivity
 Most companies are not aware of their productivity in a robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not advancing its practices. If it negative, the company is regressing.
