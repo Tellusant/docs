@@ -75,6 +75,8 @@ Growth is a well-known metric at all companies. The violinplot below shows the i
 <img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="500" alt="Tellusant - Strategy grid cell 12">
 </p>
 
+Note the high growth of some companies, led by Uber. These tropes are not the norm though.
+
 ### Grid cell 22: Company Productivity
 Most companies are not aware of their productivity in a robust sense. Here we show a comparison of total factor productivity growth 2014-2024 for a few large companies. Total factor productivity contains all factors outside labor and capital productivity. It represents better management practices, innovations, new technology, and more. It is a crucial measure of a company's performance. If this is low, the company is just scaling labor and capital, not advancing its practices. If it negative, the company is regressing.
 
