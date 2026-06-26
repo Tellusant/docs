@@ -4,7 +4,7 @@ description: "Tellusant's strategy grid is rooted in economic theory that shows 
 image: /assets/social-card-strategy-grid.png
 ---
 # The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk
-_by Staffan Canback, Tellusant_  
+_by Dr. Staffan Canback, Tellusant_  
 
 >Strategic thinking is often muddled because there are too many concepts thrown around with an unclear understanding of what truly matter. Take Porter's Five Forces: an excellent framework, but what in the framework affects corporate performance and by how much? One can create ever-increasing detail without getting smarter.
 
