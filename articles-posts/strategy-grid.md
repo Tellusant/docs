@@ -55,7 +55,7 @@ In addition, country risk should be part of the perspective on country attractiv
 ### Company
 Then follows the company and its competitors. Growth is often reasonably well understood, but with low precision. In our experience all companies can improve on this metric.  
 
-Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using similar methods as in country analysis: labor, capital, and structural productivity. These are well-known metrics, but rarely used.  
+Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using exactly the same method as in country analysis: labor, capital, and structural productivity. These are well-known metrics, but rarely used.  
 
 Risk at the company level should also focus on volatility (stock market beta is not part of the consideration though). Quarterly or monthly data makes it easy to measure volatility for the company, its competitors, and the market as a whole.  
 
