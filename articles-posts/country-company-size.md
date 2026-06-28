@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 # Comparing Country and Company Size: Value-Added (VA) as the Common Metric
 *Dr. Staffan Canback, Tellusant*
 
-Our ***Paragonal*** database quantifies productivity of countries, companies, and their business units. As a by-product of this, it measures value-added of both countries and companies. This allows for a direct comparison of size.
+Our ***Paragonal*** database quantifies productivity of countries, companies, and their business units. As a by-product of this, it measures [value-added](value-added.html) of both countries and companies. This allows for a direct comparison of size.
 
 Companies are sometimes compared to countries based on revenue versus GDP. But revenue is a different measure of GDP. It is like comparing current (ampere) with weight (kilogram), they have nothing to do with each other.
 
