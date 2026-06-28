@@ -18,6 +18,9 @@ This page collects our philosophical and theoretical work on predictive modeling
 
 ## Recent  
 
+### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
+Tellusant's **Strategy Grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
+
 ### [PoluSim Use-Cases](polusim-use-cases.md)
 PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
@@ -29,9 +32,6 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
-
-### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
-Tellusant's **strategy grid* is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
 
 <br/>
 
