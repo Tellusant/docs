@@ -12,32 +12,32 @@ dominated by downside or upside outcomes.
 
 ## Step 1. Compute total volatility
 
-\[ `\sigma `{=tex}= `\mathrm{StdDev}`{=tex}(g_t) \]
+$\sigma = \mathrm{StdDev}(g_t) \$
 
-where (g_t) is the detrended growth series.
+where $g_t$ is the detrended growth series.
 
 ## Step 2. Compute upside and downside deviations
 
 Using deviations from the expected growth path (preferred) or,
 initially, the sample median:
 
-\[ d_t=g_t-`\hat `{=tex}g_t \]
+$d_t=g_t-\hat g_t$
 
 Define
 
-\[ U=`\sum`{=tex}*{d_t\>0} d_t,`\qquad`{=tex}
-D=`\sum`{=tex}*{d_t\<0}\|d_t\| \]
+$U= \sum * d_t \ d_t,\qquad$
+$D= \sum * d_t\|d_t\|]$
 
 ## Step 3. Downside asymmetry factor
 
-\[ A=`\frac{D-U}{D+U}`{=tex} \]
+$A= \frac{D-U}{D+U}$
 
 Properties:
 
 -   (A=0): balanced upside and downside
 -   (A\>0): downside dominates
 -   (A\<0): upside dominates
--   (-1`\le `{=tex}A`\le1`{=tex})
+-   $(-1 \le A \le1)$
 
 ## Step 4. Amplification factor
 
