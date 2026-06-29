@@ -21,6 +21,9 @@ This page collects our philosophical and theoretical work on predictive modeling
 ### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
 Tellusant's **Strategy Grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
 
+### [Comparing Country and Company Size: Value-Added as the Common Metric](country-company-size.md)
+Our Paragonal database quantifies productivity of countries, companies, and their business units. As a by-product, it measures value-added of both countries and companies. This allows for a direct comparison of size.
+
 ### [PoluSim Use-Cases](polusim-use-cases.md)
 PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
