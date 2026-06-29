@@ -41,7 +41,7 @@ Properties:
 
 ## Step 4. Amplification factor
 
-$\text{Amplification Factor} = 1+A]$
+$\text{Amplification Factor} = 1+A$
 
 ## Step 5. Downside-adjusted volatility
 
