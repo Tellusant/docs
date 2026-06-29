@@ -5,10 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # Publications Repository
 
-This open access repository will contain the complete published works by Tellusant team members. It ranges from scientific papers to social media posts. Its purpose is to:  
-- Create open access and bypass gated sites like LinkedIn and Medium  
-- Give longevity beyond what social media offer  
-- Allow for fast search engine / AI crawling and indexing  
+This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more. 
 
 *[This is a subdomain of our main website](https://tellusant.com).*  
 
