@@ -51,7 +51,7 @@ $\sigma \_{\rm adj} = \sigma(1+A)$
 
 Separate two concepts:
 
-1.  **Volatility $\sigma** --- magnitude of fluctuations.
+1.  **Volatility $\sigma$** --- magnitude of fluctuations.
 2.  **Downside asymmetry $A$** --- whether fluctuations are
     predominantly unfavorable.
 
