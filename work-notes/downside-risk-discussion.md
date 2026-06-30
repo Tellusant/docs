@@ -51,8 +51,8 @@ $\sigma \_{\rm adj} = \sigma(1+A)$
 
 Separate two concepts:
 
-1.  **Volatility $\sigma$** --- magnitude of fluctuations.
-2.  **Downside asymmetry $A$** --- whether fluctuations are
+1.  **Volatility** $\sigma$ --- magnitude of fluctuations.
+2.  **Downside asymmetry** $A$ --- whether fluctuations are
     predominantly unfavorable.
 
 ## Advantages
@@ -60,7 +60,7 @@ Separate two concepts:
 -   Uses all observations.
 -   Preserves the interpretation of standard deviation.
 -   Produces a bounded asymmetry measure.
--   Avoids the instability of the ratio (D/U).
+-   Avoids the instability of the ratio ($D/U$).
 -   Easy to explain.
 
 ## Suggested Reporting
