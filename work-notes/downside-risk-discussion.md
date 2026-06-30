@@ -25,8 +25,7 @@ $d_t=g_t-\hat g_t$
 
 Define
 
-$U= \sum * d_t \ d_t,\qquad$
-$D= \sum * d_t\|d_t\|$
+$U = \sum_{d_t>0} d_t \qquad D=\sum_{d_t<0} \left|d_t\right|$
 
 ## Step 3. Downside asymmetry factor
 
@@ -51,8 +50,8 @@ $\sigma \_{\rm adj} = \sigma(1+A)$
 
 Separate two concepts:
 
-1.  **Volatility** $\sigma$ --- magnitude of fluctuations.
-2.  **Downside asymmetry** $A$ --- whether fluctuations are
+1.  **Volatility** $\sigma$ — magnitude of fluctuations.
+2.  **Downside asymmetry** $A$ — whether fluctuations are
     predominantly unfavorable.
 
 ## Advantages
