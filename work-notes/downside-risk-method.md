@@ -10,13 +10,13 @@ The proposed approach retains **all observations** while adjusting total
 volatility according to whether variability has historically been
 dominated by downside or upside outcomes.
 
-## Step 1. Compute total volatility
+## Step 1. Compute Total Volatility
 
 $\sigma = \mathrm{StdDev}(g_t) \$
 
 where $g_t$ is the detrended growth series.
 
-## Step 2. Compute upside and downside deviations
+## Step 2. Compute Upside and Downside Deviations
 
 Using deviations from the expected growth path (preferred) or,
 initially, the sample median:
@@ -28,7 +28,7 @@ Define
 $U = \sum_{d_t>0} d_t$  
 $D = \sum_{d_t<0} \left| {d_t} \right|$
 
-## Step 3. Downside asymmetry factor
+## Step 3. Downside Asymmetry Factor
 
 $A= \frac{D-U}{D+U} \qquad$   (This should be seen as the normalized difference.)
 
@@ -39,11 +39,11 @@ Properties:
 -   $A\<0$: upside dominates
 -   $-1 \le A \le1$
 
-## Step 4. Amplification factor
+## Step 4. Amplification Factor
 
 $\text{Amplification Factor} = 1+A$
 
-## Step 5. Downside-adjusted volatility
+## Step 5. Downside-Adjusted Volatility
 
 $\sigma \_{\rm adj} = \sigma(1+A)$
 
@@ -72,7 +72,7 @@ For each company report:
 -   Amplification factor $1+A$
 -   Downside-adjusted volatility $\sigma \_{\rm adj}$
 
-## Future refinement
+## Future Refinement
 
 Use deviations from the expected growth path rather than the sample
 median:
