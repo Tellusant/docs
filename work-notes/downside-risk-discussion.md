@@ -25,7 +25,8 @@ $d_t=g_t-\hat g_t$
 
 Define
 
-$U = \sum_{d_t>0} d_t \qquad D = \sum_{d_t<0} \left| d_t \right|$
+$U = \sum_{d_t>0} d_t$  
+$D = \sum_{d_t<0} \left| {d_t} \right|$
 
 ## Step 3. Downside asymmetry factor
 
