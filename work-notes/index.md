@@ -7,6 +7,8 @@ Various ideas, techniques, reminders
 
 ## Statistical methods
 [Akaike Information Criterion (AIC)](aic.md)  
+[Stripplot / Beeswarm in Stata - 1](stripplot-1)  
+[Stripplot / Beeswarm in Stata - 2](stripplot-2)  
 
 ## Mermaid and LaTeX
 [Sankey graph](sankey.md)  
