@@ -1,4 +1,4 @@
-# Downside Risk Adjustment for Corporate Operating Risk
+# Downside Risk Adjustment for Corporate Operating Risk: A New Method
 
 ## Motivation
 
