@@ -29,7 +29,7 @@ $U = \sum_{d_t>0} d_t \qquad D=\sum_{d_t<0} \left|d_t\right|$
 
 ## Step 3. Downside asymmetry factor
 
-$A= \frac{D-U}{D+U}$
+$A= \frac{D-U}{D+U} \qquad$   (This should be seen as the normalized difference.)
 
 Properties:
 
