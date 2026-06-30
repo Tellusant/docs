@@ -45,14 +45,14 @@ $\text{Amplification Factor} = 1+A$
 
 ## Step 5. Downside-adjusted volatility
 
-\[ `\sigma`{=tex}\_{`\rm adj`{=tex}}=`\sigma`{=tex}(1+A) \]
+$\sigma \_{\rm adj} = \sigma(1+A)$
 
 ## Interpretation
 
 Separate two concepts:
 
-1.  **Volatility ((`\sigma`{=tex}))** --- magnitude of fluctuations.
-2.  **Downside asymmetry ((A))** --- whether fluctuations are
+1.  **Volatility $\sigma** --- magnitude of fluctuations.
+2.  **Downside asymmetry $A$** --- whether fluctuations are
     predominantly unfavorable.
 
 ## Advantages
@@ -67,17 +67,17 @@ Separate two concepts:
 
 For each company report:
 
--   Total volatility ((`\sigma`{=tex}))
--   Downside asymmetry factor ((A))
--   Amplification factor ((1+A))
--   Downside-adjusted volatility ((`\sigma`{=tex}\_{`\rm adj`{=tex}}))
+-   Total volatility $\sigma$
+-   Downside asymmetry factor $A$
+-   Amplification factor $1+A$
+-   Downside-adjusted volatility $\sigma \_{\rm adj}$
 
 ## Future refinement
 
 Use deviations from the expected growth path rather than the sample
 median:
 
-\[ d_t=g_t-`\hat `{=tex}g_t \]
+$d_t=g_t-\hat g_t$
 
 This compares upside and downside relative to expected performance
 rather than the historical center of the sample.
