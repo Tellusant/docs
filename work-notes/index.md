@@ -6,4 +6,4 @@ Various ideas, techniques, reminders
 [Corporate risk](corporate-risk.md)  
 ## Mermaid and LaTeX
 [Sankey graph](sankey.md)  
-[Arrow](arrow.md)  
+[Arrow in flowchart](arrow.md)  
