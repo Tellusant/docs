@@ -26,7 +26,7 @@ $d_t=g_t-\hat g_t$
 Define
 
 $U= \sum * d_t \ d_t,\qquad$
-$D= \sum * d_t\|d_t\|]$
+$D= \sum * d_t\|d_t\|$
 
 ## Step 3. Downside asymmetry factor
 
@@ -34,10 +34,10 @@ $A= \frac{D-U}{D+U}$
 
 Properties:
 
--   (A=0): balanced upside and downside
--   (A\>0): downside dominates
--   (A\<0): upside dominates
--   $(-1 \le A \le1)$
+-   $A=0$: balanced upside and downside
+-   $A\>0$: downside dominates
+-   $A\<0$: upside dominates
+-   $-1 \le A \le1$
 
 ## Step 4. Amplification factor
 
