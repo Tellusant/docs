@@ -85,7 +85,8 @@ Alphabetically listed by authority.
 #### [IMS Health (2014): *Africa: A ripe opportunity - Understanding the pharmaceutical market opportunity and developing sustainable business models in Africa*](http://www.fullertreacymoney.com/system/data/files/PDFs/2014/April/29th/IMS_Africa_Opportunity_Whitepaper.pdf)
 #### [India Perspectives Magazine (2014): *India Aspires to Build Future Africa*](assets/pdf/ipm-africa.pdf)
 #### [Indonesian Embassy in Argentina (2019): *Indonesia - Un mercado de oportunidades*](https://equilibriumglobal.com/wp-content/uploads/2019/05/Presentacion-Indonesia.pdf)
-#### [IndoPremier (2014): *Equity research: Unilever Indonesia*](assets/pdf/indopremier-unilever-initiating-coverage.pdf)
+#### [IndoPremier (2014): *Equity research: Unilever Indonesia*](assets/pdf/indopremier-unilever-initiating-coverage.pdf)  
+#### [Innovative Science and Research Technology, International Journal of (2026): *Assessment of Climate Change Impact on Housing Quality in Port Harcourt, Rivers State, Nigeria*](https://www.ijisrt.com/assets/upload/files/IJISRT26FEB110.pdf)
 #### [INSEAD (2014): *New Market Exploration in Nigeria*](https://www.insead.edu/sites/default/files/assets/dept/centres/gpei/docs/insead-student-new-market-exploration-in-nigeria-oct-2014.pdf)
 #### [International Economics, Journal of (2024): *All Aboard: The Effects of Port Development*](https://www.sciencedirect.com/science/article/pii/S0022199624000904)  
 Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists should look beyond Buhari*
