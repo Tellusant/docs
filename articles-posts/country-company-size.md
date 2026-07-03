@@ -19,4 +19,4 @@ The other large U.S. companies are shown in the violin plot, as are all 218 coun
 <img  src="assets/images/tellusant-country-company-size-comparison.svg" width="600" alt="Tellusant: Country - company size comparison">
 </p>
 
-There is no message in the chart except that one should measure the right things. Throw GDP versus revenue rankings in the garbage can.
+There is no message in the chart except that one should measure the right things. Throw GDP versus revenue rankings in the garbage can.  
