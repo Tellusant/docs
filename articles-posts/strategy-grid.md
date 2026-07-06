@@ -12,7 +12,7 @@ Tellusant's **Strategy Grid** is rooted in economic theory that shows how value 
 
 These are _**primitives**_. That is, foundational building blocks that cannot be subdivided, from which other states (such as profitability) are derived.
 
-In a strategic tic-tac-toe, companies search for the best combination of the nine primitives in the strategy grid. This is a never-ending excercise since circumstances change forever.
+In a strategic tic-tac-toe, companies search for the best combination of the nine primitives in the strategy grid. This is a never-ending exercise since circumstances change forever.
 
 Most companies are not aware of the importance of the primitives and only measure some of them. We know from our practical work that all nine can be quantified and automatically updated, and we already have seven up and running in our solutions.
 
@@ -36,7 +36,7 @@ How should we think about productivity? There are three components working on GD
 - Capital
 - Structural productivity ≡ total factor productivity (TFP) ≡  Solow residual  
 
-Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity inproves beyond this, the country is said to be improving.
+Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity improves beyond this, the country is said to be improving.
 
 This is expressed in a Cobb-Douglas equation:  
 
@@ -62,7 +62,7 @@ Productivity is poorly understood. It is usually done in a scattered manner thro
 Risk at the company level should also focus on volatility (stock market beta is not part of the consideration though). Quarterly or monthly data makes it easy to measure volatility for the company, its competitors, and the market as a whole.  
 
 ### Business Unit
-The logic for business units is the same as for the company as a whole, just scaled down. The comparisons are both against competiton and against other business units. The latter allows for a way to calibrate BU performance in a scientific way.
+The logic for business units is the same as for the company as a whole, just scaled down. The comparisons are both against competition and against other business units. The latter allows for a way to calibrate BU performance in a scientific way.
 
 ---
 ## Illustrations
@@ -71,7 +71,7 @@ To illustrate, here are three examples from the grid:
 
 ### Grid cell 12: Company Growth
 
-Growth is a well-known metric at all companies. The violinplot below shows the inflation-adjusted grwoth for large U.S. companies.The median is 1.1% over the past decade which likely is less than the casual observer expects. However, since the sum of all companies' value-added is their contribution to GDP, the growth rate has to be in that neighborhood.
+Growth is a well-known metric at all companies. The violin plot below shows the inflation-adjusted growth for large U.S. companies.The median is 1.1% over the past decade which likely is less than the casual observer expects. However, since the sum of all companies' value-added is their contribution to GDP, the growth rate has to be in that neighborhood.
 
 <p align="center">
 <img  src="assets/images/tellusant-strategy-grid-cell-12.svg" width="400" alt="Tellusant - Strategy grid cell 12">
@@ -102,7 +102,7 @@ A qualitative risk assessment, available for most countries, is shown here: [Sou
 > We hold a strictly quantitative perspective on strategy. In the long run, all strategy development will be quantitative and it is only a matter of when each company starts its transition. Some authorities, like Roger Martin, may disagree with this stance.  
 
 ## Proof of Strategy Grid
-It is easy to come up with conceptual frameworks. It is what partners at leading consulting firms excel at. But are they right? Ususally not, and typically they are [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong). Outside consulting, Maslow's hierarchy of needs is an example of a framework that looks reasonable but has no evidence in science.
+It is easy to come up with conceptual frameworks. It is what partners at leading consulting firms excel at. But are they right? Usually not, and typically they are [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong). Outside consulting, Maslow's hierarchy of needs is an example of a framework that looks reasonable but has no evidence in science.
 
 We therefore went back to fundamental economic theory to create a robust framework.
 
