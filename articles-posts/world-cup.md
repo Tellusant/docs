@@ -31,4 +31,4 @@ The graph shows the ranking before the 2026 quarterfinals are played. All other 
 This post is primarily about illustrating Zipf's usefulness. We applied it to a popular topic to make it more enjoyable.
 
 ---
-¹ Zipf is the discrete form of the continuous Pareto distribution.
+¹ Zipf is the ranked, discrete form of the continuous Pareto distribution. They describe the same underluing phenomena.
