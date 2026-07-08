@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
 
-How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.  
+How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.¹  
 
 The Zipf distribution is a wonderful tool. It is, for example, used to understand the size-distribution of cities, and of companies. Datasets where the smallest value is zero are often Zipf-distributed.  
 
@@ -28,4 +28,7 @@ The graph shows the ranking before the 2026 quarterfinals are played. All other 
 <img  src="https://canback.net/docs/articles-posts/assets/images/s.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
 </p>
 
-This post is about Zipf primarily to illutrate its usefulness. We applied it to a popular topic to stimulate readership.
+This post is primarily about illustrating Zipf's usefulness. We applied it to a popular topic to make it more enjoyable.
+
+---
+¹ Zipf is the discrete form of the continuous Pareto distribution.
