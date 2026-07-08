@@ -12,7 +12,7 @@ The Zipf distribution is a wonderful tool. It is for example used to understand 
 
 The formula is simple. The largest item has the weight 1; the second largest 1/2, third 1/3, and so on till the nth item with weight 1/n.  
 
-We applied this in **two ways** to football performance for the seven world cups this century.  
+We applied this in **two ways** to football performance over the seven world cups this century.  
 
 - Each team that reached the round of 16 in a given year was given a Zipf weight. The gold medalist 1, silver 1/2, etc. This created 7 sets of 16 teams with weights.  
 
