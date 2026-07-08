@@ -20,7 +20,7 @@ We applied this in **two ways** to football performance for the seven world cups
 
 The two dimensions were finally combined to create a total score by country. Higher placement in recent years get the highest score.
 
-The Zipf distribution favors high placement and recency strongly. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics, but there is no objective truth in choice.
+The Zipf distribution strongly favors high placement and recency. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics. Zipf is also theoretically grounded.
 
 The graph shows the ranking before the 2026 quarterfinals are played. All other data is final. This means that there will be some movement and we will update the graph after quarterfinals, semifinals, and final.
 
