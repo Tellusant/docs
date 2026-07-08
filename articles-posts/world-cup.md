@@ -16,7 +16,7 @@ We applied this in **two ways** to football performance for the seven world cups
 
 - Each team that reached the round of 16 in a given year was given a Zipf weight. The gold medalist 1, silver 1/2, etc. This created 7 sets of 16 teams with weights.  
 
-- The most recent year (2026) was given weight 1, down the most distant year (2002) with weight 1/7. (this is called recency adjustment) 
+- The most recent year (2026) was given weight 1, down to the most distant year (2002) with weight 1/7.
 
 The two dimensions were finally combined to create a total score by country. Higher placement in recent years get the highest score.
 
