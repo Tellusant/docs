@@ -8,7 +8,7 @@ image: /assets/social-card-pub.png
 
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.¹  
 
-The Zipf distribution is a wonderful tool. It is, for example, used to understand the size-distribution of cities, and of companies. Datasets where the smallest value is zero are often Zipf-distributed.  
+The Zipf distribution is a wonderful tool. It is, for example, used to understand the size-distribution of cities, of companies, and of words. Datasets where the smallest value is zero are often Zipf-distributed.  
 
 The formula is simple. The largest item has the weight 1; the second largest 1/2, third 1/3, and so on till the nth item with weight 1/n.  
 
