@@ -18,6 +18,9 @@ This page collects our philosophical and theoretical work on predictive modeling
 
 ## Recent  
 
+### [A Scientific Evaluation of World Cup Performance by Country 2002–2026](world-cup.md)
+How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.
+
 ### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
 Tellusant's **Strategy Grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
 
