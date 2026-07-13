@@ -18,7 +18,7 @@ We applied this in **two ways** to football performance over the seven world cup
 
 - The most recent year (2026) was given weight 1, down to the most distant year (2002) with weight 1/7.
 
-The two dimensions were finally combined to create a total score by country. Higher placement in recent years get the highest score.
+The two dimensions were finally combined to create a total score by country. Higher placement in recent years get the highest score. The sum across all countries is 1000 and if a country had won all seven world cups, it would have 296 points.
 
 The Zipf distribution strongly favors high placement and recency. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics. Zipf is also theoretically grounded.
 
