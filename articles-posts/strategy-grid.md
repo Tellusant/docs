@@ -24,7 +24,7 @@ The strategy grid emanates from the proof provided in the last section. It is a 
 <img  src="assets/images/tellusant-strategy-grid.svg" width="700" alt="Tellusant - Strategy Grid framework">
 </p>
 
-We have shovel-ready solutions for all the cells in the grid. **PoluSim** and **TelluBase** cover growth, the **Paragonal** system (and database) covers productivity, and **Q-Risk** covers risk. [Read more about them on Tellusant's website.](https://tellusant.com)
+We have shovel-ready solutions for all the cells in the grid. **PoluSim** and **TelluBase** cover growth, the **Paragonal** system (and database) delineates productivity, and **Q-Risk** measures risk. [Read more about them on Tellusant's website.](https://tellusant.com)
 
 ### Macro
 The horizontal axis starts with macro. Any CEO would say it is better to be in a growing country than a declining country.  
@@ -122,7 +122,7 @@ The full proof is published in _**Tellusant Quick Read: Proof of Firm Value Deco
 <img  src="assets/images/tellusant-strategy-grid-economic-rationale.svg" width="500" alt="Tellusant - Economics rationale for Strategy Grid framework">
 </p>
 
-As for the horizontal axis in rhe Strategy Grid, the **primitives** are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
+As for the horizontal axis in the Strategy Grid, the **primitives** are self evident. Macro is usually countries but can be subdivisions or cities. Business units can be by product / service or by geography, but not functional.
 
 ---
 [Find more articles and posts](index.md)
