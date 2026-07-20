@@ -24,3 +24,5 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >- Mermaid v11 = workflow graphing
 >
 >In the next cycle, we will implemenent a scheduler such as *cron* in GitHub Action to make the updating instant upon report release.
+
+[The details of the workflow are found here](https://canback.net/docs/articles-posts/fedora.html)
