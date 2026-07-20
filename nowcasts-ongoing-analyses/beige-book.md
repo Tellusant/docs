@@ -32,13 +32,13 @@ Economic activity increased modestly in the July Beige Book, with conditions imp
 Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-07.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-07.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
 The GDP-weighted growth index is 1.71, up from 1.16 in June, which indicates a modest growth rate, up from slight. Both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across ditricts. 
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-07.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+<img  src="assets/images/beige-book/beige-book/tellusant-fed-beige-book-indexes-2026-07.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
 Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book. It has a small effect except on inflation.  
