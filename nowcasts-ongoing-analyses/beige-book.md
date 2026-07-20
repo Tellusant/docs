@@ -45,5 +45,3 @@ The GDP-weighted growth index is 1.71, up from 1.16 in June, which indicates a m
 #### [Archive](archive.md)
 
 #### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](retrospective.md)  
-
-*ChatGPT was used for the entire analysis.*
