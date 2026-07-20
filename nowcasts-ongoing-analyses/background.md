@@ -3,7 +3,7 @@ title: "Background to Beige Book Nowcast by Tellusant"
 description: "We provide a snapshot of current economic activity. It is easy to past data and future projections. We provide the here and now to bridge the gap."
 image: /assets/social-card-beig.png
 ---
-# Background to Beige Book Nowcast bty Tellusant
+# Background to Beige Book Nowcast by Tellusant
 
 We provide a snapshot of current economic activity. It is easy to past data and future projections. We provide the here and now to bridge the gap.
 
