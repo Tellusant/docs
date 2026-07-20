@@ -20,7 +20,7 @@ We have published these nowcasts since June 2015 on LinkedIn. The new series pub
 >- Excel = model + parameters
 >- Mermaid v11 = workflow graphing
 >
->In the next cycle, ChatGPT will be replaced by a python script and a scheduler such as *cron* in GitHub Action.
+>In the next cycle, we will implemenent a scheduler such as *cron* in GitHub Action to make the updating instant upon report release.
 
 ---
 Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
