@@ -9,7 +9,7 @@ image: /assets/social-card-beig.png
 
 # Beige Book Nowcast: Sentiment Analysis of Economic Activity — July 15, 2026
 
-Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
+U.S. Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-07.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
