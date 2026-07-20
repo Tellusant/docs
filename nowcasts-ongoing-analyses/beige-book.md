@@ -3,7 +3,10 @@ title: "Nowcast: Sentiment Analysis of Economic Activity—Based on the Beige Bo
 description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast."
 image: /assets/social-card-beig.png
 ---
+<p align="center">
 <a href="background.md">Find the background to Tellusant's Beige Book nowcast here</a>
+</p>
+
 # Nowcast: Sentiment Analysis of Economic Activity—Based on the Beige Book of July 15, 2026
 
 Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
