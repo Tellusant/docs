@@ -1,11 +1,35 @@
 # Beige Book Nowcast Archive
 
 ---
+## June 2026
+Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts. National performance was higher than in the April Beige Book. 
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-06.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>
+
+Ten districts reported expansion, one was little changed, and one noted decline, indicating a more widely distributed but still low pace of growth. 
+
+Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+</p>
+
+The GDP-weighted growth index is 1.16, up from 0.68 in April, but still representing only at a slight growth rate. Both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across ditricts. 
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-06.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+</p>
+
+Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book. It has a small effect except on inflation. 
+
+---
 ## April 2026
 Economic activity increased slightly in the April Beige Book, with conditions improving across a broader set of districts even as overall momentum softened from the prior report. 
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2026-04.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-04.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
 Eight districts reported expansion, two were little changed, and two noted declines, indicating a more widely distributed but still modest pace of growth. 
@@ -15,13 +39,13 @@ Eight districts reported expansion, two were little changed, and two noted decli
 Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-04.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
 The GDP-weighted growth index edged down to 0.68, while both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across regions. 
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-04.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-04.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
 Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book but has a small effect except on inflation.  
@@ -31,10 +55,8 @@ Erratic government policies continue to damp growth. The Iran war is reflected i
 The March 2026 report shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.  
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-03.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
-
-
 
 Five districts are doing relatively well:  
 - Dallas  
@@ -56,7 +78,7 @@ The rest are flat or show slight growth.
 The key resulting national indexes are reported below:  
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-indexes-2026-03.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-03.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
 
 Erratic government policies continue to damp growth. The Iran war is not reflected in the Beige Book yet.  
@@ -67,7 +89,7 @@ Erratic government policies continue to damp growth. The Iran war is not reflect
 ## January 2026
 The January 2026 report shows improved economic economic conditions, but still only slight growth.
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
 Three districts show reasonable (modest) growth:
@@ -87,7 +109,7 @@ Erratic government policies continue to damp growth.
 ## November 2025
 
 <p align="center">
-<img  src="assets/images/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
 </p>
 
 The November 2025 report continues to show significant weakness for the sixth period in a row. It ranks 77th of the 84 periods we have analyzed since beginning of 2016. Discounting covid, June 2025 is the worst).
@@ -114,7 +136,7 @@ Tariffs and erratic government policies are likely causes of the poor performanc
 ---
 ## October 2025
 
-![October 2025](assets/images/tellusant-fed-beige-book-summary-2025-10.svg)  
+![October 2025](assets/images/beige-book/tellusant-fed-beige-book-summary-2025-10.svg)  
 
 The October 2025 report shows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Discounting two covid periods, it is the second worst in our dataset (June 2025 being the worst).
 
