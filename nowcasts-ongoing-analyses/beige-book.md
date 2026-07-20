@@ -4,7 +4,7 @@ description: "The Fed's Beige Book, Summary of Commentary on Current Economic Co
 image: /assets/social-card-beig.png
 ---
 <p align="center">
-<a href="background.md">Find the background to Tellusant's Beige Book nowcast here</a>
+<a href="background.html">Find the background to Tellusant's Beige Book nowcast here</a>
 </p>
 
 # Beige Book Nowcast: Sentiment Analysis of Economic Activity — July 15, 2026
