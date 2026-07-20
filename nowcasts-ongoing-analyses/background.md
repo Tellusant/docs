@@ -1,9 +1,12 @@
 ---
-title: "Background to Fed Beige Book Nowcast"
-description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast."
+title: "Background to Beige Book Nowcast by Tellusant"
+description: "We provide a snapshot of current economic activity. It is easy to past data and future projections. We provide the here and now to bridge the gap."
 image: /assets/social-card-beig.png
 ---
-# Background to Fed Beige Book Nowcast
+# Background to Beige Book Nowcast bty Tellusant
+
+We provide a snapshot of current economic activity. It is easy to past data and future projections. We provide the here and now to bridge the gap.
+
 The Fed's Beige Book, *[Summary of Commentary on Current Economic Conditions](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)*, covers current economic activity for the 12 Federal Reserve Districts. It is published sesqui-monthly (every 1½
 months). Tellusant converts it into a quantitative nowcast.  
 
