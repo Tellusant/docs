@@ -6,8 +6,8 @@ image: /assets/social-card-pub.png
 # Nowcasts & Ongoing Analyses
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily.
 
-#### Economic Sentiment Tool
-Link actived Monday, April 13. [Currently found here,](https://tellubase.com/country-sentiment-analysis/)
+#### [Economic Sentiment Tool](https://tellubase.com/country-sentiment-analysis/)
+These AI agent analyses the economic sentiment in almost any country based on written reports that have been selected by Tellusant (this approach avoids anomalous artifacts). Get a snapshot of current or past sentiment along various dimensions.
 
 #### [Nowcast: U.S. Recession Probability Nine Months Out](recession-nowcast.md)
 Building on Ben Bernanke's recession probability model, we created an improvement using exactly the same the data. Bernanke and the Fed uses a P controller, we use a P.I.D controller. The improvement is large. **Daily**.  
