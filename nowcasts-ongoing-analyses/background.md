@@ -118,5 +118,3 @@ classDef clear   fill:transparent,stroke:transparent;
     </div>
 
 The details of the workflow is best understand by studying the graph.  
-
-[The details of the workflow are found here](https://canback.net/docs/articles-posts/fedora.html)
