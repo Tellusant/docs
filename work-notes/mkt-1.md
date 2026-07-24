@@ -166,14 +166,15 @@ I'd like this discussion to become quite strategic rather than tactical.
 
 If I were acting as an outside adviser to Tellusant, my goal would be to answer a single question:
 
-> **Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply doing nothing?**
+> Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply do nothing?
 
 If we can answer that crisply, the marketing plan almost writes itself.
 
 So let's start with one question:
 
-**When your last five new clients signed, what was happening inside their company that caused them to reach out?**
+>When your last five new clients signed, what was happening inside their company that caused them to reach out?
 
+---
 `Answers  `
 `Question A`  
 `- Head of strategy`  
@@ -193,11 +194,11 @@ So let's start with one question:
 `- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."`  
 `- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.`  
 
-`Question  C  
-Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
+`Question  C`  
+`Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
 
-`Question D  
-Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.`
+`Question D`  
+`Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.`
 
 This is extremely revealing.
 
