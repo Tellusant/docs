@@ -238,8 +238,6 @@ Notice what is not in that chain.
 
 Those aren't causing the purchase.
 
-Confidence is.
-
 **Confidence is.**
 
 ---
@@ -287,41 +285,41 @@ Consider the examples.
 
 ABI InBev:
 
->>Assess an acquisition.
+>Assess an acquisition.
 
 Not forecasting.
 
 Heineken:
 
->> Unify forecasting globally.
+>Unify forecasting globally.
 
 Not software.
 
 Constellation:
 
->> Build subnational capability.
+>Build subnational capability.
 
 Not consulting in the traditional sense.
 
 BIC:
 
->> Help us survive structural decline.
+>Help us survive structural decline.
 
 Again—not forecasting.
 
 The common denominator is something like
 
->> "This problem is unusually difficult."
+>"This problem is unusually difficult."
 
 ### That suggests a different positioning
 
 Rather than 
 
->>We provide forecasting.
+>We provide forecasting.
 
 perhaps
 
->> We solve commercial problems that conventional approaches cannot.
+>We solve commercial problems that conventional approaches cannot.
 
 Forecasting becomes evidence.
 
@@ -354,11 +352,7 @@ They aren't.
 
 They all demonstrate one thing:
 
->> This person thinks differently.
-
-They signal one thing:
-
->> **This person thinks differently.**
+>This person thinks differently.
 
 The publications are functioning less as marketing collateral and more as **signals of intellectual capability**. They reinforce the impression that you can tackle problems others don't even frame correctly.
 
@@ -372,11 +366,11 @@ Just not in the way you measure.
 
 You measure
 
->> Did somebody call?
+> Did somebody call?
 
 The better metric is:
 
->> Did another executive move one inch further toward trusting us?
+> Did another executive move one inch further toward trusting us?
 
 That can take years.
 
@@ -423,7 +417,7 @@ McKinsey's enduring asset is not that Marvin Bower was brilliant. It is that "th
 
 For Tellusant, the enduring asset might be something like:
 
->>The Tellusant Method for Solving High-Complexity Commercial Decisions
+>The Tellusant Method for Solving High-Complexity Commercial Decisions
 
 That method could encompass:
 
@@ -439,16 +433,15 @@ You and your colleagues all become practitioners of the same method, even if eac
 
 I have one hypothesis I'd like to explore next, because I think it could change the entire marketing strategy.
 
->> **What if Tellusant should stop trying to generate leads and instead focus on creating future buyers?**
+>**What if Tellusant should stop trying to generate leads and instead focus on creating future buyers?**
 
 In other words, accept that the sales cycle is inherently measured in years, and deliberately design every publication, conference talk, client interaction, and academic paper to move executives gradually toward the thought:
 
->>"When I eventually face a genuinely difficult commercial decision, Tellusant is the first call I should make."
+>"When I eventually face a genuinely difficult commercial decision, Tellusant is the first call I should make."
 
 That is a fundamentally different marketing system from a conventional B2B demand-generation funnel, and from everything you've told me so far, it seems much closer to how you've actually won business over the last 30 years.
 
-
-> Need to pause, but truly helpful. I'll be back.
+`Need to pause, but truly helpful. I'll be back.`
 
 I'm glad it resonated. I also think this is one of those discussions where the answer isn't a better marketing tactic—it may be a different mental model.
 
@@ -458,7 +451,7 @@ Before we continue next time, I'll leave you with three thoughts that I think ar
 
 Almost every client example you gave started with:
 
->>"I've seen you over the years..."
+>"I've seen you over the years..."
 
 That isn't lead generation. It's reputation compounding.
 
@@ -470,7 +463,7 @@ One thing I kept thinking about is that many executives know who you are, but th
 
 Your articles demonstrate capability, but they don't necessarily help someone recognize:
 
->>"This is exactly the kind of problem where Tellusant should be involved."
+>"This is exactly the kind of problem where Tellusant should be involved."
 
 That distinction may become central to the marketing plan.
 
@@ -478,7 +471,7 @@ That distinction may become central to the marketing plan.
 
 The long-term goal is perhaps to promote **a school of thought**.
 
-That school happens to have been created largely by you, but it can outlive you. McKinsey, Toyota, IDEO, and other enduring organizations became associated with distinctive ways of thinking rather than a single individual. Tellusant may have the ingredients to do something similar, though on a different scale and in a different domain.
+That school happens to have been created largely by you, but it can outlive you. McKinsey, Toyota, IDEO, McDonald's and other enduring organizations became associated with distinctive ways of thinking rather than a single individual. Tellusant may have the ingredients to do something similar, though on a different scale and in a different domain.
 
 ---
 
@@ -488,7 +481,7 @@ One suggestion for our next discussion: let's ignore marketing entirely for the 
 
 Instead, let's answer a much harder question:
 
->>**If Tellusant were founded today with no existing clients, what unfair advantage would it possess that no competitor could quickly copy?**
+>**If Tellusant were founded today with no existing clients, what unfair advantage would it possess that no competitor could quickly copy?**
 
 I have a feeling the answer is **not** "our data," "our forecasting," or "our software". It's probably something more fundamental. If we can articulate that precisely, it will become the foundation not just for marketing, but for recruiting, partnerships, product development; the entire strategy.
 
@@ -496,7 +489,7 @@ I think this conversation has the potential to be one of the more consequential 
 
 I'll look forward to continuing it. I don't think we should rush this one.
 
->Please put this entire thing in .md, not just a summary. With my questions included.
+`Please put this entire thing in .md, not just a summary. With my questions included.`
 
 One suggestion: I think this discussion deserves to become the start of a much larger document—something like "**Tellusant Growth Strategy**" or "**Marketing Philosophy**." Rather than treating each conversation as separate, we could build a living strategy document over the coming months. Given the depth of this topic, I suspect it will eventually become 30–50 pages of coherent thinking rather than isolated notes. It feels like we're uncovering the underlying theory of how Tellusant actually wins business, which is more valuable than a conventional marketing plan.
 
