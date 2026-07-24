@@ -1,11 +1,13 @@
 # Tellusant marketing approach
 
+## 1st Loop
+
 ## Background
 
->*Please also look into Tellusant as you always do.*
->
+`Please also look into Tellusant as you always do.`
+
 `I am a very experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.`
->
+
 >My two senior colleagues are much younger, but are highly respected professionals among the people who to know them. They have more than 10 years each of senior level engegement at clients.
 >
 >Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.
