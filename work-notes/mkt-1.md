@@ -182,7 +182,6 @@ So let's start with one question:
 >- BU head
 
 >#### Q2
->
 >All say: "I've seen you over the years and I'm confident you can solve my problem."
 >
 >Examples:
@@ -197,7 +196,7 @@ So let's start with one question:
 >#### Q3
 >Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.
 
->### Q4
+>#### Q4
 >Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.
 
 This is extremely revealing.
