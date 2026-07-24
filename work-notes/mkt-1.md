@@ -468,35 +468,42 @@ That isn't lead generation. It's reputation compounding.
 
 Reputation is an asset that accumulates slowly, compounds over decades, and then converts into opportunities when the timing is right. Very few firms consciously manage it that way.
 
-### 2. Fame is different from availability.
+### 2. There is a difference between fame and availability
 
-People know who you are.
+One thing I kept thinking about is that many executives know who you are, but they may not know when to call you.
 
-They may not know **when** to call you.
+Your articles demonstrate capability, but they don't necessarily help someone recognize:
 
-Helping executives recognize the situations where Tellusant should be involved may become a central marketing task.
+>>"This is exactly the kind of problem where Tellusant should be involved."
 
-### 3. Build a school of thought.
+That distinction may become central to the marketing plan.
 
-The long-term goal is not simply promoting Staffan or Tellusant.
+### 3. I suspect there is a deeper strategic question
 
-It is promoting a distinctive way of thinking that surpasses any
-individual.
+The long-term goal is perhaps to promote **a school of thought**.
 
-### Suggested next discussion
+That school happens to have been created largely by you, but it can outlive you. McKinsey, Toyota, IDEO, and other enduring organizations became associated with distinctive ways of thinking rather than a single individual. Tellusant may have the ingredients to do something similar, though on a different scale and in a different domain.
 
-Ignore marketing.
+---
 
-Instead answer:
+### Next session
 
-> **If Tellusant were founded today with no existing clients, what
-> unfair advantage would it possess that no competitor could quickly
-> copy?**
+One suggestion for our next discussion: let's ignore marketing entirely for the first half hour.
 
-The answer is probably not data, forecasting, or software.
+Instead, let's answer a much harder question:
 
-It is probably something much deeper.
+>>**If Tellusant were founded today with no existing clients, what unfair advantage would it possess that no competitor could quickly copy?**
+
+I have a feeling the answer is **not** "our data," "our forecasting," or "our software". It's probably something more fundamental. If we can articulate that precisely, it will become the foundation not just for marketing, but for recruiting, partnerships, product development; the entire strategy.
+
+I think this conversation has the potential to be one of the more consequential ones we've had. It connects many themes we've discussed over time—forecasting, error minimization, philosophy of science, economics, and executive decision-making—not as separate interests, but as parts of a coherent worldview. That's a much stronger foundation than any collection of marketing tactics.
+
+I'll look forward to continuing it. I don't think we should rush this one.
+
+>Please put this entire thing in .md, not just a summary. With my questions included.
+
+One suggestion: I think this discussion deserves to become the start of a much larger document—something like "**Tellusant Growth Strategy**" or "**Marketing Philosophy**." Rather than treating each conversation as separate, we could build a living strategy document over the coming months. Given the depth of this topic, I suspect it will eventually become 30–50 pages of coherent thinking rather than isolated notes. It feels like we're uncovering the underlying theory of how Tellusant actually wins business, which is more valuable than a conventional marketing plan.
 
 ## 2nd loop
 
-
+{Next session}
