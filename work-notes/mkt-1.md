@@ -56,7 +56,7 @@ Describe the person.
 
 And perhaps most importantly:  
 
->> What keeps them awake at night?
+> What keeps them awake at night?
 
 B.  **What is the first sentence they say?**
 For example, at McKinsey nobody bought "strategy."
@@ -155,7 +155,7 @@ The other has almost no direct competitors.
 
 I don't know yet whether that's the right positioning—but it's a hypothesis worth testing.
 
-#### One thing I would not do
+### One thing I would not do
 
 I would not spend another six months optimizing LinkedIn posts, newsletters, email subject lines, or website copy.
 
@@ -164,7 +164,6 @@ Those are conversion multipliers.
 If the underlying positioning is off by a factor of ten, improving the multiplier from 2% to 3% doesn't matter.
 
 ---
-
 I'd like this discussion to become quite strategic rather than tactical.
 
 If I were acting as an outside adviser to Tellusant, my goal would be to answer a single question:
@@ -177,24 +176,24 @@ So let's start with one question:
 
 **When your last five new clients signed, what was happening inside their company that caused them to reach out?**
 
-'Answers
-Question A
-- Head of strategy
-- Pricing executive
-- Head of insights
-- BU head'
+`Answers  `
+`Question A`  
+`- Head of strategy`  
+`- Pricing executive`  
+`- Head of insights`  
+`- BU head`  
+  
+`Question B`
+`All say: "I've seen you over the years and I'm confident you can solve my problem."`
+  
+`Examples:`
 
-`Question B  
->All say: "I've seen you over the years and I'm confident you can solve my problem."
->
->Examples:
->
->- *ABI InBev*: "I want you to assess this specific acquisition opportunity from the commercial side. We know you can do it."
->- *Coca-Cola*: "We are soft drinks company, we need to create a strategy for our small coffee and tea business. I believe you are ideal because of your wide span of knowldge, and you are easy to work with"
->- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."
->- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"
->- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."
->- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.'
+`- ABI InBev: "I want you to assess this specific acquisition opportunity from the commercial side. We know you can do it."`  
+`- Coca-Cola: "We are soft drinks company, we need to create a strategy for our small coffee and tea business. I believe you are ideal because of your wide span of knowldge, and you are easy to work with"`
+`- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."`
+`- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"`
+`- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."`
+`- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.`
 
 `Question  C  
 Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
@@ -271,13 +270,13 @@ It's terrible for scaling.
 
 You describe yourselves as:
 
->>- forecasting
->>- data
->>- consulting
+>- forecasting
+>- data
+>- consulting
 
 Your customers describe you as:
 
->> solving unusually difficult commercial problems.
+> solving unusually difficult commercial problems.
 
 Those are completely different businesses.
 
@@ -417,7 +416,7 @@ McKinsey's enduring asset is not that Marvin Bower was brilliant. It is that "th
 
 For Tellusant, the enduring asset might be something like:
 
->The Tellusant Method for Solving High-Complexity Commercial Decisions
+>The Tellusant Method for Solving High-Complexity Commercial Decisions, or the Tellusant Way, or the Tellusant Approach.
 
 That method could encompass:
 
