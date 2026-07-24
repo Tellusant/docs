@@ -189,11 +189,11 @@ So let's start with one question:
 `Examples:`
 
 `- ABI InBev: "I want you to assess this specific acquisition opportunity from the commercial side. We know you can do it."`  
-`- Coca-Cola: "We are soft drinks company, we need to create a strategy for our small coffee and tea business. I believe you are ideal because of your wide span of knowldge, and you are easy to work with"`
-`- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."`
-`- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"`
-`- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."`
-`- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.`
+`- Coca-Cola: "We are soft drinks company, we need to create a strategy for our small coffee and tea business. I believe you are ideal because of your wide span of knowldge, and you are easy to work with"`  
+`- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."`  
+`- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"`  
+`- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."`  
+`- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.`  
 
 `Question  C  
 Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
