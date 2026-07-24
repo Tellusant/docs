@@ -24,9 +24,7 @@
 
 ## More information
 
-Yes. I think there are a few pieces of information that will determine
-whether we end up with another list of marketing tactics or something
-that genuinely changes your growth trajectory.
+Yes. I think there are a few pieces of information that will determine whether we end up with another list of marketing tactics or something that genuinely changes your growth trajectory.
 
 From what you've written, one thing immediately stands out.
 
@@ -34,28 +32,73 @@ You do **not** appear to have a lead-generation problem.
 
 You appear to have a **trust transfer problem**.
 
-People read your work. Large companies know your name. You have
-substantial credibility. Existing clients buy projects worth
-\$100k--\$2M. Yet almost none of that credibility transfers into inbound
+People read your work. Large companies know your name. You have substantial credibility. Existing clients buy projects worth $100k - $2M. Yet almost none of that credibility transfers into inbound
 business from people who don't already know you.
 
-That is a very specific problem, and it suggests we shouldn't start by
-discussing email campaigns, LinkedIn algorithms, SEO, or advertising.
-Those are downstream.
+That is a very specific problem, and it suggests we shouldn't start by discussing email campaigns, LinkedIn algorithms, SEO, or advertising. Those are downstream.
 
-Instead, I'd like to understand why someone who is impressed by
-Tellusant never takes the next step.
+Instead, I'd like to understand why someone who is impressed by Tellusant never takes the next step.
 
 ### The questions I think matter most
 
-1.  **Who actually signs a \$500k Tellusant contract?**
-    -   Describe the person.
-    -   What keeps them awake at night?
+1.  **Who actually signs a $500k Tellusant contract?**
+Describe the person.
+- Former consultant?
+- Economist?
+- Head of Strategy?
+- CFO?
+- Pricing executive?
+- CEO?
+- Analytics leader?
+
+And perhaps most importantly:  
+
+>> What keeps them awake at night?
+
 2.  **What is the first sentence they say?**
-    -   What business problem causes them to call?
+For example, at McKinsey nobody bought "strategy."
+
+They bought:
+
+>> "Growth has stalled."
+
+or
+
+>> "Our pricing isn't working."
+
+or
+
+>> "We need a five-year plan."
+
+What is that sentence for Tellusant?
+
 3.  **Why do existing clients buy?**
-    -   What would they actually say?
+
+If you interviewed ten clients, what would they actually say?
+
+Not the polished marketing answer.
+
+Something like
+
+>> "Nobody else could answer this."
+
+or
+
+>> "Staffan understands our business." / "Tellusant understands our business."
+
+or
+
+>> "We trusted him." / "We trusted them"
+
+or
+
+>> "Their data is unique."
+
+These are very different businesses.  
+
 4.  **What happens after someone reads one of your articles?**
+
+
     -   Demo?
     -   Download?
     -   Request data?
@@ -64,17 +107,14 @@ Tellusant never takes the next step.
 
 ### One observation
 
-You consistently describe yourself as unusual---not just experienced,
-but someone whose comparative advantage is solving problems that almost
+You consistently describe yourself as nusual---not just experienced, but someone whose comparative advantage is solving problems that almost
 nobody else can solve.
 
-From the outside, Tellusant often presents itself as **a company with
-good data and forecasting.**
+From the outside, Tellusant often presents itself as **a company with good data and forecasting.**
 
 But your career says:
 
-> **This is the place you go when normal consulting firms cannot answer
-> the question.**
+>> **This is the place you go when normal consulting firms cannot answer the question.**
 
 Those are very different market positions.
 
@@ -213,8 +253,8 @@ Tellusant must become bigger than one individual.
 
 The solution is probably not choosing between:
 
--   Staffan
--   Tellusant
+- Staffan
+- Tellusant
 
 Instead:
 
@@ -244,7 +284,7 @@ Three closing thoughts:
 
 Your clients repeatedly begin with:
 
-> "I've seen you over the years..."
+>> "I've seen you over the years..."
 
 That is reputation compounding.
 
@@ -254,8 +294,7 @@ People know who you are.
 
 They may not know **when** to call you.
 
-Helping executives recognize the situations where Tellusant should be
-involved may become a central marketing task.
+Helping executives recognize the situations where Tellusant should be involved may become a central marketing task.
 
 ### 3. Build a school of thought.
 
