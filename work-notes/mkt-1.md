@@ -191,7 +191,7 @@ So let's start with one question:
 >- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."
 >- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"
 >- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."
->- *Nutresa*says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.
+>- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.
 
 >#### Q3
 >Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.
