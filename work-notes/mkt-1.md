@@ -282,25 +282,25 @@ Those are completely different businesses.
 
 Consider the examples.
 
-ABI InBev:
+**ABI InBev:**
 
 >Assess an acquisition.
 
 Not forecasting.
 
-Heineken:
+**Heineken:**
 
 >Unify forecasting globally.
 
 Not software.
 
-Constellation:
+**Constellation:**
 
 >Build subnational capability.
 
 Not consulting in the traditional sense.
 
-BIC:
+**BIC:**
 
 >Help us survive structural decline.
 
@@ -432,7 +432,7 @@ You and your colleagues all become practitioners of the same method, even if eac
 
 I have one hypothesis I'd like to explore next, because I think it could change the entire marketing strategy.
 
->**What if Tellusant should stop trying to generate leads and instead focus on creating future buyers?**
+>What if Tellusant should stop trying to generate leads and instead focus on creating future buyers?
 
 In other words, accept that the sales cycle is inherently measured in years, and deliberately design every publication, conference talk, client interaction, and academic paper to move executives gradually toward the thought:
 
@@ -490,7 +490,9 @@ I'll look forward to continuing it. I don't think we should rush this one.
 
 `Please put this entire thing in .md, not just a summary. With my questions included.`
 
-One suggestion: I think this discussion deserves to become the start of a much larger document—something like "**Tellusant Growth Strategy**" or "**Marketing Philosophy**." Rather than treating each conversation as separate, we could build a living strategy document over the coming months. Given the depth of this topic, I suspect it will eventually become 30–50 pages of coherent thinking rather than isolated notes. It feels like we're uncovering the underlying theory of how Tellusant actually wins business, which is more valuable than a conventional marketing plan.
+One suggestion: I think this discussion deserves to become the start of a much larger document—something like "**Tellusant Growth Strategy**" or "**Marketing Philosophy**." Rather than treating each conversation as separate, we could build a living strategy document over the coming months. 
+
+Given the depth of this topic, I suspect it will eventually become 30–50 pages of coherent thinking rather than isolated notes. It feels like we're uncovering the underlying theory of how Tellusant actually wins business, which is more valuable than a conventional marketing plan.
 
 ## 2nd loop
 
