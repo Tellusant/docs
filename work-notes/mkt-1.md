@@ -145,7 +145,7 @@ But that is not what your career says.
 
 Your career says:
 
-> **This is the place you go when normal consulting firms cannot answer the question.**
+> This is the place you go when normal consulting firms cannot answer the question.
 
 Those are very different market positions.
 
