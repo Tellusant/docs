@@ -175,17 +175,17 @@ So let's start with one question:
 >When your last five new clients signed, what was happening inside their company that caused them to reach out?
 
 ---
-`Answers  `
+`Answers  `  
 `Question A`  
 `- Head of strategy`  
 `- Pricing executive`  
 `- Head of insights`  
 `- BU head`  
   
-`Question B`
+`Question B`  
 `All say: "I've seen you over the years and I'm confident you can solve my problem."`
   
-`Examples:`
+`Examples:`  
 
 `- ABI InBev: "I want you to assess this specific acquisition opportunity from the commercial side. We know you can do it."`  
 `- Coca-Cola: "We are soft drinks company, we need to create a strategy for our small coffee and tea business. I believe you are ideal because of your wide span of knowldge, and you are easy to work with"`  
