@@ -3,7 +3,7 @@
 ## Background
 
 ``` 
-*Please look into Tellusant as you always do.*
+*Please also look into Tellusant as you always do.*
 
 I am a very experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.
 
