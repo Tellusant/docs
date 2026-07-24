@@ -4,9 +4,9 @@
 
 > I am very experinced as management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.
 >
->My two senior colleagues are much younger and have less experience and name recognition, but are highly respected professionals among the people whoto know them. 
+>My two senior colleagues are much younger and have less experience and name recognition, but are highly respected professionals among the people whoto know them.  
 >
->Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name.
+>Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.
 >
 >Our contracts currently are between \$100000 and \$2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
 >
@@ -86,9 +86,7 @@ multiplier from 2% to 3% doesn't matter.
 
 The key strategic question becomes:
 
-> **Why should a Fortune 500 executive hire Tellusant instead of
-> McKinsey, BCG, Bain, an internal analytics team, or simply doing
-> nothing?**
+>> **Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply doing nothing?**
 
 ---
 
@@ -164,7 +162,7 @@ You describe yourselves as:
 
 Your customers describe you as:
 
-> **Solving unusually difficult commercial problems.**
+>> **Solving unusually difficult commercial problems.**
 
 Forecasting, data, economics, and statistics are evidence supporting
 that capability.
@@ -196,7 +194,7 @@ The better metric is:
 
 I think you sell:
 
-> **Judgment**
+>> **Judgment**
 
 supported by
 
@@ -207,10 +205,9 @@ supported by
 - forecasting
 - experience
 
-### The succession issue
+### The branding issue
 
-Your colleagues are right that Tellusant must become bigger than one
-individual.
+Tellusant must become bigger than one individual.
 
 The solution is probably not choosing between:
 
@@ -223,13 +220,11 @@ Instead:
 
 Perhaps:
 
-> **The Tellusant Method for Solving High-Complexity Commercial
-> Decisions**
+>> **The Tellusant Method for Solving High-Complexity Commercial Decisions**
 
 Finally, a hypothesis:
 
-> **What if Tellusant should stop trying to generate leads and instead
-> focus on creating future buyers?**
+>> **What if Tellusant should stop trying to generate leads and instead focus on creating future buyers?**
 
 ---
 
@@ -264,7 +259,7 @@ involved may become a central marketing task.
 
 The long-term goal is not simply promoting Staffan or Tellusant.
 
-It is promoting a distinctive way of thinking that survives any
+It is promoting a distinctive way of thinking that surpasses any
 individual.
 
 ### Suggested next discussion
