@@ -2,25 +2,23 @@
 
 ## Background
 
-``` 
-*Please also look into Tellusant as you always do.*
-
-I am a very experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.
-
-My two senior colleagues are much younger, but are highly respected professionals among the people who to know them. They have more than 10 years each of senior level engegement at clients.
-
-Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.
-
-Our contracts currently are between \$100000 and \$2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
-
-We try email campaigns and LinkedIn posts and newsletters. They are often read, but no outreach from those reader. I publish a lot, people enjoy it, but no further activity. My most successful publications are academic in nature (FigShare, SSRN).
-
+>*Please also look into Tellusant as you always do.*
+>
+>I am a very experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.
+>
+>My two senior colleagues are much younger, but are highly respected professionals among the people who to know them. They have more than 10 years each of senior level engegement at clients.
+>
+>Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.
+>
+>Our contracts currently are between \$100000 and \$2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
+>
+>We try email campaigns and LinkedIn posts and newsletters. They are often read, but no outreach from those reader. I publish a lot, people enjoy it, but no further activity. My most successful publications are academic in nature (FigShare, SSRN).
+>
 >We need to build a new marketing plan. We have tried so much that we hesitate to test ideas because they are likely time sinks, not successes.
-
-Let's us run a dialogue around this.
-
-Anything else you want to know before we start?
-```
+>
+>Let's us run a dialogue around this.
+>
+>Anything else you want to know before we start?
 
 ---
 
