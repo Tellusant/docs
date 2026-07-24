@@ -7,21 +7,21 @@ To be buildt out during July and August.
 
 `Please also look into Tellusant, as you always do.`
 
-`I am a very experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.`
+`I am an experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.`
 
->My two senior colleagues are much younger, but are highly respected professionals among the people who to know them. They have more than 10 years each of senior level engegement at clients.
->
->Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.
->
->Our contracts currently are between $100000 and $2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
->
->We try email campaigns and LinkedIn posts and newsletters. They are often read, but no outreach from those reader. I publish a lot, people enjoy it, but no further activity. My most successful publications are academic in nature (FigShare, SSRN).
->
->We need to build a new marketing plan. We have tried so much that we hesitate to test ideas because they are likely time sinks, not successes.
->
->Let's us run a dialogue around this.
->
->Anything else you want to know before we start?
+`My two senior colleagues are much younger, but are highly respected professionals among the people who to know them. They have more than 10 years each of senior level engegement at clients.`
+
+`Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.`
+
+`Our contracts currently are between $100000 and $2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).`
+
+`We try email campaigns and LinkedIn posts and newsletters. They are often read, but no outreach from those reader. I publish a lot, people enjoy it, but no further activity. My most successful publications are academic in nature (FigShare, SSRN).`
+
+`We need to build a new marketing plan. We have tried so much that we hesitate to test ideas because they are likely time sinks, not successes.`
+
+`Let's us run a dialogue around this.`
+
+`Anything else you want to know before we start?`
 
 ---
 
@@ -63,15 +63,15 @@ For example, at McKinsey nobody bought "strategy."
 
 They bought:
 
->> "Growth has stalled."
+> "Growth has stalled."
 
 or
 
->> "Our pricing isn't working."
+> "Our pricing isn't working."
 
 or
 
->> "We need a five-year plan."
+> "We need a five-year plan."
 
 What is that sentence for Tellusant?
 
@@ -83,19 +83,19 @@ Not the polished marketing answer.
 
 Something like
 
->> "Nobody else could answer this."
+> "Nobody else could answer this."
 
 or
 
->> "Staffan understands our business." / "Tellusant understands our business."
+> "Staffan understands our business." / "Tellusant understands our business."
 
 or
 
->> "We trusted him." / "We trusted them"
+> "We trusted him." / "We trusted them"
 
 or
 
->> "Their data is unique."
+> "Their data is unique."
 
 These are very different businesses.  
 
@@ -145,7 +145,7 @@ But that is not what your career says.
 
 Your career says:
 
->> **This is the place you go when normal consulting firms cannot answer the question.**
+> **This is the place you go when normal consulting firms cannot answer the question.**
 
 Those are very different market positions.
 
@@ -169,7 +169,7 @@ I'd like this discussion to become quite strategic rather than tactical.
 
 If I were acting as an outside adviser to Tellusant, my goal would be to answer a single question:
 
->> **Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply doing nothing?**
+> **Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply doing nothing?**
 
 If we can answer that crisply, the marketing plan almost writes itself.
 
@@ -177,14 +177,14 @@ So let's start with one question:
 
 **When your last five new clients signed, what was happening inside their company that caused them to reach out?**
 
-> Answers
-> #### A
->- Head of strategy
->- Pricing executive
->- Head of insights
->- BU head
+'Answers
+Question A
+- Head of strategy
+- Pricing executive
+- Head of insights
+- BU head'
 
->#### B
+`Question B  
 >All say: "I've seen you over the years and I'm confident you can solve my problem."
 >
 >Examples:
@@ -194,13 +194,13 @@ So let's start with one question:
 >- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."
 >- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"
 >- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."
->- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.
+>- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.'
 
->#### C
-`Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
+`Question  C  
+Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
 
->#### D
->Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.
+`Question D  
+Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.`
 
 This is extremely revealing.
 
@@ -211,12 +211,6 @@ None of your examples describe a company buying **Tellusant**.
 Every one of them describes someone buying **accumulated evidence**.
 
 There is a pattern that is almost uncanny.
-
-This is extremely revealing.  
-
-None of your examples describe a company buying **Tellusant**.
-
-Every one of them describes someone buying **accumulated evidence**.
 
 ---
 The buying process today looks like this:
