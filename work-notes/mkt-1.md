@@ -3,8 +3,6 @@ To be buildt out during July and August.
 
 ## 1st Loop
 
-## Background
-
 `Please also look into Tellusant, as you always do.`
 
 `I am an experienced management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.`
@@ -25,7 +23,7 @@ To be buildt out during July and August.
 
 ---
 
-## More information
+### More information
 
 Yes. I think there are a few pieces of information that will determine whether we end up with another list of marketing tactics or something that genuinely changes your growth trajectory.
 
