@@ -10,7 +10,7 @@
 >
 >Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name, but this is not sustainable.
 >
->Our contracts currently are between \$100000 and \$2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
+>Our contracts currently are between $100000 and $2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
 >
 >We try email campaigns and LinkedIn posts and newsletters. They are often read, but no outreach from those reader. I publish a lot, people enjoy it, but no further activity. My most successful publications are academic in nature (FigShare, SSRN).
 >
@@ -41,7 +41,7 @@ Instead, I'd like to understand why someone who is impressed by Tellusant never 
 
 ### The questions I think matter most
 
-1.  **Who actually signs a $500k Tellusant contract?**
+A.  **Who actually signs a $500k Tellusant contract?**
 Describe the person.
 - Former consultant?
 - Economist?
@@ -55,7 +55,7 @@ And perhaps most importantly:
 
 >> What keeps them awake at night?
 
-2.  **What is the first sentence they say?**
+B.  **What is the first sentence they say?**
 For example, at McKinsey nobody bought "strategy."
 
 They bought:
@@ -72,7 +72,7 @@ or
 
 What is that sentence for Tellusant?
 
-3.  **Why do existing clients buy?**
+C.  **Why do existing clients buy?**
 
 If you interviewed ten clients, what would they actually say?
 
@@ -96,7 +96,7 @@ or
 
 These are very different businesses.  
 
-4.  **What happens after someone reads one of your articles?**
+D.  **What happens after someone reads one of your articles?**
 
 This one fascinates me.
 
@@ -116,7 +116,7 @@ Do I
 
 If the answer is "nothing," then the publication is acting as an endpoint rather than the beginning of a buying journey.
 
-5.  **How much of the company currently depends on you?**
+E.  **How much of the company currently depends on you?**
 
 This is the uncomfortable question.
 
@@ -175,13 +175,13 @@ So let's start with one question:
 **When your last five new clients signed, what was happening inside their company that caused them to reach out?**
 
 > Answers
-> #### Q1
+> #### A
 >- Head of strategy
 >- Pricing executive
 >- Head of insights
 >- BU head
 
->#### Q2
+>#### B
 >All say: "I've seen you over the years and I'm confident you can solve my problem."
 >
 >Examples:
@@ -193,10 +193,10 @@ So let's start with one question:
 >- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."
 >- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.
 
->#### Q3
+>#### C
 >Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.
 
->#### Q4
+>#### D
 >Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.
 
 This is extremely revealing.
