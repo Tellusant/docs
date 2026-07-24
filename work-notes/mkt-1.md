@@ -250,7 +250,7 @@ Nobody hires McKinsey because of a LinkedIn post.
 
 They hire them because, after years of seeing the firm in different contexts, they think
 
->>When something important happens, these are the people.
+>When something important happens, these are the people.
 
 Your examples are exactly the same, except at the individual rather than institutional level.
 
