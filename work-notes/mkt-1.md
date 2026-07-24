@@ -194,7 +194,7 @@ So let's start with one question:
 >- *Nutresa* says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.
 
 >#### C
->Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.
+`Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.`
 
 >#### D
 >Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.
