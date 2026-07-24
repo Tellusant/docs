@@ -98,71 +98,117 @@ These are very different businesses.
 
 4.  **What happens after someone reads one of your articles?**
 
+This one fascinates me.
 
-    -   Demo?
-    -   Download?
-    -   Request data?
-    -   Nothing?
+Suppose I read your latest newsletter.
+
+I'm impressed.
+
+Now what?
+
+Do I
+
+- book a demo?
+- download something?
+- request a data sample?
+- buy a report?
+- Nothing?
+
+If the answer is "nothing," then the publication is acting as an endpoint rather than the beginning of a buying journey.
+
 5.  **How much of the company currently depends on you?**
+
+This is the uncomfortable question.
+
+Imagine tomorrow you announced retirement.
+
+Would Tellusant lose
+
+20% of revenue?
+50%?
+80%?
+
+That tells us whether the company is selling Staffan or Tellusant.
 
 ### One observation
 
-You consistently describe yourself as nusual---not just experienced, but someone whose comparative advantage is solving problems that almost
-nobody else can solve.
+I noticed something you've said in several conversations over the past year.
+
+You consistently describe yourself as unusual---not just experienced, but someone whose comparative advantage is solving problems that almost nobody else can solve. Your work spans consulting, economics, forecasting, philosophy of science, data engineering, and mathematical modeling. That breadth is reflected in your publications and projects.
 
 From the outside, Tellusant often presents itself as **a company with good data and forecasting.**
 
-But your career says:
+But that is not what your career says.
+
+Your career says:
 
 >> **This is the place you go when normal consulting firms cannot answer the question.**
 
 Those are very different market positions.
 
-I would not spend another six months optimizing LinkedIn posts,
-newsletters, email subject lines, or website copy.
+One competes with Gartner, Nielsen, Circana, McKinsey analytics groups, and countless forecasting vendors.
+
+The other has almost no direct competitors.
+
+I don't know yet whether that's the right positioning—but it's a hypothesis worth testing.
+
+#### One thing I would not do
+
+I would not spend another six months optimizing LinkedIn posts, newsletters, email subject lines, or website copy.
 
 Those are conversion multipliers.
 
-If the underlying positioning is off by a factor of ten, improving the
-multiplier from 2% to 3% doesn't matter.
-
-The key strategic question becomes:
-
->> **Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply doing nothing?**
+If the underlying positioning is off by a factor of ten, improving the multiplier from 2% to 3% doesn't matter.
 
 ---
 
-> ### Q1
->
+I'd like this discussion to become quite strategic rather than tactical.
+
+If I were acting as an outside adviser to Tellusant, my goal would be to answer a single question:
+
+>> **Why should a Fortune 500 executive hire Tellusant instead of McKinsey, BCG, Bain, an internal analytics team, or simply doing nothing?**
+
+If we can answer that crisply, the marketing plan almost writes itself.
+
+So let's start with one question:
+
+**When your last five new clients signed, what was happening inside their company that caused them to reach out?**
+
+> Answers
+> #### Q1
 >- Head of strategy
 >- Pricing executive
 >- Head of insights
 >- BU head
 
->### Q2
+>#### Q2
 >
 >All say: "I've seen you over the years and I'm confident you can solve my problem."
 >
 >Examples:
 >
->- ABI InBev: assess a commercial acquisition opportunity.
->- Coca-Cola: strategy for coffee and tea.
->- Heineken: unify forecasting globally.
->- Constellation Brands: subnational capability.
->- BIC: maximize opportunities in a declining category.
->- Nutresa: referral from Colombia.
+>- *ABI InBev*: "I want you to assess this specific acquisition opportunity from the commercial side. We know you can do it."
+>- *Coca-Cola*: "We are soft drinks company, we need to create a strategy for our small coffee and tea business. I believe you are ideal because of your wide span of knowldge, and you are easy to work with"
+>- "We have a hodge podge of demand predictions at *Heineken*. Each subsidiary does its own, with different methods and data. I know you can create a unified solution because I saw you do it 10 years ago (a person we didn't know then)."
+>- "*Constellation Brands* treats the US as one national market. We need to subnational. I've seen you do this at PepsiCo"
+>- *BIC* says "a stationary is in decline and we need to maximize our opportunities. We would you to it the way you did at PepsiCo."
+>- *Nutresa*says: "We don't know you at all, but your man in Colombia says you can help. Let's work together.
 
->### Q3
->
+>#### Q3
 >Nobody else could answer this as cost-effectively, and we trust the individuals (Staffan, Phil, Bobo). Sometimes they refer to the data.
->
+
 >### Q4
->
->Nothing happens. I write mainly so people remember me.
+>Nothing happens. I write mainly for keeping people aware of me: "oh yes, I remember Staffan". Sometime they follow up, like the CFO at Kraft Heinz.
 
----
+This is extremely revealing.
 
-## Reaction
+In fact, I think you've already answered the central question.
+
+None of your examples describe a company buying **Tellusant**.
+
+Every one of them describes someone buying **accumulated evidence**.
+
+There is a pattern that is almost uncanny.
 
 This is extremely revealing.  
 
@@ -170,6 +216,7 @@ None of your examples describe a company buying **Tellusant**.
 
 Every one of them describes someone buying **accumulated evidence**.
 
+---
 The buying process today looks like this:
 
 ``` text
@@ -184,53 +231,160 @@ Executive encounters difficult problem
 Call
 ```
 
-Marketing collateral is not causing the purchase.
+Notice what is not in that chain.
+
+- marketing campaigns
+- brochures
+- product descriptions
+- newsletters
+- lead magnets
+- white papers
+
+Those aren't causing the purchase.
+
+Confidence is.
 
 **Confidence is.**
 
-### The weakness
+---
+### That's actually good news
 
-Confidence accumulates only among people who already know you.
+Many consulting firms wish they had this problem.
+
+McKinsey has the same phenomenon.
+
+Nobody hires McKinsey because of a LinkedIn post.
+
+They hire them because, after years of seeing the firm in different contexts, they think
+
+>>When something important happens, these are the people.
+
+Your examples are exactly the same, except at the individual rather than institutional level.
+
+### But there is one major weakness
+
+Confidence accumulates **only among people who already know you.**
 
 That creates a very long sales cycle.
+
+Some of your examples involve relationships going back ten years.
+
+That's wonderful for closing.
+
+It's terrible for scaling.
 
 ### I think Tellusant has misidentified its business
 
 You describe yourselves as:
 
-- forecasting
-- data
-- consulting
+>>- forecasting
+>>- data
+>>- consulting
 
 Your customers describe you as:
 
->> **Solving unusually difficult commercial problems.**
+>> solving unusually difficult commercial problems.
 
-Forecasting, data, economics, and statistics are evidence supporting
-that capability.
+Those are completely different businesses.
 
-### Your publications
+Consider the examples.
 
-Your publications are not disconnected.
+ABI InBev:
+
+>>Assess an acquisition.
+
+Not forecasting.
+
+Heineken:
+
+>> Unify forecasting globally.
+
+Not software.
+
+Constellation:
+
+>> Build subnational capability.
+
+Not consulting in the traditional sense.
+
+BIC:
+
+>> Help us survive structural decline.
+
+Again—not forecasting.
+
+The common denominator is something like
+
+>> "This problem is unusually difficult."
+
+### That suggests a different positioning
+
+Rather than 
+
+>>We provide forecasting.
+
+perhaps
+
+>> We solve commercial problems that conventional approaches cannot.
+
+Forecasting becomes evidence.
+
+Data becomes evidence.
+
+Economics becomes evidence.
+
+Statistics becomes evidence.
+
+Everything supports that single promise.
+
+### Your publications fit this perfectly
+
+I had noticed something in our previous conversations that now makes much more sense.
+
+You publish on
+
+- forecasting
+- football economics
+- philosophy of science
+- error theory
+- market structure
+- demographics
+- productivity
+- stochastic processes
+
+At first glance they look disconnected.
+
+They aren't.
+
+They all demonstrate one thing:
+
+>> This person thinks differently.
 
 They signal one thing:
 
 >> **This person thinks differently.**
 
-They function less as marketing collateral than as demonstrations of
-intellectual capability.
+The publications are functioning less as marketing collateral and more as **signals of intellectual capability**. They reinforce the impression that you can tackle problems others don't even frame correctly.
+
+That is probably why your Figshare and SSRN papers perform better than traditional marketing pieces.
 
 ### The surprising part
 
 Your newsletters may actually be succeeding.
 
-The wrong metric is:
+Just not in the way you measure.
+
+You measure
 
 >> Did somebody call?
 
 The better metric is:
 
 >> Did another executive move one inch further toward trusting us?
+
+That can take years.
+
+
 
 ### What you sell
 
