@@ -384,63 +384,89 @@ The better metric is:
 
 That can take years.
 
+---
+### Where I think the conversation becomes interesting
 
+I'm beginning to think Tellusant is not primarily a software company.
 
-### What you sell
+Nor primarily a consulting company.
 
-I think you sell:
+Nor primarily a data company.
 
->> **Judgment**
+I think you're selling something rarer.
 
-supported by
+**You sell judgment.**
+
+Supported by
 
 - proprietary data
 - economics
 - statistics
 - software
-- forecasting
-- experience
+- forecasting experience.
 
-### The branding issue
+Those are the mechanisms.
 
-Tellusant must become bigger than one individual.
+Judgment is the product.
 
-The solution is probably not choosing between:
+### But...
 
-- Staffan
-- Tellusant
+Here is where I would gently challenge your current approach.
 
-Instead:
+If the entire value roposition is "hire Staffan," then Tellusant becomes difficult to sustain. The teams instinct to build the Tellusant brand is strategically sound.
 
-> **Build a school of thought.**
+The question is *how* to do it.
 
-Perhaps:
+Trying to make Tellusant look like "another analytics company" strips away the very thing that makes clients choose you. Yet keeping things centered on you doesn't solve the long-term.
 
->> **The Tellusant Method for Solving High-Complexity Commercial Decisions**
+That suggests a third path:
 
-Finally, a hypothesis:
+Build the brand around a *way of thinking*, not around a person.
+
+McKinsey's enduring asset is not that Marvin Bower was brilliant. It is that "the McKinsey approach" became something clients believed in. People came and went, but the underlying intellectual framework remained.
+
+For Tellusant, the enduring asset might be something like:
+
+>>The Tellusant Method for Solving High-Complexity Commercial Decisions
+
+That method could encompass:
+
+- rigorous economics
+- high-quality proprietary data
+- quantitative forecasting
+- executive judgment
+- practical implementation.
+
+You and your colleagues all become practitioners of the same method, even if each brings different strengths.
+
+---
+
+I have one hypothesis I'd like to explore next, because I think it could change the entire marketing strategy.
 
 >> **What if Tellusant should stop trying to generate leads and instead focus on creating future buyers?**
 
----
+In other words, accept that the sales cycle is inherently measured in years, and deliberately design every publication, conference talk, client interaction, and academic paper to move executives gradually toward the thought:
+
+>>"When I eventually face a genuinely difficult commercial decision, Tellusant is the first call I should make."
+
+That is a fundamentally different marketing system from a conventional B2B demand-generation funnel, and from everything you've told me so far, it seems much closer to how you've actually won business over the last 30 years.
+
 
 > Need to pause, but truly helpful. I'll be back.
 
----
+I'm glad it resonated. I also think this is one of those discussions where the answer isn't a better marketing tactic—it may be a different mental model.
 
-## Closing thoughts
+Before we continue next time, I'll leave you with three thoughts that I think are worth letting simmer.
 
-I'm glad it resonated.
+### 1. You may be in the "reputation business," not the consulting business
 
-Three closing thoughts:
+Almost every client example you gave started with:
 
-### 1. You may be in the reputation business.
+>>"I've seen you over the years..."
 
-Your clients repeatedly begin with:
+That isn't lead generation. It's reputation compounding.
 
->> "I've seen you over the years..."
-
-That is reputation compounding.
+Reputation is an asset that accumulates slowly, compounds over decades, and then converts into opportunities when the timing is right. Very few firms consciously manage it that way.
 
 ### 2. Fame is different from availability.
 
