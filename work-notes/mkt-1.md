@@ -1,21 +1,21 @@
-# User
+# Tellusant marketing approach
 
-**Tellusant marketing approach.**
+## Background
 
-> Background: I am very experinced as management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.
+> I am very experinced as management consultant. Partner at McKinsey and Monitor Company, founder and managing director of Canback Consulting (2004-2020), Co-founder of Tellusant in 2020. I have worked on the ground in 90 countries. I also have a deep knowledge of the sciences of economics, management, and statistics/math, with a doctorate. I have strong name recognition in some large companies.
 >
->My two senior colleagues habe less experience and name recognition and don't work at the most senior levels I do. They do not have a desire to increase their stature and prefer to build the Tellusant brand name. I have no problem with is since I will retire within 5 years, and they will contine.
+>My two senior colleagues are much younger and have less experience and name recognition, but are highly respected professionals among the people whoto know them. 
 >
->Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients.
+>Tellusant has not built the brand name we hoped for when we started in 2020. We have solid revenue, but our clients are with old friends in large companies. We struggle to find new clients. Much of the name recognition is through my name.
 >
->Our contracts currently are between \$100000 and \$2M. They center on PoluSim but we also do some consulting (similar to what Canback Consulting did).
+>Our contracts currently are between \$100000 and \$2M. They center on PoluSim but we have also done some consulting (similar to what Canback Consulting did).
 >
 >We try email campaigns and LinkedIn posts and newsletters. They are often read, but no outreach from those reader. I publish a lot, people enjoy it, but no further activity. My most successful publications are academic in nature (FigShare, SSRN).
 >
->We need to build a new marketing plan. We have tried so much that we hesitate to test ideas because they more like time sinks.
+>We need to build a new marketing plan. We have tried so much that we hesitate to test ideas because they are likely time sinks, not successes.
 >
 >Let's us run a dialogue around this.
-<>
+>
 >Anything else you want to know before we start?
 
 ---
