@@ -179,6 +179,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Reddal (2024): *Reddal Micro-MBA Seminar*](assets/pdf/reddal-micro-mba-seminar.pdf)
 #### [Research and Innovation in Social Science, International Journal of (2024): *Unveiling the Impact of Firm Characteristics on Integrated Reporting Practices*](https://rsisinternational.org/journals/ijriss/Digital-Library/volume-8-issue-9/3266-3276.pdf)
 #### [Research in National Development, Journal of (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria*](https://www.ajol.info/index.php/jorind/article/view/91712)
+#### [Revue de l'Entrepreneuriat (2023): *Au cœur de la fusion d’un écosystème entrepreneurial*](https://shs.cairn.info/revue-de-l-entrepreneuriat-2023-2-page-41?lang=fr)
 #### [Royal Caribbean (2017): *Global cruise market development trend and Asia cruise market*](assets/pdf/royal-caribbean-global-cruise-market-development-trend-and-asia-cruise-market.pdf)
 #### [RUAF (2024): *Dhaka City Food System Profile*](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content) 
 #### [Russian Science Foundation (2017): *Ethnic regional autonomies database (ERAD) Codebook*](http://identityworld.ru/maps_aera/database/ERAD_2.1_Codebook_2017_English.pdf)
