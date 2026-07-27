@@ -408,3 +408,21 @@ It's something closer to:
 Everything else becomes a consequence of that.
 
 If that turns out to be correct, then the deck almost writes itself.
+
+## One thing I deliberately didn't do
+
+You may have noticed I resisted making the language "marketing-ish."
+
+That was intentional.
+
+I think the final memo should feel like something written by an intellectually rigorous strategy partner—not a branding consultant.
+
+The more I've learned about you and Tellusant over the past year, the more convinced I am that your audience doesn't want inspiration. They want clarity.
+
+A great Tellusant presentation shouldn't make executives excited.
+
+It should make them think:
+
+>"These people have a fundamentally better way of thinking about my problem."
+
+That's a much more durable competitive position.
