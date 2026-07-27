@@ -93,7 +93,8 @@ That narrative is often more important than the slides themselves.
 
 The current journey is approximately:
 
-> This is Tellusant.
+```
+This is Tellusant.
 
 ↓
 
@@ -114,11 +115,13 @@ Here is our credibility.
 ↓
 
 Perhaps they can help us.
+```
 
 The ideal journey is closer to:
 
 > Commercial decisions have become dramatically more difficult.
 
+```
 Tellusant is a credible player, so continue listening
 
 ↓
@@ -148,6 +151,7 @@ Here are examples.
 ↓
 
 Let's have another conversation.
+```
 
 Notice that Tellusant enters the story much later.
 
@@ -180,7 +184,7 @@ Instead they think,
 
 Forecasting is simply one mechanism used to answer those questions.
 
-The real business is improving commercial judgment under uncertainty.
+**The real business is improving commercial judgment under uncertainty.**
 
 That is a far more defensible position because it is substantially
 harder to imitate.
@@ -304,7 +308,7 @@ Tellusant does not.
 
 That restraint is valuable.
 
-However, honesty should not become modesty.
+However, **honesty should not become modesty.**
 
 The presentation should confidently claim what Tellusant demonstrably
 achieves:
