@@ -115,10 +115,10 @@ Here is our credibility.
 ↓
 
 Perhaps they can help us.
+```
 
 The ideal journey is closer to:
 
-```
 Commercial decisions have become dramatically more difficult.
 
 ↓
