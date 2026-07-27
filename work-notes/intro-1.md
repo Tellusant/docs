@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------
 
-# Executive Summary
+## Executive Summary
 
 The current Tellusant Intro Deck is substantially better than the
 typical corporate capabilities presentation. It is fact-based,
@@ -57,7 +57,7 @@ principle of the presentation.
 
 ------------------------------------------------------------------------
 
-# First Impressions
+## First Impressions
 
 Imagine a Chief Strategy Officer opening the deck five minutes before
 your meeting.
@@ -82,9 +82,9 @@ The current presentation answers those questions eventually.
 
 It should answer them almost immediately.
 
-------------------------------------------------------------------------
+---
 
-# The Customer's Journey
+## The Customer's Journey
 
 Every presentation creates an internal narrative inside the audience's
 mind.
@@ -158,9 +158,8 @@ Notice that Tellusant enters the story much later.
 
 The customer enters first.
 
-------------------------------------------------------------------------
-
-# What Business Is Tellusant In?
+---
+## What Business Is Tellusant in?  
 
 This is perhaps the most important strategic question.
 
@@ -192,7 +191,7 @@ harder to imitate.
 
 ------------------------------------------------------------------------
 
-# Products Should Become Supporting Actors
+## Products Should Become Supporting Actors
 
 Most technology companies unintentionally structure presentations around
 their products.
@@ -217,7 +216,7 @@ Only the sequence has.
 
 ------------------------------------------------------------------------
 
-# Credibility Is an Asset That Arrives Too Late
+## Credibility Is an Asset That Arrives Too Late
 
 One of the strongest elements in the current deck is its credibility.
 
@@ -242,9 +241,8 @@ within the first few minutes.
 Credibility therefore belongs much earlier in the narrative---not as
 proof after the argument, but as permission to continue listening.
 
-------------------------------------------------------------------------
-
-# Technical Depth Is Not the Problem
+---
+## Technical Depth Is Not the Problem
 
 An interesting finding from this review is that the deck is probably not
 too technical.
@@ -268,9 +266,8 @@ the capability matters.
 
 That creates curiosity rather than information overload.
 
-------------------------------------------------------------------------
-
-# From Features to Consequences
+---
+## From Features to Consequences
 
 Almost every slide can probably be strengthened by asking a simple
 question.
@@ -298,7 +295,7 @@ Only the framing has.
 
 ------------------------------------------------------------------------
 
-# Confidence Rather Than Certainty
+## Confidence Rather Than Certainty
 
 One aspect of the deck that should remain unchanged is its intellectual
 honesty.
@@ -324,9 +321,8 @@ Those are strong claims.
 
 They are also defensible.
 
-------------------------------------------------------------------------
-
-# The Opportunity
+---
+## The Opportunity
 
 The most exciting conclusion from this preliminary review is that I do
 **not** think Tellusant requires a fundamentally different deck.
@@ -354,9 +350,8 @@ That single shift moves Tellusant from being perceived as another
 analytics company to being perceived as a trusted partner in executive
 decision-making.
 
-------------------------------------------------------------------------
-
-# Closing Observation
+---
+## Closing Observation
 
 There is one final thought that emerged only after reading both decks
 and reflecting on our marketing discussions.
@@ -383,3 +378,33 @@ presentations---becomes much easier, because the story is no longer
 about Tellusant.
 
 It is about the executive sitting across the table.
+
+## Something else occurred to me
+
+I've spent quite a bit of time thinking about positioning over the years, and I suspect we should avoid the usual marketing exercise of inventing a slogan.
+
+Instead, we should identify what I would call the first principle of Tellusant.
+
+McKinsey's first principle is not PowerPoint.
+
+Bridgewater's first principle is not investing.
+
+Toyota's first principle is not automobiles.
+
+Their methods are consequences of something deeper.
+
+For Tellusant, I don't think the first principle is forecasting.
+
+Nor AI.
+
+Nor economics.
+
+Nor consumer data.
+
+It's something closer to:
+
+**Improving executive judgment under uncertainty through scientific reasoning.**
+
+Everything else becomes a consequence of that.
+
+If that turns out to be correct, then the deck almost writes itself.
