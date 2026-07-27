@@ -119,6 +119,8 @@ The ideal journey is closer to:
 
 > Commercial decisions have become dramatically more difficult.
 
+Tellusant is a credible player, so continue listening
+
 ↓
 
 Traditional planning methods are struggling.
