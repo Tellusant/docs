@@ -170,6 +170,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Pharmaceutical Research, World Journal of (2018): *Antifungal activities of seed extracts of mahogany on Carica papaya*](https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1531805465.pdf)
 #### [Pioneer Foods (2013): *Annual results presentation*](assets/pdf/pioneerfoods-annual-report-2013.pdf)  
 #### [Portugal Telecom (2012): *Consolidated annual report*](https://cdn-sites-assets.mziq.com/wp-content/uploads/sites/39/2017/12/PT_RA2012_port.pdf)
+#### [Public Administration Review (2023): *Beyond hollowing out: Public sector managers and the use of external management consultants*](https://idus.us.es/server/api/core/bitstreams/3d8baeb8-cfe8-4d5c-b425-61653b98461e/content)
 #### [Putnam Investments (2022): *Inflation is fueling opportunities in emerging markets*](https://www.putnam.com/newsroom/post/marketOutlooks/1216-inflation-is-fueling-opportunities-in-emerging-markets-2/) (broken)
 #### [PwC (2015): *Building better cities*](assets/pdf/pwc-building-better-cities.pdf)
 #### [PwC (2014): *Global megatrends: Mexico focus*](https://dokumen.tips/documents/global-megatrends-canback-global-megatrends-mexico-highlights-demographic.html?page=1) (broken)
