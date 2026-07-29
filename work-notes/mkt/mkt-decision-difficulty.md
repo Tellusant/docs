@@ -149,12 +149,12 @@ D = f(C, U, S, T, R)
 where
 
 $\begin{aligned}
-D &= \text{Commercial Decision Difficulty} \\
+D &= \text{Commercial decision difficulty} \\
 C &= \text{Complexity} \\
 U &= \text{Uncertainty} \\
-S &= \text{Required Decision Speed} \\
-T &= \text{Time Horizon} \\
-R &= \text{Risk Exposure}
+S &= \text{Required decision dpeed} \\
+T &= \text{Time horizon} \\
+R &= \text{Risk exposure}
 \end{aligned}$
 
 Then explain each.
@@ -256,12 +256,14 @@ C = g(V, I, N, G, O, E)
 
 where
 
-V = number of relevant variables  
-I = degree of interdependence  
-N = nonlinearities  
-G = geographic scope  
-O = organizational scope  
-E = external environmental factors (regulation, competitors, technology, etc.)  
+$\begin{aligned}
+V &= \text{Number of relevant variables} \\
+I &= \text{Degree of interdependence} \\
+N &= \text{Nonlinearities} \\
+G &= \text{Geographic scope} \\
+O &= \text{Organizational scope} \\
+E &= \text{External environmental factors (regulation, competitors, technology, etc.)}
+\end{aligned}$
 
 Substituting this into the first equation gives
 
