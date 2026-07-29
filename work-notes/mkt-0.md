@@ -1,4 +1,7 @@
-`
+# On Brashness
+July 13, 2026
+
+
 As a company, we usually understate what we have and talk in a factual manner about our solutions with potential customers. Should we be more brash and a bit extravagant in our claims? 
 `
 
@@ -140,34 +143,36 @@ From our conversations, I don't think Tellusant has a credibility problem. If an
 
 That is a much better problem to solve than trying to sound more aggressive. In B2B markets—especially when selling to senior executives—credible evidence usually outperforms bold claims over the long term.
 
-In sum, emphaize our distinctiveness without apologies, but avoid claims without grounding.
+`
+In sum, emphasize our distinctiveness without apologies, but avoid claims without grounding.
+`
 
 Exactly.
 
 I'd condense it even further into a positioning principle:
 
-State your distinctiveness confidently. State your evidence factually. Let others conclude that you are exceptional.
+>**State your distinctiveness confidently. State your evidence factually. Let others conclude that you are exceptional.**
 
 Or, as a style guide for Tellusant:
 
-Never apologize for being different.
-Never exaggerate.
-Always explain why your differences matter.
-Support important claims with observable evidence.
-Let the accumulated evidence create the impression, rather than adjectives.
+1. Never apologize for being different.
+2. Never exaggerate.
+3. Always explain why your differences matter.
+4. Support important claims with observable evidence.
+5. Let the accumulated evidence create the impression, rather than adjectives.
 
 For example, instead of:
 
-Tellusant offers world-class forecasting and unique data.
+>*Tellusant offers world-class forecasting and unique data.*
 
 Write:
 
-Tellusant combines harmonized global consumer economics, long-term forecasting, and pricing analytics in a single scientific framework. Our methods and data have been cited by multinational companies, governments, and international organizations, reflecting their practical use in strategic decision-making.
+>*Tellusant combines harmonized global consumer economics, long-term forecasting, and pricing analytics in a single scientific framework. Our methods and data have been cited by multinational companies, governments, and international organizations, reflecting their practical use in strategic decision-making.*
 
 The second version is more persuasive precisely because it gives the reader reasons to believe it.
 
-Given everything we've discussed over the past year, I think Tellusant's brand should communicate quiet confidence. The tone should be:
+Given everything we've discussed over the past year, I think Tellusant's brand should communicate **quiet confidence**. The tone should be:
 
-"We know exactly what we do, why it is different, and we can demonstrate it."
+>**"We know exactly what we do, why it is different, and we can demonstrate it."**
 
 That is a distinctive voice in enterprise software and analytics, where many companies rely on superlatives. It also aligns well with the scientific ethos that underpins your work.
