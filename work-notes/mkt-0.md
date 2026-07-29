@@ -1,9 +1,7 @@
 # On Brashness
 *July 13, 2026*
 
-`
-As a company, we usually understate what we have and talk in a factual manner about our solutions with potential customers. Should we be more brash and a bit extravagant in our claims? 
-`
+`As a company, we usually understate what we have and talk in a factual manner about our solutions with potential customers. Should we be more brash and a bit extravagant in our claims?`
 
 Based on what I know about Tellusant and your approach over many conversations, I would not recommend becoming brash. I would recommend becoming much more explicit about what you can substantiate.
 
