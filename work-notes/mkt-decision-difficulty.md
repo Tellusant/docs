@@ -34,6 +34,18 @@ Decision frequency	Near real-time operations	↑
 Stakeholders	Regulators, investors, NGOs, consumers	↑
 Consequences of mistakes	Viral social media, market transparency	↑
 
+| Dimension                    | Evidence                                             | Trend |
+| ---------------------------- | ---------------------------------------------------- | ----- |
+| Number of decision variables | Product proliferation, channels, prices, regulations | ↑     |
+| Interdependence              | Global supply chains, ecosystems                     | ↑↑    |
+| Speed of change              | Technology cycles, competitors                       | ↑↑    |
+| Uncertainty                  | Geopolitics, inflation, climate, AI                  | ↑↑    |
+| Information volume           | Massive data availability                            | ↑↑    |
+| Decision frequency           | Near real-time operations                            | ↑     |
+| Stakeholders                 | Regulators, investors, NGOs, consumers               | ↑     |
+| Consequences of mistakes     | Viral social media, market transparency              | ↑     |
+
+
 Every one of these can be documented independently.
 
 Herbert Simon predicted this
@@ -189,3 +201,5 @@ Tellusant effectively says
 That is a much stronger and more defensible claim. It also aligns naturally with PoluSim, TelluBase, and your broader emphasis on improving decision quality rather than merely providing more data.
 
 In fact, I would avoid claiming that decision-making has become harder and instead claim that the dimensionality of commercial decision problems has expanded dramatically. "Dimensionality" is a concept that economists, statisticians, operations researchers, and AI practitioners all understand, and it has a far more precise meaning than "difficulty." I think that wording is both more rigorous and more consistent with Tellusant's scientific positioning.
+
+
