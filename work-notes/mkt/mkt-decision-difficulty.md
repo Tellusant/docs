@@ -1,3 +1,5 @@
+# Commercial Decision Difficulty
+
 ```At one point, you mentioned "Commercial decisions have become dramatically more difficult". Is there evidence for this statement? Has someone proven it? Are there dimensions of the difficulty? I believe the statement is right, but it would be great to somehow substantiate it.```
 
 This is an excellent question. I would actually be cautious with the statement as written.
@@ -17,7 +19,7 @@ Instead of saying
 
 say something like
 
->**Commercial decisions are being made in environments that are substantially more complex, uncertain, and interconnected than a generation ago.**
+>Commercial decisions are being made in environments that are substantially more complex, uncertain, and interconnected than a generation ago.
 
 That statement is much easier to defend.
 
