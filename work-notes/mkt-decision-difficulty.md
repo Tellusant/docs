@@ -135,6 +135,10 @@ If I were writing the Tellusant narrative, I'd define commercial decision diffic
 
 D=f(C,U,S,T,R)
 
+$$\begin{equation}
+D = f(C, U, S, T, R)
+\end{equation}$$
+
 where
 
 C = Complexity
