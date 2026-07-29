@@ -31,14 +31,14 @@ say something like
 
 That statement is much easier to defend.
 
-------------------------------------------------------------------------
+---
 
 ## What has actually increased?
 
 I would decompose commercial decision difficulty into several
 dimensions.
 
-  -----------------------------------------------------------------------
+  ---
   Dimension                   Evidence                  Trend
   --------------------------- ------------------------- -----------------
   Number of decision          Product proliferation,    ↑
@@ -67,7 +67,7 @@ dimensions.
 
 Every one of these can be documented independently.
 
-------------------------------------------------------------------------
+---
 
 ## Herbert Simon predicted this
 
