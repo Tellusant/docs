@@ -1,5 +1,5 @@
 # On Brashness
-July 13, 2026
+*July 13, 2026*
 
 
 As a company, we usually understate what we have and talk in a factual manner about our solutions with potential customers. Should we be more brash and a bit extravagant in our claims? 
