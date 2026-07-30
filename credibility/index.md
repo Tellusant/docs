@@ -44,16 +44,16 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 *Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
 ## 3. Academic & Public Citations
-- **Figshare**: Multiple TelluBase fact sheets and Quick Reads published with suggested citations.  
+- **Figshare**: 29 academic entries published with suggested citations.  
 [Tellusant Members on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)  
 - **SSRN**: Several papers list Tellusant as an author affiliation.  
 [SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)  
-- **Wikipedia**: Over 200 citations to TelluBase fact sheets across English and non-English pages.  
+- **Wikipedia**: Over 250 citations to TelluBase fact sheets across English and non-English pages.  
 [TelluBase Citations](https://en.wikipedia.org/w/index.php?search=tellubase&title=Special%3ASearch&ns0=1)  
+- **Business and Scientific citations**  Over 750 citations of Tellusant and its leaders over the years.  
+  [List with hyperlinks](../citations/)
 - **Statista** Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
-  [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)
-  - **Business and Scientific citations**  Over 750 citations of Tellusant and its leaders over the years. 
-  [Full list with hyperlinks](../citations/)
+  [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/) 
 
 ## 4. Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
