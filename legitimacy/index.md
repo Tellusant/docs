@@ -3,7 +3,7 @@ title: "Credibility Evidence Pack"
 description: "Outside-in validation of Tellusant's credibility by ChatGPT"
 image: /assets/social-card-legit.png
 ---
-> [View a PDF version of the credibility pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
+ 
 # Tellusant Credibility Evidence Pack
 
 This page summarizes the credibility of Tellusant as validated by ChatGPT.  
@@ -110,6 +110,7 @@ Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s credibilit
 ---
 Source: Tellusant, Inc.
 
+[View a PDF version of the legitimacy pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
 [See a pre-Tellusant client list](clients-pre-tellusant.md)  
 [See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)  
 [Return to Repository home](../index.md)
