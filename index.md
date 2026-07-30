@@ -32,8 +32,8 @@ Our videos cover our company and products, trade visits, travel experiences, and
 We create an immense amount of maps on various topics. See some of them in glorious SVG.  
 ## [Press Releases](press-releases/index.md)  
 View our press releases covering important news from our company.  
-## [Tellusant Legitimacy Evidence Pack](legitimacy/index.md)  
-We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.  
+## [Tellusant Credibility Evidence Pack](legitimacy/index.md)  
+We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process.  
 ## [External Citations](citations/index.md)  
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) cite Tellusant and its team members publicly.  
 ## [Recommended Readings](recommended-readings/index.md)  
