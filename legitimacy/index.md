@@ -1,5 +1,5 @@
 ---
-title: "Credibility Evidence Pack"
+title: "Tellusant Credibility Evidence Pack"
 description: "Outside-in validation of Tellusant's credibility by ChatGPT"
 image: /assets/social-card-cred.png
 ---
