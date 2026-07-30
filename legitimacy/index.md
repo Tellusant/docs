@@ -1,10 +1,10 @@
 ---
-title: "Tellusant Credibility Evidence Pack"
+title: "Tellusant Credibility Evidence Pack, July 2026"
 description: "We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process."
 image: /assets/social-card-cred.png
 ---
  
-# Tellusant Credibility Evidence Pack
+# Tellusant Credibility Evidence Pack, July 2026
 
 We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process.  
 
