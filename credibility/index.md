@@ -2,6 +2,8 @@
 title: "Tellusant Credibility Evidence Pack, July 2026"
 description: "We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process."
 image: /assets/social-card-cred.png
+redirect_from:
+  - /legitimacy/
 ---
  
 # Tellusant Credibility Evidence Pack, July 2026
