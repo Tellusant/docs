@@ -149,7 +149,7 @@ D = f(C, U, S, T, R)
 where
 
 $\begin{aligned}
-D &= \text{Commercial decision difficulty} \\
+D &= \text{Commercial decision difficulty} \newline
 C &= \text{Complexity} \\
 U &= \text{Uncertainty} \\
 S &= \text{Required decision dpeed} \\

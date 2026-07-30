@@ -1,20 +1,18 @@
 ---
-title: "Legitimacy Evidence Pack"
-description: "Outside-in validation of Tellusant's legitimacy by ChatGPT"
+title: "Credibility Evidence Pack"
+description: "Outside-in validation of Tellusant's credibility by ChatGPT"
 image: /assets/social-card-legit.png
 ---
+ 
+# Tellusant Credibility Evidence Pack
 
-# Tellusant Legitimacy Evidence Pack
+This page summarizes the credibility of Tellusant as validated by ChatGPT.  
 
-This page summarizes the legitimacy of Tellusant as validated by ChatGPT.  
-
-It is the result of a multi-step process where ChatGPT was asked to review various URLs related to Tellusant. From this, it created a **Legitimacy Evidence Pack** in a PDF. The content is shown here.  
+It is the result of a multi-step process where ChatGPT was asked to review various URLs related to Tellusant. From this, it created a **Credibility Evidence Pack** in a PDF. The content is shown here.  
 
 The main point is that we received an excellent score because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
 
----
-## Primary Legitimacy (Tellusant, 2020-present)
-### 1. Corporate Formation & Trademark
+## 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
@@ -29,7 +27,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
-### 2. Independent Corporate Validation
+## 2. Independent Corporate Validation
 - **Heineken N.V.** (2025) - 3rd Quarter Results Presentation cites Tellusant and TelluBase extensively.  
 *These Heineken citations are among the most powerful corporate validations yet for Tellusant — putting the company and its products in flagship investor materials.*  
 [Heineken – Dolf van den Brink, CEO: Evergreen 2030](https://www.theheinekencompany.com/sites/heineken-corp/files/2025-10/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
@@ -43,7 +41,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
-### 3. Academic & Public Citations
+## 3. Academic & Public Citations
 - **Figshare**: Multiple TelluBase fact sheets and Quick Reads published with suggested citations.  
 [Tellusant Members on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)  
 - **SSRN**: Several papers list Tellusant as an author affiliation.  
@@ -53,7 +51,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Statista** Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
   [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
 
-### 4. Strategic Partnerships and Collaborations
+## 4. Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
 [Sharat Mathur Comment](https://www.linkedin.com/posts/sharat-mathur-8994b41_i-am-so-delighted-to-announce-northlight-activity-7308488160966062080-P6Sq/)  
 - **Berumen y Asociados** (Mexico, 2024): Strategic partnership for joint client development and research.  
@@ -61,7 +59,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **AllianceBernstein** (Hong Kong, 2023): Collaboration on China consumer analysis, co-presented at investor conference.  
 [Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)
 
-### 5. Media Coverage
+## 5. Media Coverage
 - **Affärsvärlden** (Sweden, June 2026) — Extensive interview with Chairman Staffan Canback featuring TelluBase data and analysis in Sweden's leading business and investment publication.  
 [Affärsvärlden Interview (in Swedish)](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 - **Dagens Industri** (Sweden, July 2025): Interview with Chairman Staffan Canbäck on model of export potential.  
@@ -69,7 +67,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Harvard Club of Boston** (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
-### 6. Digital Platforms
+## 6. Digital Platforms
 - Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.  
   [tellubase.com](https://tellubase.com/)    
 - Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
@@ -83,7 +81,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
-### 7. Independent Institutional References  
+## 7. Independent Institutional References  
 - CGIAR / IFPRI (2025)    
   [Dhaka City Food System Profile](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025)  
@@ -95,31 +93,26 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *These references confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
-### 8. Assessment
+## 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
 - **Legitimacy**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
 
 ■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, multi-channel product platforms, independent institutional references.*
 
-## Foundational Heritage (Pre-2020)  
-TBD
-
 ---
-
 We reversed the process by asking ChatGPT whether this page reflects ChatGPT's verification.  
 *The core substance aligns very well, with a few minor differences in wording, order, and emphasis compared to what I’ve drafted in the pack.*  
 
 ---
-
-Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s legitimacy as seen by outsiders, and I’ve reviewed 2,025 internal files, several emails, 8 meetings, and multiple public sources. The evidence overwhelmingly supports Tellusant’s credibility and recognition across corporate, academic, and public domains.*  
+Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s credibility as seen by outsiders, and I’ve reviewed 2,025 internal files, several emails, 8 meetings, and multiple public sources. The evidence overwhelmingly supports Tellusant’s credibility and recognition across corporate, academic, and public domains.*  
 
 ---
 Source: Tellusant, Inc.
 
+[View a PDF version of the legitimacy pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
 [See a pre-Tellusant client list](clients-pre-tellusant.md)  
 [See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)  
-[View a PDF version of the legitimacy pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
 [Return to Repository home](../index.md)
 
 
