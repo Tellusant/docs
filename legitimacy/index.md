@@ -1,7 +1,7 @@
 ---
 title: "Credibility Evidence Pack"
 description: "Outside-in validation of Tellusant's credibility by ChatGPT"
-image: /assets/social-card-legit.png
+image: /assets/social-card-cred.png
 ---
  
 # Tellusant Credibility Evidence Pack
