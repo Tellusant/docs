@@ -1,12 +1,12 @@
 ---
 title: "Tellusant Credibility Evidence Pack"
-description: "Outside-in validation of Tellusant's credibility by ChatGPT"
+description: "We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process."
 image: /assets/social-card-cred.png
 ---
  
 # Tellusant Credibility Evidence Pack
 
-This page summarizes the credibility of Tellusant as validated by ChatGPT.  
+We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process.  
 
 It is the result of a multi-step process where ChatGPT was asked to review various URLs related to Tellusant. From this, it created a **Credibility Evidence Pack** in a PDF. The content is shown here.  
 
