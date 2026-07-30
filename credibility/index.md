@@ -44,14 +44,14 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 *Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
 ## 3. Academic & Public Citations
-- **Figshare**: 29 academic entries published with suggested citations.  
-[Tellusant Members on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)  
-- **SSRN**: Several papers list Tellusant as an author affiliation.  
-[SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)  
-- **Wikipedia**: Over 250 citations to TelluBase fact sheets across English and non-English pages.  
-[TelluBase Citations](https://en.wikipedia.org/w/index.php?search=tellubase&title=Special%3ASearch&ns0=1)  
+- **SSRN**: 12 papers list Tellusant as an author affiliation on this preeminent scholarly papers site.
+[SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)
+- **Figshare**: 49 academic entries published with suggested citations.  
+[Tellusant Members on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)
 - **Business and Scientific citations**  Over 750 citations of Tellusant and its leaders over the years.  
   [List with hyperlinks](../citations/)
+- **Wikipedia**: Over 250 citations to TelluBase fact sheets across English and non-English pages.  
+[TelluBase Citations](https://en.wikipedia.org/w/index.php?search=tellubase&title=Special%3ASearch&ns0=1)  
 - **Statista** Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
   [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/) 
 
