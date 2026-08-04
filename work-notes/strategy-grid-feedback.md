@@ -1,4 +1,4 @@
-# Review of *The Strategy Grid* SSRN Preprint
+# Review of *The Strategy Grid* SSRN Preprint with Feedback
 
 ## Overall assessment
 
