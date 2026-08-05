@@ -18,7 +18,7 @@ This page collects our philosophical and theoretical work on predictive modeling
 
 ## Recent  
 
-### [A Scientific Evaluation of World Cup Performance by Country 2002–2026](world-cup.md)
+### [Tellusant's Corporate Decision-Making Framework](corporate-decision-making.md)
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.
 
 ### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
@@ -42,6 +42,9 @@ This proposal shows how we conduct research on, e.g., income distribution. It is
 <br/>
 
 ## Past
+
+### [A Scientific Evaluation of World Cup Performance by Country 2002–2026](world-cup.md)
+How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.
 
 ### [PoluSim Business Impact: The Board Room and Operating Level Views](polusim-business-impact.md)
 Our PoluSim forecasting solution is widely appreciated by customers around the world. A key reason is that we design it for total business impact instead of narrow gauges like accuracy alone.
