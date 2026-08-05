@@ -1,5 +1,5 @@
 ---
-title: "tellusant's Corporate Decision-Making Framework"
+title: "Tellusant's Corporate Decision-Making Framework"
 description: "Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework."
 image: /assets/social-card-pub.png
 ---
