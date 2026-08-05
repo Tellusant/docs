@@ -5,6 +5,8 @@ image: /assets/social-card-pub.png
 ---
 # A Corporate Decision-Making Framework
 
+[Tellusant](assets/images/tellusant-corporate-decision-making-framework.svg)
+
 Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework.
 
 ## Decision Enablers
