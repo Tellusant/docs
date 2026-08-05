@@ -44,7 +44,7 @@ The actual decision making flows from the enablers and the context. There are tw
 
 Improving high level decision making like strategic planning is often the highest ROI effort available to a company.
 
-1. Resource allocation is improved with better decisions. This is especially true of the decisions coming out of strategic planning cycles. This leads to top line growth which over time adds up to a major benefit for the company.
+1. Resource allocation is improved with better decisions. This is especially true of the decisions coming out of strategic planning cycles. This leads to top line growth which over time adds up to a major benefit for the company. Currently, $700 billion is lost yearly in the U.S. and more than $2 trillion worldwide to resource allocation errors at companies.
 
 2. Consistency across geographies and business units is improved. Currently, there are too many methods and approaches in a global company, making it hard for executive leadership to compare opportunities and set priorities.
 
