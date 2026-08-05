@@ -9,17 +9,10 @@ This section will over time contain all our substance-oriented articles and post
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
 ---
-
-## Collections
-
-### [Predictive Modeling Collection](predictive-modeling-collection.md)
-This page collects our philosophical and theoretical work on predictive modeling in one place.
-
-
 ## Recent  
 
 ### [Tellusant's Corporate Decision-Making Framework](corporate-decision-making.md)
-How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.
+Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework.
 
 ### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
 Tellusant's **Strategy Grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
@@ -104,6 +97,12 @@ We are often asked what levers can be pulled to stimulate demand. Is there a sys
 
 ### [The Horns of the Dilemma in Strategy Development](horns-dilemma-1.md)
 Trade-offs between generality, precision, and realism in strategy development.  
+
+---
+## Collections
+
+### [Predictive Modeling Collection](predictive-modeling-collection.md)
+This page collects our philosophical and theoretical work on predictive modeling in one place.
 
 ### [Five Insights on Strategic Predictions](tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
