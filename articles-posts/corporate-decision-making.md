@@ -1,4 +1,4 @@
-# A Corporate Decision-Making Framework:
+# A Corporate Decision-Making Framework
 
 Companies are often described as decision factories. Based on the academic literature (see comments section) and extensive interviews, I created this decision-making framework.
 
@@ -35,8 +35,8 @@ The actual decision making flows from the enablers and the context. There are tw
 
 Improving high level decision making like strategic planning is often the highest ROI effort available to a company.
 
-First, more effective processes will save money. There are 0.7M corporate planning analysts in the United States and 2.5M worldwide who support decisions.
+1. More effective decision processes will save money. There are 0.7M corporate planning analysts in the United States and 2.5M worldwide who support decisions.
 
-Second, resource allocation is improved with better decisions. This is especially true of the decisions coming out of strategic planning cycles.
+2. Resource allocation is improved with better decisions. This is especially true of the decisions coming out of strategic planning cycles. This leads to top line growth which over time adds up to a major benefit for the company.
 
-Third, capturing opportunities becomes more precise. This leads to top line growth which over time adds up to a major benefit for the company.
+3. Consistency across geographies and business units is improved. Currently, there are too many methods and approaches in a global company, making it hard for executive leadership to compare opportunities and set priorities.
