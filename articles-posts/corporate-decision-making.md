@@ -1,6 +1,11 @@
+---
+title: "A Corporate Decision-Making Framework"
+description: "Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework."
+image: /assets/social-card-pub.png
+---
 # A Corporate Decision-Making Framework
 
-Companies are often described as decision factories. Based on the academic literature (see comments section) and extensive interviews, I created this decision-making framework.
+Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework.
 
 ## Decision Enablers
 Decisions are not made in a vacuum. There are five enablers that dictate the quality of decisions:
