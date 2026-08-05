@@ -1,11 +1,15 @@
 ---
-title: "A Corporate Decision-Making Framework"
+title: "Tellusant's Corporate Decision-Making Framework"
 description: "Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework."
 image: /assets/social-card-pub.png
 ---
-# A Corporate Decision-Making Framework
+# Tellusant's Corporate Decision-Making Framework
 
 Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework.
+
+<p align="center">
+<img  src="assets/images/tellusant-corporate-decision-making-framework.svg" width="500" alt="Tellusant's corporate decision making framework">  
+</p>
 
 ## Decision Enablers
 Decisions are not made in a vacuum. There are five enablers that dictate the quality of decisions:
@@ -28,7 +32,7 @@ The enablers lead to to a decision context:
 
 - The decision processes are usually viewed as inefficient, especially in higher level processes like strategic planning, even though outcomes may be good.
 
-## DECISION MAKING
+## Decision Making
 
 The actual decision making flows from the enablers and the context. There are two ways of making business decisions: rationale and intuitive.
 
@@ -40,8 +44,8 @@ The actual decision making flows from the enablers and the context. There are tw
 
 Improving high level decision making like strategic planning is often the highest ROI effort available to a company.
 
-1. More effective decision processes will save money. There are 0.7M corporate planning analysts in the United States and 2.5M worldwide who support decisions.
+1. Resource allocation is improved with better decisions. This is especially true of the decisions coming out of strategic planning cycles. This leads to top line growth which over time adds up to a major benefit for the company. Currently, $700 billion is lost yearly in the U.S. and more than $2 trillion worldwide to resource allocation errors at companies.
 
-2. Resource allocation is improved with better decisions. This is especially true of the decisions coming out of strategic planning cycles. This leads to top line growth which over time adds up to a major benefit for the company.
+2. Consistency across geographies and business units is improved. Currently, there are too many methods and approaches in a global company, making it hard for executive leadership to compare opportunities and set priorities.
 
-3. Consistency across geographies and business units is improved. Currently, there are too many methods and approaches in a global company, making it hard for executive leadership to compare opportunities and set priorities.
+3. More effective decision processes saves money. There are 700,000 corporate planning analysts in the United States and 2.5 million worldwide who support decisions.
