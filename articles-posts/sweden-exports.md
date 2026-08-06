@@ -242,6 +242,4 @@ Artikeln finns även på [LinkedIn](https://www.linkedin.com/pulse/sveriges-expo
 Staffans efternamn är Canbäck på svenska och Canback på engelska.  
 
 ---
-*AI har inte använts.*
-
 [Find more articles and posts](index.md)
