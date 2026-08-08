@@ -11,7 +11,6 @@ plugins:
 
 seo:
   type: Organization
-  name: "Tellusant, Inc."
   links:
     - https://tellusant.com/
 
