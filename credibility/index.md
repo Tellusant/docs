@@ -7,7 +7,7 @@ redirect_from:
 ---
  
 # Tellusant Credibility Evidence Pack, July 2026
-*Contributed by Tellusant*
+*Preapared by Tellusant*
 
 We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
