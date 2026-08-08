@@ -9,8 +9,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-seo:
-  type: Organization
+social:
+  name: "Tellusant, Inc."
   links:
     - https://tellusant.com/
 
