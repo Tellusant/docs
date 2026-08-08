@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-  seo:
+seo:
   type: Organization
   name: "Tellusant, Inc."
   links:
