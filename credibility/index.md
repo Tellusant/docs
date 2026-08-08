@@ -1,6 +1,6 @@
 ---
 title: "Tellusant Credibility Evidence Pack, July 2026"
-description: "We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process."
+description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
 image: /assets/social-card-cred.png
 redirect_from:
   - /legitimacy/
@@ -8,11 +8,9 @@ redirect_from:
  
 # Tellusant Credibility Evidence Pack, July 2026
 
-We summarize the credibility of Tellusant as validated by ChatGPT through a call and response process.  
+We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
-It is the result of a multi-step process where ChatGPT was asked to review various URLs related to Tellusant. From this, it created a **Credibility Evidence Pack** in a PDF. The content is shown here.  
-
-The main point is that we received an excellent score because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
+We have received an excellent score on credibility because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
 
 ## 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
@@ -99,23 +97,16 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 ## 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
-- **Legitimacy**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
+- **Credibility**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (Affärsvärlden, Tufts University, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
 
 ■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, multi-channel product platforms, independent institutional references.*
 
 ---
-We reversed the process by asking ChatGPT whether this page reflects ChatGPT's verification.  
-*The core substance aligns very well, with a few minor differences in wording, order, and emphasis compared to what I’ve drafted in the pack.*  
-
----
-Finally, what does **CoPilot** say? *You asked about Tellusant Inc.'s credibility as seen by outsiders, and I’ve reviewed 2,025 internal files, several emails, 8 meetings, and multiple public sources. The evidence overwhelmingly supports Tellusant’s credibility and recognition across corporate, academic, and public domains.*  
-
----
 Source: Tellusant, Inc.
 
-[View a PDF version of the legitimacy pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
-[See a pre-Tellusant client list](clients-pre-tellusant.md)  
+[View a PDF version of the credibility evidence pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
+[See a Tellusant client list](clients-pre-tellusant.md)  
 [See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)  
 [Return to Repository home](../index.md)
 
