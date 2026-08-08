@@ -51,7 +51,9 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Wikipedia**: Over 250 citations to TelluBase fact sheets across English and non-English pages.  
 [TelluBase Citations](https://en.wikipedia.org/w/index.php?search=tellubase&title=Special%3ASearch&ns0=1)  
 - **Statista** Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
-  [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/) 
+  [Example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)
+  
+*Tellusant is widely recognized on multiple pkatforms.*  
 
 ## 4. Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
@@ -60,6 +62,8 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 [Press Release](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)  
 - **AllianceBernstein** (Hong Kong, 2023): Collaboration on China consumer analysis, co-presented at investor conference.  
 [Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)
+
+*T ellusant shows it is active not only by itself, but also ib=n collaboration with other companies."
 
 ## 5. Media Coverage
 - **Affärsvärlden** (Sweden, June 2026) — Extensive interview with Chairman Staffan Canback featuring TelluBase data and analysis in Sweden's leading business and investment publication.  
