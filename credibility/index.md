@@ -7,7 +7,7 @@ redirect_from:
 ---
  
 # Tellusant Credibility Evidence Pack, July 2026
-*By by Tellusant*
+<a href="{{ site.company_url }}"><i>By Tellusant, Inc.</i>
 
 We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
