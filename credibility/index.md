@@ -11,11 +11,11 @@ redirect_from:
 
 We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
-## Tellusant Background
+## Tellusant Dimensions
 
 Long-form text tbd
 
-## Tellusant Documented Credentials
+## Tellusant Credentials
 
 ### 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
