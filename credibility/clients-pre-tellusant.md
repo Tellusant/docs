@@ -1,35 +1,42 @@
 ---
-title: "Clients Pre-Tellusant"
-description: "This list shows the depth and breadth of our experiences, usually at the CEO level. Current Tellusant clients not shown to preserve confidentiality."
+title: "Client Experiences of our Leaders"
+description: "This list shows the depth and breadth of our experiences, usually at the CEO level. Confidential clients excluded."
 image: /assets/social-card-pub.png
 ---
 
-# Clients Pre-Tellusant
-This list shows the depth and breadth of our experiences, usually at the CEO level. Current Tellusant clients not shown to preserve confidentiality.
+# Client Experiences of our Leaders
+This list shows the depth and breadth of our experiences, usually at the CEO level. Confidential clients excluded.
 
+Recent clients in bold
 ---
 - ABB  
-- AB InBev
+- **AB InBev**
 - AT&T
+- **BIC**
 - Colgate-Palmolive
+- **Constellation Brands**
+- Coca-Cola
 - Diageo  
 - Distell
 - Efes
 - Electrolux  
 - Ericsson  
 - Essity
-- FEMSA
+- **FEMSA**
 - Fiskars
 - Gloria
 - Grupo Lala
 - Hasselblad
+- **Heineken**
 - HSBC
 - Imperial Brands
+- **Ipsos**
 - Kraft Heinz
 - Mastercard
 - Mediclinic
 - Mondelez
 - Maersk
+- **Nutresa**
 - PepsiCo
 - Pfizer
 - Pohjola
@@ -42,6 +49,7 @@ This list shows the depth and breadth of our experiences, usually at the CEO lev
 - Swedbank
 - Telia
 - T-Mobile
+- **Tufts University**
 - United States Postal Service
 - Volvo
 - Walmart
