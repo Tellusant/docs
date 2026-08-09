@@ -40,7 +40,7 @@ tbd
 tbd
 
 ### Global Experience
-Our company’s success is in large part because of our on the ground understanding of countries, cities, towns and rural areas. The global experience base of Tellusant is unparalleled because the knowledge is concentrated in a small group of people, our leaders.
+Our company’s success is in large part because of our on-the-ground understanding of countries, cities, towns and rural areas. The global experience base of Tellusant is unparalleled because the knowledge is concentrated in a small group of people, our leaders.
 
 We pride ourselves with being the world’s smallest truly global company.
 
