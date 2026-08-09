@@ -11,6 +11,7 @@ redirect_from:
 
 We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
+---
 ## Tellusant Dimensions  
 ### Overview  
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our enterprise strategic planning applications are unique in the field of quantitative strategy tools.
@@ -38,8 +39,23 @@ tbd
 tbd
 
 ### Global Experience
-tbd
+Our company’s success is in large part because of our on the ground understanding of countries, cities, towns and rural areas. The global experience base of Tellusant is unparalleled because the knowledge is concentrated in a small group of people, our leaders.
 
+We pride ourselves with being the world’s smallest truly global company.
+
+The map below shows our experiences around the world.  
+[g]
+Our leaders have:
+
+- Worked on the ground in 92 countries
+- Visited 490 cities during this work
+- Remotely covered an additional 27 countries in project work
+- We now have three offices: Boston, Mexico City, and Bogota.
+- 
+Exact locations in list form are available here.
+
+
+---
 ## Tellusant Credentials
 
 ### 1. Corporate Formation & Trademark
