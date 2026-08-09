@@ -11,9 +11,13 @@ redirect_from:
 
 We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
-We have received an excellent score on credibility because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
+## Tellusant Background
 
-## 1. Corporate Formation & Trademark
+Long-form text tbd
+
+## Tellusant Documented Credentials
+
+### 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
@@ -28,7 +32,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
-## 2. Independent Corporate Validation
+### 2. Independent Corporate Validation
 - **Heineken N.V.** (2025) - 3rd Quarter Results Presentation cites Tellusant and TelluBase extensively.  
 *These Heineken citations are among the most powerful corporate validations yet for Tellusant — putting the company and its products in flagship investor materials.*  
 [Heineken – Dolf van den Brink, CEO: Evergreen 2030](https://www.theheinekencompany.com/sites/heineken-corp/files/2025-10/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
@@ -42,7 +46,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
-## 3. Academic & Public Citations
+### 3. Academic & Public Citations
 - **SSRN**: 12 papers list Tellusant as an author affiliation on this preeminent scholarly papers site.
 [SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)
 - **Figshare**: 49 academic entries published with suggested citations.  
@@ -56,7 +60,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *Tellusant is widely recognized on multiple pkatforms.*  
 
-## 4. Strategic Partnerships and Collaborations
+### 4. Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
 [Sharat Mathur Comment](https://www.linkedin.com/posts/sharat-mathur-8994b41_i-am-so-delighted-to-announce-northlight-activity-7308488160966062080-P6Sq/)  
 - **Berumen y Asociados** (Mexico, 2024): Strategic partnership for joint client development and research.  
@@ -66,7 +70,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *T ellusant shows it is active not only by itself, but also ib=n collaboration with other companies."
 
-## 5. Media Coverage
+### 5. Media Coverage
 - **Affärsvärlden** (Sweden, June 2026) — Extensive interview with Chairman Staffan Canback featuring TelluBase data and analysis in Sweden's leading business and investment publication.  
 [Affärsvärlden Interview (in Swedish)](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 - **Dagens Industri** (Sweden, July 2025): Interview with Chairman Staffan Canbäck on model of export potential.  
@@ -74,7 +78,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Harvard Club of Boston** (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
-## 6. Digital Platforms
+### 6. Digital Platforms
 - Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.  
   [tellubase.com](https://tellubase.com/)    
 - Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
@@ -88,7 +92,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
-## 7. Independent Institutional References  
+### 7. Independent Institutional References  
 - CGIAR / IFPRI (2025)    
   [Dhaka City Food System Profile](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025)  
@@ -100,7 +104,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *These references confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
-## 8. Assessment
+### 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
 - **Credibility**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (Affärsvärlden, Tufts University, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
