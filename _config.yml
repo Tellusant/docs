@@ -3,10 +3,18 @@ description: "Published materials by Tellusant team members"
 
 url: "https://docs.tellusant.com"
 baseurl: ""
+
+company_url: "https://tellusant.com/"
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
+
+social:
+  name: "Tellusant, Inc."
+  links:
+    - https://tellusant.com/
 
       

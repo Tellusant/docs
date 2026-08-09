@@ -19,10 +19,10 @@ We use the word *method* when the trade secret refers to how our solution works,
 
 - PoluSim
 - TelluBase
-- PACE - Pricing Aligned with Consumer Economics
 - Stratboard
-- Risk of Nations
-- Global Cultural Markers (GCM)
+-  PACE — Pricing Aligned with Consumer Economics
+- Q-Risk
+- Paragonal
 
 ---
 ### What Are Trade Secrets

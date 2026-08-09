@@ -22,11 +22,15 @@ Seven slides give a quick impression of Tellusant. See also [Tellusant website](
 #### [Introduction to PoluSim](Tellusant-Introduction-PoluSim.pdf)
 Seven slides give a quick impression of PoluSim ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. See also [PoluSim website](https://polusim.telluplan.com "target=_blank").
 
-#### [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
-See a Sway presentation of how to find latent demand opportunities in consumer goods with PACE ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. See also [PACE website](https://pace.telluplan.com "target=_blank")
-
 #### [Introduction to TelluBase](Tellusant-Introduction-TelluBase.pdf)
 Learn about our subnational income distribution and consumer classes database TelluBase ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. 218 countries – 2600 cities – 2500 subdivisions. See also [TelluBase On-Demand website](https://tellubase.com "target=_blank") and [TelluBase Subscription website](https://tellubase.telluplan.com "target=_blank")
+
+
+#### [Introduction to Stratboard — Intelligent Report Generator](stratboard-introduction.md)
+ ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
+
+#### [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
+See a Sway presentation of how to find latent demand opportunities in consumer goods with PACE ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. See also [PACE website](https://pace.telluplan.com "target=_blank")
 
 #### [Tellusant Etymology](tellusant-etymology.md)
 What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
