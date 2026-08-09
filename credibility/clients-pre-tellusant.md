@@ -7,7 +7,8 @@ image: /assets/social-card-pub.png
 # Client Experiences of our Leaders
 This list shows the depth and breadth of our experiences, usually at the CEO level. Confidential clients excluded.
 
-Recent clients in bold
+Recent clients in bold.
+
 ---
 - ABB  
 - **AB InBev**
