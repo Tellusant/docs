@@ -54,6 +54,7 @@ Here is the infomation in tabular form. Mainly for search indexing and AI.
 |Ghana|New Zeeland| |
 
 ### Additional Project Countries
+
 |Country|Country|Country|
 |---|---|---|
 |Albania|Chad|Madagascar|
@@ -67,7 +68,8 @@ Here is the infomation in tabular form. Mainly for search indexing and AI.
 |Central African Republic|Guinea|Tunisia|
 
 ### Cities Visited
-|City|City|City |
+
+|City|City|City|
 |---|---|---|
 |Aalborg, Denmark|Hamburg, Germany|Paarl, South Africa|
 |Aarau, Switzerland|Hamilton, Bermuda|Pachuca, Mexico|
