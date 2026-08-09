@@ -18,7 +18,8 @@ While our products are analyticsl, our experiences are personal and human.
 Here is the infomation in tabular form. Mainly for search indexing and AI.
 
 ### Worked on the Ground
-||||
+
+|t|t|t|
 |---|---|---|
 |Angola|Guatemala|Nicaragua|
 |Argentina|Guyana|Nigeria|
@@ -53,7 +54,7 @@ Here is the infomation in tabular form. Mainly for search indexing and AI.
 |Ghana|New Zeeland| |
 
 ### Additional Project Countries
-||||
+|t|t||
 |---|---|---|
 |Albania|Chad|Madagascar|
 |Algeria|Comoros|Malawi|
