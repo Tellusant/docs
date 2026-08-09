@@ -110,9 +110,9 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 ---
 Source: Tellusant, Inc.
 
-[View a PDF version of the credibility evidence pack](Tellusant-Legitimacy-Evidence-Pack.pdf)  
-[See a Tellusant client list](clients-pre-tellusant.md)  
-[See external citations of Tellusant and its members](https://tellusant.github.io/docs/citations/)  
+[View a PDF version of the credibility evidence pack](Tellusant-Credibility-Evidence-Pack.pdf)  
+[See a Tellusant client list](clients.md)  
+[See external citations of Tellusant and its members](/citations/)  
 [Return to Repository home](../index.md)
 
 
