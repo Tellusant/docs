@@ -15,7 +15,7 @@ Recent clients in bold
 - **BIC**
 - Colgate-Palmolive
 - **Constellation Brands**
-- Coca-Cola
+- **Coca-Cola**
 - Diageo  
 - Distell
 - Efes
