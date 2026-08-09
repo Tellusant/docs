@@ -4,6 +4,7 @@ description: "We summarize the credibility of Tellusant to show the breadth and 
 image: /assets/social-card-cred.png
 redirect_from:
   - /legitimacy/
+  - /about/
 ---
  
 # Tellusant Credibility Evidence Pack, August 2026
