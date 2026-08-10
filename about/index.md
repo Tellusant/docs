@@ -84,7 +84,6 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2025**: Five years celebrated in Punta Cana.
 - **2025**: TelluBase-On-Demand is introduced as a self-service to allow people to buy its data without Tellusant interventions. 
 - **2026**: Downgraded social media efforts (LinkedIn, online advertising (still for TelluBase-On-Demand though), cold emails, etc.) . Our success comes from credibility and trust, which have little to do with social media, and everything to do with knowing people.
-- 
 
 
 ### Executive Leadership
@@ -119,6 +118,10 @@ She has 15+ years of experience in solving strategic problems in businesses. Pri
 Bobo is an expert in applying statistical concepts in solving real world business problems. She believes that corporate decisions can be made more efficient with relevant insights derived from real time data and information. Bobo supports the development of mathematical algorithms and oversees the development of Tellusant’s products.
 
 Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Business Administration and Management. She further holds an MS in Computer Information System.
+
+<p align="center">— — —</p>
+
+All three are also citizens of the world, familiar with markets and cultures everywhere.
 
 ### Clients
 
