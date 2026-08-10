@@ -69,6 +69,15 @@ We realized early on that we needed a developer base to create our apps outside 
 
 We quickly signed up a number of large and medium sized clients in North America, South America, Europe, and Asia. This was possible because of strong reputation in consumer goods and large rolodex of executives.
 
+Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
+
+WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently **m**, **l**, the **U.S. Recession Predictor** and the **Fedora U.S. Economic Nowcast**.
+
+Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portlane, Maine (2023).
+
+#### Milestones
+
+
 
 ### Leadership
 
