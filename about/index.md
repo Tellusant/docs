@@ -13,16 +13,49 @@ redirect_from:
 
 Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to:
 - Show who we are
-- Establish our credibility (narrative + credentials
+- Establish our credibility (strong narrative + strong credentials)
 
 We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. 
-
-
 
 ## Narrative
 This is an essay about the company.
 
 ### Overview
+
+Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
+
+Our applications have an installed base of subscribers and clients in more than 100 countries.
+
+Our leadership comes from a global strategy consulting background and has strong academic credentials.
+
+All of our work and applications are grounded in detailed knowledge of consumer classes sub-nationally across the world. We combine this with exceptional statistical analysis and predictive artificial intelligence to create the most robust prediction tools possible.
+
+Tellusant builds on unsurpassed analytical capabilities based on pure science.. We convert this into practical applications that work on the global stage for large and medium companies.
+
+Our mission is to help streamline corporate decision making. We have achieved this in more than 100 countries.
+
+Our work is informed by decades of experience as senior management consultants. We build on our deep knowledge of how decisions are made, as well as having worked on the ground in 92 countries.​ 
+
+We combine this with exceptional statistical analysis and numeric artificial intelligence to create the most robust strategic tools possible in growth, productivity, and risk management.
+
+**The Strategy Grid** is our analytical organizing framework. It build on pure economic theory and is therefore robust. The Strategy Grid de-clutters current unwieldy and often unscientific strategy frameworks.
+
+#### TelluPlan and its Applications
+
+**TelluPlan** is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
+
+- **PoluSim** provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
+
+- **Pace** (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
+
+- **Paragonal** provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
+
+- **𝗤-𝗥𝗶𝘀𝗸** measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
+
+- **Stratboard** is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
+
+#### 𝗧𝗲𝗹𝗹𝘂𝗕𝗮𝘀𝗲 
+TelluBase is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 ### History and Milestones
 
