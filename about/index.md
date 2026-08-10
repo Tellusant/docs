@@ -46,6 +46,9 @@ This a list of major recent clients:
 
 ### Global footprint
 
+../maps/assets/svg
+/tellusant-global-experience-base.svg
+
 
 
 [For searchability, see the global footprint list](global-footprint-list.md)
