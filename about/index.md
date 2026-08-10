@@ -46,10 +46,14 @@ This a list of major recent clients:
 
 ### Global footprint
 
-../maps/assets/svg
-/tellusant-global-experience-base.svg
+The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
+This serves us well when we calibrate our products to client needs. We know what realistic elasticities look like, we know what the limits in growth come from, and more.
 
+While our products are analyticsl, our experiences are personal and human.
+
+---
+#### <img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
