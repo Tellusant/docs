@@ -7,24 +7,52 @@ image: /assets/social-card-about.png
 # Significant Clients
 These are client companies and institutions served by Tellusant and its leaders over the years.
 
-| | |
-|---|---|
-|ABB|Mastercard|
-|AB InBev|Mediclinic|
-|AT&T|Mondelez|
-|Colgate-Palmolive|Maersk|
-|Diageo|PepsiCo|
-|Distell|Pfizer|
-|Efes|Pohjola|
-|Electrolux|Procter & Gamble|
-|Ericsson|Saab|
-|Essity|Scandinavian Airlines|
-|FEMSA|SEB|
-|Fiskars|Skandia|
-|Gloria|Suntory|
-|Grupo Lala|Swedbank|
-|Hasselblad|Telia|
-|HSBC|T-Mobile|
-|Imperial Brands|USPS|
-|Kraft Heinz|Volvo|
-||Walmart|
+Recent clients in bold.
+
+---
+- ABB  
+- **AB InBev**
+- AT&T
+- **BIC**
+- Colgate-Palmolive
+- **Constellation Brands**
+- **Coca-Cola**
+- Diageo  
+- Distell
+- Efes
+- Electrolux  
+- Ericsson  
+- Essity
+- **FEMSA**
+- Fiskars
+- Gloria
+- Grupo Lala
+- Hasselblad
+- **Heineken**
+- HSBC
+- Imperial Brands
+- **Ipsos**
+- **Keurig Dr Pepper**
+- Kraft Heinz
+- Maersk
+- Mastercard
+- Mediclinic
+- Mondelez
+- Maersk
+- **Nutresa**
+- PepsiCo
+- Pfizer
+- Pohjola
+- Procter & Gamble
+- Saab
+- Scandinavian Airlines
+- SEB
+- Skandia
+- Suntory
+- Swedbank
+- Telia
+- T-Mobile
+- **Tufts University**
+- United States Postal Service
+- Volvo
+- Walmart
