@@ -90,6 +90,13 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 ### Executive Leadership
 
 #### Dr. Staffan Canback, Executive Chairman
+Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
+
+Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
+
+Today, Staffan reserves that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.
+
+[Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
 #### Philip Burginyoung, Chie Executive Officer and President
 
