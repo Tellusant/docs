@@ -1,6 +1,11 @@
+---
+title: "Global Footprint List"
+description: "For searchability, here is the Tellusant global footprint map as a list."
+image: /assets/social-card-about.png
+---
 # Global Footprint List
 
-For searchability, here is the global footprint map as a list.
+For searchability, here is the Tellusant global footprint map as a list.
 
 ---
 ## On-the-Ground Project Countries
