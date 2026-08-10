@@ -8,7 +8,8 @@ image: /assets/social-card-about.png
 For searchability, here is the Tellusant global footprint map as a list.
 
 ---
-## On-the-Ground Project Countries
+## Office Locations
+&nbsp;
 
 |Country|Country|Country|
 |---|---|---|
@@ -16,6 +17,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 
 ---
 ## On-the-Ground Project Countries
+&nbsp;
 
 |Country|Country|Country|
 |---|---|---|
@@ -52,7 +54,8 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Ghana|New Zeeland| |
 
 ---
-## Outside-in Project Countries  
+## Outside-in Project Countries 
+&nbsp;
 
 |Country|Country|Country|
 |---|---|---|
@@ -68,6 +71,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 
 ---
 ## Cities Visited During Projects
+&nbsp;
 
 |City|City|City|
 |---|---|---|
