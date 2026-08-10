@@ -3,7 +3,7 @@
 For searchability, here is the global footprint map as a list.
 
 ---
-## On-the-Ground Project Countries
+## Office Locations
 
 |Country|Country|Country|
 |---|---|---|
