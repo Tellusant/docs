@@ -1,6 +1,6 @@
-# Global Experience List
+# Global Footprint List
 
-For searchability, here is the experience base map as a list.
+For searchability, here is the global footprint map as a list.
 
 |Country|Country|Country|
 |---|---|---|
