@@ -1,6 +1,7 @@
 # Global Footprint List
 
 For searchability, here is the global footprint map as a list.
+<br>
 
 |Country|Country|Country|
 |---|---|---|
@@ -36,8 +37,10 @@ For searchability, here is the global footprint map as a list.
 |Germany|Netherlands|Zimbabwe|
 |Ghana|New Zeeland| |
 <br>
+
 ### Additional Project Countries  
 <br>
+
 |Country|Country|Country|
 |---|---|---|
 |Albania|Chad|Madagascar|
@@ -50,8 +53,10 @@ For searchability, here is the global footprint map as a list.
 |Cameroon|Gabon|Togo|
 |Central African Republic|Guinea|Tunisia|
 <br>
+
 ### Cities Visited
 <br>
+
 |City|City|City|
 |---|---|---|
 |Aalborg, Denmark|Hamburg, Germany|Paarl, South Africa|
