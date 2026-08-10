@@ -89,6 +89,8 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 
 ### Executive Leadership
 
+Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
+
 #### Dr. Staffan Canback, Executive Chairman
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
@@ -99,10 +101,26 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
 #### Philip Burginyoung, Chie Executive Officer and President
+Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
+
+Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
+
+Prior to Canback Consulting, Phil worked in investment research and with software companies.
+
+Phil has a passion for making quantitative and statistical analysis relevant and helpful to companies making strategic decisions. He believes that there is a wealth of untapped knowledge and precision that company can better leverage, which drove him to co-found Tellusant with Staffan Canback. He has built and developed many of the algorithms and methods that support Tellusant's products.
+
+Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
 #### Bobo Shen, Chief Product Officer
+Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
+She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
 
+Bobo is an expert in applying statistical concepts in solving real world business problems. She believes that corporate decisions can be made more efficient with relevant insights derived from real time data and information. Bobo supports the development of mathematical algorithms and oversees the development of Tellusant’s products.
+
+Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Business Administration and Management. She further holds an MS in Computer Information System.
+
+BOBO SHEN TELLUSANT
 
 ### Clients
 
