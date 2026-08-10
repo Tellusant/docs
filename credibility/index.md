@@ -2,9 +2,6 @@
 title: "Tellusant Credibility Evidence Pack, August 2026"
 description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
 image: /assets/social-card-cred.png
-<<<<<<< HEAD
-=======
-
 ---
 # Tellusant Credibility Evidence Pack, August 2026
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>

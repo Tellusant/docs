@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
-image: /assets/social-card-cred.png
+image: /assets/social-card-about.png
 redirect_from:
   - /legitimacy/
   - /credibility/
@@ -11,28 +11,152 @@ redirect_from:
 # About Us
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to:
-- Show who we are
-- Establish our credibility (narrative + credentials
+Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to show who we are, and establish our credibility (= strong narrative + strong credentials)
 
-We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. 
+We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. Below you find:
 
+- Our narrative
+- Our credentials
 
-
+---
 ## Narrative
-This is an essay about the company.
+This is the story of Tellusant.
 
 ### Overview
 
-### History and Milestones
+Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
 
-### Leadership
+Our applications have an installed base of subscribers and clients in more than 100 countries.
+
+Our leadership comes from a global strategy consulting background and has strong academic credentials.
+
+All of our work and applications are grounded in detailed knowledge of consumer classes sub-nationally across the world. We combine this with exceptional statistical analysis and predictive artificial intelligence to create the most robust prediction tools possible.
+
+Tellusant builds on unsurpassed analytical capabilities based on pure science.. We convert this into practical applications that work on the global stage for large and medium companies.
+
+Our mission is to help streamline corporate decision making. We have achieved this in more than 100 countries.
+
+Our work is informed by decades of experience as senior management consultants. We build on our deep knowledge of how decisions are made, as well as having worked on the ground in 92 countries.​ 
+
+We combine this with exceptional statistical analysis and numeric artificial intelligence to create the most robust strategic tools possible in growth, productivity, and risk management.
+
+**The Strategy Grid** is our analytical organizing framework. It build on pure economic theory and is therefore robust. The Strategy Grid de-clutters current unwieldy and often unscientific strategy frameworks.
+
+#### TelluPlan and its Applications
+
+**TelluPlan** is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
+
+- **PoluSim** provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
+
+- **Pace** (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
+
+- **Paragonal** provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
+
+- **𝗤-𝗥𝗶𝘀𝗸** measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
+
+- **Stratboard** is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
+
+#### TelluBase 
+TelluBase is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
+
+TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at as income and age distributions instead of aggregates, there ids nothing like it.
+
+<p align="center">— — —</p>
+
+The graph below summarizes our main properties.
+
+<img align="center" src="images/telluplan-tellubase-concept.svg" width="500"  alt="Telluplan-Tellubase concept">
+
+### History and Milestones
+Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
+
+We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
+
+We quickly signed up a number of large and medium sized clients in North America, South America, Europe, and Asia. This was possible because of strong reputation in consumer goods and large rolodex of executives.
+
+Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
+
+WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently **m**, **l**, the **U.S. Recession Predictor** and the **Fedora U.S. Economic Nowcast**.
+
+Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
+
+***Milestones***
+- **August 2020**: Founding of Tellusant by Staffan Canback and Philip Burginyoung (both from Canback Consulting)
+- **2020**: First client - A small resort and vineyard company in Argentina, quickly followed by AB InBev.
+- **2021**: Bobo Shen joins as Chief Product Officer (also Canback alum)
+- **2022**: Opening of Mexico City office on Reforma. Francisco Maciel (with Canback background) takes on the leadership of Tellusant Mexico.
+- **2024**: Fifth client mark passed with first French client: BIC.
+- Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro as sales director in Mexico City.
+- **2025**: Five years celebrated in Punta Cana.
+- **2025**: TelluBase-On-Demand is introduced as a self-service to allow people to buy its data without Tellusant interventions. 
+- **2026**: Downgraded social media efforts (LinkedIn, online advertising (still for TelluBase-On-Demand though), cold emails, etc.) . Our success comes from credibility and trust, which have little to do with social media, and everything to do with knowing people.
+
+
+### Executive Leadership
+
+Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
+
+#### Dr. Staffan Canback, Executive Chairman
+Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
+
+Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
+
+Today, Staffan reserves that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.
+
+[Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
+
+#### Philip Burginyoung, Chie Executive Officer and President
+Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
+
+Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
+
+Prior to Canback Consulting, Phil worked in investment research and with software companies.
+
+Phil has a passion for making quantitative and statistical analysis relevant and helpful to companies making strategic decisions. He believes that there is a wealth of untapped knowledge and precision that company can better leverage, which drove him to co-found Tellusant with Staffan Canback. He has built and developed many of the algorithms and methods that support Tellusant's products.
+
+Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
+
+#### Bobo Shen, Chief Product Officer
+Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
+
+She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
+
+Bobo is an expert in applying statistical concepts in solving real world business problems. She believes that corporate decisions can be made more efficient with relevant insights derived from real time data and information. Bobo supports the development of mathematical algorithms and oversees the development of Tellusant’s products.
+
+Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Business Administration and Management. She further holds an MS in Computer Information System.
+
+<p align="center">— — —</p>
+
+All three are also citizens of the world, familiar with markets and cultures everywhere.
 
 ### Clients
 
+In contrast to most start ups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
+
+This a list of important recent clients:
+
+- AB InBev
+- Alliance Bernstein
+- BIC
+- Constellation Brands
+- Coca-Cola
+- FEMSA
+- Heineken
+- Keurig Dr Pepper
+- Nutresa
+- Tufts University
+
+[A full list of historical clients that our leaders have served is found here](clients.md)
+
 ### Global footprint
 
+The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
+This serves us well when we calibrate our products to client needs. We know what realistic elasticities look like, we know what the limits in growth come from, and more.
+
+While our products are analytical, our experiences are personal and human.
+
+<img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
