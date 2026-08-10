@@ -63,6 +63,8 @@ TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensur
 
 <p align="center">— — —</p>
 
+The graph below summarizes our main properties.
+
 <img align="center" src="images/telluplan-tellubase-concept.svg" width="500"  alt="Telluplan-Tellubase concept">
 
 ### History and Milestones
