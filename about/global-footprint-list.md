@@ -17,7 +17,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 ---
 ## On-the-Ground Project Countries
   
-|Country|Country|Country|
+||||
 |---|---|---|
 |Angola|Guatemala|Nicaragua|
 |Argentina|Guyana|Nigeria|
@@ -54,7 +54,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 ---
 ## Outside-in Project Countries  
   
-|Country|Country|Country|
+||||
 |---|---|---|
 |Albania|Chad|Madagascar|
 |Algeria|Comoros|Malawi|
@@ -69,7 +69,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 ---
 ## Cities Visited During Projects  
   
-|City|City|City|
+||||
 |---|---|---|
 |Aalborg, Denmark|Hamburg, Germany|Paarl, South Africa|
 |Aarau, Switzerland|Hamilton, Bermuda|Pachuca, Mexico|
