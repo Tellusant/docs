@@ -7,6 +7,13 @@ For searchability, here is the global footprint map as a list.
 
 |Country|Country|Country|
 |---|---|---|
+|Boston, USA|Mexico City, Mexico|Bogota, Colombia|
+
+---
+## On-the-Ground Project Countries
+
+|Country|Country|Country|
+|---|---|---|
 |Angola|Guatemala|Nicaragua|
 |Argentina|Guyana|Nigeria|
 |Australia|Honduras|Norway|
