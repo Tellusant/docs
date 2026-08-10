@@ -71,7 +71,7 @@ Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and 
 
 WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently **m**, **l**, the **U.S. Recession Predictor** and the **Fedora U.S. Economic Nowcast**.
 
-Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portlane, Maine (2023).
+Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
 ***Milestones***
 - **August 2020**: Founding of Tellusant by Staffan Canback and Philip Burginyoung (both from Canback Consulting)
@@ -82,7 +82,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro as sales director in Mexico City.
 - **2025**: Five years celebrated in Punta Cana.
 - **2025**: TelluBase-On-Demand is introduced as a self-service to allow people to buy its data without Tellusant interventions. 
-- **2026**: Downgraded social media (LinkedIn, online advertising (still for TelluBase-On-Demand though), cold emails, etc.) efforts. Our success comes from credibility and trust, which have little to do with social media, and everything to do with knowing people.
+- **2026**: Downgraded social media efforts (LinkedIn, online advertising (still for TelluBase-On-Demand though), cold emails, etc.) . Our success comes from credibility and trust, which have little to do with social media, and everything to do with knowing people.
 - 
 
 
