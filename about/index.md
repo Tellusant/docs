@@ -30,6 +30,20 @@ This is an essay about the company.
 
 ### Clients
 
+This a list of major recent clients:
+
+- AB InBev
+- BIC
+- Constellation Brands
+- Coca-Cola
+- FEMSA
+- Heineken
+- Keurig Dr Pepper
+- Nutresa
+- Tufts University
+
+[A full list of historical clients that our leaders have served is found here](clients.md)
+
 ### Global footprint
 
 
