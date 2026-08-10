@@ -1,3 +1,9 @@
+---
+title: "Global Footprint List"
+description: "For searchability, here is the global footprint map as a list."
+image: /assets/social-card-cred.png
+---
+
 # Global Footprint List
 
 For searchability, here is the global footprint map as a list.
