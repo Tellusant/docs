@@ -18,6 +18,7 @@ We also want to show Tellusant's breadth and depth of Tellusant beyond mere prod
 - Our narrative
 - Our credentials
 
+---
 ## Narrative
 This is the story of Tellusant.
 
@@ -86,11 +87,21 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - 
 
 
-### Leadership
+### Executive Leadership
+
+#### Dr. Staffan Canback, Executive Chairman
+
+#### Philip Burginyoung, Chie Executive Officer and President
+
+#### Bobo Shen, Chief Product Officer
+
+
 
 ### Clients
 
-This a list of major recent clients:
+In contrast to most start ups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
+
+This a list of important recent clients:
 
 - AB InBev
 - Alliance Bernstein
@@ -111,9 +122,8 @@ The map shows the how deep Tellusant leaders' global knowledge is. We have worke
 
 This serves us well when we calibrate our products to client needs. We know what realistic elasticities look like, we know what the limits in growth come from, and more.
 
-While our products are analyticsl, our experiences are personal and human.
+While our products are analytical, our experiences are personal and human.
 
----
 #### <img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
 
 [For searchability, see the global footprint list](global-footprint-list.md)
