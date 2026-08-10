@@ -120,8 +120,6 @@ Bobo is an expert in applying statistical concepts in solving real world busines
 
 Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Business Administration and Management. She further holds an MS in Computer Information System.
 
-BOBO SHEN TELLUSANT
-
 ### Clients
 
 In contrast to most start ups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
