@@ -12,13 +12,13 @@ redirect_from:
 
 Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to:
 - Show who we are
-- Establish our credibility
+- Establish our credibility (narrative + credentials
 
 We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. 
 
-We have received an excellent score on credibility because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
 
-## Dimensions
+
+## Narrative
 This is an essay about the company.
 
 ### Overview
@@ -32,8 +32,8 @@ This is an essay about the company.
 ### Global footprint
 
 ---
-## Credentials
-Credentials are the verifiable credibility attributes.
+## Credentials  
+We have received an excellent score on credentials because of external validation (outside-in).  
 
 ### 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
