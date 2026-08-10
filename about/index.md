@@ -15,10 +15,13 @@ Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Auth
 - Show who we are
 - Establish our credibility (strong narrative + strong credentials)
 
-We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. 
+We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. Below you find:
+
+- Our Narrative
+- Our crdedentials
 
 ## Narrative
-This is an essay about the company.
+This is the story of Tellusant.
 
 ### Overview
 
@@ -60,6 +63,12 @@ TelluBase is the world’s only harmonized age and income distribution informati
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at   
 
 ### History and Milestones
+Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
+
+We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
+
+We quickly signed up a number of large and medium sized clients in North America, South America, Europe, and Asia. This was possible because of strong reputation in consumer goods and large rolodex of executives.
+
 
 ### Leadership
 
