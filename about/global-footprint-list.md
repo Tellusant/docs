@@ -84,7 +84,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Adana, Turkey|Harbin, China|Patna, India|
 |Agadir, Morocco|Harpers Ferry, United States|Pereira, Colombia|
 |Agra, India|Harrisburg, United States|Perstorp, Sweden|
-|Aguascalientes, Mexico|Hartford, United States|Philadelphia, Gr, United States|
+|Aguascalientes, Mexico|Hartford, United States|Philadelphia, United States|
 |Ahmadabad, India|Hat Yai, Thailand|Phnom Penh, Cambodia|
 |Åhus, Sweden|Hefei, China|Phoenix, United States|
 |Alingsas, Sweden|Helsingborg, Sweden|Phuket, Thailand|
@@ -100,8 +100,8 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Arusha, Tanzania|Huntsville, United States|Portsmouth, United Kingdom|
 |Asmara, Eritrea|Ibague, Colombia|Poznań, Poland|
 |Asuncion, Paraguay|Indianapolis, United States|Prague, Czechia|
-|Atlanta, Gr, United States|Irapuato, Mexico|Pretoria, South Africa|
-|Auckland, New Zeeland|Istanbul, Turkey|Providence, Gr, United States|
+|Atlanta, United States|Irapuato, Mexico|Pretoria, South Africa|
+|Auckland, New Zeeland|Istanbul, Turkey|Providence, United States|
 |Austin (MN), United States|Jacksonville (FL), United States|Provincetown, United States|
 |Austin, United States|Jaipur, India|Puebla, Mexico|
 |Baku, Azerbaijan|Jakarta, Indonesia|Puerto de la Cruz, Spain|
@@ -130,10 +130,10 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Bogota, Colombia|Kitwe, Zambia|Salvador, Brazil|
 |Boituva, Brazil|Klagenfurt, Austria|Salzburg, Austria|
 |Bonn, Germany|Klaipeda, Lithuania|San Antonio Palopo, Guatemala|
-|Boston, Gr, United States|Knoxville, United States|San Antonio, United States|
+|Boston, United States|Knoxville, United States|San Antonio, United States|
 |Bratislava, Slovakia|Kolkata, India|San Cristobal, Dominican Republic|
 |Bregenz, Austria|Kourou, French Guiana|San Diego, United States|
-|Bremen, Germany|Krakow, Poland|San Francisco, Gr, United States|
+|Bremen, Germany|Krakow, Poland|San Francisco, United States|
 |Bridgetown, Barbados|Kristianstad, Sweden|San Ignacio, Belize|
 |Brighton, United Kingdom|Kuala Lumpur, Malaysia|San Jose, Costa Rica|
 |Brisbane, Australia|Kungsbacka, Sweden|San Jose, United States|
@@ -155,7 +155,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Caracas, Venezuela|Lobito, Angola|Sao Paulo, Brazil|
 |Cartagena, Colombia|Łodź, Poland|Sapporo, Japan|
 |Cayenne, French Guiana|London, United Kingdom|Schaumburg, United States|
-|Celaya, Mexico|Los Angeles, Gr, United States|Seattle, Gr, United States|
+|Celaya, Mexico|Los Angeles, United States|Seattle, United States|
 |Changsha, China|Luanda, Angola|Seoul, Korea, Rep.|
 |Charleston, United States|Lublin, Poland|Shanghai, China|
 |Charlotte, United States|Lund, Sweden|Shelton, United States|
@@ -163,7 +163,7 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Chennai, India|Machala, Ecuador|Shinyanga, Tanzania|
 |Chiang Mai, Thailand|Madrid, Spain|Siauliai, Lithuania|
 |Chiang Rai, Thailand|Mae Hong Son, Thailand|Siem Reap, Cambodia|
-|Chicago, Gr, United States|Malmo, Sweden|Sincelejo, Colombia|
+|Chicago, United States|Malmo, Sweden|Sincelejo, Colombia|
 |Chingola, Zambia|Managua, Nicaragua|Singapore, Singapore|
 |Chipata, Zambia|Manchester, United Kingdom|Somers, United States|
 |Chisinau, Moldova|Mandalay, Myanmar|Somerset West, South Africa|
@@ -183,15 +183,15 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Culiacan, Mexico|Melbourne, Australia|Tallinn, Estonia|
 |Curitiba, Brazil|Melchor de Mencos, Guatemala|Tampa, United States|
 |Da Nang, Viet Nam|Mendoza, Argentina|Tampico, Mexico|
-|Dallas, Gr, United States|Merida, Mexico|The Hamptons, United States|
+|Dallas, United States|Merida, Mexico|The Hamptons, United States|
 |Dar es Salaam, Tanzania|Mersin, Turkey|Tijuana, Mexico|
 |David, Panama|Mestre, Italy|Tipperary, Ireland|
 |Dayton, United States|Mexico City, Mexico|Tokyo, Japan|
-|Delhi, India|Miami, Gr, United States|Toledo, United States|
+|Delhi, India|Miami, United States|Toledo, United States|
 |Denver, United States|Milan, Italy|Toronto, Canada|
 |Detroit, United States|Milton Keynes, United Kingdom|Torreon, Mexico|
-|Dubai, United Arab Emirates|Milwaukee, Gr, United States|Tranas, Sweden|
-|Dublin, Ireland|Minneapolis, Gr, United States|Trieste, Italy|
+|Dubai, United Arab Emirates|Milwaukee, United States|Tranas, Sweden|
+|Dublin, Ireland|Minneapolis, United States|Trieste, Italy|
 |Durban, South Africa|Montego Bay, Jamaica|Trondheim, Norway|
 |Dusseldorf, Germany|Monteria, Colombia|Tucson, United States|
 |East London, South Africa|Monterrey, Mexico|Tuxtla Gutierrez, Mexico|
@@ -219,9 +219,9 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Gary, United States|Ndola, Zambia|Vreed en Hoop, Guyana|
 |Gavle, Sweden|Neiva, Colombia|Vung Tau, Viet Nam|
 |Geilo, Norway|Nelspruit, South Africa|Warsaw, Poland|
-|Geneva, Switzerland|Neuquen, Argentina|Washington, Gr, United States|
+|Geneva, Switzerland|Neuquen, Argentina|Washington, United States|
 |George Town, Malaysia|New Orleans, United States|Wenzhou, China|
-|Georgetown, Guyana|New York, Gr, United States|White Plains, United States|
+|Georgetown, Guyana|New York, United States|White Plains, United States|
 |Gislaved, Sweden|Nice, France|White River, South Africa|
 |Glasgow, United Kingdom|Nizhny Novgorod, Russia|Wichita, United States|
 |Glenville, United States|Norrkoping, Sweden|Windhoek, Namibia|
