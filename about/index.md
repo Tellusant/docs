@@ -63,7 +63,7 @@ TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensur
 
 <p align="center">— — —</p>
 
-<img  src="../assets/images/telluplan-tellubase-concept.svg" alt="Telluplan-Tellubase concept">
+<img  src="images/telluplan-tellubase-concept.svg" alt="Telluplan-Tellubase concept">
 
 ### History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
