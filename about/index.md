@@ -33,7 +33,7 @@ This is an essay about the company.
 
 
 
-[For searchability, see the global footprint list](global-footprint-list)
+[For searchability, see the global footprint list](global-footprint-list.md)
 
 ---
 ## Credentials  
