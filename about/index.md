@@ -5,6 +5,7 @@ image: /assets/social-card-cred.png
 redirect_from:
   - /legitimacy/
   - /credibility/
+  - about.html
 ---
  
 # About Us
