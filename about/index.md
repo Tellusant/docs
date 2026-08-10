@@ -31,6 +31,10 @@ This is an essay about the company.
 
 ### Global footprint
 
+
+
+[For searchability, see the global footprint list](global-footprint-list)
+
 ---
 ## Credentials  
 We have received an excellent score on credentials because of external validation (outside-in).  
