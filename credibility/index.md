@@ -5,6 +5,7 @@ image: /assets/social-card-cred.png
 redirect_from:
   - /legitimacy/
   - /about/
+  - /about
 ---
  
 # Tellusant Credibility Evidence Pack, August 2026
