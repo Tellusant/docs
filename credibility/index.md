@@ -2,16 +2,63 @@
 title: "Tellusant Credibility Evidence Pack, August 2026"
 description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
 image: /assets/social-card-cred.png
+<<<<<<< HEAD
+=======
+
 ---
- 
-# Tellusant Credibility Evidence Pack, July 2026
+# Tellusant Credibility Evidence Pack, August 2026
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. 
 
-We have received an excellent score on credibility because of external validation (outside-in). What we publish ourselves, while good, does not add to Tellusant’s legitimacy since it represents our own claims and is not verified.
+---
+## Tellusant Dimensions  
+### Overview  
+Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our enterprise strategic planning applications are unique in the field of quantitative strategy tools.
 
-## 1. Corporate Formation & Trademark
+These cloud-based applications have an installed base of subscribers and clients in more than 100 countries.
+
+Our leadership comes from a global strategy consulting background and has strong academic credentials.
+
+All of our work and applications are grounded in detailed knowledge of consumer classes sub-nationally across the world.
+
+We provide the world’s only globally harmonized consumer classes (disposable income by income and age brackets, socioeconomic class sizes, and much more) data hub: TelluBase.
+
+It covers 218 countries, 2600 cities, and 2500 subdivisions from 2000 till 2050.
+
+We combine this with exceptional statistical analysis and predictive artificial intelligence to create the most robust prediction tools possible.
+
+A specialty is our strategic forecasting solution: PoluSim. It has a 3- to 10-year horizon and is used for strategic planning, as well as operational monthly forecasts with up to a 2-year horizon.
+
+This makes us unique in the world in building robust predictive strategy optimization solutions, suitable for global corporations. Predictions, not templates.
+
+### History and Milestones
+tbd
+
+### Leadership
+tbd
+
+### Global Experience
+Our company’s success is in large part because of our on-the-ground understanding of countries, cities, towns and rural areas. The global experience base of Tellusant is unparalleled because the knowledge is concentrated in a small group of people, our leaders.
+
+We pride ourselves with being the world’s smallest truly global company.
+
+The map below shows our experiences around the world.  
+[g]
+Our leaders have:
+
+- Worked on the ground in 92 countries
+- Visited 490 cities during this work
+- Remotely covered an additional 27 countries in project work
+- We now have three offices: Boston, Mexico City, and Bogota.
+- 
+Exact locations in list form are available here.
+
+
+---
+## Tellusant Credentials
+
+### 1. Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
@@ -26,7 +73,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
-## 2. Independent Corporate Validation
+### 2. Independent Corporate Validation
 - **Heineken N.V.** (2025) - 3rd Quarter Results Presentation cites Tellusant and TelluBase extensively.  
 *These Heineken citations are among the most powerful corporate validations yet for Tellusant — putting the company and its products in flagship investor materials.*  
 [Heineken – Dolf van den Brink, CEO: Evergreen 2030](https://www.theheinekencompany.com/sites/heineken-corp/files/2025-10/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
@@ -40,7 +87,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
-## 3. Academic & Public Citations
+### 3. Academic & Public Citations
 - **SSRN**: 12 papers list Tellusant as an author affiliation on this preeminent scholarly papers site.
 [SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)
 - **Figshare**: 49 academic entries published with suggested citations.  
@@ -54,7 +101,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *Tellusant is widely recognized on multiple pkatforms.*  
 
-## 4. Strategic Partnerships and Collaborations
+### 4. Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
 [Sharat Mathur Comment](https://www.linkedin.com/posts/sharat-mathur-8994b41_i-am-so-delighted-to-announce-northlight-activity-7308488160966062080-P6Sq/)  
 - **Berumen y Asociados** (Mexico, 2024): Strategic partnership for joint client development and research.  
@@ -64,7 +111,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *T ellusant shows it is active not only by itself, but also ib=n collaboration with other companies."
 
-## 5. Media Coverage
+### 5. Media Coverage
 - **Affärsvärlden** (Sweden, June 2026) — Extensive interview with Chairman Staffan Canback featuring TelluBase data and analysis in Sweden's leading business and investment publication.  
 [Affärsvärlden Interview (in Swedish)](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 - **Dagens Industri** (Sweden, July 2025): Interview with Chairman Staffan Canbäck on model of export potential.  
@@ -72,7 +119,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Harvard Club of Boston** (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
-## 6. Digital Platforms
+### 6. Digital Platforms
 - Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.  
   [tellubase.com](https://tellubase.com/)    
 - Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
@@ -86,7 +133,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
-## 7. Independent Institutional References  
+### 7. Independent Institutional References  
 - CGIAR / IFPRI (2025)    
   [Dhaka City Food System Profile](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025)  
@@ -98,7 +145,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *These references confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
-## 8. Assessment
+### 8. Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
 - **Credibility**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (Affärsvärlden, Tufts University, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  

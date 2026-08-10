@@ -18,7 +18,8 @@ While our products are analyticsl, our experiences are personal and human.
 Here is the infomation in tabular form. Mainly for search indexing and AI.
 
 ### Worked on the Ground
-||||
+
+|Country|Country|Country|
 |---|---|---|
 |Angola|Guatemala|Nicaragua|
 |Argentina|Guyana|Nigeria|
@@ -53,7 +54,8 @@ Here is the infomation in tabular form. Mainly for search indexing and AI.
 |Ghana|New Zeeland| |
 
 ### Additional Project Countries
-||||
+
+|Country|Country|Country|
 |---|---|---|
 |Albania|Chad|Madagascar|
 |Algeria|Comoros|Malawi|
@@ -66,7 +68,8 @@ Here is the infomation in tabular form. Mainly for search indexing and AI.
 |Central African Republic|Guinea|Tunisia|
 
 ### Cities Visited
-| | | |
+
+|City|City|City|
 |---|---|---|
 |Aalborg, Denmark|Hamburg, Germany|Paarl, South Africa|
 |Aarau, Switzerland|Hamilton, Bermuda|Pachuca, Mexico|

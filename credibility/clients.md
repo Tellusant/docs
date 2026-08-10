@@ -32,6 +32,7 @@ Recent clients in bold.
 - HSBC
 - Imperial Brands
 - **Ipsos**
+- **Keurig Dr Pepper**
 - Kraft Heinz
 - Mastercard
 - Mediclinic
