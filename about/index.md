@@ -59,7 +59,11 @@ We combine this with exceptional statistical analysis and numeric artificial int
 #### TelluBase 
 TelluBase is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
-TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at   
+TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at as income and age distributions instead of aggregates, there ids nothing like it.
+
+<p align="center">— — —</p>
+
+<img  src="../assets/images/telluplan-tellubase-concept.svg" alt="Telluplan-Tellubase concept">
 
 ### History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
@@ -150,7 +154,7 @@ This serves us well when we calibrate our products to client needs. We know what
 
 While our products are analytical, our experiences are personal and human.
 
-#### <img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
+<img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
