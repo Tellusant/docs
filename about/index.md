@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
-image: /assets/social-card-cred.png
+image: /assets/social-card-about.png
 redirect_from:
   - /legitimacy/
   - /credibility/
