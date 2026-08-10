@@ -11,14 +11,12 @@ redirect_from:
 # About Us
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to:
-- Show who we are
-- Establish our credibility (strong narrative + strong credentials)
+Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to show who we are, and establish our credibility (= strong narrative + strong credentials)
 
 We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. Below you find:
 
-- Our Narrative
-- Our crdedentials
+- Our narrative
+- Our credentials
 
 ## Narrative
 This is the story of Tellusant.
