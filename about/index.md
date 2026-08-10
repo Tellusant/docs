@@ -65,7 +65,9 @@ TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensur
 
 The graph below summarizes our main properties.
 
-<img align="center" src="images/telluplan-tellubase-concept.svg" width="500"  alt="Telluplan-Tellubase concept">
+<p align="center">
+<img src="images/telluplan-tellubase-concept.svg" width="450"  alt="Telluplan-Tellubase concept">
+</p>
 
 ### History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
@@ -90,6 +92,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2025**: Five years celebrated in Punta Cana.
 - **2025**: TelluBase-On-Demand is introduced as a self-service to allow people to buy its data without Tellusant interventions. 
 - **2026**: Downgraded social media efforts (LinkedIn, online advertising (still for TelluBase-On-Demand though), cold emails, etc.) . Our success comes from credibility and trust, which have little to do with social media, and everything to do with knowing people.
+  Add Shane at an appropriate milestone. Also Mauricio.
 
 
 ### Executive Leadership
