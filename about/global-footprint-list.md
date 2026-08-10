@@ -10,7 +10,6 @@ For searchability, here is the Tellusant global footprint map as a list.
 ---
 ## Office Locations
 &nbsp;
-
 |Country|Country|Country|
 |---|---|---|
 |Boston, USA|Mexico City, Mexico|Bogota, Colombia|
