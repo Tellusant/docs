@@ -19,10 +19,12 @@ We also want to show Tellusant's breadth and depth of Tellusant beyond mere prod
 - Our credentials
 
 ---
-## Narrative
+## 1. Narrative
 This is the story of Tellusant.
 
-### Overview
+### 1.1 Value Proposition
+
+### 1.2 Overview
 
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
 
@@ -46,7 +48,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 <img  src="../articles-posts/assets/images/tellusant-strategy-grid.svg" width="600" alt="The Tellusant strategy grid">
 </p>
 
-#### *TelluPlan and Its Applications*
+#### 1.2.1 *TelluPlan and Its Applications*
 
 <a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
@@ -60,7 +62,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 - <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
-#### *TelluBase*  
+#### 1.2.2 *TelluBase*  
 <a href="https://tellubase.com" style="color: black; text-decoration: none"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and with income and age distributions instead of aggregates, there is nothing like it.
@@ -79,7 +81,7 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### History and Milestones
+### 1.3 History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
 We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
@@ -109,11 +111,11 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2025**: TelluBase-On-Demand is introduced as a self-service shop for data.
 - **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
 
-### Executive Leadership
+### 1.4 Executive Leadership
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
-#### *Dr. Staffan Canback, Executive Chairman*
+#### 1.4.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
@@ -122,7 +124,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
-#### *Philip Burginyoung, Chief Executive Officer and President*
+#### 1.4.2 *Philip Burginyoung, Chief Executive Officer and President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
 Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
@@ -133,7 +135,7 @@ Phil has a passion for making quantitative and statistical analysis relevant and
 
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
-#### *Bobo Shen, Chief Product Officer*
+#### 1.4.3 *Bobo Shen, Chief Product Officer*
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
 She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
@@ -146,7 +148,7 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
 
-### Clients
+### 1.5 Clients
 
 In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
 
@@ -165,7 +167,7 @@ This a list of important recent clients:
 
 [A full list of historical clients that our leaders have served is found here](clients.md)
 
-### Global footprint
+### 1.6 Global footprint
 
 The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
@@ -177,11 +179,16 @@ While our products are analytical, our experiences are personal and human.
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
+### 1.7 External Citations
+Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders.
+
+[External citations](/citations)
+
 ---
-## Credentials  
+## 2. Credentials  
 We have received an excellent score on credentials because of external validation (outside-in).  
 
-### 1. Corporate Formation & Trademark
+### 2.1 Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
@@ -196,7 +203,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
-### 2. Independent Corporate Validation
+### 2.2 Independent Corporate Validation
 - **Heineken N.V.** (2025) - 3rd Quarter Results Presentation cites Tellusant and TelluBase extensively.  
 *These Heineken citations are among the most powerful corporate validations yet for Tellusant — putting the company and its products in flagship investor materials.*  
 [Heineken – Dolf van den Brink, CEO: Evergreen 2030](https://www.theheinekencompany.com/sites/heineken-corp/files/2025-10/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
@@ -210,7 +217,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *Taken together, these references show Tellusant is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
-### 3. Academic & Public Citations
+### 2.3 Academic & Public Citations
 - **SSRN**: 12 papers list Tellusant as an author affiliation on this preeminent scholarly papers site.
 [SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)
 - **Figshare**: 49 academic entries published with suggested citations.  
@@ -224,7 +231,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *Tellusant is widely recognized on multiple pkatforms.*  
 
-### 4. Strategic Partnerships and Collaborations
+### 2.4 Strategic Partnerships and Collaborations
 - **NorthLight Analytic Partners** (2025): Strategic partnership integrating Tellusant’s demand models with NorthLight’s price-promo simulators.  
 [Sharat Mathur Comment](https://www.linkedin.com/posts/sharat-mathur-8994b41_i-am-so-delighted-to-announce-northlight-activity-7308488160966062080-P6Sq/)  
 - **Berumen y Asociados** (Mexico, 2024): Strategic partnership for joint client development and research.  
@@ -234,7 +241,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *T ellusant shows it is active not only by itself, but also ib=n collaboration with other companies."
 
-### 5. Media Coverage
+### 2.5 Media Coverage
 - **Affärsvärlden** (Sweden, June 2026) — Extensive interview with Chairman Staffan Canback featuring TelluBase data and analysis in Sweden's leading business and investment publication.  
 [Affärsvärlden Interview (in Swedish)](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 - **Dagens Industri** (Sweden, July 2025): Interview with Chairman Staffan Canbäck on model of export potential.  
@@ -242,7 +249,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 - **Harvard Club of Boston** (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
-### 6. Digital Platforms
+### 2.6 Digital Platforms
 - Dedicated site for **TelluBase On-Demand**, Tellusant’s global income distribution and consumer-class database.  
   [tellubase.com](https://tellubase.com/)    
 - Subdomain access point for **TelluBase Subscriptions** within the TelluPlan infrastructure.  
@@ -256,7 +263,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
-### 7. Independent Institutional References  
+### 2.7 Independent Institutional References  
 - CGIAR / IFPRI (2025)    
   [Dhaka City Food System Profile](https://cgspace.cgiar.org/server/api/core/bitstreams/521230b8-a57c-481d-b5cb-f43c174169f3/content)  
 - Secretaría General de la Alcaldía Mayor de Bogotá (2025)  
@@ -268,7 +275,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
   
 *These references confirm third-party adoption of Tellusant data by international organizations and government agencies across Latin America, North America, and global research networks.*
 
-### 8. Assessment
+### 2.8 Assessment
 - **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address. It has a Mexican subsidiary.  
 - **Credibility**: Supported by corporate references (Heineken, Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (Affärsvärlden, Tufts University, Harvard Club of Boston), operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo), and independent institutional references.  
 - **Scale**: A multi-office firm with U.S. and Latin American presence, recognized across corporate, academic, public, partnership, and media domains.  
@@ -276,10 +283,7 @@ Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.
 ■ *Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, multi-channel product platforms, independent institutional references.*
 
 ---
-Source: Tellusant, Inc.
-
 [View a PDF version of the credibility evidence pack](Tellusant-Credibility-Evidence-Pack.pdf)  
-[See a Tellusant client list](clients.md)  
 [See external citations of Tellusant and its members](/citations/)  
 [Return to Repository home](../index.md)
 
