@@ -42,12 +42,26 @@ Note that we could explore quarterly forecasts instead that could give sufficien
 ## Licensing Thoughts
 > To be discussed only. Not in email.
 
-We have previously discussed a licensing arrangement with NEK as an alternative to the current subscription model. Cost is approximately €1.2M–€1.5M (without the monthly expansion). Under this setup, NEK would get:
-Ability to host the model on their own servers
-Full access to the model source code 
-Ability to directly edit and maintain the model code
-Continued Tellusant support as needed for data and TelluBase, covered through an ongoing subscription
-We believe this setup would provide NEK with significantly more ownership and flexibility. They can, of course, suggest an alternative structure if they have something different in mind.
+We have previously discussed a licensing arrangement with NEK as an alternative to the current subscription model. 
+
+Here we make the distinction between **application** and **model**:  
+- **Application** is the "Telescope system". That is, user interface, data management, computational engine and more.  
+- **Model** is the specific *mathemato-statistical core* that calculates demand based on structured input data, various types of elasticities, nonlinear algorithms, and more.  
+
+The proposed license gives NEK:  
+  
+- Ability to host the **application** on their own servers, but not access to its code outside the **model**
+- Full access to the **model source code**  
+- Ability to directly edit and maintain the **model source code**
+- Continued Tellusant support for the **application** similar to what exists today.
+
+This is not an open-source solution since this would, by definition, mean that the application's and model's source codes would be open to the world.
+
+The initial fee is approximately €1.2M–€1.5M (without the monthly expansion) with a yearly maintenance fee of 
+
+We believe this setup would provide NEK with significantly more ownership and flexibility, while reducing the reliance on Tellusant's resources. 
+
+NEK can suggest an alternative structure if something different is more suitable.
  
 Separately, there is opportunity to improve annual planning with a focus on flex drivers as inputs to OpCo's more systematically, rather than freeform. This could involve AI implementation and incorporation of industry reports. This is a ~20% increase on top of other changes in subscriptions (added features, other support, etc.)
  
