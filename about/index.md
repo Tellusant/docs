@@ -58,12 +58,18 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 - <a href="https://tellusant.com/q-risk/" style="color: black; text-decoration: none;"><b>Q-Risk</b></a> measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
 
-- <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none;](https://tellusant.com/stratboard/)"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
+- <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
 #### *TelluBase*  
-<a href="https://tellubase.com"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
+<a href="https://tellubase.com" style="color: black; text-decoration: none"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
-TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at as income and age distributions instead of aggregates, there ids nothing like it.
+TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and with income and age distributions instead of aggregates, there is nothing like it.
+
+> What do we mean by income and age distributions? Income distribution is how many people or households in a country, subdivision or city that make between, e.g., $5,000 and $20,000 year. We call this an income bracket. They are calculated from so-called Lorents curves (with much else also going into the calculations).  
+>  
+> The income brackets are used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's AB, C+, C, D+, D, E schema, but we have other schemas too.  
+>  
+> Age distributions are age brackets such as all people in a city between 35 and 40 years.These brackts are combined with income brackets to create age-income cells.  
 
 <p align="center">— — —</p>
 
