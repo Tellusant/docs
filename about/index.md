@@ -32,7 +32,7 @@ Our leadership comes from a global strategy consulting background and has strong
 
 All of our work and applications are grounded in detailed knowledge of consumer classes sub-nationally across the world. We combine this with exceptional statistical analysis and predictive artificial intelligence to create the most robust prediction tools possible.
 
-Tellusant builds on unsurpassed analytical capabilities based on pure science.. We convert this into practical applications that work on the global stage for large and medium companies.
+Tellusant builds on unsurpassed analytical capabilities based on pure science. We convert this into practical applications that work on the global stage for large and medium companies.
 
 Our mission is to help streamline corporate decision making. We have achieved this in more than 100 countries.
 
