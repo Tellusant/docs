@@ -40,7 +40,9 @@ Our work is informed by decades of experience as senior management consultants. 
 
 We combine this with exceptional statistical analysis and numeric artificial intelligence to create the most robust strategic tools possible in growth, productivity, and risk management.
 
-**The Strategy Grid** is our analytical organizing framework. It build on pure economic theory and is therefore robust. The Strategy Grid de-clutters current unwieldy and often unscientific strategy frameworks.
+**The Strategy Grid** is our analytical organizing framework. It build on pure economic theory and is therefore robust. The Strategy Grid de-clutters current unwieldy and often unscientific strategy frameworks.  
+
+<img  src="../articles-posts/assets/images/svg/tellusant-strategy-grid.svg" alt="The Tellusant strategy grid">
 
 #### *TelluPlan and Its Applications*
 
