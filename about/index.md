@@ -61,7 +61,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 - <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none;](https://tellusant.com/stratboard/)"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
 #### *TelluBase*  
-<a href="https://tellusant.com/tellubase-income-distribution-database/"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
+<a href="https://tellubase.com"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at as income and age distributions instead of aggregates, there ids nothing like it.
 
