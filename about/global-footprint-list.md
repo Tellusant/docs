@@ -8,18 +8,16 @@ image: /assets/social-card-about.png
 For searchability, here is the Tellusant global footprint map as a list.
 
 ---
-## Office Locations
-&nbsp;
-
-|Country|Country|Country|
+## Office Locations  
+  
+||||
 |---|---|---|
-|Boston, USA|Mexico City, Mexico|Bogota, Colombia|
+| Boston, USA | Mexico City, Mexico | Bogota, Colombia |
 
 ---
 ## On-the-Ground Project Countries
-
-
-|Country|Country|Country|
+  
+||||
 |---|---|---|
 |Angola|Guatemala|Nicaragua|
 |Argentina|Guyana|Nigeria|
@@ -54,10 +52,9 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Ghana|New Zeeland| |
 
 ---
-## Outside-in Project Countries 
-&nbsp;
-
-|Country|Country|Country|
+## Outside-in Project Countries  
+  
+||||
 |---|---|---|
 |Albania|Chad|Madagascar|
 |Algeria|Comoros|Malawi|
@@ -70,10 +67,9 @@ For searchability, here is the Tellusant global footprint map as a list.
 |Central African Republic|Guinea|Tunisia|
 
 ---
-## Cities Visited During Projects
-&nbsp;
-
-|City|City|City|
+## Cities Visited During Projects  
+  
+||||
 |---|---|---|
 |Aalborg, Denmark|Hamburg, Germany|Paarl, South Africa|
 |Aarau, Switzerland|Hamilton, Bermuda|Pachuca, Mexico|
