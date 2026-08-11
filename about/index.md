@@ -206,7 +206,6 @@ Because of our rich intellectual content published in various settings, we have 
 |Constellation Brands (2025)|IJARSCT (2025)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
 |CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Putnam Investments (2022)||
 |De Nederlandsche Bank (2021)|International Economics, Journal of (2024)|Reall (2021)||
-<img width="161" height="603" alt="image" src="https://github.com/user-attachments/assets/5ead24e4-2392-4aa2-a6ad-8782fe5ff8fe" />
 
 [The full set of citations with hyperlinks to the publications is available here.](/citations/)
 
