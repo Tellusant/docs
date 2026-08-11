@@ -90,8 +90,9 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2024**: Fifth client mark passed with first French client: BIC.
 - Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro as sales director in Mexico City.
 - **2025**: Five years celebrated in Punta Cana.
-- **2025**: TelluBase-On-Demand is introduced as a self-service to allow people to buy its data without Tellusant interventions. 
-- **2026**: Downgraded social media efforts (LinkedIn, online advertising (still for TelluBase-On-Demand though), cold emails, etc.) . Our success comes from credibility and trust, which have little to do with social media, and everything to do with knowing people.
+- **2025**: TelluBase-On-Demand is introduced as a self-service shop for data.
+- **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
+  
   Add Shane at an appropriate milestone. Also Mauricio.
 
 
