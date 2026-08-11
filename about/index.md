@@ -42,13 +42,13 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 **The Strategy Grid** is our analytical organizing framework. It build on pure economic theory and is therefore robust. The Strategy Grid de-clutters current unwieldy and often unscientific strategy frameworks.
 
-#### TelluPlan and its Applications
+#### *TelluPlan and Its Applications*
 
 **TelluPlan** is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
-- **PoluSim** provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
+- <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
 
-- **Pace** (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
+- <a href="https://tellusant.com/pace-latent-demand-estimator/" style="color: black; text-decoration: none;"><b>PACE</b></a> (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
 
 - **Paragonal** provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
 
@@ -56,7 +56,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 - **Stratboard** is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
-#### TelluBase 
+#### *TelluBase*  
 TelluBase is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at as income and age distributions instead of aggregates, there ids nothing like it.
@@ -70,13 +70,13 @@ The graph below summarizes our main properties.
 </p>
 
 ### History and Milestones
-Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
+Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
 We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
 
 We quickly signed up a number of large and medium sized clients in North America, South America, Europe, and Asia. This was possible because of strong reputation in consumer goods and large rolodex of executives.
 
-Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
+Our first commercial app was https://tellusant.com/polusim-strategic-forecasting-solution/**PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
 
 WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
@@ -100,7 +100,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
-#### Dr. Staffan Canback, Executive Chairman
+#### *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
@@ -109,7 +109,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
-#### Philip Burginyoung, Chie Executive Officer and President
+#### *Philip Burginyoung, Chief Executive Officer and President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
 Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
@@ -120,7 +120,7 @@ Phil has a passion for making quantitative and statistical analysis relevant and
 
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
-#### Bobo Shen, Chief Product Officer
+#### *Bobo Shen, Chief Product Officer*
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
 She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
