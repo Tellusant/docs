@@ -24,6 +24,8 @@ This is the story of Tellusant.
 
 ### 1.1 Value Proposition
 
+
+
 ### 1.2 Overview
 
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
@@ -67,11 +69,11 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and with income and age distributions instead of aggregates, there is nothing like it.
 
-> What do we mean by income and age distributions? Income distribution is how many people or households in a country, subdivision or city that make between, e.g., $5,000 and $20,000 year. We call this an income bracket. They are calculated from so-called Lorents curves (with much else also going into the calculations).  
+> What do we mean by income and age distributions? Income distribution is how many people or households in a country, subdivision, or city, make between, e.g., $5,000 and $20,000 year. We call them income bracket. They are in part calculated from so-called Lorents curves.  
 >  
-> The income brackets are used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's AB, C+, C, D+, D, E schema, but we have other schemas too.  
+> The income brackets are also used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's AB — C+ — C — D+ — D — E schema, but we have other schemas too.  
 >  
-> Age distributions are age brackets such as all people in a city between 35 and 40 years.These brackts are combined with income brackets to create age-income cells.  
+> Age distributions are age brackets such as all people in a city between 35 and 40 years old. These brackets are combined with income brackets to create age-income cells.  
 
 <p align="center">— — —</p>
 
