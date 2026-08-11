@@ -80,9 +80,9 @@ We realized early on that we needed a developer base to create our apps outside 
 
 We quickly signed up a number of large and medium sized clients in North America, South America, Europe, and Asia. This was possible because of strong reputation in consumer goods and large rolodex of executives.
 
-Our first commercial app was https://tellusant.com/polusim-strategic-forecasting-solution/**PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
+Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
 
-WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
+We have also started building micro-sites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
