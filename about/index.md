@@ -78,7 +78,7 @@ We quickly signed up a number of large and medium sized clients in North America
 
 Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
 
-WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the [**U.S. Recession Predictor**](https://tellubase.com/recession-predictor/) and the [**Fedora U.S. Economic Nowcast**](https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html).
+WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
