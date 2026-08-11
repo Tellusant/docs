@@ -95,8 +95,11 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 ***Milestones***
 - **August 2020**: Founding of Tellusant by Staffan Canback and Philip Burginyoung (both from Canback Consulting)
 - **2020**: First client - A small resort and vineyard company in Argentina, quickly followed by AB InBev.
-- **2021**: Bobo Shen joins as Chief Product Officer (also Canback alum)
+- **2021**: TelluBase
+- **2022**: Bobo Shen joins as Chief Product Officer (also Canback alum)
 - **2022**: Opening of Mexico City office on Reforma. Francisco Maciel (with Canback background) takes on the leadership of Tellusant Mexico.
+- **2022**: PoluSim
+- **2023**: PACE
 - **2024**: Fifth client mark passed with first French client: BIC.
 - Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro as sales director in Mexico City.
 - **2025**: Five years celebrated in Punta Cana.
