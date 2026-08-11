@@ -190,7 +190,7 @@ While our products are analytical, our experiences are personal and human.
 [For searchability, see the global footprint list](global-footprint-list.md)
 
 ### 1.7 External Citations
-Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are
+Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
 |||||
 |---|---|---|---|
@@ -208,9 +208,7 @@ Because of our rich intellectual content published in various settings, we have 
 |De Nederlandsche Bank (2021)|International Economics, Journal of (2024)|Reall (2021)||
 <img width="161" height="603" alt="image" src="https://github.com/user-attachments/assets/5ead24e4-2392-4aa2-a6ad-8782fe5ff8fe" />
 
-
-
-[External citations](/citations)
+[The full set of citations with hyperlinks to the publications is available here.](/citations/)
 
 ---
 ## 2. Credentials  
