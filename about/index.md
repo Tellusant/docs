@@ -20,7 +20,7 @@ We also want to show Tellusant's breadth and depth of Tellusant beyond mere prod
 
 ---
 ## 1. Narrative
-This is the story of Tellusant and its people.
+This is the story of Tellusant and its people, six years into our journey.
 
 ### 1.1 Value Proposition
 
