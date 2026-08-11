@@ -93,7 +93,7 @@ We have also started building micro-sites to stimulate usage of our products and
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
 ***Milestones***
-- **August 2020**: Founding of Tellusant by Staffan Canback and Philip Burginyoung. They were soon joined Shane Ezepik (all three ex-Canback Consulting).
+- **August 2020**: Tellusant founded by Staffan Canback and Philip Burginyoung. They were soon joined Shane Ezepik (all three ex-Canback Consulting).
 - **2020**: First client - A small resort and vineyard company in Argentina, quickly followed by AB InBev.
 - **2021**: **TelluBase** as a subscription service introduced
 - **2022**: Bobo Shen joins as Chief Product Officer (also ex-Canback)
