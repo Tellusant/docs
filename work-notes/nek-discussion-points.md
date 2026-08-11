@@ -52,18 +52,18 @@ Here we make the distinction between **application** and **model**:
 
 The proposed license gives NEK:  
   
-- Ability to host the **application** on their own servers, but not access to its code outside the **model**
-- Full access to the **model source code**  
+- Ability to host the **application** on their own servers, but not get access to its code outside the **model**
+- Full access to the **model**  
 - Ability to directly edit and maintain the **model source code**
-- Continued Tellusant support for the **application** similar to what exists today.
+- Continued Tellusant support for the **application** outside the **model** similar to what is done today.
 
-This is not an open-source solution since this would, by definition, mean that the application's and model's source codes would be open to the world.
+This is not an open-source solution since that would, by definition, mean that the application's and model's source codes are open to the world.
 
-The initial fee is approx. €1.2M–€1.5M (without the monthly expansion) with a yearly maintenance fee of –€1.5M (without the monthly expansion) with a yearly maintenance fee of approx. €270,000.
+The initial fee is approx. €1.2M–€1.5M,  with a yearly maintenance fee of approx. €270,000. This is without the monthly expansion.
 
 We believe this setup would provide NEK with more ownership and flexibility, while reducing the reliance on Tellusant's resources. 
 
-NEK can suggest an alternative structure if something different is more suitable.
+NEK can suggest an alternative structure.
 
 ---
 Separately, there is an opportunity to improve annual planning with a focus on flex drivers as inputs to OpCo's more systematically, rather than freeform. This could involve AI augmentation and incorporation of industry reports.
