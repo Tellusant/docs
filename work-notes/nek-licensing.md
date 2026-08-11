@@ -20,6 +20,7 @@ To convert a **$500,000 annual subscription** into a licensing model, the exact 
 
 * **Capital Expenditure (CapEx) vs. Operating Expenditure (OpEx):** Enterprise buyers requesting a perpetual license usually prefer to deploy CapEx budgets upfront rather than ongoing OpEx recurring subscriptions.
 * **Maintenance & Support Rates:** Perpetual software licenses typically charge **18% to 22%** of the initial license price annually for patches, security updates, and tier-1 support.
+> Tier 1 support is the first line of customer or technical help. Agents gather basic information, handle routine questions, and solve simple problems like password resets or printer setups. If an issue is too complex, they pass or escalate it to higher tiers.
 * **Hosting and Infrastructure Burden:** If moving from SaaS to an on-premise or self-hosted license transfers server and storage costs to the client, a 10–15% discount off the $500k base price preserves your gross margin while incentivizing the transition.
 * **Upgrade Rights:** Ensure perpetual licenses define whether major version updates (e.g., v2.0 to v3.0) are covered under the annual maintenance fee or require a separate upgrade license.
 
