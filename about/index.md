@@ -78,7 +78,7 @@ We quickly signed up a number of large and medium sized clients in North America
 
 Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
 
-WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently **m**, **l**, the **U.S. Recession Predictor** and the **Fedora U.S. Economic Nowcast**.
+WE have also started building micro-sites to stimulate usage of our products and sites. Thew are currently [**The Economic Sentiment Tool**](https://tellubase.com/country-sentiment-analysis/) the [**U.S. Recession Predictor**](https://tellubase.com/recession-predictor/) and the [**Fedora U.S. Economic Nowcast**](https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html).
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
@@ -135,7 +135,7 @@ All three are also citizens of the world, familiar with markets and cultures eve
 
 ### Clients
 
-In contrast to most start ups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
+In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
 
 This a list of important recent clients:
 
