@@ -44,20 +44,20 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 #### *TelluPlan and Its Applications*
 
-**TelluPlan** is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
+<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
 - <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
 
 - <a href="https://tellusant.com/pace-latent-demand-estimator/" style="color: black; text-decoration: none;"><b>PACE</b></a> (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
 
-- **Paragonal** provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
+- <a href="https://tellusant.com/paragonal/" style="color: black; text-decoration: none;"><b>Paragonal</b></a> Pricing Aligned with Consumer Economics provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
 
-- **𝗤-𝗥𝗶𝘀𝗸** measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
+- <a href="https://tellusant.com/q-risk/" style="color: black; text-decoration: none;"><b>Q-Risk</b></a> measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
 
-- **Stratboard** is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
+- <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none;](https://tellusant.com/stratboard/)"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
 #### *TelluBase*  
-TelluBase is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
+<a href="https://tellusant.com/tellubase-income-distribution-database/"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and at as income and age distributions instead of aggregates, there ids nothing like it.
 
