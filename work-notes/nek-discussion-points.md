@@ -30,14 +30,14 @@ These estimates were previously shared with NEK (Peccei).
 Monthly forecast expansion has two separate fees:  
 
 ### A. One-Time Setup  
-- Top European OpCos: €450k–€900k  
-- All top OpCos: €600k–€1.4m
+- Top European OpCos: €450k–€900k (collectively) 
+- All top OpCos: €600k–€1.4m (collectively)
    
 The final cost will depend on model complexity and any additional requirements from the OpCos. These estimates are based on our experience working with the two pilot markets, providing monthly forecast and drivers for the next 18-month. We assume the countries are those with monthly Nielsen or similar data, although it is not hard to create monthly models for non-Nielsen countries (Denton method).
  
 ### B. Ongoing Annual Subscription
-- Top European OpCos: €180k–€250k per year
-- All top OpCos: €300k–€420k per year
+- Top European OpCos: €180k–€250k per year (collectively)
+- All top OpCos: €300k–€420k per year (collectively)
 Note that we could explore quarterly forecasts instead that could give sufficient details, and be more efficient for OpCos. 
 
 ---
