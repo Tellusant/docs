@@ -20,7 +20,8 @@ The questions at hand are:
 
 - How much effort and cost would expanding pilot entail?  
 - Could the commercial terms be changed from subscription to license and what are the costs?  
- 
+
+---
 ## Expansion of monthly (short-term) forecasting  
 > Can be shared in an email  
 
@@ -38,7 +39,8 @@ The final cost will depend on model complexity and any additional requirements f
 - Top European OpCos: €180k–€250k per year
 - All top OpCos: €300k–€420k per year
 Note that we could explore quarterly forecasts instead that could give sufficient details, and be more efficient for OpCos. 
- 
+
+---
 ## Licensing Thoughts
 > To be discussed only. Not in email.
 
@@ -57,12 +59,13 @@ The proposed license gives NEK:
 
 This is not an open-source solution since this would, by definition, mean that the application's and model's source codes would be open to the world.
 
-The initial fee is approximately €1.2M–€1.5M (without the monthly expansion) with a yearly maintenance fee of 
+The initial fee is approx. €1.2M–€1.5M (without the monthly expansion) with a yearly maintenance fee of –€1.5M (without the monthly expansion) with a yearly maintenance fee of approx. €270,000.
 
-We believe this setup would provide NEK with significantly more ownership and flexibility, while reducing the reliance on Tellusant's resources. 
+We believe this setup would provide NEK with more ownership and flexibility, while reducing the reliance on Tellusant's resources. 
 
 NEK can suggest an alternative structure if something different is more suitable.
+
+---
+Separately, there is an opportunity to improve annual planning with a focus on flex drivers as inputs to OpCo's more systematically, rather than freeform. This could involve AI augmentation and incorporation of industry reports.
  
-Separately, there is opportunity to improve annual planning with a focus on flex drivers as inputs to OpCo's more systematically, rather than freeform. This could involve AI implementation and incorporation of industry reports. This is a ~20% increase on top of other changes in subscriptions (added features, other support, etc.)
- 
-As for subscription renewal, we recommend moving toward a long-term commitment rather than 1 year. 
+As for subscription renewal, we recommend moving toward a long-term commitment rather than the current yearly. 
