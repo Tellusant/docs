@@ -2,6 +2,8 @@
 title: "The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk"
 description: "Tellusant's Strategy Grid is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels."
 image: /assets/social-card-strategy-grid.png
+redirect_from:
+  - strategy-grid-tic-tac-toe.html
 ---
 # The Strategy Grid: Decomposing Corporate Priorities Based on Growth, Productivity and Risk
 _by Dr. Staffan Canback, Tellusant_  
