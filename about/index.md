@@ -42,7 +42,9 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 **The Strategy Grid** is our analytical organizing framework. It build on pure economic theory and is therefore robust. The Strategy Grid de-clutters current unwieldy and often unscientific strategy frameworks.  
 
-<img  src="../articles-posts/assets/images/svg/tellusant-strategy-grid.svg" alt="The Tellusant strategy grid">
+<p align="center">
+<img  src="../articles-posts/assets/images/tellusant-strategy-grid.svg" width="600" alt="The Tellusant strategy grid">
+</p>
 
 #### *TelluPlan and Its Applications*
 
@@ -68,7 +70,7 @@ TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensur
 The graph below summarizes our main properties.
 
 <p align="center">
-<img src="images/telluplan-tellubase-concept.svg" width="450"  alt="Telluplan-Tellubase concept">
+<img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
 ### History and Milestones
