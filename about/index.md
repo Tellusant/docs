@@ -79,7 +79,7 @@ TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensur
 
 > What do we mean by income and age distributions? Income distribution is how many people or households in a country, subdivision, or city, make between, e.g., $5,000 and $20,000 year. We call them income bracket. They are in part calculated from so-called Lorents curves.  
 >  
-> The income brackets are also used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's $| AB | C+ | C | D+ | D | E |$ schema, but we have other schemas too.  
+> The income brackets are also used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's *AB ▪ C+ ▪ C ▪ D+ ▪ D ▪ E* schema, but we have other schemas too.  
 >  
 > Age distributions are age brackets such as all people in a city between 35 and 40 years old. These brackets are combined with income brackets to create age-income cells.  
 
