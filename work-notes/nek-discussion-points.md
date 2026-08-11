@@ -21,19 +21,22 @@ The questions at hand are:
 - How much effort and cost would expanding pilot entail?
 - Could the commercial terms be changed from subscription to license and what are the costs?
  
-# Expansion of monthly (short-term) forecasting
+## Expansion of monthly (short-term) forecasting
 > Can be shared in an email
 
-Monthly forecast expansion has two separate fees:
-A) One-time setup:
-Top European OpCos: €450k–€900k
-All top OpCos: €600k–€1.4m
-The final cost will depend on model complexity and any additional requirements from the OpCos. These estimates are based on our experience working with the pilot markets, providing monthly forecast and drivers for the next 18-month. 
+These estimates were previously shared with Heineken (Peccei) 
+
+Monthly forecast expansion has two separate fees:  
+
+### A. One-Time Setup  
+- Top European OpCos: €450k–€900k
+- All top OpCos: €600k–€1.4m
+The final cost will depend on model complexity and any additional requirements from the OpCos. These estimates are based on our experience working with the pilot markets, providing monthly forecast and drivers for the next 18-month. We assume the countries are those with monthly Nielsen or similar data, although it is not hard to create monthly models for non-Nielsen countries (Denton method).
  
-B) Ongoing annual subscription
-Top European OpCos: €180k–€250k per year
-All top OpCos: €300k–€420k per year
-Note that we could explore quarterly as an option that could be more cost effective, and more efficient with OpCo's as an alternative. 
+### B. Ongoing Annual Subscription
+- Top European OpCos: €180k–€250k per year
+- All top OpCos: €300k–€420k per year
+Note that we could explore quarterly forecasts instead that could give sufficient details, and be more efficient for OpCos. 
  
 ## Licensing Thoughts
 > To be discussed only. Not in email.
