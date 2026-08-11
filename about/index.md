@@ -24,7 +24,15 @@ This is the story of Tellusant.
 
 ### 1.1 Value Proposition
 
+Tellusant is focused on helping executives making better decisions. We achieve this by implementing decision augmentation applications that takes out the error-prone manual component from preparing decision support materials. 
 
+For example, instead of having subsidiaries make demand projections with all kinds of different methods and the report to corporate geadquarters, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
+
+We base this on more than 75 years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond mere model builders and into the realm of *judgment mechanics*.
+
+We complement this with exceptional capabilities in statistical analyses and model building as evidenced by our educations and practical deliveries of applications.
+
+With Tellusant solutions, our large global clients and smaller local clients achieve better **accuracy**, more **consistency**, and higher **efficiency** when making critical decisions.
 
 ### 1.2 Overview
 
