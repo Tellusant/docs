@@ -93,6 +93,19 @@ The graph below summarizes our main properties.
 
 ### 1.3 Intellectual Foundation
 
+tbd
+
+Where in the World
+S Africa
+
+EMIO
+
+Strategy grid paper
+
+ICMAI
+
+
+
 ### 1.4 History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
@@ -127,6 +140,8 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
+***Boston***
+
 #### 1.5.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
@@ -159,6 +174,28 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 <p align="center">— — —</p>
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
+
+#### 1.5.4 Team Members
+
+tbd
+
+Shane 
+
+***Mexico***
+
+Francisco
+
+Maurico
+
+Daniel
+
+***Colombia***
+
+Carlos
+
+***Sweden***
+
+Kennet
 
 ### 1.6 Clients
 
@@ -209,6 +246,8 @@ While our products are analytical, our experiences are personal and human.
 
 ### 1.8 External Citations
 Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
+
+tbd: expand with main themes and link to Intellectual Foundation
 
 |||||
 |---|---|---|---|
