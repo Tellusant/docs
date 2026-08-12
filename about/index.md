@@ -140,7 +140,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
-***BOSTON***
+*BOSTON*
 
 #### 1.5.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
@@ -211,9 +211,9 @@ tbd
 </a>
 </p>
 
-***MEXICO CITY***
+*MEXICO CITY*
 
-Francisco Maciel
+***Francisco Maciel***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
@@ -237,7 +237,7 @@ Francisco Maciel
 </a>
 </p>
 
-***BOGOTÁ***
+*BOGOTÁ*
 
 ***Carlos Alzate***
 
@@ -247,7 +247,7 @@ Francisco Maciel
 </a>
 </p>
 
-***STOCKHOLM***
+*STOCKHOLM*
 
 ***Kennet Rådne***
 
