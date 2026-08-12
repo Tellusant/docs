@@ -34,7 +34,7 @@ We complement this with exceptional capabilities in statistical analyses and mod
 
 With Tellusant solutions, our large global clients and smaller local clients achieve better **accuracy**, more **consistency**, and higher **efficiency** when making critical decisions.
 
-### 1.2 Overview
+### 1.2 Scope of Activities
 
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
 
@@ -100,7 +100,7 @@ We quickly signed up a number of large and medium sized clients in North America
 
 Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
 
-We have also started building micro-sites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
+We have also started building micro-websites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
@@ -161,6 +161,21 @@ All three are also citizens of the world, familiar with markets and cultures eve
 ### 1.5 Clients
 
 In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
+
+We think of clients as persons, not institutions, when we negotiate. The underlying institution is central when the work begins, but negotiations are personal.
+
+We have a bifurcated approach to negotiations. On the one hand, nothing happens without senior executive approval. On the other, midel-level executives need to feel comfortable since they will carry out implementation of ideas.
+
+Who are the senior executives? Typically between CEO and VP levels.
+- CEOs
+- CFOs
+- EVPs
+- Heads of strategy
+- Heads of business units
+- Sometimes heads of insights and/or analytics
+The mid-level who need to be involved are determined by these.
+
+The language and positioning used differ vastly between senior and mid-level. Senior executives want the efforts positioned against company needs, with a certain level of constructive abstraction. Mid-level executives want a more practical, and even technical, negotiation. But at the end, we sell credibility and judgment.
 
 This a list of important recent clients:
 
