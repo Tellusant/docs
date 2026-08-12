@@ -175,7 +175,7 @@ Phil has a passion for making quantitative and statistical analysis relevant and
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
 <p align="center">
-<a href="https://www.linkedin.com/philipburgin-young/" target="_blank">
+<a href="https://www.linkedin.com/in/philipburgin-young/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>  
@@ -190,7 +190,7 @@ Bobo is an expert in applying statistical concepts in solving real world busines
 Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Business Administration and Management. She further holds an MS in Computer Information System.
 
 <p align="center">
-<a href="https://www.linkedin.com/bobo-shen/" target="_blank">
+<a href="https://www.linkedin.com/in/bobo-shen/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
@@ -206,7 +206,7 @@ tbd
 ***Shane Ezepik***
 
 <p align="center">
-<a href="https://www.linkedin.com/shane-ezepik/" target="_blank">
+<a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
@@ -216,7 +216,7 @@ tbd
 Francisco Maciel
 
 <p align="center">
-<a href="https://www.linkedin.com/francisco-maciel-9b39835/" target="_blank">
+<a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
@@ -224,7 +224,7 @@ Francisco Maciel
 ***Mauricio González Ramos***
 
 <p align="center">
-<a href="https://www.linkedin.com/mauricio-gonzález-ramos-76806614/" target="_blank">
+<a href="https://www.linkedin.com/in/mauricio-gonzález-ramos-76806614/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
@@ -232,7 +232,7 @@ Francisco Maciel
 ***Daniel Amaro***
 
 <p align="center">
-<a href="https://www.linkedin.com/daniel-amaro-g/" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-amaro-g/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
@@ -242,7 +242,7 @@ Francisco Maciel
 ***Carlos Alzate***
 
 <p align="center">
-<a href="https://www.linkedin.com/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
@@ -252,7 +252,7 @@ Francisco Maciel
 ***Kennet Rådne***
 
 <p align="center">
-<a href="https://www.linkedin.com/kennetradne/" target="_blank">
+<a href="https://www.linkedin.com/in/kennetradne/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
