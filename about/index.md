@@ -218,7 +218,7 @@ We have received an excellent score on credentials because of external validatio
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
 [USPTO Certificate](https://tsdr.uspto.gov/documentviewer?caseId=sn90169076&docId=ORC20211212034718&linkId=1#docIndex=0&page=1)  
-- <a href="/contact/" style="color: black; text-decoration: none"><b>Business Address</b></a>: 240 Elm Street, Suite 200, Somerville, MA 02144, United States  
+- <a href="/contact.md" style="color: black; text-decoration: none"><b>Business Address</b></a>: 240 Elm Street, Suite 200, Somerville, MA 02144, United States  
 [Massachusetts Business Entity Record](https://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=aiV0rR.eAhNaReMSXwsptjSFjT0Haq02lzmnVnjPoL8-)  
 Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.  
 *Prestigious Chapultepec Uno tower*  
