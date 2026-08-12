@@ -97,19 +97,21 @@ As a company built on science and technology, where does our IP come from?
 
 We span many knowledge domains, so here we highlight a few:
 
-- *Executive decision making processes*. In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
+#### 1.3.1 *Executive Decision Making Theory*
+In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
 [Our own corporate decision-making framework is described here.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html)<br>  
 [Tellusant's approach to combining human judgment and mechanical methods is found here](https://docs.tellusant.com/articles-posts/judgmental-mechanical.html)
 
-- *Demand modeling methods*. We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
-1st: Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
-2nd: Price and marketing spend elasticities need to be incorporated appropriately. This paper by Dr. Canback shows how this is done: [The Universal Profit Equation](/papers/Canback-Universal-Profit-Equation)<br>   
-3rd: Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. We usually encounter ergodicity and use it to our analytical advantage (/work-notes/ergodicity-test-stata.md)
+#### 1.3.2 *Demand modeling methods*
+We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
+1. Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
+2.  Price and marketing spend elasticities need to be incorporated appropriately. This paper by Dr. Canback shows how this is done: [The Universal Profit Equation](/papers/Canback-Universal-Profit-Equation.pdf)<br>   
+3. Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. We usually encounter ergodicity and use it to our analytical advantage (/work-notes/ergodicity-test-stata.md)
 
-[Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method](https://docs.tellusant.com/articles-posts/creating-robust-long-term-forecasts.html) brings the three parts together.
+The presentation [*Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method*](/articles-posts/creating-robust-long-term-forecasts.md) brings the three parts together.
 
-S Africa: https://docs.tellusant.com/articles-posts/south-africa-subnational-ict-opportunities.html
+Further, the thought piece S Africa: https://docs.tellusant.com/articles-posts/south-africa-subnational-ict-opportunities.html
 
 EMIO
 
