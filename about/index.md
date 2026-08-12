@@ -91,7 +91,9 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### 1.3 History and Milestones
+### 1.3 Intellectual Foundation
+
+### 1.4 History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
 We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
@@ -121,11 +123,11 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2025**: TelluBase-On-Demand is introduced as a self-service shop for data.
 - **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
 
-### 1.4 Executive Leadership
+### 1.5 Executive Leadership & Team
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
-#### 1.4.1 *Dr. Staffan Canback, Executive Chairman*
+#### 1.5.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
@@ -134,7 +136,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
-#### 1.4.2 *Philip Burginyoung, Chief Executive Officer and President*
+#### 1.5.2 *Philip Burginyoung, Chief Executive Officer and President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
 Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
@@ -145,7 +147,7 @@ Phil has a passion for making quantitative and statistical analysis relevant and
 
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
-#### 1.4.3 *Bobo Shen, Chief Product Officer*
+#### 1.5.3 *Bobo Shen, Chief Product Officer*
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
 She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
@@ -158,7 +160,7 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
 
-### 1.5 Clients
+### 1.6 Clients
 
 In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
 
@@ -193,7 +195,7 @@ This a list of important recent clients:
 
 [A full list of historical clients that our leaders have served is found here](clients.md)
 
-### 1.6 Global footprint
+### 1.7 Global footprint
 
 The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
@@ -205,7 +207,7 @@ While our products are analytical, our experiences are personal and human.
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
-### 1.7 External Citations
+### 1.8 External Citations
 Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
 |||||
