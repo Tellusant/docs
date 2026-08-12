@@ -98,10 +98,9 @@ As a company built on science and technology, where does our IP come from?
 We span many knowledge domains, so here we highlight a few:
 
 #### 1.3.1 *Executive Decision Making Theory*
-In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
+In Dr. Canback's doctoral research he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
-[Our own corporate decision-making framework is described here.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html)<br>  
-[Tellusant's approach to combining human judgment and mechanical methods is found here](https://docs.tellusant.com/articles-posts/judgmental-mechanical.html)
+[Our own corporate decision-making framework is derived from these and other authorities.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html). Combined with <a href="articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none"><i>Tellusant's approach to combining human judgment and mechanical methods</i></a>,we have comprehensive framework for working with executive management on decision issues.
 
 #### 1.3.2 *Demand modeling methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
