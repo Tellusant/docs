@@ -93,16 +93,17 @@ The graph below summarizes our main properties.
 
 ### 1.3 Intellectual Foundation
 
-As a company built on science and technology, where does our IP come from?
-
-We span many knowledge domains, so here we highlight a few:
+As a company built on science and technology, where does our IP come from? We span many knowledge domains, so here we highlight a few:
 
 #### 1.3.1 *Executive Decision Making Theory*
 In Dr. Canback's doctoral research he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
-[Our own corporate decision-making framework is derived from these and other authorities.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html). Combined with <a href="articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none"><i>Tellusant's approach to combining human judgment and mechanical methods</i></a>,we have comprehensive framework for working with executive management on decision issues.
+[Our own corporate decision-making framework is derived from these and other authorities.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html). Combined with <a href="articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none"><i>Tellusant's approach to combining human judgment and mechanical methods</i></a>,we have a comprehensive framework for working with executive management on decision issues.
 
-#### 1.3.2 *Demand modeling methods*
+#### 1.3.2 *EMIO Strategy Framework*
+The Strategy Grid discussed above gives the high-level parameters for what a company or business unit needs to achieve in terms of growth, productivity, and risk. Once this is known, [we use the EMIO framework (Environment–Market–Initiative-Outcome) to get to the details} (https://doi.org/10.6084/m9.figshare.28248680). EMIO also includes a process for managing the strategy process.
+
+#### 1.3.3 *Demand Modeling Methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1. Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
 2.  Price and marketing spend elasticities need to be incorporated appropriately. In this paper, Dr. Canback shows how this is done: [The Universal Profit Equation]](https://doi.org/10.6084/m9.figshare.28259375)<br>   
