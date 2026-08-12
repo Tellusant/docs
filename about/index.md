@@ -149,6 +149,15 @@ Throughout his career, he has developed and refined an unusually broad and deep 
 
 Today, Staffan reserves that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.
 
+<p align="center">
+<a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
+  <img src="images/orcid-logo.sv" alt="" width="32" height="32">
+</a>
+</p>  
+
+
+https://orcid.org/0009-0006-9892-398X
+
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
 #### 1.5.2 *Philip Burginyoung, Chief Executive Officer and President*
