@@ -20,11 +20,21 @@ We also want to show Tellusant's breadth and depth of Tellusant beyond mere prod
 
 ---
 ## 1. Narrative
-This is the story of Tellusant.
+This is the story of Tellusant and its people, six years into our journey.
 
 ### 1.1 Value Proposition
 
-### 1.2 Overview
+Tellusant is focused on helping executives making better decisions. We achieve this by implementing decision augmentation applications that takes out the error-prone manual component from preparing decision support materials. 
+
+For example, instead of having subsidiaries make demand projections with all kinds of different methods and the report to corporate geadquarters, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
+
+We base this on more than 75 years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond mere model builders and into the realm of *judgment mechanics*.
+
+We complement this with exceptional capabilities in statistical analyses and model building as evidenced by our educations and practical deliveries of applications.
+
+With Tellusant solutions, our large global clients and smaller local clients achieve better **accuracy**, more **consistency**, and higher **efficiency** when making critical decisions.
+
+### 1.2 Scope of Activities
 
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
 
@@ -67,11 +77,11 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and with income and age distributions instead of aggregates, there is nothing like it.
 
-> What do we mean by income and age distributions? Income distribution is how many people or households in a country, subdivision or city that make between, e.g., $5,000 and $20,000 year. We call this an income bracket. They are calculated from so-called Lorents curves (with much else also going into the calculations).  
+> What do we mean by income and age distributions? Income distribution is how many people or households in a country, subdivision, or city, make between, e.g., $5,000 and $20,000 year. We call them income bracket. They are in part calculated from so-called Lorents curves.  
 >  
-> The income brackets are used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's AB, C+, C, D+, D, E schema, but we have other schemas too.  
+> The income brackets are also used to calculate the size of socioeconomic levels (SEL). SELs can, e.g., be Mexico's *AB ▪ C+ ▪ C ▪ D+ ▪ D ▪ E* schema, but we have other schemas too.  
 >  
-> Age distributions are age brackets such as all people in a city between 35 and 40 years.These brackts are combined with income brackets to create age-income cells.  
+> Age distributions are age brackets such as all people in a city between 35 and 40 years old. These brackets are combined with income brackets to create age-income cells.  
 
 <p align="center">— — —</p>
 
@@ -81,7 +91,22 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### 1.3 History and Milestones
+### 1.3 Intellectual Foundation
+
+tbd
+
+Where in the World
+S Africa
+
+EMIO
+
+Strategy grid paper
+
+ICMAI
+
+
+
+### 1.4 History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
 We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
@@ -90,7 +115,7 @@ We quickly signed up a number of large and medium sized clients in North America
 
 Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
 
-We have also started building micro-sites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
+We have also started building micro-websites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
@@ -111,11 +136,13 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2025**: TelluBase-On-Demand is introduced as a self-service shop for data.
 - **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
 
-### 1.4 Executive Leadership
+### 1.5 Executive Leadership & Team
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
-#### 1.4.1 *Dr. Staffan Canback, Executive Chairman*
+***Boston***
+
+#### 1.5.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
@@ -124,7 +151,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
-#### 1.4.2 *Philip Burginyoung, Chief Executive Officer and President*
+#### 1.5.2 *Philip Burginyoung, Chief Executive Officer and President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
 Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
@@ -135,7 +162,7 @@ Phil has a passion for making quantitative and statistical analysis relevant and
 
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
-#### 1.4.3 *Bobo Shen, Chief Product Officer*
+#### 1.5.3 *Bobo Shen, Chief Product Officer*
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
 She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
@@ -148,9 +175,47 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
 
-### 1.5 Clients
+#### 1.5.4 Team Members
+
+tbd
+
+Shane 
+
+***Mexico***
+
+Francisco
+
+Maurico
+
+Daniel
+
+***Colombia***
+
+Carlos
+
+***Sweden***
+
+Kennet
+
+### 1.6 Clients
 
 In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
+
+We think of clients as people, not institutions, when we negotiate. The underlying institution is important, but negotiations are personal.
+
+We have a bifurcated approach to negotiations. On the one hand, nothing happens without senior executive approval. On the other, midel-level executives need to feel comfortable since they will carry out implementation of ideas.
+
+Who are the senior executives? Typically between CEO and VP levels.
+- CEOs
+- CFOs
+- EVPs
+- SVPs
+- Heads of strategy
+- Heads of business units
+- Sometimes heads of insights and/or analytics
+The mid-level who need to be involved are determined by these.
+
+The language and positioning used differ vastly between senior and mid-level. Senior executives want the efforts positioned against company needs, with a certain level of constructive abstraction. Mid-level executives want a more practical, and even technical, negotiation. But in the end, we provide credibility and judgment.
 
 This a list of important recent clients:
 
@@ -167,7 +232,7 @@ This a list of important recent clients:
 
 [A full list of historical clients that our leaders have served is found here](clients.md)
 
-### 1.6 Global footprint
+### 1.7 Global footprint
 
 The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
@@ -179,10 +244,27 @@ While our products are analytical, our experiences are personal and human.
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
-### 1.7 External Citations
-Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders.
+### 1.8 External Citations
+Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
-[External citations](/citations)
+tbd: expand with main themes and link to Intellectual Foundation
+
+|||||
+|---|---|---|---|
+|Ambev (2022)|Economisch Bureau Amsterdam (2024)|ISEAS (2021)|Reddal (2024)|
+|Applied Business and Economics, Journal of (2024)|EconPol Forum (2025)|Krane Funds Advisors (2021)|Research and Innovation in Social Science, International Journal of (2024)|
+|Bangladesh Journal of Agricultural Economics (2020)|Environment & Urbanization (2020)|Landscape and Urban Planning (2020)|Revue de l’Entrepreneuriat (2023)|
+|Bioscience Research, Open Journal of (2020)|FUDMA Journal of Sciences (2023)|Management and Entrepreneurship, Journal of (2022)|RUAF (2024)|
+|Bogotá, Secretaría General de la Alcaldía Mayor de (2025)|Health Sciences and Research, International Journal of (2020)|McKinsey (2022)|Skift Research (2025)|
+|British Council (2021)|Heineken (2025) —Dolf van den Brink, CEO|New York State Metropolitan Transit Authority (2020)|Social Science and Medicine (2022)|
+|Central European University (2023)|Heineken (2025)—Bram Westenbrink, CCO|Newsweek (2020)|Sustainable Energy for All (2020)|
+|Centre for Affordable Housing Finance in Africa (2021)|IEEE (2025)|NordicLight / Swedish Chamber of Commerce Brazil (2020)|TAP-TUMI (2025)|
+|Chicago, University of (2025)|IGI Global (publisher) (2020)|Nova, Universidade (2023)|United Nations (2020)|
+|Constellation Brands (2025)|IJARSCT (2025)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
+|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Putnam Investments (2022)||
+|De Nederlandsche Bank (2021)|International Economics, Journal of (2024)|Reall (2021)||
+
+[The full set of citations with hyperlinks to the publications is available here.](/citations/)
 
 ---
 ## 2. Credentials  
@@ -193,7 +275,7 @@ We have received an excellent score on credentials because of external validatio
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
 [USPTO Certificate](https://tsdr.uspto.gov/documentviewer?caseId=sn90169076&docId=ORC20211212034718&linkId=1#docIndex=0&page=1)  
-- **Business Address**: 240 Elm Street, Suite 200, Somerville, MA 02144, United States  
+- <a href="/contact.html" style="color: black; text-decoration: none"><b>Business Address</b></a>: 240 Elm Street, Suite 200, Somerville, MA 02144, United States  
 [Massachusetts Business Entity Record](https://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSummary.aspx?sysvalue=aiV0rR.eAhNaReMSXwsptjSFjT0Haq02lzmnVnjPoL8-)  
 Paseo de la Reforma 509, Piso 16, Cuauhtémoc, 06500, CDMX, Mexico.  
 *Prestigious Chapultepec Uno tower*  
