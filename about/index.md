@@ -93,7 +93,15 @@ The graph below summarizes our main properties.
 
 ### 1.3 Intellectual Foundation
 
-tbd
+As a company built on science and technology, where does our IP come from?
+
+We span many knowledge domains, so here we highlight a few:
+
+- *Executive decision making processes*. In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).  
+We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).  
+[Our own corporate decision-making framework is described here.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html)  
+
+- Demand modeling based on income distributions and price and other elasticities  
 
 Where in the World
 S Africa
