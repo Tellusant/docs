@@ -140,7 +140,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
-***Boston***
+***BOSTON***
 
 #### 1.5.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
@@ -174,6 +174,12 @@ Phil has a passion for making quantitative and statistical analysis relevant and
 
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
+<p align="center">
+<a href="https://www.linkedin.com/philipburgin-young/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>  
+
 #### 1.5.3 *Bobo Shen, Chief Product Officer*
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
@@ -183,31 +189,73 @@ Bobo is an expert in applying statistical concepts in solving real world busines
 
 Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Business Administration and Management. She further holds an MS in Computer Information System.
 
+<p align="center">
+<a href="https://www.linkedin.com/bobo-shen/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
+
 <p align="center">— — —</p>
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
 
-#### 1.5.4 Team Members
+#### 1.5.4 Senior Team Members
 
 tbd
 
-Shane 
+***Shane Ezepik***
 
-***Mexico***
+<p align="center">
+<a href="https://www.linkedin.com/shane-ezepik/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
 
-Francisco
+***MEXICO CITY***
 
-Maurico
+Francisco Maciel
 
-Daniel
+<p align="center">
+<a href="https://www.linkedin.com/francisco-maciel-9b39835/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
 
-***Colombia***
+***Mauricio González Ramos***
 
-Carlos
+<p align="center">
+<a href="https://www.linkedin.com/mauricio-gonzález-ramos-76806614/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
 
-***Sweden***
+***Daniel Amaro***
 
-Kennet
+<p align="center">
+<a href="https://www.linkedin.com/daniel-amaro-g/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
+
+***BOGOTÁ***
+
+***Carlos Alzate***
+
+<p align="center">
+<a href="https://www.linkedin.com/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
+
+***STOCKHOLM***
+
+***Kennet Rådne***
+
+<p align="center">
+<a href="https://www.linkedin.com/kennetradne/" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+</a>
+</p>
 
 ### 1.6 Clients
 
