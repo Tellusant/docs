@@ -162,7 +162,7 @@ All three are also citizens of the world, familiar with markets and cultures eve
 
 In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
 
-We think of clients as persons, not institutions, when we negotiate. The underlying institution is central when the work begins, but negotiations are personal.
+We think of clients as people, not institutions, when we negotiate. The underlying institution is important, but negotiations are personal.
 
 We have a bifurcated approach to negotiations. On the one hand, nothing happens without senior executive approval. On the other, midel-level executives need to feel comfortable since they will carry out implementation of ideas.
 
@@ -170,6 +170,7 @@ Who are the senior executives? Typically between CEO and VP levels.
 - CEOs
 - CFOs
 - EVPs
+- SVPs
 - Heads of strategy
 - Heads of business units
 - Sometimes heads of insights and/or analytics
