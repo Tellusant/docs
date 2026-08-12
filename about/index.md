@@ -96,7 +96,7 @@ The graph below summarizes our main properties.
 As a company built on science and technology, where does our IP come from? We span many knowledge domains, so here we highlight a few:
 
 #### 1.3.1 *Executive Decision Making Theory*
-In Dr. Canback's award-winning doctoral research, he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
+In Dr. Canback's award-winning doctoral research <a href="https://doi.org/10.6084/m9.figshare.28355114" style="color: black; text-decoration: none;">In Dr. Canback's award-winning doctoral research </a>, he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
 <a href="articles-posts/corporate-decision-making.md" style="color: black; text-decoration: none;">Our own corporate decision-making framework is derived from these and other authorities.</a> Combined with <a href="articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none">Tellusant's approach to combining human judgment and mechanical methods</a>,we have a comprehensive framework for working with executive management on decision issues.
 
