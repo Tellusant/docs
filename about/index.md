@@ -106,8 +106,8 @@ The Strategy Grid discussed above gives the high-level parameters for what a com
 #### 1.3.3 *Demand Modeling Methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1. The paper by Dr. Canback, <a href="https://doi.org/10.6084/m9.figshare.28306247)" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b> (2008)</a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
-2.  Price and marketing spend elasticities need to be incorporated appropriately. In this paper, Dr. Canback shows how this is done: [The Universal Profit Equation]](https://doi.org/10.6084/m9.figshare.28259375)<br>   
-3. Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. We usually encounter ergodicity and use it to our analytical advantage (/work-notes/ergodicity-test-stata.md)
+2.  Price and marketing spend elasticities need to be incorporated appropriately. In <a href="[https://doi.org/10.6084/m9.figshare.28306247](https://doi.org/10.6084/m9.figshare.28259375))" style="color: black; text-decoration: none">by Dr. Canback, <b>The Universal Profit Equation</b> (2008)</a>[The Universal Profit Equation]](https://doi.org/10.6084/m9.figshare.28259375), it is shown how this is done. <br>   
+3. Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. <a href="../work-notes/ergodicity-test-stata.md" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</b></a>
 
 The presentation [*Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method*](/articles-posts/creating-robust-long-term-forecasts.md) brings the three parts together.
 
