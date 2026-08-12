@@ -175,7 +175,7 @@ Who are the senior executives? Typically between CEO and VP levels.
 - Sometimes heads of insights and/or analytics
 The mid-level who need to be involved are determined by these.
 
-The language and positioning used differ vastly between senior and mid-level. Senior executives want the efforts positioned against company needs, with a certain level of constructive abstraction. Mid-level executives want a more practical, and even technical, negotiation. But at the end, we sell credibility and judgment.
+The language and positioning used differ vastly between senior and mid-level. Senior executives want the efforts positioned against company needs, with a certain level of constructive abstraction. Mid-level executives want a more practical, and even technical, negotiation. But in the end, we provide credibility and judgment.
 
 This a list of important recent clients:
 
