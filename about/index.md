@@ -97,14 +97,16 @@ As a company built on science and technology, where does our IP come from?
 
 We span many knowledge domains, so here we highlight a few:
 
-- *Executive decision making processes*. In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).  
-We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).  
+- *Executive decision making processes*. In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
+We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
 [Our own corporate decision-making framework is described here.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html)  
 
-- *Demand modeling methods*. We have more than 20 years of experience in demand modeling. There are three important parts to this.  
-1st: Our paper by Dr. Canback [*Where in the World Is the Market? (2008)(/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category is best modelled based on income distribution (not aggregate income), together with other demand drivers.
+- *Demand modeling methods*. We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
+1st: Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
+2nd: Price and marketing spend elasticities need to be incorporated appropriately. 
+3rd: Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling Jureen are respected.
 
-Where in the World
+[Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method](https://docs.tellusant.com/articles-posts/creating-robust-long-term-forecasts.html) brings the three parts together.
 S Africa
 
 EMIO
