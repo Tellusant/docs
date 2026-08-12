@@ -136,7 +136,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - **2025**: TelluBase-On-Demand is introduced as a self-service shop for data.
 - **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
 
-### 1.5 Executive Leadership & Team
+### 1.5 Executive Leadership & Senior Team
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
