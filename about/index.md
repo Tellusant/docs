@@ -104,7 +104,7 @@ We also draw on Chris Argyris and Donald Schön's research on double-loop learni
 - *Demand modeling methods*. We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1st: Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
 2nd: Price and marketing spend elasticities need to be incorporated appropriately. 
-3rd: Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling Jureen are respected.
+3rd: Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. We usually encounter ergodicity and use it to our analytical advantage (https://docs.tellusant.com/work-notes/ergodicity-test-stata.html)
 
 [Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method](https://docs.tellusant.com/articles-posts/creating-robust-long-term-forecasts.html) brings the three parts together.
 S Africa
