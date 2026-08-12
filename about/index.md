@@ -105,13 +105,13 @@ The Strategy Grid discussed above gives the high-level parameters for what a com
 
 #### 1.3.3 *Demand Modeling Methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
-1. The paper by Dr. Canback, <a href="https://doi.org/10.6084/m9.figshare.28306247" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b></a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
+1. <a href="https://doi.org/10.6084/m9.figshare.28306247" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b></a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
 2.  Price and marketing spend elasticities need to be incorporated appropriately. In <a href="https://doi.org/10.6084/m9.figshare.28259375" style="color: black; text-decoration: none">by Dr. Canback, <b>The Universal Profit Equation</b></a>, it is shown how this is done.<br>
 4. Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. <a href="/work-notes/ergodicity-test-stata.html" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</a>
 
 Our thought piece <a href="/articles-posts/creating-robust-long-term-forecasts.html" style="color: black; text-decoration: none"><b>Creating Robust Long-Term Forecasts</b>: The Tellusant 7-Step Method</a> brings the three parts together and adds other analutcial aspects.
 
-Further, the <a href="/articles-posts/south-africa-subnational-ict-opportunities.html" style="color: black; text-decoration: none">thought piece <b>Subnational ICT Opportunities in South Africa:</b> Case Example for How to Use TelluBase Income Distribution Data</b></a> gives a practical small example of the methods we deploy.
+Further, the <a href="/articles-posts/south-africa-subnational-ict-opportunities.html" style="color: black; text-decoration: none">thought piece <b>Subnational ICT Opportunities in South Africa:</b> Case Example for How to Use TelluBase Income Distribution Data</a> gives a practical small example of the methods we deploy.
 
 <p align="center">— — —</p>
 
