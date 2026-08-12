@@ -106,7 +106,7 @@ We also draw on Chris Argyris and Donald Schön's research on double-loop learni
 #### 1.3.2 *Demand modeling methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1. Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
-2.  Price and marketing spend elasticities need to be incorporated appropriately. This paper by Dr. Canback shows how this is done: [The Universal Profit Equation](https://canback.net/docs/papers/Canback-Universal-Profit-Equation.pdf)<br>   
+2.  Price and marketing spend elasticities need to be incorporated appropriately. In this paper, Dr. Canback shows how this is done: [The Universal Profit Equation]](https://doi.org/10.6084/m9.figshare.28259375)<br>   
 3. Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. We usually encounter ergodicity and use it to our analytical advantage (/work-notes/ergodicity-test-stata.md)
 
 The presentation [*Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method*](/articles-posts/creating-robust-long-term-forecasts.md) brings the three parts together.
