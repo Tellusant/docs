@@ -98,10 +98,10 @@ As a company built on science and technology, where does our IP come from? We sp
 #### 1.3.1 *Executive Decision Making Theory*
 In Dr. Canback's doctoral research he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
-[Our own corporate decision-making framework is derived from these and other authorities.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html). Combined with <a href="articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none"><i>Tellusant's approach to combining human judgment and mechanical methods</i></a>,we have a comprehensive framework for working with executive management on decision issues.
+<a href="articles-posts/corporate-decision-making.md" style="color: black; text-decoration: none;">Our own corporate decision-making framework is derived from these and other authorities.</a> Combined with <a href="articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none">Tellusant's approach to combining human judgment and mechanical methods</a>,we have a comprehensive framework for working with executive management on decision issues.
 
 #### 1.3.2 *EMIO Strategy Framework*
-The Strategy Grid discussed above gives the high-level parameters for what a company or business unit needs to achieve in terms of growth, productivity, and risk. Once this is known, [we use the EMIO framework (Environment–Market–Initiative-Outcome) to get to the details} (https://doi.org/10.6084/m9.figshare.28248680). EMIO also includes a process for managing the strategy process.
+The Strategy Grid discussed above gives the high-level parameters for what a company or business unit needs to achieve in terms of growth, productivity, and risk. Once this is known, <a href="https://doi.org/10.6084/m9.figshare.28248680" style="color: black; text-decoration: none">we use the EMIO framework (Environment–Market–Initiative-Outcome) to get into the details. EMIO also includes a process for managing the strategy development journey.
 
 #### 1.3.3 *Demand Modeling Methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
