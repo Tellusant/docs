@@ -101,7 +101,8 @@ We span many knowledge domains, so here we highlight a few:
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).  
 [Our own corporate decision-making framework is described here.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html)  
 
-- Demand modeling based on income distributions and price and other elasticities  
+- *Demand modeling methods*. We have more than 20 years of experience in demand modeling. There are three important parts to this.  
+1st: Our paper by Dr. Canback [*Where in the World Is the Market? (2008)(/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category is best modelled based on income distribution (not aggregate income), together with other demand drivers.
 
 Where in the World
 S Africa
