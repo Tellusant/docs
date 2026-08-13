@@ -32,7 +32,7 @@ We base this on more than 75 years of working with senior executives on critical
 
 We complement this with exceptional capabilities in statistical analyses and model building as evidenced by our educations and practical deliveries of applications.
 
-With Tellusant solutions, our large global clients and smaller local clients achieve better **accuracy**, more **consistency**, and higher **efficiency** when making critical decisions.
+With Tellusant solutions, our large global clients and smaller local clients <a href="https://docs.tellusant.com/articles-posts/polusim-business-impact.html" style="color: black; text-decoration: none;">achieve better <b>accuracy</b>, increased <b>consistency</b>, and higher <b>efficiency</b> when making critical decisions.</a>
 
 ### 1.2 Products
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
@@ -90,7 +90,9 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### 1.3 Decision-Oriented Consulting
+### 1.3 Decision-Focused Strategy Consulting
+
+tbd
 
 ### 1.4 Intellectual Foundation
 
