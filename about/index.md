@@ -59,13 +59,13 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 #### 1.2.1 *TelluPlan and Its Applications*
 
-<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
+<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmented platform. It organizes the applications described below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
-- <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
+- <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brands with a strategic planning time horizon (5-10 years), as well as short-term predictions in a separate module.
 
-- <a href="https://tellusant.com/pace-latent-demand-estimator/" style="color: black; text-decoration: none;"><b>PACE</b></a> (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
+- <a href="https://tellusant.com/pace-latent-demand-estimator/" style="color: black; text-decoration: none;"><b>PACE</b></a> (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitors price moves.
 
-- <a href="https://tellusant.com/paragonal/" style="color: black; text-decoration: none;"><b>Paragonal</b></a> Pricing Aligned with Consumer Economics provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
+- <a href="https://tellusant.com/paragonal/" style="color: black; text-decoration: none;"><b>Paragonal</b></a> provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
 
 - <a href="https://tellusant.com/q-risk/" style="color: black; text-decoration: none;"><b>Q-Risk</b></a> measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
 
@@ -91,8 +91,8 @@ The graph below summarizes our main properties.
 </p>
 
 ### 1.3 Decision Consulting
-
-tbd
+tbd: Simon ([1947] 1976) made a similar point. Based on his concept of bounded rationality—”human behavior is intendedly rational, but only
+limited so”...
 
 ### 1.4 Intellectual Foundation
 
