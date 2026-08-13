@@ -59,7 +59,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 #### 1.2.1 *TelluPlan and Its Applications*
 
-<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmented platform. It organizes the applications described below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
+<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmentation platform. It organizes the applications described below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
 - <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brands with a strategic planning time horizon (5-10 years), as well as short-term predictions in a separate module.
 
