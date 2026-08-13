@@ -262,6 +262,10 @@ tbd
 
 ***Kennet Rådne***
 
+Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as an advisor to Tellusant.
+
+Kennet is the CEO and Founder of Techboard AB. He is the former chairman and country manager of Telia Lithuania, Estonia, and Latvia; COO of Azercell Telecom, and president of Ericsson Mobile Internet Solutions, and several other roles.
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kennetradne/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
