@@ -11,12 +11,12 @@ redirect_from:
 # About Us
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to show who we are, and establish our credibility (= strong narrative + strong credentials)
-
-We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. Below you find:
+We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our credentials
+
+We use the E-E-A-T framework (experience, expertise, authoritativeness, trustworthiness).
 
 ---
 ## 1. Narrative
@@ -93,31 +93,29 @@ The graph below summarizes our main properties.
 
 ### 1.3 Intellectual Foundation
 
-As a company built on science and technology, where does our IP come from?
+As a company built on science and technology, where does our IP come from? We span many knowledge domains, so here we highlight a few. Our IP typically incorporates pure economic theory (macro and micro), mathemato-statistical methods, and the aspects of sociology that deals with management behavior.
 
-We span many knowledge domains, so here we highlight a few:
-
-- *Executive decision making processes*. In Dr. Canback's doctoral work he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions” in *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization* ([1947] 1976).<br>  
+#### 1.3.1 *Decision-Making Theory*
+<a href="/papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf" style="color: black; text-decoration: none;">In Dr. Canback's award-winning <b>doctoral research</b></a>, he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions”.<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
-[Our own corporate decision-making framework is described here.](https://docs.tellusant.com/articles-posts/corporate-decision-making.html)<br>  
-[Tellusant's approach to combining human judgment and mechanical methods is found here](https://docs.tellusant.com/articles-posts/judgmental-mechanical.html)
+<a href="/articles-posts/corporate-decision-making.md" style="color: black; text-decoration: none;">Our own framework for <b>effective decision making</b> is derived from these and other authorities.</a> Combined with <a href="../articles-posts/judgmental-mechanical.md" style="color: black; text-decoration: none">Tellusant's approach to combining human judgment and mechanical methods embedded in the <b>PoluSim P Controller Logic</b></a>,we have a comprehensive framework for working with executive management on decision issues.
 
-- *Demand modeling methods*. We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
-1st: Our paper by Dr. Canback [*Where in the World Is the Market? (2008)](/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
-2nd: Price and marketing spend elasticities need to be incorporated appropriately.<br>   
-3rd: Linear (sometimes nonlinear) differential equations for demand analysis are critical to use, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected. We usually encounter ergodicity and use it to our analytical advantage (/work-notes/ergodicity-test-stata.md)
+#### 1.3.2 *EMIO Strategy Framework*
+The Strategy Grid discussed above gives the high-level parameters for what a company or business unit needs to achieve in terms of growth, productivity, and risk. Once this is known, <a href="/papers/Canback-Tellusant-Toward-a-New-Strategy-Development-Framework.pdf" style="color: black; text-decoration: none">we use the <b>EMIO framework</b> (Environment–Market–Initiative-Outcome) to get into the details</a>. EMIO also includes a process for managing the strategy development journey.
 
-[Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method](https://docs.tellusant.com/articles-posts/creating-robust-long-term-forecasts.html) brings the three parts together.
+#### 1.3.3 *Demand Modeling Methods*
+We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
+1. <a href="/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b></a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
+2.  Price and marketing spend elasticities need to be incorporated appropriately. In <a href="/papers/Canback-The-Universal-Profit-Equation.pdf" style="color: black; text-decoration: none">by Dr. Canback, <b>The Universal Profit Equation</b></a>, it is shown how this is done.<br>
+4. <a href="presentations/Tellusant-Strategic-Pricing-Technical-Appendix" style="color: black; text-decoration: none">Linear (sometimes nonlinear) <b>differential equations</b> for demand analysis are critical to us, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected.</a> <a href="/work-notes/ergodicity-test-stata.html" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</a>
 
-S Africa: https://docs.tellusant.com/articles-posts/south-africa-subnational-ict-opportunities.html
+Our thought piece <a href="/articles-posts/creating-robust-long-term-forecasts.html" style="color: black; text-decoration: none"><b>Creating Robust Long-Term Forecasts</b>: The Tellusant 7-Step Method</a> brings the three parts together and adds other analutcial aspects.
 
-EMIO
+Further, the <a href="/articles-posts/south-africa-subnational-ict-opportunities.html" style="color: black; text-decoration: none">thought piece <b>Subnational ICT Opportunities in South Africa:</b> Case Example for How to Use TelluBase Income Distribution Data</a> gives a practical small example of the methods we deploy.
 
-Strategy grid paper
+<p align="center">— — —</p>
 
-ICMAI
-
-
+While these are practical examples of our IP, the larger point is that we are driven by curiosity and a willingness to experiment. Because of drive, we always come up with winning solutions to the advantage our clients.
 
 ### 1.4 History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
@@ -133,14 +131,14 @@ We have also started building micro-websites to stimulate usage of our products 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
 ***Milestones***
-- **August 2020**: Tellusant founded by Staffan Canback and Philip Burginyoung. They were soon joined Shane Ezepik (all three ex-Canback Consulting).
-- **2020**: First client - A small resort and vineyard company in Argentina, quickly followed by AB InBev.
-- **2021**: **TelluBase** as a subscription service introduced
+- **August 2020**: Tellusant founded by Staffan Canback and Philip Burginyoung. They were soon joined Shane Ezepik (all three ex-Canback Consulting)
+- **2020**: First client - The Vines of Mendoza, a resort and vineyard company in Argentina
+- **2021**: TelluBase as a subscription service introduced
 - **2022**: Bobo Shen joins as Chief Product Officer (also ex-Canback)
 - 2022: Opening of Mexico City office on Reforma. Francisco Maciel (with Canback background) takes on the leadership of Tellusant Mexico. Mauricio Gonzales Ramos appointed head of the development team
-- 2022: **PoluSim** goes live
+- 2022: PoluSim goes live
 - 2022: Fifth client mark passed with Keurig Dr Pepper
-- **2023**: Introduction of **PACE** - Pricing Aligned with Consumer Economics
+- **2023**: Introduction of PACE - Pricing Aligned with Consumer Economics
 - 2023: Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro, sales director in Mexico City
 - **2024**: Strategic alliance with Berumen y Asociados in Mexico
 - 2024: Major commercial rollout of PoluSim at Heineken
@@ -264,6 +262,10 @@ tbd
 
 ***Kennet Rådne***
 
+Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as an advisor to Tellusant.
+
+Kennet is the CEO and Founder of Techboard AB. He is the former chairman and country manager of Telia Lithuania, Estonia, and Latvia; COO of Azercell Telecom, and president of Ericsson Mobile Internet Solutions, and several other roles.
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kennetradne/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
@@ -318,9 +320,13 @@ While our products are analytical, our experiences are personal and human.
 [For searchability, see the global footprint list](global-footprint-list.md)
 
 ### 1.8 External Citations
-Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
+Because of our rich intellectual content published in various settings, we have over 750 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
-tbd: expand with main themes and link to Intellectual Foundation
+There are four main themes:
+- Quoted insights about the world and countries from an economic perspective  
+- References in annual reports to our work with large companies
+- Use of our research on corporate governance, corporate bureaucracy, diseconomies of scale
+- Use of TelluBase data in various contexts from veterinary medicine, to travel, to climate research, and more
 
 |||||
 |---|---|---|---|
