@@ -316,9 +316,13 @@ While our products are analytical, our experiences are personal and human.
 [For searchability, see the global footprint list](global-footprint-list.md)
 
 ### 1.8 External Citations
-Because of our rich intellectual content published in various settings, we have over 750 public citations of our company, its products, and  our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
+Because of our rich intellectual content published in various settings, we have over 750 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
-tbd: expand with main themes and link to Intellectual Foundation
+There are four main themes:
+- Quoted insights about the world and countries from an economic perspective  
+- References in annual reports to our work with large companies
+- Use of our research on corporate governance, corporate bureaucracy, diseconomies of scale
+- Use of TelluBase data in various contexts from veterinary medicine, to travel, to climate research, and more
 
 |||||
 |---|---|---|---|
