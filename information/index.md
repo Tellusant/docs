@@ -7,6 +7,9 @@ image: /assets/social-card-pub.png
 Learn about Tellusant and its products PoluSim, TelluBase, and PACE.
 
 ---
+#### [Executives & Senior Team](../articles-posts/leadership.md)
+Read the bios of our leaders to understand the richness of experiences and their credibility.  
+
 #### [The PoluSim Universe](../articles-posts/polusim-universe.md)
 Our PoluSim solution has expanded majorly since the launch in 2022. It now covers five applications within forecasting.  
 
