@@ -107,7 +107,7 @@ The Strategy Grid discussed above gives the high-level parameters for what a com
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1. <a href="/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b></a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
 2.  Price and marketing spend elasticities need to be incorporated appropriately. In <a href="/papers/Canback-Tellusant-The-Universal-Profit-Equation.pdf" style="color: black; text-decoration: none">by Dr. Canback, <b>The Universal Profit Equation</b></a>, it is shown how this is done.<br>
-4. <a href="/presentations/Tellusant-Strategic-Pricing-Technical-Appendix.pdf" style="color: black; text-decoration: none">Linear (sometimes nonlinear) <b>differential equations</b> for demand analysis are critical to us, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected.</a> <a href="/work-notes/ergodicity-test-stata.html" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</a>
+3. <a href="/presentations/Tellusant-Strategic-Pricing-Technical-Appendix.pdf"  style="color: black; text-decoration: none">Linear (sometimes nonlinear) <b>differential equations</b> for demand analysis are critical to us, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected.</a> <a href="/work-notes/ergodicity-test-stata.html" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</a>
 
 Our thought piece <a href="/articles-posts/creating-robust-long-term-forecasts.html" style="color: black; text-decoration: none"><b>Creating Robust Long-Term Forecasts</b>: The Tellusant 7-Step Method</a> brings the three parts together and adds other analutcial aspects.
 
@@ -214,7 +214,7 @@ All three are also citizens of the world, familiar with markets and cultures eve
 
 tbd
 
-***Shane Ezepik***
+***Shane Ezepik, Global Senior Product Manager***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
@@ -224,7 +224,7 @@ tbd
 
 *MEXICO CITY*
 
-***Francisco Maciel***
+***Francisco Maciel, Country Manager—Mexico***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
@@ -240,7 +240,10 @@ tbd
 </a>
 </p>
 
-***Daniel Amaro***
+***Daniel Amaro, Commercial Director Tellusant Mexico***
+
+
+He has vast experience from both large and small companies, such as Qualcomm, Honda, Mercer, Michael Page, and Multiplica Talent. He has served as National Sales Leader, Business Development Leader, Regional Sales Manager, and more. He earned his bachelor’s degree in Commercial Relations from Instituto Politécnico Nacional.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-amaro-g/" target="_blank">
@@ -250,7 +253,7 @@ tbd
 
 *BOGOTÁ*
 
-***Carlos Alzate***
+***Carlos Alzate, Global Chief Commercial Officer***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
@@ -260,9 +263,9 @@ tbd
 
 *STOCKHOLM*
 
-***Kennet Rådne***
+***Kennet Rådne, Region Head—Nordic-Baltic Eight & Senior Advisor***
 
-Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as an advisor to Tellusant.
+Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as a senior advisor to Tellusant.
 
 Kennet is the CEO and Founder of Techboard AB. He is the former chairman and country manager of Telia Lithuania, Estonia, and Latvia; COO of Azercell Telecom, and president of Ericsson Mobile Internet Solutions, and several other roles.
 
