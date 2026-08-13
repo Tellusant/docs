@@ -8,7 +8,7 @@ html {
 }
 
 .site-title {
-  color: #00124D !important previously #0066cc;
+  color: #001C78 !important previously #0066cc;
    text-decoration: none;
   font-weight: 600;
 }
@@ -43,7 +43,7 @@ img {
 
 /* Links */
 a {
-  color: #00124D !important previously #0066cc;
+  color: #001C78 !important previously #0066cc;
   text-decoration: none;
 }
 
@@ -113,7 +113,7 @@ hr {
 .site-title {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #0066cc;
+  color: #001C78 /* important previously #0066cc */;
   text-decoration: none;
 }
 
