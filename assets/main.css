@@ -43,7 +43,7 @@ img {
 
 /* Links */
 a {
-  color: #0066cc;
+  color: #00124D !important previously #0066cc;
   text-decoration: none;
 }
 
