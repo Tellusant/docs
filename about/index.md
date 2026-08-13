@@ -139,7 +139,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - 2022: PoluSim goes live
 - 2022: Fifth client mark passed with Keurig Dr Pepper
 - **2023**: Introduction of PACE - Pricing Aligned with Consumer Economics
-- 2023: Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro, sales director in Mexico City
+- 2023: Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro, commercial director in Mexico City
 - **2024**: Strategic alliance with Berumen y Asociados in Mexico
 - 2024: Major commercial rollout of PoluSim at Heineken
 - 2024: Our first initiative in higher education: The Lund Lecture
@@ -240,8 +240,8 @@ tbd
 </a>
 </p>
 
-***Daniel Amaro, Commercial Director Tellusant Mexico***
-
+***Daniel Amaro, Commercial Director—Tellusant Mexico***
+Daniel is responsible for business development and sales activities in Mexico, with certain additional responsibilities in Latam and the U.S. He is also our ESOMAR liaison.
 
 He has vast experience from both large and small companies, such as Qualcomm, Honda, Mercer, Michael Page, and Multiplica Talent. He has served as National Sales Leader, Business Development Leader, Regional Sales Manager, and more. He earned his bachelor’s degree in Commercial Relations from Instituto Politécnico Nacional.
 
