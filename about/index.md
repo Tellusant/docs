@@ -32,10 +32,9 @@ We base this on more than 75 years of working with senior executives on critical
 
 We complement this with exceptional capabilities in statistical analyses and model building as evidenced by our educations and practical deliveries of applications.
 
-With Tellusant solutions, our large global clients and smaller local clients achieve better **accuracy**, more **consistency**, and higher **efficiency** when making critical decisions.
+With Tellusant solutions, our large global clients and smaller local clients <a href="/articles-posts/polusim-business-impact.html" style="color: black; text-decoration: none;">achieve better <b>accuracy</b>, increased <b>consistency</b>, and higher <b>efficiency</b> when making critical decisions.</a>
 
-### 1.2 Scope of Activities
-
+### 1.2 Products
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
 
 Our applications have an installed base of subscribers and clients in more than 100 countries.
@@ -60,13 +59,13 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 #### 1.2.1 *TelluPlan and Its Applications*
 
-<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmented platform. It organizes the applications desctibed below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
+<a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmentation platform. It organizes the applications described below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
-- <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brandss with a strategic planning time horizon (5-10 years), as well as short-term predictions in a seprate module.
+- <a href="https://tellusant.com/polusim-strategic-forecasting-solution/" style="color: black; text-decoration: none;"><b>PoluSim</b></a> provides demand predictions for category, price segment and brands with a strategic planning time horizon (5-10 years), as well as short-term predictions in a separate module.
 
-- <a href="https://tellusant.com/pace-latent-demand-estimator/" style="color: black; text-decoration: none;"><b>PACE</b></a> (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitotrs price moves.
+- <a href="https://tellusant.com/pace-latent-demand-estimator/" style="color: black; text-decoration: none;"><b>PACE</b></a> (Pricing Aligned with Consumer Economics) helps clients optimize prices at category, price segment, and price levels. It takes into account the client itself ***and*** competitors price moves.
 
-- <a href="https://tellusant.com/paragonal/" style="color: black; text-decoration: none;"><b>Paragonal</b></a> Pricing Aligned with Consumer Economics provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
+- <a href="https://tellusant.com/paragonal/" style="color: black; text-decoration: none;"><b>Paragonal</b></a> provides labor, capital, and structural productivity at the country, company, and business unit levels. It covers all countries in the world and thousands of companies.
 
 - <a href="https://tellusant.com/q-risk/" style="color: black; text-decoration: none;"><b>Q-Risk</b></a> measures country risk in terms of market and financial risks, and company risk in terms of revenue and cost risks. It is asymmetrical in that it focuses on downside risk (total risk with upside through a toggle).
 
@@ -91,23 +90,27 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### 1.3 Intellectual Foundation
+### 1.3 Decision Consulting
+tbd: Simon ([1947] 1976) made a similar point. Based on his concept of bounded rationality—”human behavior is intendedly rational, but only
+limited so”...
+
+### 1.4 Intellectual Foundation
 
 As a company built on science and technology, where does our IP come from? We span many knowledge domains, so here we highlight a few. Our IP typically incorporates pure economic theory (macro and micro), mathemato-statistical methods, and the aspects of sociology that deals with management behavior.
 
-#### 1.3.1 *Decision-Making Theory*
+#### 1.4.1 *Decision-Making Theory*
 <a href="/papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf" style="color: black; text-decoration: none;">In Dr. Canback's award-winning <b>doctoral research</b></a>, he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions”.<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
 <a href="/articles-posts/corporate-decision-making.html" style="color: black; text-decoration: none;">Our own framework for <b>effective decision making</b> is derived from these and other authorities.</a> Combined with <a href="/articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none">Tellusant's approach to combining human judgment and mechanical methods embedded in the <b>PoluSim P Controller Logic</b></a>,we have a comprehensive framework for working with executive management on decision issues.
 
-#### 1.3.2 *EMIO Strategy Framework*
+#### 1.4.2 *EMIO Strategy Framework*
 The Strategy Grid discussed above gives the high-level parameters for what a company or business unit needs to achieve in terms of growth, productivity, and risk. Once this is known, <a href="/papers/Canback-Tellusant-Toward-a-New-Strategy-Development-Framework.pdf" style="color: black; text-decoration: none">we use the <b>EMIO framework</b> (Environment–Market–Initiative-Outcome) to get into the details</a>. EMIO also includes a process for managing the strategy development journey.
 
-#### 1.3.3 *Demand Modeling Methods*
+#### 1.4.3 *Demand Modeling Methods*
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1. <a href="/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b></a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
 2.  Price and marketing spend elasticities need to be incorporated appropriately. In <a href="/papers/Canback-Tellusant-The-Universal-Profit-Equation.pdf" style="color: black; text-decoration: none">by Dr. Canback, <b>The Universal Profit Equation</b></a>, it is shown how this is done.<br>
-4. <a href="presentations/Tellusant-Strategic-Pricing-Technical-Appendix.pdf" style="color: black; text-decoration: none">Linear (sometimes nonlinear) <b>differential equations</b> for demand analysis are critical to us, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected.</a> <a href="/work-notes/ergodicity-test-stata.html" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</a>
+3. <a href="/presentations/Tellusant-Strategic-Pricing-Technical-Appendix.pdf"  style="color: black; text-decoration: none">Linear (sometimes nonlinear) <b>differential equations</b> for demand analysis are critical to us, while making sure Marshall's Homogeneity Condition and Hotelling-Jureen’s Symmetry Condition are respected.</a> <a href="/work-notes/ergodicity-test-stata.html" style="color: black; text-decoration: none">Further, we usually encounter <b>ergodicity</b> and use it to our analytical advantage</a>
 
 Our thought piece <a href="/articles-posts/creating-robust-long-term-forecasts.html" style="color: black; text-decoration: none"><b>Creating Robust Long-Term Forecasts</b>: The Tellusant 7-Step Method</a> brings the three parts together and adds other analutcial aspects.
 
@@ -115,9 +118,9 @@ Further, the <a href="/articles-posts/south-africa-subnational-ict-opportunities
 
 <p align="center">— — —</p>
 
-While these are practical examples of our IP, the larger point is that we are driven by curiosity and a willingness to experiment. Because of drive, we always come up with winning solutions to the advantage our clients.
+While these are practical examples of our IP, the larger point is that we are driven by curiosity and a willingness to experiment. Because of this drive, we always come up with winning solutions to the advantage our clients.
 
-### 1.4 History and Milestones
+### 1.5 History and Milestones
 Tellusant was founded in 2020. It is a successor company to Canback Consulting, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
 We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
@@ -139,7 +142,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - 2022: PoluSim goes live
 - 2022: Fifth client mark passed with Keurig Dr Pepper
 - **2023**: Introduction of PACE - Pricing Aligned with Consumer Economics
-- 2023: Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro, sales director in Mexico City
+- 2023: Carlos Alzate takes on Chief Commercial Officer role and is based in Bogota. Latin America continues to be a focus for us and Carlos is soon joined by Daniel Amaro, commercial director in Mexico City
 - **2024**: Strategic alliance with Berumen y Asociados in Mexico
 - 2024: Major commercial rollout of PoluSim at Heineken
 - 2024: Our first initiative in higher education: The Lund Lecture
@@ -147,13 +150,13 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - 2025: TelluBase-On-Demand is introduced as a self-service shop for data.
 - **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
 
-### 1.5 Executive Leadership & Senior Team
+### 1.6 Executive Leadership & Senior Team
 
 Our leaders have more than 75 years of experience in management consulting managerial decision applications app development. They also have stellar quantitative analysis capabilities spanning economics, finance, and statistics/ML. The team is also at the forefront of higher-order-cognitive AI. HOCAI is the rare skill of using AI for complex issues like decision judgment.
 
 *BOSTON*
 
-#### 1.5.1 *Dr. Staffan Canback, Executive Chairman*
+#### 1.6.1 *Dr. Staffan Canback, Executive Chairman*
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
@@ -174,7 +177,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 </a>
 </p>  
 
-#### 1.5.2 *Philip Burginyoung, Chief Executive Officer and President*
+#### 1.6.2 *Philip Burginyoung, Chief Executive Officer and President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
 Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
@@ -191,7 +194,7 @@ Philip Burginyoung graduated from Dartmouth College with a BA degree in Economic
 </a>
 </p>  
 
-#### 1.5.3 *Bobo Shen, Chief Product Officer*
+#### 1.6.3 *Bobo Shen, Chief Product Officer*
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
 She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
@@ -210,11 +213,11 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
 
-#### 1.5.4 Senior Team Members
+#### 1.6.4 Senior Team Members
 
 tbd
 
-***Shane Ezepik***
+***Shane Ezepik, Global Senior Product Manager***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
@@ -224,7 +227,7 @@ tbd
 
 *MEXICO CITY*
 
-***Francisco Maciel***
+***Francisco Maciel, Country Manager—Mexico***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
@@ -240,7 +243,10 @@ tbd
 </a>
 </p>
 
-***Daniel Amaro***
+***Daniel Amaro, Commercial Director—Tellusant Mexico***
+Daniel is responsible for business development and sales activities in Mexico, with certain additional responsibilities in Latam and the U.S. He is also our ESOMAR liaison.
+
+He has vast experience from both large and small companies, such as Qualcomm, Honda, Mercer, Michael Page, and Multiplica Talent. He has served as National Sales Leader, Business Development Leader, Regional Sales Manager, and more. He earned his bachelor’s degree in Commercial Relations from Instituto Politécnico Nacional.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-amaro-g/" target="_blank">
@@ -250,7 +256,7 @@ tbd
 
 *BOGOTÁ*
 
-***Carlos Alzate***
+***Carlos Alzate, Global Chief Commercial Officer***
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
@@ -260,9 +266,9 @@ tbd
 
 *STOCKHOLM*
 
-***Kennet Rådne***
+***Kennet Rådne, Region Head—Nordic-Baltic Eight & Senior Advisor***
 
-Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as an advisor to Tellusant.
+Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as a senior advisor to Tellusant.
 
 Kennet is the CEO and Founder of Techboard AB. He is the former chairman and country manager of Telia Lithuania, Estonia, and Latvia; COO of Azercell Telecom, and president of Ericsson Mobile Internet Solutions, and several other roles.
 
@@ -272,7 +278,7 @@ Kennet is the CEO and Founder of Techboard AB. He is the former chairman and cou
 </a>
 </p>
 
-### 1.6 Clients
+### 1.7 Clients
 
 In contrast to most startups, we have vast experience in dealing with large global companies. This also helps with medium-sized companies since they typically aspire to have large-company caspabilities. We are less familiar with the dynamics and needs of small companies.
 
@@ -307,7 +313,7 @@ This a list of important recent clients:
 
 [A full list of historical clients that our leaders have served is found here](clients.md)
 
-### 1.7 Global footprint
+### 1.8 Global footprint
 
 The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
@@ -319,7 +325,7 @@ While our products are analytical, our experiences are personal and human.
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
-### 1.8 External Citations
+### 1.9 External Citations
 Because of our rich intellectual content published in various settings, we have over 750 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
 There are four main themes:
