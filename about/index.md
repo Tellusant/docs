@@ -90,10 +90,16 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### 1.3 Decision Consulting
-***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** famously said Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology. He built on Ronald's Coase's concept of transaction cost economics, another Nobel Prize winner.
+### 1.3 Quantitative Decision Consulting
+***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** said Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology.
 
-> Definition
+Decision consultants help executives and organizations structure the logic of decisions, breakig them don into manageable parts.
+
+We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid": growth, productivity, and risk at the country, company, and business unit levels. As such our decision consulting work complements our solutions shown in Section 1.2.
+
+To make this come alive, here are three examples:
+
+- wkd
 
 ### 1.4 Intellectual Foundation
 
