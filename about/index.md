@@ -11,7 +11,7 @@ redirect_from:
 # About Us
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
+We summarize the **credibility^^ of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our credentials
@@ -91,7 +91,7 @@ The graph below summarizes our main properties.
 </p>
 
 ### 1.3 Quantitative Decision Consulting
-***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** said Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology.
+***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** said Prof. Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology.
 
 Decision consultants help executives and organizations structure the logic of decisions, breakig them don into manageable parts.
 
@@ -99,7 +99,9 @@ We focus on those decisions where quantitative analysis, performed by us in coll
 
 To make this come alive, here are three examples:
 
-- wkd
+- A tbd
+- B tbd
+- C tbd
 
 ### 1.4 Intellectual Foundation
 
@@ -242,6 +244,8 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 
 ***Francisco Maciel, Country Manager—Mexico***
 
+tbd
+
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
@@ -249,6 +253,8 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 </p>
 
 ***Mauricio González Ramos***
+
+tbd
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mauricio-gonzález-ramos-76806614/" target="_blank">
