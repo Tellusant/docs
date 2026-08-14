@@ -162,7 +162,7 @@ Our success has allowed to hold global retreats for all employees: Punta Cana, D
 - 2024: Our first initiative in higher education: The Lund Lecture
 - **2025**: Five years celebrated in Punta Cana.
 - 2025: TelluBase-On-Demand is introduced as a self-service shop for data.
-- **2026**: Introduced micro-websites built in a few hours to showcase AI agents.
+- **2026**: Introduced micro-websites built to showcase our use of AI agents.
 
 ### 1.6 Executive Leadership & Senior Team
 
