@@ -95,11 +95,13 @@ The graph below summarizes our main properties.
 
 Decision consultants help executives and organizations structure the logic of decisions, breakig them don into manageable parts.
 
-We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid": growth, productivity, and risk at the country, company, and business unit levels. As such our decision consulting work complements our solutions shown in Section 1.2.
+We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid**: growth, productivity, and risk, at the country, company, and business unit levels. As such our decision consulting work complements our solutions shown in Section 1.2.
 
 To make this come alive, here are three examples:
 
-- A tbd
+- We work with a leading U.S. FMCG that had a national focus, and felt they needed more granular strategies at the state level to set resource allocation priorities and optimize the price ladders. The work used the same concepts we apply in PoluSim, with additional perspectives on opportunities in ethnic markets, the impact of Trump tariffs and ICE activities.  <br><br>
+The outcome was a quantitative decision support deck (with supporting underlying spreadsheets and statistical models) with clear recommendations on where to play and how to win. With this, the company move from heuristic rules of thumb to an analytically anchored decision approach.
+  
 - B tbd
 - C tbd
 
