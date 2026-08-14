@@ -250,7 +250,6 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 *MEXICO CITY*
 
 ***Francisco Maciel, Country Manager—Mexico***
-
 As our Country Manager in Mexico, Francisco is responsible for overlooking all activities. Those activities span the full value chain. He also supportes the Boston team with administrative and other responsibilities. He is also our “feet on the ground” specialist for projects in Latam.
 
 Francisco first started collaborating with Staffan Canback in 2007, during the Canback Consulting years. He thus knows the rhythm of what we do intuitively. He is the person with the longest instituitional memory of what we do, apart from Staffan.
