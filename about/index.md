@@ -14,7 +14,7 @@ redirect_from:
 We summarize the **credibility** of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
-- Our credentials
+- Our verified credentials
 
 We use the E-E-A-T framework (experience, expertise, authoritativeness, trustworthiness).
 
@@ -72,7 +72,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 - <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
 #### 1.2.2 *TelluBase*  
-<a href="https://tellubase.com" style="color: black; text-decoration: none"><b>TelluBase</b></a> is the world’s only harmonized age and income distribution information database. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
+<a href="https://tellubase.com" style="color: black; text-decoration: none"><b>TelluBase</b> is the world’s only harmonized age and income distribution information database</a>. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and with income and age distributions instead of aggregates, there is nothing like it.
 
@@ -97,18 +97,8 @@ Decision consultants help executives and organizations structure the logic of de
 
 We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid**: growth, productivity, and risk, at the country, company, and business unit levels. As such our decision consulting work complements our solutions shown in Section 1.2.
 
-To make this come alive, here are three examples:
 
-- We worked with a leading U.S. FMCG that had a national focus, and felt they needed more granular strategies at the state level to set resource allocation priorities and optimize the price ladders. The work used the same concepts we apply in PoluSim, with additional perspectives on opportunities in ethnic markets, the impact of Trump tariffs and ICE activities.<br><br>
-We worked with the company across all functions, from investor relations, to marketing. Importantly, a series of discussions and workshops with the senior leaders made the strategic perspective realstic, yet anbitious.br><br>
-The outcome was a quantitative decision support deck (with supporting underlying spreadsheets and statistical models) with clear recommendations on where to play and how to win. With this, the company move from heuristic rules of thumb to an analytically anchored decision approach.
-  
-- One of Colombia's largest companies needed a more fact-based decision approach. While immensely successful in Colombia, it saw major growth opportunities in neighboring countries, and perhaps in the U.S.Also, the market was shifting with some categories doing exceptionally well. How should resources be allocated?<br><br>
-Together with the head of marketing, and head of strategy & insights, supported by a team of 20 managers, we created a quantitaive decision framework. As a leave behind, we also ported data from the work into PoluSim.
-
-- A global European consumer goods company found itself in largely declining categories. But the decline was uneven and there was even growth in some countries. Moreover certain segments did well. The problem was how to decide where the long-term opportunities were. till then , decisions were often based on judgment rather than judgment & facts.<br><br>
-We worked interactively with the client team to build the fact base and to statistically determine and quantify the the strategic demand drivers (5-10 years horizon). Among them were obvious ones like income and age profiles of customers, but also behavioral drivers, and the structure of educational systems. That is, a combination of macro, consumer, and institutional characteristics.<br><br>Solving for this is not done in one complex statistical model. Rather, it is the combination of various models that are synthesized into holistic picture. We are not statistics and (there are too many of those). Rather we expertly use statistical tools to support the decision making. We know most statistical methods, but it does not mean we use them.<br><br>
-The outcome was a country-by-country, segment-by-segment report on what to prioritize. It was vetted in workshops with key stakeholders (BU heads, head of strategy, head of insights, etc.) so that the decision architecture was well embedded. Again, we ported data and findings into PoluSim as a leave behind.
+<a href="articles-posts/quantitative-decision-consulting-case-stories.md" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b>:</a>
 
 ### 1.4 Intellectual Foundation
 
@@ -383,7 +373,7 @@ There are four main themes:
 [The full set of citations with hyperlinks to the publications is available here.](/citations/)
 
 ---
-## 2. Credentials  
+## 2. Verified Credentials  
 We have received an excellent score on credentials because of external validation (outside-in).  
 
 ### 2.1 Corporate Formation & Trademark
