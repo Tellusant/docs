@@ -11,11 +11,19 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 ## Recent  
 
+### [Quantitative Decision Consulting: Three of Our Case Stories](quantitative-decision-consulting-case-stories.md)
+The three case stories show what we mean by quantitative decision consulting. We focus on those decisions where quantitative analysis. These are typically of strategic nature, and occasionally operational.  
+
 ### [Tellusant's Corporate Decision-Making Framework](corporate-decision-making.md)
 Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework.
 
 ### [The Strategy Grid: Decomposing Corporate Performance Based on Growth, Productivity, and Risk](strategy-grid.md)
 Tellusant's **Strategy Grid** is rooted in economic theory that shows how value is a function of three quantifiable strategic levers: growth, productivity, and risk. All applied at country, company, and business unit levels. 
+
+<br/>
+
+---
+## Past
 
 ### [Comparing Country and Company Size: Value-Added as the Common Metric](country-company-size.md)
 Our Paragonal database quantifies productivity of countries, companies, and their business units. As a by-product, it measures value-added of both countries and companies. This allows for a direct comparison of size.
@@ -31,10 +39,6 @@ Statistical models are seldom well contextualized and evaluating them becomes a 
 
 ### [Research on Income Distribution’s Explanatory Power on Product Demand](income-distribution-research-proposal.md)
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations.  
-
-<br/>
-
-## Past
 
 ### [A Scientific Evaluation of World Cup Performance by Country 2002–2026](world-cup.md)
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.
