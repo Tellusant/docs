@@ -253,7 +253,11 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 
 ***Francisco Maciel, Country Manager—Mexico***
 
-tbd
+As our Country Manager in Mexico, Francisco is responsible for overlooking all activities. Those activities span the full value chain. He also supportes the Boston team with administrative and other responsibilities. He is also our “feet on the ground” specialist for projects in Latam.
+
+Francisco first started collaborating with Staffan Canback in 2007, during the Canback Consulting years. He thus knows the rhythm of what we do intuitively.
+ 
+He has extensive experience over several decades, mostly from large corporations such as McKinsey, Nortel Networks, Kaltex and Procter & Gamble. He has served as CEO, CFO, Managing Director, and in administrative and financial positions. He earned his bachelor’s degree in actuarial sciences from Universidad Anáhuac and holds an MBA from the University of California at Berkeley.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
