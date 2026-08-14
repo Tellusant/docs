@@ -1,10 +1,10 @@
 ---
-title: "Trade Secrets"
+title: "Our Trade Secrets and How We Manage Them"
 description: "We have a number of Trade Secrets protected by law globally and in perpetuity."
 image: /assets/social-card-info.png
 ---
 
-# Trade Secrets
+# Our Trade Secrets and How We Manage Them
 We have a number of **Trade Secrets** protected by law globally and in perpetuity. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
 
 Our **Trade Secrets** are sometimes licensed to clients. The trade secrets protection ensures that those clients cannot use our related IP for their own purposes. There are also other reasons to have trade secrets such as remedies for theft, breach of duty to maintain secrecy, and espionage.
@@ -16,7 +16,7 @@ There is no symbol for trade secrets, unlike, e.g., patents and trademarks, beca
 The practice also includes, among other things, training employees about our trade secrets, keeping files secure, and communicating to the world that we have trade secrets.
 
 ---
-### Non-Exhaustive List of Tellusant Trade Secrets
+## Non-Exhaustive List of Tellusant Trade Secrets
 We use the word *method* when the trade secret refers to how our solution works, and *apparatus* when we refer to what the trade secret is.
 
 - PoluSim
