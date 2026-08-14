@@ -7,7 +7,9 @@ image: /assets/social-card-publ.png
 # Quantitative Decision Consulting: Three of Our Case Stories
 *By Tellusant, Inc.*
 
+The three case stories show what we mean by quantitative decision consulting. We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically of strategic nature, and occasionally operational. 
 
+Our projects are sponsored by senior executives (SVP or higher) and involve mid-level and higher executives.
 
 ## From U.S. National Strategy to Regional Strategies
 We worked with a leading U.S. FMCG that had a national focus. They felt they needed more granular strategies at the state level to set resource allocation priorities and optimize the price ladders. The work used the same concepts we apply in PoluSim, with additional perspectives on opportunities in ethnic markets, the impact of Trump tariffs and ICE activities.
