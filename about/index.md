@@ -91,15 +91,16 @@ The graph below summarizes our main properties.
 </p>
 
 ### 1.3 Decision Consulting
-tbd: Simon ([1947] 1976) made a similar point. Based on his concept of bounded rationality—”human behavior is intendedly rational, but only
-limited so”...
+***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** famously said Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology. He built on Ronald's Coase's concept of transaction cost economics, another Nobel Prize winner.
+
+> Definition
 
 ### 1.4 Intellectual Foundation
 
 As a company built on science and technology, where does our IP come from? We span many knowledge domains, so here we highlight a few. Our IP typically incorporates pure economic theory (macro and micro), mathemato-statistical methods, and the aspects of sociology that deals with management behavior.
 
 #### 1.4.1 *Decision-Making Theory*
-<a href="/papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf" style="color: black; text-decoration: none;">In Dr. Canback's award-winning <b>doctoral research</b></a>, he utilized Prof. Herbert Simon's concept of bounded rationality: “the central problem is not how to organize to produce efficiently...but how to organize to make decisions”.<br>  
+<a href="/papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf" style="color: black; text-decoration: none;">In Dr. Canback's award-winning <b>doctoral research</b></a>, he utilized Prof. Herbert Simon's concept of bounded rationality—”human behavior is intendedly rational, but only limited so”.<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
 <a href="/articles-posts/corporate-decision-making.html" style="color: black; text-decoration: none;">Our own framework for <b>effective decision making</b> is derived from these and other authorities.</a> Combined with <a href="/articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none">Tellusant's approach to combining human judgment and mechanical methods embedded in the <b>PoluSim P Controller Logic</b></a>,we have a comprehensive framework for working with executive management on decision issues.
 
@@ -218,6 +219,12 @@ All three are also citizens of the world, familiar with markets and cultures eve
 tbd
 
 ***Shane Ezepik, Global Senior Product Manager***
+
+Shane Ezepik is Global Senior Product Manager at Tellusant, where he leads the development of Tellusant’s core products. He works closely with the executive team to translate the company’s analytical frameworks, economic models, and data into practical software products that help global enterprises make faster, more reliable planning decisions.
+ 
+Shane joined Tellusant at its founding as the first technical hire, building much of the data infrastructure underlying TelluBase, Tellusant’s global consumer economics database. Over time, Shane transitioned into product management, helping to shape product development, support technical client engagements, and deliver enterprise implementations. His background spans product management, data engineering, statistical analysis, and management consulting. Prior to joining Tellusant, Shane was a Business Analyst at Canback Consulting where he collaborated extensively with the founding team.
+ 
+Shane holds a B.S. in Mechanical Engineering from Boston University, where he graduated magna cum laude.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
