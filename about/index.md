@@ -182,16 +182,15 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 [Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/scanback/" target="_blank">
+<a href="https://www.linkedin.com/in/scanback/" target="_blank" style="color: white; text-decoration: none;">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</a> <a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
+  <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
 </a>
 </p>  
 
-<p align="center">
-<a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
-  <img src="images/orcid-icon.svg" alt="LinkdIn" width="32" height="32">
-</a>
-</p>  
+
 
 #### 1.6.2 *Philip Burginyoung, Chief Executive Officer and President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
@@ -287,6 +286,8 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 
 ***Carlos Alzate, Global Chief Commercial Officer***
 
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
@@ -296,8 +297,9 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 *STOCKHOLM*
 
 ***Kennet Rådne, Region Head—Nordic-Baltic Eight & Senior Advisor***
-
 Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as a senior advisor to Tellusant.
+
+Staffan Canback and Kennet first met during his Ericsson years. They then collaborated at Telia intermittently. We approached him about joining us as an advisor when we founded the company in 2020. In 2024, when we saw an opportunity in the NB-8 region, we decided to expand the cooperation.
 
 Kennet is the CEO and Founder of Techboard AB. He is the former chairman and country manager of Telia Lithuania, Estonia, and Latvia; COO of Azercell Telecom, and president of Ericsson Mobile Internet Solutions, and several other roles.
 
