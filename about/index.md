@@ -97,8 +97,11 @@ Decision consultants help executives and organizations structure the logic of de
 
 We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid**: growth, productivity, and risk, at the country, company, and business unit levels. As such our decision consulting work complements our solutions shown in Section 1.2.
 
+The success of our projects is, like for the MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
 
-<a href="articles-posts/quantitative-decision-consulting-case-stories.md" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b>:</a>
+When work begins, the mid-level of the client company is, however, critical. This is were the realism in findings are tested and the deep knowledge of how things work exist. But again, the high ambition level is best safeguarded by a steering committee of senior executives (VP or higher).
+
+<a href="/articles-posts/quantitative-decision-consulting-case-stories.md" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b>:</a>
 
 ### 1.4 Intellectual Foundation
 
