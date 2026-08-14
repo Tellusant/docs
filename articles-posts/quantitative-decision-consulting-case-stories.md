@@ -5,7 +5,7 @@ image: /assets/social-card-publ.png
 ---
 
 # Quantitative Decision Consulting: Three of Our Case Stories
-*By Tellusant, Inc.*
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 The three case stories show what we mean by quantitative decision consulting. We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically of strategic nature, and occasionally operational. 
 
