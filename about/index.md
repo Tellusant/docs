@@ -95,7 +95,7 @@ The graph below summarizes our main properties.
 
 Decision consultants help executives and organizations structure the logic of decisions, breaking them down into manageable parts with factual support.
 
-We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid**: growth, productivity, and risk, at the country, company, and business unit levels. As such, our decision consulting work complements our solutions shown in Section 1.2.
+We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our Strategy Grid: growth, productivity, and risk, at the country, company, and business unit levels. As such, our decision consulting work complements our solutions shown in Section 1.2.
 
 The success of our projects is, like for MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
 
@@ -141,14 +141,14 @@ We realized early on that we needed a developer base to create our apps outside 
 
 We quickly signed up a number of large and medium sized clients in North America, South America, Europe, and Asia. This was possible because of strong reputation in consumer goods and large rolodex of executives.
 
-Our first commercial app was **PoluSim**. It was followed by **TelluBase**, and thereafter **PACE**. Recently, these were followed by **Stratboard**, **Paragonal**, and **Q-Risk**.
+Our first commercial app was PoluSim. It was followed by TelluBase, and thereafter PACE. Recently, these were followed by Stratboard, Paragonal, and Q-Risk (all described in Section 1.2.).
 
 We have also started building micro-websites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
 ***Milestones***
-- **August 2020**: Tellusant founded by Staffan Canback and Philip Burginyoung. They were soon joined Shane Ezepik (all three ex-Canback Consulting)
+- **August 2020**: Tellusant founded by Staffan Canback and Philip Burginyoung. They were immediately joined by Shane Ezepik (all three ex-Canback Consulting)
 - **2020**: First client - The Vines of Mendoza, a resort and vineyard company in Argentina
 - **2021**: TelluBase as a subscription service introduced
 - **2022**: Bobo Shen joins as Chief Product Officer (also ex-Canback)
