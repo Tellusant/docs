@@ -1,7 +1,7 @@
 ---
 title: "Trade Secrets"
 description: "We have a number of Trade Secrets protected by law globally and in perpetuity."
-image: /assets/social-card-pub.png
+image: /assets/social-card-info.png
 ---
 
 # Trade Secrets
@@ -11,7 +11,7 @@ Our **Trade Secrets** are sometimes licensed to clients. The trade secrets prote
 
 For more on trade secrets, see [USPTO](https://www.uspto.gov/ip-policy/trade-secret-policy) and [WIPO](https://www.wipo.int/en/web/trade-secrets). The WIPO site also shows the countries covered.
 
-There is no symbol for trade secrets because it is a management practice, not a filing. Part of this management practice is to clearly mark trade secrets, which we do here (and in other places) as CONFIDENTIAL, PROPRIETARY, TRADE SECRET, or similar. We mostly use ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
+There is no symbol for trade secrets, unlike, e.g., patents and trademarks, because it is a management practice, not a filing. Part of this management practice is to clearly mark trade secrets, which we do here (and in other places) as CONFIDENTIAL, PROPRIETARY, TRADE SECRET, or similar. We mostly use ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. The practice also includes training employees about our trade secrets, keeping files secure, and communicating to the world that we have trade secrets.
 
 ---
 ### Non-Exhaustive List of Tellusant Trade Secrets
@@ -20,7 +20,7 @@ We use the word *method* when the trade secret refers to how our solution works,
 - PoluSim
 - TelluBase
 - Stratboard
--  PACE — Pricing Aligned with Consumer Economics
+- PACE — Pricing Aligned with Consumer Economics
 - Q-Risk
 - Paragonal
 
