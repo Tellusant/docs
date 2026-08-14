@@ -282,9 +282,12 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 
 *BOGOTÁ*
 
-***Carlos Alzate, Global Chief Commercial Officer***
+***Carlos Alzate, Global Chief Commercial Officer & Andean Region Head***
+Carlos is our CCO, based in Bogotá, Colombia. He oversees marketing and sales activities globally, with a specific focus on Latin America and the U.S.
 
+Staffan Canback and Carlos started working together in 2009 when Carlos was responsible for premium beer at Bavaria, SABMiller's Colombian subsidiary and the second largest profit generator of this global company. They then met again in Argentina, and in Panama. In 2023, Carlos decided to take on the role of CCO at Tellusant.
 
+Carlos a long and distinguished background in marketing and sales. He has held increasingly senior marketing positions at Unilever, SABMiller, Central Cervecera de Colombia, Havas, and l'Oreal. He holds an industrial engineering degree from Pontificia Universidad Javeriana with further management studies at INCAE Business School.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
