@@ -11,7 +11,7 @@ redirect_from:
 # About Us
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-We summarize the **credibility** of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
+We summarize the ***credibility*** of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our verified credentials
@@ -93,20 +93,20 @@ The graph below summarizes our main properties.
 ### 1.3 Quantitative Decision Consulting
 ***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** said Prof. Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology.
 
-Decision consultants help executives and organizations structure the logic of decisions, breakig them don into manageable parts.
+Decision consultants help executives and organizations structure the logic of decisions, breaking them down into manageable parts with factual support.
 
 We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our **Strategy Grid**: growth, productivity, and risk, at the country, company, and business unit levels. As such our decision consulting work complements our solutions shown in Section 1.2.
 
-The success of our projects is, like for the MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
+The success of our projects is, like for MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
 
 When work begins, the mid-level of the client company is, however, critical. This is were the realism in findings are tested and the deep knowledge of how things work exist. But again, the high ambition level is best safeguarded by a steering committee of senior executives (VP or higher).
 
 Typical assignments are:
-- Strategy development with a decision focus
-- Working in parallel with MBB responsible for demand predictions (this is to reduce conflict of interest when one consulting firm both makes recommendations and predicts outomes). The approach started in M&A due diligence, and is now fairly common in regular strategy work.
+- Strategy development with a decision focus  
+- Working in parallel with MBB responsible for demand predictions (this is to reduce conflict of interest when one consulting firm both makes recommendations and predicts outomes). The approach started in M&A due diligence, and is now fairly common in regular strategy work.  
 - Decision diagnostic to ensure our products are realistically set up.
-
-<a href="/articles-posts/quantitative-decision-consulting-case-stories.html" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b></a>
+- 
+<a href="../articles-posts/quantitative-decision-consulting-case-stories.html" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b></a>
 
 ### 1.4 Intellectual Foundation
 
