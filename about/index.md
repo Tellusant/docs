@@ -101,7 +101,12 @@ The success of our projects is, like for the MBB, largely set in the proposal di
 
 When work begins, the mid-level of the client company is, however, critical. This is were the realism in findings are tested and the deep knowledge of how things work exist. But again, the high ambition level is best safeguarded by a steering committee of senior executives (VP or higher).
 
-<a href="/articles-posts/quantitative-decision-consulting-case-stories.md" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b>:</a>
+Typical assignments are:
+- Strategy development with a decision focus
+- Working in parallel with MBB responsible for demand predictions (this is to reduce conflict of interest when one consulting firm both makes recommendations and predicts outomes). The approach started in M&A due diligence, and is now fairly common in regular strategy work.
+- Decision diagnostic to ensure our products are realistically set up.
+
+<a href="/articles-posts/quantitative-decision-consulting-case-stories.html" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b></a>
 
 ### 1.4 Intellectual Foundation
 
