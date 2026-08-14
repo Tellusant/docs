@@ -1,6 +1,6 @@
 ---
 title: "Tellusant Publications Repository"
-description: "This open access repository will contain the complete published works by Tellusant team members. It ranges from scientific papers to social media posts"
+description: "This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more."
 image: /assets/social-card-pub.png
 seo:
   type: Organization
@@ -11,9 +11,7 @@ This open access repository will contain the complete published works by Tellusa
 
 *[This is a subdomain of our main website](https://tellusant.com).*  
 
----
-## [Tellusant Credibility Evidence Pack](credibility/index.md)  
-Credibility is our strongest asset. Few startups match us in credibility and we continue to build it.  
+--- 
 ## [Company Information](information/index.md)
 Find the main descriptions of Tellusant and its products.  
 ## [Articles & Posts](articles-posts/index.md)  
