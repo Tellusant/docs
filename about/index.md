@@ -36,7 +36,7 @@ $\quad \~$ [1.5.3 Demand Modeling Methods](#153-demand-modeling-methods)
 [1.6 History and Milestones](#16-history-and-milestones)  
 [1.7 Executive Leadership & Senior Team](#17-executive-leadership-senior-team)  
 $\quad \~$ [1.7.1 Dr. Staffan Canback, Executive Chairman](#171-dr-staffan-canback-executive-chairman)  
-$\quad \~$ [1.7.2 Philip Burginyoung, CEO & President](#172-philip-burginyoung-chief-executive-officer-president)  
+$\quad \~$ [1.7.2 Philip Burginyoung, CEO & President](#172-philip-burginyoung-chief-executive-officer-president)  Philip Burginyoung, Chief Executive Officer & President
 $\quad \~$ [1.7.3 Bobo Shen, Chief Product Officer](#173-bobo-shen-chief-product-officer)  
 $\quad \~$ [1.7.4 Senior Team Members](#174-senior-team-members)  
 1.8 [Clients](#18-clients)  
@@ -227,8 +227,7 @@ Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the c
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
 
 Today, Staffan reserves that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.
-
-[Read more about Staffan Canback here on his personal website.](https://canback.net/docs/about/)
+<a href="https://canback.net/docs/about/" style="color: black; text-decoration: none;">Read more about Staffan Canback on his <b>personal website</b>.</a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/scanback/" target="_blank" style="color: white; text-decoration: none;">
