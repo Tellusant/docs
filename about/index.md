@@ -394,6 +394,8 @@ This a list of important recent clients:
 - Nutresa
 - Tufts University
 
+<a href="clients.html" style="color: black; text-decoration: none;">A full list of <b>past clients</b> that our leaders have served is found here</a>  
+
 [A full list of historical clients that our leaders have served is found here](clients.md)
 
 ### 1.9 Global footprint
@@ -405,6 +407,8 @@ This serves us well when we calibrate our products to client needs. We know what
 While our products are analytical, our experiences are personal and human.
 
 <img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
+
+<a href="global-footprint-list.html" style="color: black; text-decoration: none;">For searchability, see the <b>global footprint list</b></a>
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
