@@ -44,14 +44,14 @@ $\quad \~$ [1.7.4 Senior Team Members](#174-senior-team-members)
 [1.10 External Citations](#110-external-citations)
    
 [2. Verified Credentials](#2-verified-credentials)  
-[2.1 Corporate Formation & Trademark](#21-corporate-formation-trademark) 
-[2.2 Independent Corporate Validation](#22-independent-corporate-validation)
+[2.1 Corporate Formation & Trademark](#21-corporate-formation-trademark)  
+[2.2 Independent Corporate Validation](#22-independent-corporate-validation)  
 [2.3 Academic & Public Citations](#23-academic-public-citations)  
 [2.4 Strategic Partnerships and Collaborations](#24-strategic-partnerships-and-collaborations)  
 [2.5 Media Coverage](#25-media-coverage)  
 [2.6 Digital Platforms](#26-digital-platforms)  
 [2.7 Independent Institutional References](#27-independent-institutional-references)  
-[2.8 Assessment](#28-assessment) 
+[2.8 Assessment](#28-assessment)  
 
 ---
 ## 1. Narrative
