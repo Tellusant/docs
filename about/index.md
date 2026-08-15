@@ -39,19 +39,19 @@ $\quad \~$ [1.7.1 Dr. Staffan Canback, Executive Chairman](#171-dr-staffan-canba
 $\quad \~$ [1.7.2 Philip Burginyoung, CEO and President](#172-philip-burginyoung-chief-executive-and-officer-president)  
 $\quad \~$ [1.7.3 Bobo Shen, Chief Product Officer](#173-bobo-shen-chief-product-officer)  
 $\quad \~$ [1.7.4 Senior Team Members](#174-senior-team-members)  
-1.8 [Clients](#18-clients)  
-1.9 [Global footprint](#19-global-footprint)  
-1.10 [External Citations](#110-external-citations)
+[1.8 Clients](#18-clients)  
+[1.9 Global footprint](#19-global-footprint)  
+[1.10 External Citations](#110-external-citations)
    
-2. Verified Credentials  
-2.1 Corporate Formation & Trademark  
-2.2 Independent Corporate Validation  
-2.3 Academic & Public Citations  
-2.4 Strategic Partnerships and Collaborations  
-2.5 Media Coverage  
-2.6 Digital Platforms  
-2.7 Independent Institutional References  
-2.8 Assessment  
+[2. Verified Credentials](#2-verified-credentials)  
+[2.1 Corporate Formation & Trademark](#21-corporate-formation-trademark) 
+[2.2 Independent Corporate Validation](#22-independent-corporate-validation)
+[2.3 Academic & Public Citations](#23-academic-public-citations)  
+[2.4 Strategic Partnerships and Collaborations](#24-strategic-partnerships-and-collaborations)  
+[2.5 Media Coverage](#25-media-coverage)  
+[2.6 Digital Platforms](#26-digital-platforms)  
+[2.7 Independent Institutional References](#27-independent-institutional-references)  
+[2.8 Assessment](#28-assessment) 
 
 ---
 ## 1. Narrative
