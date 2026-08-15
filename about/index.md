@@ -147,7 +147,7 @@ Typical assignments are:
 
 tbd
 
-#### 1.4.1 AT Coding Practices
+#### 1.4.1 AI Coding Practices
 
 tbd
 
