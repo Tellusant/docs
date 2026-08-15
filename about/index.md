@@ -20,28 +20,28 @@ We use the E-E-A-T framework (experience, expertise, authoritativeness, trustwor
 
 ## *Contents*  
 [1. Narrative](#1-narrative)  
-1.1 Value Proposition  
-1.2 Products  
-$\quad \~$ 1.2.1 TelluPlan and Its Applications  
-$\quad \~$ 1.2.2 TelluBase  
-1.3 Quantitative Decision Consulting  
-1.4 The use of AI at Tellusant  
-$\quad \~$ 1.4.1 Coding  
-$\quad \~$ 1.4.2 Application Insights Through AI  
-$\quad \~$ 1.4.3 Higher-Order Cognitive AI Uses  
-1.5 Intellectual Foundation  
-$\quad \~$ 1.5.1 Decision-Making Theory  
-$\quad \~$ 1.5.2 EMIO Strategy Framework  
-$\quad \~$ 1.5.3 Demand Modeling Methods  
-1.6 History and Milestones  
-1.7 Executive Leadership & Senior Team  
-$\quad \~$ 1.7.1 Dr. Staffan Canback, Exec. Chair  
-$\quad \~$ 1.7.2 Philip Burginyoung, CEO & Pres.  
-$\quad \~$ 1.7.3 Bobo Shen, CPO  
-$\quad \~$ 1.7.4 Senior Team Members  
-1.8 Clients  
-1.9 Global footprint  
-1.10 External Citations
+[1.1 Value Proposition](#11-value-proposition)  
+[1.2 Products](#12-products)  
+$\quad \~$ [1.2.1 TelluPlan and Its Applications](#121-telluplan-and-its-applications)  
+$\quad \~$ [1.2.2 TelluBase](#122-tellubase)  
+1.3 [Quantitative Decision Consulting](#13-quantitative-decision-consulting)  
+1.4 [The use of AI at Tellusant]()  
+$\quad \~$ 1.4.1 [AI Coding Practices]  
+$\quad \~$ 1.4.2 [Application Auto-Generated Insights Through AI]()  
+$\quad \~$ 1.4.3 [Higher-Order Cognitive AI Uses]{}  
+1.5 [Intellectual Foundation]()  
+$\quad \~$ 1.5.1 [Decision-Making Theory]()  
+$\quad \~$ 1.5.2 [EMIO Strategy Framework]()  
+$\quad \~$ 1.5.3 [Demand Modeling Methods]()  
+1.6 [History and Milestones]{}  
+1.7 [Executive Leadership & Senior Team]{}  
+$\quad \~$ 1.7.1 [Dr. Staffan Canback, Exec. Chair]  
+$\quad \~$ 1.7.2 [Philip Burginyoung, CEO & Pres.]()  
+$\quad \~$ 1.7.3 [Bobo Shen, CPO]()  
+$\quad \~$ 1.7.4 [Senior Team Members]()  
+1.8 [Clients]()  
+1.9 [Global footprint]()  
+1.10 [External Citations]()
    
 2. Verified Credentials  
 2.1 Corporate Formation & Trademark  
