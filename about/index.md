@@ -394,7 +394,7 @@ This a list of important recent clients:
 - Nutresa
 - Tufts University
 
-<a href="clients.html" style="color: black; text-decoration: none;">A full list of <b>past clients</b> that our leaders have served is found here</a>  
+<a href="../clients.html" style="color: black; text-decoration: none;">A full list of <b>past clients</b> that our leaders have served is found here</a>  
 
 [A full list of historical clients that our leaders have served is found here](clients.md)
 
@@ -408,7 +408,7 @@ While our products are analytical, our experiences are personal and human.
 
 <img  src="../maps/assets/svg/tellusant-global-experience-base.svg" alt="Tellusant Global Experience Base">
 
-<a href="global-footprint-list.html" style="color: black; text-decoration: none;">For searchability, see the <b>global footprint list</b></a>
+<a href="../global-footprint-list.html" style="color: black; text-decoration: none;">For searchability, see the <b>global footprint list</b></a>
 
 [For searchability, see the global footprint list](global-footprint-list.md)
 
@@ -435,6 +435,8 @@ There are four main themes:
 |Constellation Brands (2025)|IJARSCT (2025)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
 |CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Putnam Investments (2022)||
 |De Nederlandsche Bank (2021)|International Economics, Journal of (2024)|Reall (2021)||
+
+<a href="/citations/" style="color: black; text-decoration: none;">The <b>full set of citations with hyperlinks</b> to the publications is available here.</a  
 
 [The full set of citations with hyperlinks to the publications is available here.](/citations/)
 
