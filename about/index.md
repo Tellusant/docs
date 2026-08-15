@@ -151,7 +151,7 @@ tbd
 
 tbd
 
-#### 1.4.2 Auto-Generated Applications Insights Through AI
+#### 1.4.2 Auto-Generated-Applications Insights Through AI
 
 tbd
 
@@ -226,7 +226,8 @@ Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the c
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
 
-Today, Staffan reserves that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.
+Today, Staffan reserves that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.  
+
 <a href="https://canback.net/docs/about/" style="color: black; text-decoration: none;">Read more about Staffan Canback on his <b>personal website</b>.</a>
 
 <p align="center">
