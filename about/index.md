@@ -279,7 +279,7 @@ All three are also citizens of the world, familiar with markets and cultures eve
 
 #### 1.7.4 Senior Team Members
 
-tbd
+*BOSTON*
 
 ***Shane Ezepik, Global Senior Product Manager***
 
