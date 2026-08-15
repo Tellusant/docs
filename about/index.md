@@ -31,7 +31,7 @@ $\quad \~$ [1.4.2 Application Auto-Generated Insights Through AI](#142-applicati
 $\quad \~$ [1.4.3 Higher-Order Cognitive AI Metods](#143-higherorder-cognitive-ai-methods)  
 [1.5 Intellectual Foundation](#15-intellectual-foundation)  
 $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)  
-$\quad \~$ [1.5.2 EMIO Strategy Framework](#152-emio-strategysframework)  
+$\quad \~$ [1.5.2 EMIO Strategy Framework](#152-emio-strategy-framework)  
 $\quad \~$ [1.5.3 Demand Modeling Methods](#153-demand-modeling-methods)  
 [1.6 History and Milestones](#16-history-and-milestones)  
 [1.7 Executive Leadership & Senior Team](#17-executive-leadership-senior-team)  
