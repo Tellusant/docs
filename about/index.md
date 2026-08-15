@@ -145,11 +145,19 @@ Typical assignments are:
 
 ### 1.4 AI Uses at Tellusant
 
+tbd
+
 #### 1.4.1 Coding Practices
+
+tbd
 
 #### 1.4.2 Auto-Generated Applications Insights Through AI
 
+tbd
+
 #### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
+
+tbd
 
 ### 1.5 Intellectual Foundation
 
