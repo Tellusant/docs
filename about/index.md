@@ -97,7 +97,7 @@ Decision consultants help executives and organizations structure the logic of de
 
 We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our Strategy Grid: growth, productivity, and risk, at the country, company, and business unit levels. As such, our decision consulting work complements our solutions shown in Section 1.2.
 
-The success of our projects is, like for MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
+The success of our projects is, like for MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always to maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
 
 When work begins, the mid-level of the client company is, however, critical. This is were the realism in findings are tested and the deep knowledge of how things work exist. But again, the high ambition level is best safeguarded by a steering committee of senior executives (VP or higher).
 
@@ -106,7 +106,7 @@ Typical assignments are:
 - Working in parallel with MBB responsible for demand predictions (this is to reduce conflict of interest when one consulting firm both makes recommendations and predicts outomes). The approach started in M&A due diligence, and is now fairly common in regular strategy work.  
 - Decision diagnostic to ensure our products are realistically set up.  
 
-<a href="../articles-posts/quantitative-decision-consulting-case-stories.html" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, <b>read our three case examples</b></a>
+<a href="../articles-posts/quantitative-decision-consulting-case-stories.html" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, read our three <b>case examples</b></a>
 
 ### 1.4 Intellectual Foundation
 
@@ -282,9 +282,12 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 
 *BOGOTÁ*
 
-***Carlos Alzate, Global Chief Commercial Officer***
+***Carlos Alzate, Global Chief Commercial Officer & Andean Region Head***
+Carlos is our CCO, based in Bogotá, Colombia. He oversees marketing and sales activities globally, with a specific focus on Latin America and the U.S.
 
+Staffan Canback and Carlos started working together in 2009 when Carlos was responsible for premium beer at Bavaria, SABMiller's Colombian subsidiary and the second largest profit generator of this global company. They then met again in Argentina, and in Panama. In 2023, Carlos decided to take on the role of CCO at Tellusant.
 
+Carlos a long and distinguished background in marketing and sales. He has held increasingly senior marketing positions at Unilever, SABMiller, Central Cervecera de Colombia, Havas, and l'Oreal. He holds an industrial engineering degree from Pontificia Universidad Javeriana with further management studies at INCAE Business School.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
