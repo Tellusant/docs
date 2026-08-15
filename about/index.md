@@ -43,15 +43,15 @@ We use the E-E-A-T framework (experience, expertise, authoritativeness, trustwor
 1.9 Global footprint  
 1.10 External Citations
    
-2. Verified Credentials
-2.1 Corporate Formation & Trademark
-2.2 Independent Corporate Validation
-2.3 Academic & Public Citations
-2.4 Strategic Partnerships and Collaborations
-2.5 Media Coverage
-2.6 Digital Platforms
-2.7 Independent Institutional References
-2.8 Assessment
+2. Verified Credentials  
+2.1 Corporate Formation & Trademark  
+2.2 Independent Corporate Validation  
+2.3 Academic & Public Citations  
+2.4 Strategic Partnerships and Collaborations  
+2.5 Media Coverage  
+2.6 Digital Platforms  
+2.7 Independent Institutional References  
+2.8 Assessment  
 
 ---
 ## 1. Narrative
