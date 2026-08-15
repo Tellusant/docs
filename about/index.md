@@ -34,9 +34,9 @@ $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)
 $\quad \~$ [1.5.2 EMIO Strategy Framework](#152-emio-strategy-framework)  
 $\quad \~$ [1.5.3 Demand Modeling Methods](#153-demand-modeling-methods)  
 [1.6 History and Milestones](#16-history-and-milestones)  
-[1.7 Executive Leadership & Senior Team](#17-executive-leadership-senior-team)  
+[1.7 Executive Leadership & Senior Team](#17-executive-leadership-&-senior-team)  
 $\quad \~$ [1.7.1 Dr. Staffan Canback, Executive Chairman](#171-dr-staffan-canback-executive-chairman)  
-$\quad \~$ [1.7.2 Philip Burginyoung, CEO & President](#172-philip-burginyoung-chief-executive-officer-president)  
+$\quad \~$ [1.7.2 Philip Burginyoung, CEO & President](#172-philip-burginyoung-chief-executive-&-officer-president)  
 $\quad \~$ [1.7.3 Bobo Shen, Chief Product Officer](#173-bobo-shen-chief-product-officer)  
 $\quad \~$ [1.7.4 Senior Team Members](#174-senior-team-members)  
 1.8 [Clients](#18-clients)  
@@ -244,11 +244,11 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 #### 1.7.2 *Philip Burginyoung, Chief Executive Officer & President*
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
-Phil has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Phil was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
+Philip has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Philip was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
 
 Prior to Canback Consulting, Phil worked in investment research and with software companies.
 
-Phil has a passion for making quantitative and statistical analysis relevant and helpful to companies making strategic decisions. He believes that there is a wealth of untapped knowledge and precision that company can better leverage, which drove him to co-found Tellusant with Staffan Canback. He has built and developed many of the algorithms and methods that support Tellusant's products.
+Philip has a passion for making quantitative and statistical analysis relevant and helpful to companies making strategic decisions. He believes that there is a wealth of untapped knowledge and precision that company can better leverage, which drove him to co-found Tellusant with Staffan Canback. He has built and developed many of the algorithms and methods that support Tellusant's products.
 
 Philip Burginyoung graduated from Dartmouth College with a BA degree in Economics.
 
