@@ -22,23 +22,23 @@ We use the E-E-A-T framework (experience, expertise, authoritativeness, trustwor
 1. Narrative  
 1.1 Value Proposition  
 1.2 Products  
-1.2.1 TelluPlan and Its Applications  
-1.2.2 TelluBase  
+$\quad \~$ 1.2.1 TelluPlan and Its Applications  
+$\quad \~$ 1.2.2 TelluBase  
 1.3 Quantitative Decision Consulting  
 1.4 The use of AI at Tellusant  
-1.4.1 Coding  
-1.4.2 Application Insights Through AI  
-1.4.3 Higher-Order Cognitive AI Uses  
+$\quad \~$ 1.4.1 Coding  
+$\quad \~$ 1.4.2 Application Insights Through AI  
+$\quad \~$ 1.4.3 Higher-Order Cognitive AI Uses  
 1.5 Intellectual Foundation  
-1.5.1 Decision-Making Theory  
-1.5.2 EMIO Strategy Framework  
-1.5.3 Demand Modeling Methods  
+$\quad \~$ 1.5.1 Decision-Making Theory  
+$\quad \~$ .5.2 EMIO Strategy Framework  
+$\quad \~$ 1.5.3 Demand Modeling Methods  
 1.6 History and Milestones  
 1.7 Executive Leadership & Senior Team  
-1.7.1 Dr. Staffan Canback, Exec. Chair  
-1.7.2 Philip Burginyoung, CEO & Pres.  
-1.7.3 Bobo Shen, CPO  
-1.7.4 Senior Team Members  
+$\quad \~$ 1.7.1 Dr. Staffan Canback, Exec. Chair  
+$\quad \~$ 1.7.2 Philip Burginyoung, CEO & Pres.  
+$\quad \~$ 1.7.3 Bobo Shen, CPO  
+$\quad \~$ 1.7.4 Senior Team Members  
 1.8 Clients  
 1.9 Global footprint  
 1.10 External Citations
