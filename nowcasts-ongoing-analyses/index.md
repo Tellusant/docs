@@ -4,6 +4,9 @@ description: "These are models Tellusant updates and publishes on a regular, yea
 image: /assets/social-card-pub.png
 ---
 # Nowcasts & Ongoing Analyses
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily.
 
 #### [Economic Sentiment Tool](https://tellubase.com/country-sentiment-analysis/)
