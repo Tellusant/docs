@@ -4,6 +4,9 @@ description: "What is the probability of a recession in a given country? We anal
 image: /assets/social-card-map.png
 ---
 # Recession Pressure by Country
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *Uses of TelluBase* Series
 
 What is the probability of a recession in a given country? We analyzed data for all (218) countries at the subnational level to find out. The map shows the the results.  
