@@ -4,6 +4,9 @@ description: "Learn about Tellusant, its applications and quantitative decision 
 image: /assets/social-card-pub.png
 ---
 # Company Information
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 Learn about Tellusant, its applications and quantitative decision consulting.
 
 ---
