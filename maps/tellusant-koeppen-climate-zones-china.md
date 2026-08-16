@@ -10,6 +10,8 @@ China as a whole covers many climate zones. Here we show them at the secondary s
 
 This variability leads to differing consumer preferences and cultures around the country. Most famous is the wheat / rice divide.
 
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
+
 ---
 
 #### <img  src="assets/svg/tellusant-koeppen-climate-zones-china.svg" alt="China by Köppen Climate Zones">
