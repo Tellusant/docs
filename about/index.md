@@ -40,11 +40,11 @@ $\quad \~$ [1.7.2 Philip Burginyoung, CEO and President](#172-philip-burginyoung
 $\quad \~$ [1.7.3 Bobo Shen, Chief Product Officer](#173-bobo-shen-chief-product-officer)  
 $\quad \~$ [1.7.4 Senior Team Members](#174-senior-team-members)  
 [1.8 Clients](#18-clients)  
-[1.9 Global footprint](#19-global-footprint)  
+[1.9 Global Footprint](#19-global-footprint)  
 [1.10 External Citations](#110-external-citations)
    
 [2. Verified Credentials](#2-verified-credentials)  
-[2.1 Corporate Formation and Trademark](#21-corporate-formation-and-trademark)  
+[2.1 Corporate Formation & Trademark](#21-corporate-formation-%26-trademark)  
 [2.2 Independent Corporate Validation](#22-independent-corporate-validation)  
 [2.3 Academic and Public Citations](#23-academic-and-public-citations)  
 [2.4 Strategic Partnerships and Collaborations](#24-strategic-partnerships-and-collaborations)  
@@ -396,7 +396,7 @@ This a list of important recent clients:
 
 <a href="../about/clients.html" style="color: black; text-decoration: none;">A full list of <b>past clients</b> that our leaders have served is found here</a>  
 
-### 1.9 Global footprint
+### 1.9 Global Footprint
 
 The map shows the how deep Tellusant leaders' global knowledge is. We have worked on the ground in 92 countries, usually far  away from the capitals and country headquarters of our clients. Thus, we understand city, other urban, and rural opportunities across the globe.
 
@@ -438,7 +438,7 @@ There are four main themes:
 ## 2. Verified Credentials  
 We have received an excellent score on credentials because of external validation (outside-in).  
 
-### 2.1 Corporate Formation and Trademark
+### 2.1 Corporate Formation & Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
