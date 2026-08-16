@@ -4,6 +4,9 @@ description: "The map shows how TelluBase covers 425 cities and 342 secondary su
 image: /assets/social-card-map.png
 ---
 # China – Cities and Subdivisions Covered in TelluBase
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *TelluBase Definitions*
 
 The map shows how TelluBase covers 425 cities and 342 secondary subdivisions in China.  
