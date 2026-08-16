@@ -8,7 +8,7 @@ image: /assets/social-card-map.png
 
 The map shows the Köppen climate zones for the 2600 cities we cover in TelluBase.  
 
-
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
 
 ---
 #### <img  src="assets/svg/tellusant-koeppen-climate-zones-city.svg" alt="The World's Cities by Köppen Climate Zones">
