@@ -10,6 +10,8 @@ States are often too high level for insights in the U.S. Counties are too detail
 
 Our **TelluBase** database uses MSAs to define cities down to 100,000 inhabitants.
 
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
+
 ---
 #### <img  src="assets/svg/tellusant-usa-city-def.svg" alt="United States – Metropolitan Statistical Areas (MSA) Covered in TelluBase">
 
