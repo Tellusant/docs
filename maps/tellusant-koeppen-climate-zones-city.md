@@ -4,6 +4,9 @@ description: "The map shows the Köppen climate zones for the 2600 cities we cov
 image: /assets/social-card-map.png
 ---
 # The World's Cities by Köppen Climate Zones
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *Uses of TelluBase* Series
 
 The map shows the Köppen climate zones for the 2600 cities we cover in TelluBase.  
