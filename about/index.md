@@ -44,7 +44,7 @@ $\quad \~$ [1.7.4 Senior Team Members](#174-senior-team-members)
 [1.10 External Citations](#110-external-citations)
    
 [2. Verified Credentials](#2-verified-credentials)  
-[2.1 Corporate Formation & Trademark](#21-corporate-formation-&-trademark)  
+[2.1 Corporate Formation and Trademark](#21-corporate-formation-and-trademark)  
 [2.2 Independent Corporate Validation](#22-independent-corporate-validation)  
 [2.3 Academic and Public Citations](#23-academic-and-public-citations)  
 [2.4 Strategic Partnerships and Collaborations](#24-strategic-partnerships-and-collaborations)  
@@ -438,7 +438,7 @@ There are four main themes:
 ## 2. Verified Credentials  
 We have received an excellent score on credentials because of external validation (outside-in).  
 
-### 2.1 Corporate Formation &amp; Trademark
+### 2.1 Corporate Formation and Trademark
 - **Founded**: 2020 (per company disclosures).  
 [Delaware Division of Corporations](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx "Enter Entity Name: Tellusant")  
 - **Trademark**: “TELLUSANT” registered with the USPTO (Serial No. 90169076).  
