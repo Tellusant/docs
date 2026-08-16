@@ -64,7 +64,9 @@ If hypotheses are not rejected, continue with other products in an automated fas
   - R²: car demand (new reg.) = f(income, IB[DI 80-100]) => 0.84
 No other tests done yet.
 
-At this point, hypotheses 2 and 3 (ln and logit used) are not rejected. Hypothesis 1 is neutral because while it has R²=0.83, this conceals an average income effect and exaggerates the independent variables influence.
+At this point, hypotheses 2 and 3 (ln and logit used) are not rejected. Hypothesis 1 is neutral because while it has R²=0.83, this conceals an average income effect and exaggerates the independent variables influence.  
+
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
 
 ---
 [2026-03-17]  
