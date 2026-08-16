@@ -9,6 +9,8 @@ image: /assets/social-card-pub.png
 
 We provide free TelluBase data to select public institutions and media through the ***Tellusant Public Service Series***. These are small, but important, subsets of the full product.  The following countries are currently covered.  
 
+[To learn about TelluBase and purchase data, visit the website](https://tellubase.com).
+
 ---
 #### [Algeria](tellubase-factsheet-dza.pdf)  
 #### [Argentina](tellubase-factsheet-arg.pdf)  
