@@ -7,7 +7,9 @@ image: /assets/social-card-map.png
 # TelluBase Coverage of Nordic-Baltic Eight (NB8)
 ## *TelluBase Definitions*
 
-#### <img  src="assets/svg/tellusant-nordic-baltic-eight-nb8-sub-city.svg" width="600" alt="TelluBase Coverage of Nordic-Baltic 8">
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
+
+### <img  src="assets/svg/tellusant-nordic-baltic-eight-nb8-sub-city.svg" width="600" alt="TelluBase Coverage of Nordic-Baltic 8">
 
 ---
 [Find more maps](index.md)  
