@@ -4,6 +4,9 @@ description: "This section will over time contain all our substance-oriented art
 image: /assets/social-card-pub.png
 ---
 # Articles & Posts
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 This section will over time contain all our substance-oriented articles and posts on LinkedIn. Medium, and elsewhere.  
 
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
