@@ -4,6 +4,9 @@ description: "Public speeches, lectures and other presentations in slide format 
 image: /assets/social-card-pub.png
 ---
 # Presentations
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 Public speeches, lectures and other presentations in slide format by Tellusant members.     
 
 ---
