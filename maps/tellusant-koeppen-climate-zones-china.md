@@ -4,6 +4,9 @@ description: "China as a whole covers many climate zones. Here we show them at t
 image: /assets/social-card-map.png
 ---
 # China by Köppen Climate Zones
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *Uses of TelluBase* Series
 
 China as a whole covers many climate zones. Here we show them at the secondary subdivision level (prefecture or equivalent).
