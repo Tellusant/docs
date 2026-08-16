@@ -1,10 +1,10 @@
 ---
 title: "The Tower of TelluBase"
-description: "We show what is included in TelluBase in a simple 3D ''tower'', demonstrating its comprehensiveness"
+description: "We show the contents of TelluBase in a simple 3D ''tower'', demonstrating its comprehensiveness"
 image: /assets/social-card-info.png
 ---
 # The Tower of TelluBase
-We show what is included in TelluBase in a simple 3D "tower", demonstrating its comprehensiveness. It makes clear what is unique about TelluBase compared to conventional data sources.
+We show the contents of TelluBase in a simple 3D "tower", demonstrating its comprehensiveness. It makes clear what is unique about TelluBase compared to conventional data sources.
 
 The _Tower of TelluBase_ has three dimensions: Data series, geographies, and years.
 
@@ -20,4 +20,4 @@ You will see that everything referring to distributional economics is completely
 
 Conventional data sources tend to report back data they scrape from government and other sources without any value added except ease of access. TelluBase, in contrast, is a *managed* information resource.
 
-[To access TelluBase and purcsase data, visit the website](https://tellubase.com) or see our [introductory TelluBase video](https://tellusant.com/repo/video/tellusant-tellubase-introduction.mp4).
+[To access TelluBase and purchase data, visit the website](https://tellubase.com).
