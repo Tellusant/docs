@@ -4,6 +4,9 @@ description: "We cover 504 cities and 349 subdivisions in the EU."
 image: /assets/social-card-map.png
 ---
 # European Union Cities and Subdivisions Covered in TelluBase
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>  
+
 ## *TelluBase Definitions*
 
 Countries typically paint too coarse a picture for the EU. A more suitable way to understand the European economy is to look at cities and NUTS socioeconomic regions.
