@@ -9,6 +9,8 @@ The map shows the cities (92 zonas metropolitanas) and secondary subdivisions (1
 
 For each of these entities, we cover economic, socioeconomic, and demographic information, as well as the size of the consumer classes. All this with a view toward the future with data covering 2000 till 2050.  
 
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
+
 ---
 #### <img  src="assets/svg/tellusant-mexico-sub2-city.svg" alt="Mexico – Cities and Secondary Subdivisions Covered in TelluBase">
 
