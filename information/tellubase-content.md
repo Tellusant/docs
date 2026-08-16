@@ -20,4 +20,4 @@ You will see that everything referring to distributional economics is completely
 
 Conventional data sources tend to report back data they scrape from government and other sources without any value added except ease of access. TelluBase, in contrast, is a *managed* information resource.
 
-[For more on TelluBase, visit the website](https://tellubase.com) or see our [introductory TelluBase video](https://tellusant.com/repo/video/tellusant-tellubase-introduction.mp4).
+[To access TelluBase and purcsase data, visit the website](https://tellubase.com) or see our [introductory TelluBase video](https://tellusant.com/repo/video/tellusant-tellubase-introduction.mp4).
