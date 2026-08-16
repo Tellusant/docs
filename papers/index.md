@@ -5,6 +5,9 @@ image: /assets/social-card-pub.png
 ---
 
 # Scientific Papers et Plus
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation (which is important for its statistical analysis methods as well as findings on strategy). Only papers important to Tellusant are included (find other papers [here](https://scanback.github.io/docs/papers/)).
 
 ---
