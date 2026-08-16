@@ -48,7 +48,7 @@ Because of our extensive intellectual capital, we are reinforcing our formal ⎼
 ## Company
 We're expanding our staff with a focus on business development and data science. Our Mexico City office is now larger than the Boston headquarters. Notable is our expanded business development capacity in Latin America.
 
-We have deepened our outreach by making our non-confidential intellectual capital easily indexable and learnt by ChatGPT, Gemini and other AI solutions, as well as search engines. We have two open access repositories for this purpose: [Github Pages](https://tellusant.github.io/docs/) and [Figshare](https://figshare.com/authors/Staffan_Canback/20547296).
+We have deepened our outreach by making our non-confidential intellectual capital easily indexable and learnt by ChatGPT, Gemini and other AI solutions, as well as search engines. We have two open access repositories for this purpose: [Github Pages hosts our Publications subdomain](https://docs.tellusant.com), [Figshare](https://figshare.com/authors/Staffan_Canback/20547296), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=370890).
 
 We also developed a "Tellusant Legitimacy Evidence Pack" for people who are not familiar with our company. 
 
