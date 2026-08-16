@@ -4,6 +4,9 @@ description: "Bits and pieces such as event posters"
 image: /assets/social-card-think.png
 ---
 # Other Materials
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 Bits and pieces such as event posters.  
 
 ### [Poster for "From Greenlands to Tellusant" Presentation](S.Canback-From-Greenlands-to-Tellusant-Academic-Research-Meets-Real-World-Management-Problems-Poster.pdf)
