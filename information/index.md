@@ -10,7 +10,7 @@ Learn about Tellusant and its products PoluSim, TelluBase, and PACE.
 ## [Credibility Evidence](../about)  
 Credibility is our strongest asset. Few startups match us in credibility and we continue to build it. 
 
-## [Executives & Senior Team](../articles-posts/leadership.md)
+## [Executives & Senior Team](../about/index.md/#17-executive-leadership-and-senior-team)
 Read the bios of our leaders to understand the richness of experiences and their credibility.  
 
 ## [The PoluSim Universe](../articles-posts/polusim-universe.md)
