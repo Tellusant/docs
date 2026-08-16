@@ -33,6 +33,7 @@ Learn about our subnational income distribution and consumer classes database Te
 
 
 ## [Introduction to Stratboard — Intelligent Report Generator](stratboard-introduction.md)
+ tbd
  ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
 
 ## [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
