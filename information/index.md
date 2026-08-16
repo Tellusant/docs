@@ -32,7 +32,7 @@ Seven slides give a quick impression of PoluSim ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇ
 Learn about our subnational income distribution and consumer classes database TelluBase ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. 218 countries – 2600 cities – 2500 subdivisions. See also [TelluBase On-Demand website](https://tellubase.com "target=_blank") and [TelluBase Subscription website](https://tellubase.telluplan.com "target=_blank")
 
 
-## [Introduction to Stratboard — Intelligent Report Generator](../press-releases/tellusant-stratboard-press-release.md)
+## [Announcing Stratboard — Intelligent Report Generator](../press-releases/tellusant-stratboard-press-release.md)
 See how our new AI-driven application Stratboard is integrated with PoluSim to enhance its capabilities. ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
 
 ## [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
