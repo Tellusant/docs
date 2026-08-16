@@ -4,6 +4,9 @@ description: "There is a strong trend among global companies toward understandin
 image: /assets/social-card-pub.png
 ---
 # Subnational ICT Opportunities in South Africa  
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## Case Example for How to Use TelluBase Income Distribution Data  
 
 > *Your methodology really tackles the blind spots that broader forecasting often misses. the way you've layered socioeconomic factors shows thoughtful analysis that actually translates into something useful.*  
