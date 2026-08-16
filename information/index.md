@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 Learn about Tellusant and its products PoluSim, TelluBase, and PACE.
 
 ---
-## [Credibility Evidence](../about)  
+## [Credibility Evidence](/credibility/)  
 Credibility is our strongest asset. Few startups match us in credibility and we continue to build it. 
 
 ## [Executives & Senior Team](../about/index.md/#17-executive-leadership-and-senior-team)
@@ -40,9 +40,6 @@ See a Sway presentation of how to find latent demand opportunities in consumer g
 
 ## [Tellusant Etymology](tellusant-etymology.md)
 What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
-
-## [Tellusant Legitimacy Evidence Pack](../legitimacy/index.md)  
-We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
 
 ---
 Source: Tellusant, Inc.
