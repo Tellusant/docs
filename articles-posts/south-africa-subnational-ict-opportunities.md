@@ -10,7 +10,9 @@ image: /assets/social-card-pub.png
 ## Case Example for How to Use TelluBase Income Distribution Data  
 
 > *Your methodology really tackles the blind spots that broader forecasting often misses. the way you've layered socioeconomic factors shows thoughtful analysis that actually translates into something useful.*  
-Mahvash Khan  
+Mahvash Khan
+
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
 
 There is a strong trend among global companies toward understanding markets at subnational levels. They always face local players who have a keen sense for subnational opportunities.  
 
