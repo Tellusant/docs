@@ -1,16 +1,19 @@
 ---
 title: "Company Information"
-description: "Learn about Tellusant and its products PoluSim, TelluBase, and PACE"
+description: "Learn about Tellusant, its applications and quantitative decision consulting."
 image: /assets/social-card-pub.png
 ---
 # Company Information
-Learn about Tellusant and its products PoluSim, TelluBase, and PACE.
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
+Learn about Tellusant, its applications and quantitative decision consulting.
 
 ---
-## [Credibility Evidence](../about)  
+## [Credibility Evidence](/credibility/)  
 Credibility is our strongest asset. Few startups match us in credibility and we continue to build it. 
 
-## [Executives & Senior Team](../articles-posts/leadership.md)
+## [Executives & Senior Team](../about/index.md/#17-executive-leadership-and-senior-team)
 Read the bios of our leaders to understand the richness of experiences and their credibility.  
 
 ## [The PoluSim Universe](../articles-posts/polusim-universe.md)
@@ -31,18 +34,14 @@ Seven slides give a quick impression of PoluSim ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇ
 ## [Introduction to TelluBase](Tellusant-Introduction-TelluBase.pdf)
 Learn about our subnational income distribution and consumer classes database TelluBase ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. 218 countries – 2600 cities – 2500 subdivisions. See also [TelluBase On-Demand website](https://tellubase.com "target=_blank") and [TelluBase Subscription website](https://tellubase.telluplan.com "target=_blank")
 
-
-## [Introduction to Stratboard — Intelligent Report Generator](stratboard-introduction.md)
- ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
+## [Announcing Stratboard — Intelligent Report Generator](../press-releases/tellusant-stratboard-press-release.md)
+See how our new AI-driven application Stratboard is integrated with PoluSim to enhance its capabilities. ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
 
 ## [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
-See a Sway presentation of how to find latent demand opportunities in consumer goods with PACE ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. See also [PACE website](https://pace.telluplan.com "target=_blank")
+See a Sway presentation of how to find latent demand opportunities in consumer goods with PACE. ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. See also [PACE website](https://pace.telluplan.com "target=_blank")
 
 ## [Tellusant Etymology](tellusant-etymology.md)
 What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
-
-## [Tellusant Legitimacy Evidence Pack](../legitimacy/index.md)  
-We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
 
 ---
 Source: Tellusant, Inc.

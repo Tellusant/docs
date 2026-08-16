@@ -7,6 +7,8 @@ seo:
 ---
 # Publications Repository
 
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more. 
 
 *[This is a subdomain of our main website](https://tellusant.com).*  

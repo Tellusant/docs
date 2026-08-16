@@ -4,6 +4,9 @@ description: "Interviews with our leaders on TV, radio, podcasts, and more."
 image: /assets/social-card-think.png
 ---
 # Media Appearances
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 Interviews with our leaders on TV, radio, podcasts, and more.  
 
 ### [Staffan Canback interviewed on CNBC TV: *Emerging Markets Opportunities and Challenges*](https://www.cnbcafrica.com/media/5462817917001/emerging-markets-opportunities-and-challenges)  

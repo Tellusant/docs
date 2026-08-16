@@ -4,6 +4,9 @@ description: "Read our press releases about the latest significant events at Tel
 image: /assets/social-card-pub.png
 ---
 # Press Releases
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 Read our press releases about the latest significant events at Tellusant
 
 ---

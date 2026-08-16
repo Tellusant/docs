@@ -4,6 +4,9 @@ description: "See how scientific, governmental, and business authorities have ci
 image: /assets/social-card-cite.png
 ---
 # External Citations
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited Tellusant and its team members publicly over the years.
 
 These are the first 200+ of our citations (to be built out during 2026).

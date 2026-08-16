@@ -1,10 +1,12 @@
 ---
-title: "Should Finland Emulate Sweden's Wealth Tax Approach?"
-description: "Few European countries have wealth taxes..."
+title: "Finland-Sweden Economic Comparison"
+description: "tbd"
 image: /assets/social-card-think.png
 ---
 
 # Finland-Sweden Economic Comparison
+
+tbd
 ## Demography
 Before looking at GDP, it is important to understand the demographic differences. Sweden has had much higher population growth than Finland (figure 1)
 <p align="center">
@@ -44,7 +46,7 @@ However, this combines economic and demographic contributions. A better metric i
 </p>
 <br>
 
-## GDP and Capital Formation
+## 3. Gross Domestic Product and Capital Formation
 Labor contributes around 60% of GDP in both Finland and Sweden. The rest is contributed by capital (fixed assets such as factories, robots, buildings, R&D) and more.
 
 Capital has grown 1.1% p.a. in Finland and 2.7% p.a. in Sweden. Has the capital been put to good use? Not at all in Sweden, and weakly in Finland (figure 5). Capital destruction is massive in Sweden.
@@ -59,7 +61,7 @@ Capital has grown 1.1% p.a. in Finland and 2.7% p.a. in Sweden. Has the capital 
 >Technical note: The interaction effect between labor and capital (often called deepening) have been eliminated so these are "pure" labor and capital productivities.
 <br>
 
-## Total Factor Productivity--The Thing That Really Matters
+## 4. Total Factor Productivity--The Thing That Really Matters
 
 So how has each country performed in total? Have they become "better" or "worse" over the 15 year period. This is measured **Total Factor Productivity** (TFP). Without going into how this is calculated (it is a direct outcome of the graphs above, and surprisingly easy to calculate: plus, minus, multiplication), Finland has a slightly better performance than Sweden (a decimal has to be added to show the small difference).
 

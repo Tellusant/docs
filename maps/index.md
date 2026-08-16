@@ -4,6 +4,9 @@ description: "These are maps in full-resolution SVG based on TelluBase. Underlyi
 image: /assets/social-card-map.png
 ---
 # Maps
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
 
 We provide select maps that are of general interest.  
