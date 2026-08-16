@@ -4,6 +4,9 @@ description: "The map shows the population-weighted climate zones by country. Th
 image: /assets/social-card-map.png
 ---
 # The World by Köppen Climate Zones
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *Uses of TelluBase* Series
 
 The map shows the population-weighted climate zones by country. That is, the climate where people live, rather than geographic area climate (e.g., Algeria has Mediterranean, not desert climate).  
