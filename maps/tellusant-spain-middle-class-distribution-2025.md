@@ -4,6 +4,9 @@ description: "See how Spanish cities and subdivisions vary in size and density o
 image: https://tellusant.github.io/docs/assets/social-card-map.png
 ---
 # Spanish Middle Class Distribution in 2025
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *Uses of TelluBase* Series
 
 See how Spanish cities and subdivisions vary in size and density of the middle class.  
