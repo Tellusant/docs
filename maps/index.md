@@ -10,6 +10,8 @@ image: /assets/social-card-map.png
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
 
 We provide select maps that are of general interest.  
+
+[To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
 <br/>  
 
 ---
