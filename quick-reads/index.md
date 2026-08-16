@@ -5,6 +5,8 @@ image: /assets/social-card-quick.png
 ---
 # Tellusant Quick Reads  
 
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 This page gives descriptions and links to our extensive library of **Tellusant Quick Reads**—mostly two-pagers on important management topics relating to our expertise.  
 
 ---
