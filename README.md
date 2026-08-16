@@ -1,4 +1,7 @@
 # Tellusant Publications Repository
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 This repository contains various published materials by Tellusant team members. 
 Its purpose is to:
 - Serve as a consolidated hub for all our publications  
