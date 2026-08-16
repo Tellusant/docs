@@ -1,10 +1,10 @@
 ---
 title: "Company Information"
-description: "Learn about Tellusant and its products PoluSim, TelluBase, and PACE"
+description: "Learn about Tellusant, its applications and quantitative decision consulting."
 image: /assets/social-card-pub.png
 ---
 # Company Information
-Learn about Tellusant and its products PoluSim, TelluBase, and PACE.
+Learn about Tellusant, its applications and quantitative decision consulting.
 
 ---
 ## [Credibility Evidence](/credibility/)  
