@@ -4,6 +4,9 @@ description: "The map shows the 36 large cities and 1100 secondary subdivisions 
 image: /assets/social-card-map.png
 ---
 # Colombia – Cities and Subdivisions Covered in TelluBase
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *TelluBase Definitions*
 
 The map shows the 36 large cities and 1100 secondary subdivisions in Colombia.  
@@ -13,7 +16,7 @@ For each of these entities, we cover economic, socioeconomic, and demographic in
 [To learn about TelluBase and to purchase data, visit the website](https://tellubase.com).
 
 ---
-#### <img  src="assets/svg/tellusant-colombia-sub2-city.svg" alt="Colombia – Cities and Secondary Subdivisions Covered in TelluBase">  
+## <img  src="assets/svg/tellusant-colombia-sub2-city.svg" alt="Colombia – Cities and Secondary Subdivisions Covered in TelluBase">  
 
 ---
 [Find more maps](index.md)  
