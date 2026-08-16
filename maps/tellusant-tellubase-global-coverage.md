@@ -4,6 +4,9 @@ description: "This map shows the 218 countries, 2600 cities, and 2500 primary su
 image: /assets/social-card-map.png
 ---
 # TelluBase Global Coverage
+
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 ## *TelluBase Definitions*
 This map shows the 218 countries, 2600 cities, and 2500 primary subdivisions we cover in Tellubase. Beyond this, we cover 25000 secondary subdivisions.  
 
