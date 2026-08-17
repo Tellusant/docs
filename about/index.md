@@ -233,8 +233,9 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 <p align="center">
 <a href="https://www.linkedin.com/in/scanback/" target="_blank" style="color: white; text-decoration: none;">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</a> <a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
   <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
 </a>
 </p>  
@@ -256,6 +257,10 @@ Philip Burginyoung graduated from Dartmouth College with a BA degree in Economic
 <a href="https://www.linkedin.com/in/philipburgin-young/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</a> <a href="https://orcid.org/0009-0003-2124-3992" target="_blank">
+  <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
+</a>
 </p>  
 
 #### 1.7.3 *Bobo Shen, Chief Product Officer*
@@ -271,6 +276,10 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 <a href="https://www.linkedin.com/in/bobo-shen/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0008-8633-8104" target="_blank">
+  <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
+</a> 
 </p>
 
 <p align="center">— — —</p>
@@ -293,6 +302,10 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 <a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
   <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0001-6182-3858" target="_blank">
+<img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
+</a> 
 </p>
 
 *MEXICO CITY*
@@ -312,7 +325,9 @@ He has extensive experience over several decades, mostly from large corporations
 
 ***Mauricio González Ramos***
 
-tbd
+Mauricio leads overall product development and software engineering operations in Mexico, ensuring our technology continuously delivers core value to the business and its users.  
+
+He brings over 15 years of IT expertise, specializing in building robust, scalable platforms for local and international clients, and has worked for companies in the U.S. and France. Mauricio earned his degree with honors from Tecnológico de Monterrey (CCM) and is a certified Scrum Master.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mauricio-gonzález-ramos-76806614/" target="_blank">
