@@ -3,4 +3,29 @@
 
 {% seo %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ site.company.url }}#organization",
+      "name": {{ site.company.name | jsonify }},
+      "url": {{ site.company.url | jsonify }},
+      "sameAs": {{ site.company.same_as | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}#website",
+      "url": {{ site.url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "publisher": {
+        "@id": "{{ site.company.url }}#organization"
+      }
+    }
+  ]
+}
+</script>
+
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
