@@ -1,8 +1,14 @@
 # Site
-title: "Tellusant"
+title: "TELLUSANT"
 description: "Published materials by Tellusant team members"
 url: "https://docs.tellusant.com"
 baseurl: ""
+
+# Related Tellusant sites / products
+sites:
+  tellubase:
+    name: "TelluBase"
+    url: "https://tellubase.com/"
 
 # Organization
 company:
@@ -22,7 +28,7 @@ social:
     - "https://www.threads.com/@tellusant"
 
 # Optional, if this file exists
-# logo: "/assets/images/tellusant-logo-github.png"
+logo: "/assets/images/tellusant-logo-github.png"
 
 # Jekyll plugins
 plugins:
