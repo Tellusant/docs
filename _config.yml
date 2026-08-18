@@ -28,7 +28,7 @@ social:
     - "https://www.threads.com/@tellusant"
 
 # Optional, if this file exists
-logo: "/assets/images/tellusant-logo-github.png"
+logo: "/assets/images/tellusant-logo.png"
 
 # Jekyll plugins
 plugins:
