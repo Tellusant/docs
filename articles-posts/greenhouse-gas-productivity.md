@@ -9,7 +9,7 @@ image: /assets/social-card-pub.png
 
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?  
 
-We emit GHG to stimulate economic activity. Not the other way around (we have economic activity to emit GHG). This view allows us to think about GHG productivity: How much economic activity, GDP, does a unit of emitted GHG create? We want this metric to be high, ideally infinite (no GHG emissions).
+We emit GHG, including CO<sub>2</sub> to stimulate economic activity. Not the other way around (we have economic activity to emit GHG). This view allows us to think about GHG productivity: How much economic activity, GDP, does a unit of emitted GHG create? We want this metric to be high, ideally infinite (no GHG emissions).
 
 This is a parallel to GDP per capita: How much economic activity does a unit of labor create? Or capital stock productivity: how much GDP do our fixed assets create?  
 
