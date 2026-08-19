@@ -14,11 +14,9 @@ redirect_from:
 
 Learn about Tellusant. We use the E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness) to:
 - Show who we are
-- Establish our credibility (narrative + credentials
+- Establish our credibility (narrative + credentials)
 
 We also want to show Tellusant's breadth and depth of Tellusant beyond mere products. 
-
-
 
 ## Narrative
 This is an essay about the company.
