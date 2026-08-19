@@ -1,7 +1,7 @@
 ---
 title: "Periodicals"
 description: "These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily."
-image: /assets/social-card-pub.png
+image: /assets/social-card-publ.png
 ---
 # Nowcasts & Ongoing Analyses
 
