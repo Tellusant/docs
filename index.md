@@ -8,7 +8,7 @@ seo:
 ---
 # Repository Contents
 
-<a href="https://tellusant.com" style="color: black; text-decoration: none;">
+<a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;">
   <i>By Tellusant, Inc.</i>
 </a>
 
