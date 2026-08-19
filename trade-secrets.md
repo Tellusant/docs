@@ -5,6 +5,10 @@ image: /assets/social-card-info.png
 ---
 
 # Our Trade Secrets and How We Manage Them
+<a href="{{ site.company.url }}" style="color: black; text-decoration: none;">
+  <i>By {{ site.company.name }}</i>
+</a>  
+
 We have a number of **Trade Secrets** protected by law globally and in perpetuity. This is in contrast to patents where the patent holder divulges the IP and protection is time limited.
 
 Our **Trade Secrets** are sometimes licensed to clients. The trade secrets protection ensures that those clients cannot use our related IP for their own purposes. There are also other reasons to have trade secrets such as remedies for theft, breach of duty to maintain secrecy, and espionage.
