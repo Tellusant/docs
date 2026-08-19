@@ -1,6 +1,7 @@
 ---
 title: "About Us"
 description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
+date: 2026-08-19
 image: /assets/social-card-about.png
 redirect_from:
   - /legitimacy/
