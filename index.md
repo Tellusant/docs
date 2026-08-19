@@ -3,7 +3,7 @@ title: "Tellusant Publications Repository"
 description: "This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more."
 image: /assets/social-card-pub.png
 seo:
-  type: Organization
+  type: WebSite
 ---
 # Publications Repository
 
