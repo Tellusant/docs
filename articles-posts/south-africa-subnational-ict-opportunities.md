@@ -1,11 +1,11 @@
 ---
 title: "Subnational ICT Opportunities in South Africa"
 description: "There is a strong trend among global companies toward understanding markets at subnational levels."
-image: /assets/social-card-pub.png
+image: /assets/social-card-publ.png
 ---
 # Subnational ICT Opportunities in South Africa  
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 ## Case Example for How to Use TelluBase Income Distribution Data  
 
