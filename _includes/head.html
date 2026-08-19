@@ -17,7 +17,7 @@
     {
       "@type": "WebSite",
       "@id": "{{ site.url }}/#website",
-      "url": {{ site.url}}/,
+      "url": {{ site.url | append: "/" | jsonify }},
       "name": {{ site.title | jsonify }},
       "description": {{ site.description | jsonify }},
       "publisher": {
