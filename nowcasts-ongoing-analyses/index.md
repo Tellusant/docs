@@ -1,13 +1,14 @@
 ---
 title: "Periodicals"
-description: "These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily."
+description: "Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to quarterly."
+date: 2026-08-19
 image: /assets/social-card-publ.png
 ---
 # Nowcasts & Ongoing Analyses
 
 <a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily.
+Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to quarterly.
 
 ## [Economic Sentiment Tool](https://tellubase.com/country-sentiment-analysis/)
 This AI agent analyses the economic sentiment in almost any country based on written reports that have been selected by Tellusant (this approach avoids anomalous artifacts). Get a snapshot of current or past sentiment along various dimensions. **Daily**
