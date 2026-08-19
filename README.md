@@ -1,7 +1,7 @@
 # Tellusant Publications Repository
 
-<a href="{{ site.company.url }}" style="color: black; text-decoration: none;">
-  <i>By {{ site.company.name }}</i>
+<a href="https://tellusant.com" style="color: black; text-decoration: none;">
+  <i>By Tellusant, Inc.</i>
 </a>
 
 This repository contains various published materials by Tellusant team members. 
@@ -21,7 +21,7 @@ The repository is divided by topic:
 [Read about us and learn about our credibility](/about/)
 
 ## Repository Sections
-### [Company Information](./information/index.md)
+### Company Information
 
 Find the main descriptions of Tellusant and its products.
 
