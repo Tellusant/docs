@@ -16,6 +16,7 @@ For human readers, there is a basic search function.
 The repository is divided by topic:
 
 ## About Tellusant
+[Read about us and learn about our credibility](/about/)
 
 ## Repository Sections
 ### [Company Information](./information/index.md)
