@@ -10,7 +10,7 @@ image: /assets/social-card-now.png
   <i>By Tellusant, Inc.</i>
 </a><br>
 
-E-commerce continuous to grow. It looks like the covid bump has been eliminated, and e-commerce growth now follows the earlier trendline.
+E-commerce continuous to grow and the second quarter follows the steady-state trend. No surprises.
 
 This steady increase continues to put pressure on traditional retail. In just 5 years, e-commerce has grown five percentage points (relative to covid-cleansed trend), or 40%. Staggering number.
 
