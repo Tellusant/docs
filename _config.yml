@@ -1,16 +1,21 @@
+# ------------------------------------------------------------
 # Site
-title: "TELLUSANT"
-description: "Published materials by Tellusant team members"
+# ------------------------------------------------------------
+
+title: "Tellusant Publications Repository"
+description: "This open access repository contains the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more."
+
 url: "https://docs.tellusant.com"
 baseurl: ""
 
-# Related Tellusant sites / products
-sites:
-  tellubase:
-    name: "TelluBase"
-    url: "https://tellubase.com/"
+image: "/assets/social-card-publ.png"
+logo: "/assets/images/tellusant-logo.png"
 
-# Organization
+
+# ------------------------------------------------------------
+# Tellusant organization
+# ------------------------------------------------------------
+
 company:
   name: "Tellusant, Inc."
   url: "https://tellusant.com/"
@@ -19,7 +24,11 @@ company:
     - "https://vimeo.com/tellusant"
     - "https://www.threads.com/@tellusant"
 
-# SEO / social identity
+
+# ------------------------------------------------------------
+# Used by jekyll-seo-tag
+# ------------------------------------------------------------
+
 social:
   name: "Tellusant, Inc."
   links:
@@ -27,14 +36,27 @@ social:
     - "https://vimeo.com/tellusant"
     - "https://www.threads.com/@tellusant"
 
-# Optional, if this file exists
-logo: "/assets/images/tellusant-logo.png"
 
+# ------------------------------------------------------------
+# Related sites
+# ------------------------------------------------------------
+
+related_sites:
+  company:
+    name: "Tellusant"
+    url: "https://tellusant.com/"
+
+  tellubase:
+    name: "TelluBase"
+    url: "https://tellubase.com/"
+
+
+# ------------------------------------------------------------
 # Jekyll plugins
+# ------------------------------------------------------------
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-redirect-from
-
-      
+  - jekyll-redirect-from      
