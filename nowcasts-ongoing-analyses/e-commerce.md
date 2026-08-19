@@ -14,7 +14,7 @@ What we see is a version of boiling the frog. Each increment may not look like m
 
 ---
 <p align="center">
-<img  src="assets/images/tellusant-u.s-ecommerce-2026q2.svg" width="600" alt="Nowcast: E-commerce trends Q2 2026">
+<img  src="assets/images/ecommerce/tellusant-u.s-ecommerce-2026q2.svg" width="500" alt="Nowcast: E-commerce trends Q2 2026">
 </p>
 
 ---
