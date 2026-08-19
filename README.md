@@ -8,7 +8,7 @@ This repository contains various published materials by Tellusant team members.
 Its purpose is to:
 - Serve as a consolidated hub for all our publications  
 - Give longevity beyond what social media offer  
-- Allow for fast search engine / AI crawling and indexing   
+- Allow for fast search engine and AI indexing   
 - Create open access and bypass gated sites like LinkedIn and Medium  
 
 The site is intentionally using only basic formatting (Markdown for text, LaTeX for equations, and Mermaid or SVG (for graphs). This makes it easier to read for humans and to index for search engines / AI.
@@ -18,7 +18,7 @@ For human readers, there is a basic search function.
 The repository is divided by topic:
 
 ## About Tellusant
-[Read about us and learn about our credibility](https://docs.tellusant.com/about/)
+[Read about us and learn about our credibility](https://docs.tellusant.com/about/)  
 
 ## Repository Sections
 ### Company Information
