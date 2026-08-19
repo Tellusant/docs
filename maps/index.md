@@ -5,7 +5,7 @@ image: /assets/social-card-map.png
 ---
 # Maps
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 These are maps based on **TelluBase** in full-resolution SVG. Underlying shapefiles are available on request.  
 
@@ -16,7 +16,7 @@ We provide select maps that are of general interest.
 
 ---
 ### Analytical Maps Based on TelluBase Data
-We use Canback Projection©, MapShaper and ColorBrewer to make the maps as readable as possible.  
+We use Canback Projection<sup>©</sup>, MapShaper and ColorBrewer to make the maps as readable as possible.  
 #### [British Middle Class Distribution in 2025](tellusant-united-kingdom-middle-class-distribution-2025.md)
 See how British cities and subdivisions vary in size and density of the middle class.
 #### [Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025](tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.md)
