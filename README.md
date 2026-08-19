@@ -2,13 +2,14 @@
 
 <a href="https://tellusant.com" style="color: black; text-decoration: none;">
   <i>By Tellusant, Inc.</i>
-</a> <br>
+</a><br>
+&nbsp;
 This repository contains various published materials by Tellusant team members. 
 Its purpose is to:
 - Serve as a consolidated hub for all our publications  
 - Give longevity beyond what social media offer  
-- Allow for fast search engine / AI crawling and indexing  
-- Create open access and bypass gated sites like LinkedIn and Medium
+- Allow for fast search engine / AI crawling and indexing   
+- Create open access and bypass gated sites like LinkedIn and Medium  
 
 The site is intentionally using only basic formatting (Markdown for text, LaTeX for equations, and Mermaid or SVG (for graphs). This makes it easier to read for humans and to index for search engines / AI.
 
