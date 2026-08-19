@@ -10,7 +10,7 @@ image: /assets/social-card-publ.png
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily.
 
 ## [Economic Sentiment Tool](https://tellubase.com/country-sentiment-analysis/)
-These AI agent analyses the economic sentiment in almost any country based on written reports that have been selected by Tellusant (this approach avoids anomalous artifacts). Get a snapshot of current or past sentiment along various dimensions. **Daily**
+This AI agent analyses the economic sentiment in almost any country based on written reports that have been selected by Tellusant (this approach avoids anomalous artifacts). Get a snapshot of current or past sentiment along various dimensions. **Daily**
 ## [Quantitative Risk Explorer](https://tellubase.com/quantitative-risk-explorer/)
 Interactive micro-site for how market and financial risks compare around the world. **Daily**
 ## [Nowcast: U.S. Recession Probability Nine Months Out](recession-nowcast.md)
