@@ -1,6 +1,7 @@
 ---
 title: "Subnational ICT Opportunities in South Africa"
 description: "There is a strong trend among global companies toward understanding markets at subnational levels."
+date: 2025-10-11
 image: /assets/social-card-publ.png
 ---
 # Subnational ICT Opportunities in South Africa  
