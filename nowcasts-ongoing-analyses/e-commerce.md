@@ -1,5 +1,5 @@
 ---
-title: "U.S. E-commerce Trends as of Q1 2026"
+title: "U.S. E-commerce Trends as of Q2 2026"
 description: "View our quarterly analysis of trends in U.S. e-commerce relative to total retail. Based on quarterly FRED ECOMPCTSA data."
 date: 2026-08-19
 image: /assets/social-card-now.png
