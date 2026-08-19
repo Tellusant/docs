@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 seo:
   type: WebSite
 ---
-# Publications Repository
+# Repository Contents
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
