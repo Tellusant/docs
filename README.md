@@ -3,7 +3,8 @@
 <a href="https://tellusant.com" style="color: black; text-decoration: none;">
   <i>By Tellusant, Inc.</i>
 </a><br>
-&nbsp;
+&nbsp;  
+
 This repository contains various published materials by Tellusant team members. 
 Its purpose is to:
 - Serve as a consolidated hub for all our publications  
