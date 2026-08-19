@@ -1,6 +1,8 @@
 # Tellusant Publications Repository
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="{{ site.company.url }}" style="color: black; text-decoration: none;">
+  <i>By {{ site.company.name }}</i>
+</a>
 
 This repository contains various published materials by Tellusant team members. 
 Its purpose is to:
@@ -16,14 +18,12 @@ For human readers, there is a basic search function.
 The repository is divided by topic:
 
 ## About Tellusant
+[Read about who Tellusant is and our credentials](/about/).
 
 ## Repository Sections
-### [Company Information](./information/index.md)
+**Company Information**
 
 Find the main descriptions of Tellusant and its products.
-
-###Tellusant Legitimacy Evidence Pack###
-We summarize the legitimacy of Tellusant as validated by ChatGPT through a call and response process.
 
 **Articles & Posts**
 We have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.
