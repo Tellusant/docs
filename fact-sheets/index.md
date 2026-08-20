@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # TelluBase Fact Sheets
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 We provide free TelluBase data to select public institutions and media through the ***Tellusant Public Service Series***. These are small, but important, subsets of the full product.  The following countries are currently covered.  
 

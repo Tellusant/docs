@@ -8,8 +8,8 @@ seo:
 ---
 # Repository Contents
 
-<a href="{{ site.company.url }}" style="color: black; text-decoration: none;">
-  <i>By {{ site.company.name }}</i>
+<a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;">
+  <i>By Tellusant, Inc.</i>
 </a>
 
 This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more. 
