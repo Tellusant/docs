@@ -95,7 +95,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 <img  src="../articles-posts/assets/images/tellusant-strategy-grid.svg" width="600" alt="The Tellusant strategy grid">
 </p>
 
-#### 1.2.1 *TelluPlan and Its Applications*
+#### 1.2.1 TelluPlan and Its Applications
 
 <a href="https://tellusant.com/telluplan-strategic-planning-platform/" style="color: black; text-decoration: none;"><b>TelluPlan</b></a> is our management decision augmentation platform. It organizes the applications described below into a coherent framework. Each of its applications are either sold as standalone products, or as part of a full platform.
 
@@ -109,7 +109,7 @@ We combine this with exceptional statistical analysis and numeric artificial int
 
 - <a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none"><b>Stratboard</b></a> is our solution for auto-generating intelligent reports based on insights from the applications above. The reports typically are provied as presentation decks.
 
-#### 1.2.2 *TelluBase*  
+#### 1.2.2 TelluBase  
 <a href="https://tellubase.com" style="color: black; text-decoration: none"><b>TelluBase</b> is the world’s only harmonized age and income distribution information database</a>. It covers all 218 countries in the world; 2600 cities with population >300,000 (>100,000 in the U.S. and EU) in those countries; and 2500 subdivisions (as defined by the ISO for the 218 countries), from 2000 till 2050.
 
 TelluBase sums up to UN/World Bank and IMF country level aggregate data to ensure verifiability. However, at the more granular levels below country, and with income and age distributions instead of aggregates, there is nothing like it.
