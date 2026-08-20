@@ -70,7 +70,7 @@ We complement this with exceptional capabilities in statistical analyses and mod
 
 With Tellusant solutions, our large global clients and smaller local clients <a href="/articles-posts/polusim-business-impact.html" style="color: black; text-decoration: none;">achieve better <b>accuracy</b>, increased <b>consistency</b>, and higher <b>efficiency</b> when making critical decisions.</a>
 
-> *I am convinced that no other company on the planet have our capabilities. In hundreds of conversations I have never been impressed by other professionals or their companies' capabilities in our field.* Staffan Canback
+> *I am convinced that no other company on the planet have our capabilities. In hundreds of conversations I have never been impressed by other professionals or their companies' capabilities in our field.* - Staffan Canback
 
 ### 1.2 Products
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
