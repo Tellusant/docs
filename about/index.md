@@ -185,11 +185,11 @@ We are building global sets of category data using our own AI training. We curre
 
 Another example of use of our own datasets is to establish which categories are appealing for to FMCG companies. Growth in FMCG is typically zero of even negative in affluent companies. The players try to finesse the numbers, but the stock market sees through this and valuations are low. Yet, there are pockets of opportunity. Our datasets help find these.  
 
-What we particularly like is to have our own ability to fully populate PoluSim.. Currently, we are doing this in the demo version.  
+What we particularly like is that we have our own ability to fully populate PoluSim. Currently we are doing this in the demo version.  
 
 None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years. We notice that few people recognize the progress in search, yet AI does not have any independent search capability and relies on the third party search (Google, Bing, Brave, Yandex, and a few more).
 
-> *Our methods for data management can and will be extended to other areas beyond demand.* - Philip Burginyoung
+> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung
 
 ***Deep Intellectual Properties***
 
