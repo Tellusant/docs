@@ -28,7 +28,7 @@ $\quad \~$ [1.2.2 TelluBase](#122-tellubase)
 [1.3 Quantitative Decision Consulting](#13-quantitative-decision-consulting)  
 [1.4 AI Uses at Tellusant](#14-ai-uses-at-tellusant)  
 $\quad \~$ [1.4.1 AI Coding Practices](#141-ai-coding-practices)  
-$\quad \~$ [1.4.2 Auto-Generated Applications Insights Through AI](#142-auto-generated-applications-insights-through-ai)  
+$\quad \~$ [1.4.2 AI Auto-Generated Applications Enhancements](#142-auto-generated-applications-insights-through-ai)  
 $\quad \~$ [1.4.3 Higher-Order Cognitive AI (HOCAI) Metods](#143-higher-order-cognitive-ai-hocai-methods)  
 [1.5 Intellectual Foundation](#15-intellectual-foundation)  
 $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)  
@@ -146,15 +146,26 @@ Typical assignments are:
 
 ### 1.4 AI Uses at Tellusant
 
-tbd
+Like most companies, AI, through LLM and ML, has taken on a large role in our daily lives. Any member of hour staff spends at least a few hours a day collaborating with AI, often the full day. It touches everything we do except trivial tasks like email, timesheets, writing routine memos, etc.
+
+We see three layers of AI.
 
 #### 1.4.1 AI Coding Practices
 
-tbd
+We have a large technical team split between Boston and Mexico City. They get a substantial productivity boost in using AI. Cursor is the current favorite, but it shifts over time and by topic.
 
-#### 1.4.2 Auto-Generated Applications Insights Through AI
+Tasks range from writing and optimizing code, finding new approaches (e.g. better use of linear algebra), setting priorities, troubleshooting, and quality control.
 
-tbd
+We hold regular training sessions in Mexico with the full technical team to discuss new approaches and share learnings.
+
+Clients do not see this, but experience the benefits of quicker turnarounds, better product performance, faster scaling, and more.
+
+#### 1.4.2 AI Auto-Generated Applications Enhancements
+
+We have built a number of AI-driven enhancements to our products. Stratboard (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
+
+Other examples are our three micro-sites under the TelluBase umbrella:
+- 
 
 #### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
 
