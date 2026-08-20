@@ -165,7 +165,10 @@ Clients do not see this, but experience the benefits of quicker turnarounds, bet
 We have built a number of AI-driven enhancements to our products. Stratboard (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
 
 Other examples are our three micro-sites under the TelluBase umbrella:
-- 
+- The Economic Sentiment Analysis Tool(https://tellubase.com/country-sentiment-analysis/)
+- The U.S. Recession Predictor(https://tellubase.com/recession-predictor/)
+- [The Quantitative Risk Explorer](https://tellubase.com/quantitative-risk-explorer/)
+- [Fedora - Beige Book Nowcast](https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html) with a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.
 
 #### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
 
@@ -206,7 +209,7 @@ We quickly signed up a number of large and medium sized clients in North America
 
 Our first commercial app was PoluSim. It was followed by TelluBase, and thereafter PACE. Recently, these were followed by Stratboard, Paragonal, and Q-Risk (all described in Section 1.2.).
 
-We have also started building micro-websites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
+We have also started building micro-websites to stimulate usage of our products and sites. Currently, they are <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b></a> the <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>The U.S. Recession Predictor</b></a>, and the <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora U.S. Economic Nowcast</b></a>.
 
 Our success has allowed to hold global retreats for all employees: Punta Cana, Dom. Rep. (2025), Panama City, Panama (2024), and Portland, Maine (2023).
 
