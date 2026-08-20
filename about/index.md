@@ -154,19 +154,24 @@ We see three layers of AI.
 
 We have a large technical team split between Boston and Mexico City. They get a substantial productivity boost in using AI. Cursor is the current favorite, but it shifts over time and by topic.
 
-Tasks range from writing and optimizing code, finding new approaches (e.g. better use of linear algebra), setting priorities, troubleshooting, and quality control.
+Tasks range from writing and optimizing code, finding new approaches (e.g. better use of linearization), setting priorities, troubleshooting, and quality control. AI has enabled us to see nearly 50% reduction in time for most processes. QA test time has seen even larger improvement.
 
-We hold regular training sessions in Mexico with the full technical team to discuss new approaches and share learnings.
+We hold regular training sessions in Mexico with the full technical team to discuss new approaches and share learnings. We have observed even larger 
+improvements in QA testing. 
 
-Clients do not see this, but experience the benefits of quicker turnarounds, better product performance, faster scaling, and more.
+Clients do not see this, but experience the benefits of quicker turnarounds, better product performance, faster scaling, and more. 
+
+*We have expanded our team without expanding our team.*
 
 #### 1.4.2 AI Auto-Generated Applications Enhancements
 
-We have built a number of AI-driven enhancements to our products. Stratboard (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
+We have built a number of AI-driven enhancements to our products. 
+
+Stratboard (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
 
 Other examples are our three micro-sites under the TelluBase umbrella:
 - [The Economic Sentiment Analysis Tool (ESAT)](https://tellubase.com/country-sentiment-analysis/) allows users to view scores across eight dimensions including fiscal and monetary policy, growth, financial stability, and credibility. It also gives qualitative assessments of those scores and shows trends. ESAT 
-- The U.S. Recession Predictor(https://tellubase.com/recession-predictor/)
+- [The U.S. Recession Predictor](https://tellubase.com/recession-predictor/)
 - [The Quantitative Risk Explorer](https://tellubase.com/quantitative-risk-explorer/)
 - [Fedora - Beige Book Nowcast](https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html) with a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.
 
