@@ -165,7 +165,7 @@ Clients do not see this, but experience the benefits of quicker turnarounds, bet
 We have built a number of AI-driven enhancements to our products. Stratboard (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
 
 Other examples are our three micro-sites under the TelluBase umbrella:
-- The Economic Sentiment Analysis Tool(https://tellubase.com/country-sentiment-analysis/)
+- [The Economic Sentiment Analysis Tool (ESAT)](https://tellubase.com/country-sentiment-analysis/) allows users to view scores across eight dimensions including fiscal and monetary policy, growth, financial stability, and credibility. It also gives qualitative assessments of those scores and shows trends. ESAT 
 - The U.S. Recession Predictor(https://tellubase.com/recession-predictor/)
 - [The Quantitative Risk Explorer](https://tellubase.com/quantitative-risk-explorer/)
 - [Fedora - Beige Book Nowcast](https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html) with a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.
