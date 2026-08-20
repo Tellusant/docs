@@ -12,7 +12,7 @@ redirect_from:
 # About Us
 <a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-We summarize, entirely in our own words, the ***credibility*** of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
+We summarize—entirely in our own words—the ***credibility*** of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our verified credentials
@@ -28,7 +28,7 @@ $\quad \~$ [1.2.2 TelluBase](#122-tellubase)
 [1.3 Quantitative Decision Consulting](#13-quantitative-decision-consulting)  
 [1.4 AI Uses at Tellusant](#14-ai-uses-at-tellusant)  
 $\quad \~$ [1.4.1 AI Coding Practices](#141-ai-coding-practices)  
-$\quad \~$ [1.4.2 AI Auto-Generated Applications Enhancements](#142-auto-generated-applications-insights-through-ai)  
+$\quad \~$ [1.4.2 AI Auto-Generated Applications Enhancements](#142-ai-auto-generated-applications-enhancements)  
 $\quad \~$ [1.4.3 Higher-Order Cognitive AI (HOCAI) Methods](#143-higher-order-cognitive-ai-hocai-methods)   
 [1.5 Intellectual Foundation](#15-intellectual-foundation)  
 $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)  
