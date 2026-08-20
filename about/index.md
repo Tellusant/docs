@@ -351,7 +351,7 @@ He has extensive experience over several decades, mostly from large corporations
 </a>
 </p>
 
-***Mauricio González Ramos***
+***Mauricio González Ramos, Technical Lead***
 
 Mauricio leads overall product development and software engineering operations in Mexico, ensuring our technology continuously delivers core value to the business and its users.  
 
