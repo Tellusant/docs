@@ -171,11 +171,11 @@ We have built a number of AI-driven enhancements to our products which are fully
 
 Other examples are our three micro-sites under the TelluBase umbrella:
 
-- <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b>allows users to view country scores across eight dimensions</a> including fiscal and monetary policy, growth, financial stability, and credibility. It also gives qualitative assessments of those scores and shows trends. ESAT is built by analyzing hundreds of high-quality reports and only use those reputable sources.
-- <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>The U.S. Recession Predictor</b> represents a significant advancement in economic forecasting</a>, building upon established methodologies with innovative enhancements. This advanced model employs a P.I.D (Proportional-Integral-Derivative) approach that captures multiple dimensions of yield curve dynamics, providing more nuanced and accurate predictions than previous versions such as Bernanke's original model, while using exactly the same data.
-- <a href="https://tellubase.com/quantitative-risk-explorer/" style="color: black; text-decoration: none;"><b>The Quantitative Risk Explorer</b> allows users to see how how market (real economy) and financial risks compare around the world</a> at the country level. Through principal component analysis, the immaterial risks (but for humans so attractive) such as political risk or sanctions are weeded out. They are already captured in the two dimensions (not fully: we are working on a shock (event) addition that will fully cover risk; risk then becomes volatility + shock).
-- [Fedora - Beige Book Nowcast](https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html) gives a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.
-- <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora - Beige Book Nowcast</b> gives a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.</a>
+- <a href="https://tellubase.com/country-sentiment-analysis/" style="color: black; text-decoration: none;"><b>The Economic Sentiment Tool</b>allows users to view country scores across eight dimensions</a> including fiscal and monetary policy, growth, financial stability, and credibility. It also gives qualitative assessments of those scores and shows trends.<br><br>ESAT is built by analyzing hundreds of high-quality reports and only use those reputable sources.
+- <a href="https://tellubase.com/recession-predictor/" style="color: black; text-decoration: none;"><b>The U.S. Recession Predictor</b> represents a significant advancement in economic forecasting</a>, building upon established methodologies with innovative enhancements.<br><br>This advanced model employs a P.I.D (Proportional-Integral-Derivative) approach that captures multiple dimensions of yield curve dynamics, providing more nuanced and accurate predictions than previous versions such as Bernanke's original model, while using exactly the same data.
+- <a href="https://tellubase.com/quantitative-risk-explorer/" style="color: black; text-decoration: none;"><b>The Quantitative Risk Explorer</b> allows users to see how how market (real economy) and financial risks compare around the world</a> at the country level.<br><br>Through principal component analysis, the immaterial risks (but for humans so attractive) such as political risk or sanctions are weeded out. They are already captured in the two dimensions (not fully: we are working on a shock (event) addition that will fully cover risk; risk then becomes volatility + shock).  
+  
+- <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora Beige Book Nowcast</b> gives a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.</a>
 
 #### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
 
@@ -183,7 +183,7 @@ Other examples are our three micro-sites under the TelluBase umbrella:
 
 We are building global sets of category data using our own AI training. We currently cover 30 categories and expect over 100 before the end of September, 2026. These datasets reduces our need for client data, especially when they do not have any. An example is a Central American company considering entry into the U.S., but acquiring syndicated data is prohibitively expensive when the company only wants to test the waters.  
 
-Another example of use for own datasets is to establish which categories are appealing for to FMCG companies. Growth in FMCG is typically zero of even negative in affluent companies. The players try to finesse the numbers, but the stock market sees through this and valuations are low. Yet, there are pockets of opportunity. Our datasets help find these.  
+Another example of use of our own datasets is to establish which categories are appealing for to FMCG companies. Growth in FMCG is typically zero of even negative in affluent companies. The players try to finesse the numbers, but the stock market sees through this and valuations are low. Yet, there are pockets of opportunity. Our datasets help find these.  
 
 What we particularly like is to have our own ability to fully populate PoluSim.. Currently, we are doing this in the demo version.  
 
@@ -191,7 +191,7 @@ None of this would be possible without the amazing advancements in web search an
 
 > *Our methods for data management can and will be extended to other areas beyond demand.* - Philip Burginyoung
 
-***1.4.3.2***Deep Intellectual Property
+***1.4.3.2 Deep Intellectual Property***
 
 We use AI to build deep intellectual constructs beyond what a human can do when factoring in the time available. The premise is that one of our leaders have basic construct. Sometimes it has been presented to clients. But it lacks scientific rigor.
 
