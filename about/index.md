@@ -30,8 +30,6 @@ $\quad \~$ [1.2.2 TelluBase](#122-tellubase)
 $\quad \~$ [1.4.1 AI Coding Practices](#141-ai-coding-practices)  
 $\quad \~$ [1.4.2 AI Auto-Generated Applications Enhancements](#142-auto-generated-applications-insights-through-ai)  
 $\quad \~$ [1.4.3 Higher-Order Cognitive AI (HOCAI) Methods](#143-higher-order-cognitive-ai-hocai-methods)   
-$\quad \~$ [1.4.3.1 Proprietary Datasets](#1431-proprietary-datasets)   
-$\quad \~$ [1.4.3.2 Deep Intellectual Properties](#1432-deep-intellectual-properties)  
 [1.5 Intellectual Foundation](#15-intellectual-foundation)  
 $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)  
 $\quad \~$ [1.5.2 EMIO Strategy Framework](#152-emio-strategy-framework)  
@@ -181,7 +179,7 @@ Other examples are our three micro-sites under the TelluBase umbrella:
 
 #### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
 
-***1.4.3.1 Proprietary datasets***
+***Proprietary datasets***
 
 We are building global sets of category data using our own AI training. We currently cover 30 categories and expect over 100 before the end of September, 2026. These datasets reduces our need for client data, especially when they do not have any. An example is a Central American company considering entry into the U.S., but acquiring syndicated data is prohibitively expensive when the company only wants to test the waters.  
 
@@ -193,7 +191,7 @@ None of this would be possible without the amazing advancements in web search an
 
 > *Our methods for data management can and will be extended to other areas beyond demand.* - Philip Burginyoung
 
-***1.4.3.2 Deep Intellectual Properties***
+***Deep Intellectual Properties***
 
 We use AI to build deep intellectual constructs beyond what a human can do when factoring in the time available. The premise is that one of our leaders have basic construct. Sometimes it has been presented to clients. But it lacks scientific rigor.
 
