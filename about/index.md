@@ -181,8 +181,9 @@ We use AI to build deep intellectual constructs beyond what a human can do when 
 
 In a call and response process with AI, we build the intellectual construct in a scientifically defensible manner, always checking that the findings correspond to reality.
 
-- [Ratiocination of judgmental-mechanical model](https://docs.tellusant.com/articles-posts/ratiocination.html). Our chairman Staffan Canback has deep experience with control theory. He wanted to apply a PID logic to models where human judgment and statistical models work in tandem. The result is a robust approach to the topic that no one could come up with a reasonable (corporate clock) amount of time.
-- 
+- [Ratiocination of judgmental-mechanical model](/articles-posts/ratiocination.html). Our chairman Staffan Canback has deep experience with control theory. He wanted to apply a PID logic to models where human judgment and statistical models work in tandem. The result is a robust approach to the topic that no one could come up with a reasonable (corporate clock) amount of time.
+- [How to Specify and Evaluate Predictive Models](/articles-posts/predictive-model-specification-and-evaluation-framework.html) sows a broader approach to model building and testing than the typical low-level data scientist uses (who in our experience incorrectly focus on model accuracy).
+- [Ergodicity](https://docs.tellusant.com/work-notes/ergodicity-test-stata.html) is the technical term for when time and space have the same behavior. In statistics typically timeseries and cross-sectional analysis. Ergodicity is usually assumed and it often applies, but not always. This interactive short document explains how to confirm or refute its existence. Not a major breakthrough, but handy to have.
 
 ### 1.5 Intellectual Foundation
 
