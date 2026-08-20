@@ -167,7 +167,7 @@ Clients do not see this, but experience the benefits of quicker turnarounds, bet
 
 We have built a number of AI-driven enhancements to our products which are fully visible to users.
 
-Stratboard (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
+<a href="https://tellusant.com/stratboard/" style="color: black; text-decoration: none"><b>Stratboard</b></a> (described in Section 1.2.1) is a new way to auto-generate reports based on PoluSim data and a collection of reports. This allows for real language queries with reports including both quantitative and qualitative insights.
 
 Other examples are our three micro-sites under the TelluBase umbrella:
 - [The Economic Sentiment Analysis Tool (ESAT)](https://tellubase.com/country-sentiment-analysis/) allows users to view scores across eight dimensions including fiscal and monetary policy, growth, financial stability, and credibility. It also gives qualitative assessments of those scores and shows trends. ESAT is built by analyzing hundreds of high-quality reports and only use those reputable sources.
@@ -177,7 +177,12 @@ Other examples are our three micro-sites under the TelluBase umbrella:
 
 #### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
 
-tbd
+We use AI to build deep intellectual constructs beyond what a human can do when factoring in the time available. The premise is that one of our leaders have basic construct. Sometimes it has been presented to clients. But it lacks scientific rigor.
+
+In a call and response process with AI, we build the intellectual construct in a scientifically defensible manner, always checking that the findings correspond to reality.
+
+- [Ratiocination of judgmental-mechanical model](https://docs.tellusant.com/articles-posts/ratiocination.html). Our chairman Staffan Canback has deep experience with control theory. He wanted to apply a PID logic to models where human judgment and statistical models work in tandem. The result is a robust approach to the topic that no one could come up with a reasonable (corporate clock) amount of time.
+- 
 
 ### 1.5 Intellectual Foundation
 
