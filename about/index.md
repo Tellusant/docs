@@ -161,7 +161,7 @@ improvements in QA testing.
 
 Clients do not see this, but experience the benefits of quicker turnarounds, better product performance, faster scaling, and more. 
 
-*We have expanded our team without expanding our team.*
+> *We have expanded our team without expanding our team.* - Shane Ezepik
 
 #### 1.4.2 AI Auto-Generated Applications Enhancements
 
@@ -189,7 +189,7 @@ What we particularly like is to have our own ability to fully populate PoluSim..
 
 None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years. We notice that few people recognize the progress in search, yet AI does not have any independent search capability and relies on the third party search (Google, Bing, Brave, Yandex, and a few more).
 
-> Our methods for data management can and will be extended to other areas outside demand.
+> *Our methods for data management can and will be extended to other areas beyond demand.* - Philip Burginyoung
 
 ***1.4.3.2***Deep Intellectual Property
 
