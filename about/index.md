@@ -27,9 +27,9 @@ $\quad \~$ [1.2.1 TelluPlan and Its Applications](#121-telluplan-and-its-applica
 $\quad \~$ [1.2.2 TelluBase](#122-tellubase)  
 [1.3 Quantitative Decision Consulting](#13-quantitative-decision-consulting)  
 [1.4 AI Uses at Tellusant](#14-ai-uses-at-tellusant)  
-$\quad \~$ [1.4.1 AI Coding Practices](#141-ai-coding-practices)  
+$\quad \~$ [1.4.1 Applying AI in Coding Practices](#141-applying-ai-in-coding-practices)  
 $\quad \~$ [1.4.2 Enhancing Core Apps with AI](#142-enhancing-core-apps-with-ai)  
-$\quad \~$ [1.4.3 Higher-Order Cognitive AI (HOCAI) Methods](#143-higher-order-cognitive-ai-hocai-methods)   
+$\quad \~$ [1.4.3 Leveraging Higher-Order Cognitive AI (HOCAI)](#143-leveraging-higher-order-cognitive-ai-hocai)   
 [1.5 Intellectual Foundation](#15-intellectual-foundation)  
 $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)  
 $\quad \~$ [1.5.2 EMIO Strategy Framework](#152-emio-strategy-framework)  
@@ -152,7 +152,7 @@ Like most companies, AI, through LLM and ML, has taken on a large role in our da
 
 We see three layers of AI.
 
-#### 1.4.1 AI Coding Practices
+#### 1.4.1 Applying AI in Coding Practices
 
 We have a large technical team split between Boston and Mexico City. They get a substantial productivity boost in using AI. Cursor is the current favorite, but it shifts over time and by topic.
 
@@ -178,7 +178,9 @@ Other examples are our three micro-sites under the TelluBase umbrella:
   
 - <a href="https://docs.tellusant.com/nowcasts-ongoing-analyses/beige-book.html" style="color: black; text-decoration: none;"><b>Fedora Beige Book Nowcast</b> gives a sentiment analysis of current U.S. economic activity based on the Federal Reserves sesqui-monthly qualitative assessments.</a>
 
-#### 1.4.3 Higher-Order Cognitive AI (HOCAI) Methods
+#### 1.4.3 Leveraging Higher-Order Cognitive AI (HOCAI)
+
+AI use goes beyond operations at Tellusant. We use it to enhance our thinking and products beyond what was possible before.  
 
 ***Proprietary datasets***
 
