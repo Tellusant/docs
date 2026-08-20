@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 description: "We summarize the credibility of Tellusant to show the breadth and depth of our company beyond mere products."
-date: 2026-08-19
+date: 2026-08-20
 image: /assets/social-card-about.png
 redirect_from:
   - /legitimacy/
@@ -31,6 +31,8 @@ $\quad \~$ [1.4.1 AI Coding Practices](#141-ai-coding-practices)
 $\quad \~$ [1.4.2 AI Auto-Generated Applications Enhancements](#142-auto-generated-applications-insights-through-ai)  
 $\quad \~$ [1.4.3 Higher-Order Cognitive AI (HOCAI) Metods](#143-higher-order-cognitive-ai-hocai-methods)  
 [1.5 Intellectual Foundation](#15-intellectual-foundation)  
+$\quad \~$ [1.4.3.1 Proprietary Datasets](1431-proprietary-datasets)
+$\quad \~$ [1.4.3.2 Deep Intellectual Properties](1432-deep-intellectual-properties)
 $\quad \~$ [1.5.1 Decision-Making Theory](#151-decision-making-theory)  
 $\quad \~$ [1.5.2 EMIO Strategy Framework](#152-emio-strategy-framework)  
 $\quad \~$ [1.5.3 Demand Modeling Methods](#153-demand-modeling-methods)  
@@ -191,7 +193,7 @@ None of this would be possible without the amazing advancements in web search an
 
 > *Our methods for data management can and will be extended to other areas beyond demand.* - Philip Burginyoung
 
-***1.4.3.2 Deep Intellectual Property***
+***1.4.3.2 Deep Intellectual Properties***
 
 We use AI to build deep intellectual constructs beyond what a human can do when factoring in the time available. The premise is that one of our leaders have basic construct. Sometimes it has been presented to clients. But it lacks scientific rigor.
 
@@ -205,15 +207,15 @@ In a call and response process with AI, we build the intellectual construct in a
 
 As a company built on science and technology, where does our IP come from? We span many knowledge domains, so here we highlight a few. Our IP typically incorporates pure economic theory (macro and micro), mathemato-statistical methods, and the aspects of sociology that deals with management behavior.
 
-#### 1.5.1 *Decision-Making Theory*
+#### 1.5.1 Decision-Making Theory
 <a href="/papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf" style="color: black; text-decoration: none;">In Dr. Canback's award-winning <b>doctoral research</b></a>, he utilized Prof. Herbert Simon's concept of bounded rationality—”human behavior is intendedly rational, but only limited so”.<br>  
 We also draw on Chris Argyris and Donald Schön's research on double-loop learning and the ladder of inference in *Organizational Learning II* (1996).<br>  
 <a href="/articles-posts/corporate-decision-making.html" style="color: black; text-decoration: none;">Our own framework for <b>effective decision making</b> is derived from these and other authorities.</a> Combined with <a href="/articles-posts/judgmental-mechanical.html" style="color: black; text-decoration: none">Tellusant's approach to combining human judgment and mechanical methods embedded in the <b>PoluSim P Controller Logic</b></a>,we have a comprehensive framework for working with executive management on decision issues.
 
-#### 1.5.2 *EMIO Strategy Framework*
+#### 1.5.2 EMIO Strategy Framework
 The Strategy Grid discussed above gives the high-level parameters for what a company or business unit needs to achieve in terms of growth, productivity, and risk. Once this is known, <a href="/papers/Canback-Tellusant-Toward-a-New-Strategy-Development-Framework.pdf" style="color: black; text-decoration: none">we use the <b>EMIO framework</b> (Environment–Market–Initiative-Outcome) to get into the details</a>. EMIO also includes a process for managing the strategy development journey.
 
-#### 1.5.3 *Demand Modeling Methods*
+#### 1.5.3 Demand Modeling Methods
 We have more than 20 years of experience in demand modeling. There are three important parts to this.<br>  
 1. <a href="/papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf" style="color: black; text-decoration: none">The paper by Dr. Canback, <b>Where in the World Is the Market?</b></a>, describes how category demand is best modelled based on income distribution (not aggregate income), together with other demand drivers.<br>
 2.  Price and marketing spend elasticities need to be incorporated appropriately. In <a href="/papers/Canback-Tellusant-The-Universal-Profit-Equation.pdf" style="color: black; text-decoration: none">by Dr. Canback, <b>The Universal Profit Equation</b></a>, it is shown how this is done.<br>
@@ -263,7 +265,7 @@ Our leaders have more than 75 years of experience in management consulting manag
 
 *BOSTON*
 
-#### 1.7.1 *Dr. Staffan Canback, Executive Chairman*
+#### 1.7.1 Dr. Staffan Canback, Executive Chairman
 Staffan Canback is the Executive Chairman of Tellusant and a co-founder of the company.
 
 Throughout his career, he has developed and refined an unusually broad and deep analytical capability. It enables him to see connections, develop frameworks, and solve problems that often elude conventional approaches.
@@ -284,7 +286,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 
 
 
-#### 1.7.2 *Philip Burginyoung, Chief Executive Officer and President*
+#### 1.7.2 Philip Burginyoung, Chief Executive Officer and President
 Philip Burginyoung is the Chief Executive Officer and President of Tellusant. He is a co-founder of the company.
 
 Philip has more than 15 years of experience building, evaluating, and supporting businesses. Most recently, prior to starting Tellusant, Philip was a Senior Engagement Manager and Head of Marketing at Canback Consulting. He supported companies in topics including corporate strategy and finance, M&A due diligence, new product placement, business planning, demand forecasting, and strategic development. He has worked on the ground in more than 15 countries across 5 continents.
@@ -305,7 +307,7 @@ Philip Burginyoung graduated from Dartmouth College with a BA degree in Economic
 </a>
 </p>  
 
-#### 1.7.3 *Bobo Shen, Chief Product Officer*
+#### 1.7.3 Bobo Shen, Chief Product Officer
 Bobo Shen is the Chief Product Officer of Tellusant and a member of the executive leadership team together with Philip Burginyoung and Dr Staffan Canback.
 
 She has 15+ years of experience in solving strategic problems in businesses. Prior to joining Tellusant, Bobo was a Senior Engagement Manager at Canback Consulting and the Head of Canback Global Income Distribution Database. Her expertise includes revenue management, demand forecasting, due diligence, market opportunity assessment, and growth strategy. Her work has covered more than 30 markets across 5 continents.
