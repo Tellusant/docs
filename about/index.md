@@ -314,17 +314,17 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 
 All three are also citizens of the world, familiar with markets and cultures everywhere.
 
-#### 1.7.4 Senior Team Members
+#### 1.7.4 Senior Team Members  
 
-*BOSTON*
+*BOSTON*  
 
-***Shane Ezepik, Global Senior Product Manager***
+***Shane Ezepik, Global Senior Product Manager***  
 
-Shane Ezepik is Global Senior Product Manager at Tellusant, where he leads the development of Tellusant’s core products. He works closely with the executive team to translate the company’s analytical frameworks, economic models, and data into practical software products that help global enterprises make faster, more reliable planning decisions.
+Shane Ezepik is Global Senior Product Manager at Tellusant, where he leads the development of Tellusant’s core products. He works closely with the executive team to translate the company’s analytical frameworks, economic models, and data into practical software products that help global enterprises make faster, more reliable planning decisions.  
  
-Shane joined Tellusant at its founding as the first technical hire, building much of the data infrastructure underlying TelluBase, Tellusant’s global consumer economics database. Over time, Shane transitioned into product management, helping to shape product development, support technical client engagements, and deliver enterprise implementations. His background spans product management, data engineering, statistical analysis, and management consulting. Prior to joining Tellusant, Shane was a Business Analyst at Canback Consulting where he collaborated extensively with the founding team.
+Shane joined Tellusant at its founding as the first technical hire, building much of the data infrastructure underlying TelluBase, Tellusant’s global consumer economics database. Over time, Shane transitioned into product management, helping to shape product development, support technical client engagements, and deliver enterprise implementations. His background spans product management, data engineering, statistical analysis, and management consulting. Prior to joining Tellusant, Shane was a Business Analyst at Canback Consulting where he collaborated extensively with the founding team.  
  
-Shane holds a B.S. in Mechanical Engineering from Boston University, where he graduated magna cum laude.
+Shane holds a B.S. in Mechanical Engineering from Boston University, where he graduated magna cum laude.  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
@@ -338,12 +338,12 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 
 *MEXICO CITY*
 
-***Francisco Maciel, Country Manager—Mexico***
-As our Country Manager in Mexico, Francisco is responsible for overlooking all activities. Those activities span the full value chain. He also supportes the Boston team with administrative and other responsibilities. He is also our “feet on the ground” specialist for projects in Latam.
+***Francisco Maciel, Country Manager—Mexico***  
+As our Country Manager in Mexico, Francisco is responsible for overlooking all activities. Those activities span the full value chain. He also supportes the Boston team with administrative and other responsibilities. He is also our “feet on the ground” specialist for projects in Latam.  
 
-Francisco first started collaborating with Staffan Canback in 2007, during the Canback Consulting years. He thus knows the rhythm of what we do intuitively. He is the person with the longest instituitional memory of what we do, apart from Staffan.
+Francisco first started collaborating with Staffan Canback in 2007, during the Canback Consulting years. He thus knows the rhythm of what we do intuitively. He is the person with the longest instituitional memory of what we do, apart from Staffan.  
  
-He has extensive experience over several decades, mostly from large corporations such as McKinsey, Nortel Networks, Kaltex and Procter & Gamble. He has served as CEO, CFO, Managing Director, and in administrative and financial positions. He earned his bachelor’s degree in actuarial sciences from Universidad Anáhuac and holds an MBA from the University of California at Berkeley.
+He has extensive experience over several decades, mostly from large corporations such as McKinsey, Nortel Networks, Kaltex and Procter & Gamble. He has served as CEO, CFO, Managing Director, and in administrative and financial positions. He earned his bachelor’s degree in actuarial sciences from Universidad Anáhuac and holds an MBA from the University of California at Berkeley.  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
@@ -351,11 +351,11 @@ He has extensive experience over several decades, mostly from large corporations
 </a>
 </p>
 
-***Mauricio González Ramos, Technical Lead***
+***Mauricio González Ramos, Technical Lead***  
 
 Mauricio leads overall product development and software engineering operations in Mexico, ensuring our technology continuously delivers core value to the business and its users.  
 
-He brings over 15 years of IT expertise, specializing in building robust, scalable platforms for local and international clients, and has worked for companies in the U.S. and France. Mauricio earned his degree with honors from Tecnológico de Monterrey (CCM) and is a certified Scrum Master.
+He brings over 15 years of IT expertise, specializing in building robust, scalable platforms for local and international clients, and has worked for companies in the U.S. and France. Mauricio earned his degree with honors from Tecnológico de Monterrey (CCM) and is a certified Scrum Master.  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mauricio-gonzález-ramos-76806614/" target="_blank">
@@ -363,10 +363,10 @@ He brings over 15 years of IT expertise, specializing in building robust, scalab
 </a>
 </p>
 
-***Daniel Amaro, Commercial Director—Tellusant Mexico***
-Daniel is responsible for business development and sales activities in Mexico, with certain additional responsibilities in Latam and the U.S. He is also our ESOMAR liaison.
+***Daniel Amaro, Commercial Director—Tellusant Mexico***  
+Daniel is responsible for business development and sales activities in Mexico, with certain additional responsibilities in Latam and the U.S. He is also our ESOMAR liaison.  
 
-He has vast experience from both large and small companies, such as Qualcomm, Honda, Mercer, Michael Page, and Multiplica Talent. He has served as National Sales Leader, Business Development Leader, Regional Sales Manager, and more. He earned his bachelor’s degree in Commercial Relations from Instituto Politécnico Nacional.
+He has vast experience from both large and small companies, such as Qualcomm, Honda, Mercer, Michael Page, and Multiplica Talent. He has served as National Sales Leader, Business Development Leader, Regional Sales Manager, and more. He earned his bachelor’s degree in Commercial Relations from Instituto Politécnico Nacional.  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-amaro-g/" target="_blank">
