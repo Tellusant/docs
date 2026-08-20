@@ -181,9 +181,17 @@ Other examples are our three micro-sites under the TelluBase umbrella:
 
 ***1.4.3.1 Proprietary datasets***
 
-We are building global sets of category data using our own AI training. We currently cover 30 categories and expect over 100 before the end of September, 2026. These datasets reduces our need for client data, especially when they do not have any. An example is a Central American company considering entry into the U.S., but acquiring syndicated data is prohibitively expensive when the company only wants to test the waters.<br><br>Another example of use for own datasets is to establish which categories are appealing for to FMCG companies. Growth in FMCG is typically zero of even negative in affluent companies. The players try to finesse the numbers, but the stock market sees through this and valuations are low. Yet, there are pockets of opportunity. Our datasets help find these.<br><br>What we particularly like is to have our own ability to fully populate PoluSim.. Currently, we are doing this in the demo version.<br><br>None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years (we notice that few people recognize the progress in search, eyt AI does not have any independent search capability for now). 
+We are building global sets of category data using our own AI training. We currently cover 30 categories and expect over 100 before the end of September, 2026. These datasets reduces our need for client data, especially when they do not have any. An example is a Central American company considering entry into the U.S., but acquiring syndicated data is prohibitively expensive when the company only wants to test the waters.  
 
-***1.4.3.2***
+Another example of use for own datasets is to establish which categories are appealing for to FMCG companies. Growth in FMCG is typically zero of even negative in affluent companies. The players try to finesse the numbers, but the stock market sees through this and valuations are low. Yet, there are pockets of opportunity. Our datasets help find these.  
+
+What we particularly like is to have our own ability to fully populate PoluSim.. Currently, we are doing this in the demo version.  
+
+None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years. We notice that few people recognize the progress in search, yet AI does not have any independent search capability and relies on the third party search (Google, Bing, Brave, Yandex, and a few more).
+
+> Our methods for data management can and will be extended to other areas outside demand.
+
+***1.4.3.2***Deep Intellectual Property
 
 We use AI to build deep intellectual constructs beyond what a human can do when factoring in the time available. The premise is that one of our leaders have basic construct. Sometimes it has been presented to clients. But it lacks scientific rigor.
 
