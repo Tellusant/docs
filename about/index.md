@@ -283,6 +283,10 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
  <a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
   <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">
+  <img src="images/figshare-icon.svg" alt="Figshare" width="32" height="32">
+</a>
 </p>  
 
 
