@@ -285,7 +285,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">
-  <img src="images/figshare-icon.png" alt="Figshare" width="32" height="32">
+  <img src="images/figshare-icon.svg" alt="Figshare" width="35" height="35">
 </a>
 </p>  
 
