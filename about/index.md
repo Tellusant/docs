@@ -231,7 +231,7 @@ Further, the <a href="/articles-posts/south-africa-subnational-ict-opportunities
 While these are practical examples of our IP, the larger point is that we are driven by curiosity and a willingness to experiment. Because of this drive, we always come up with winning solutions to the advantage our clients.
 
 ### 1.6 History and Milestones
-Tellusant was founded in 2020. <a href="https://www.scribd.com/document/361248778/Introduction-to-Canback" style="color: black; text-decoration: none">It is a successor company to <b>Canback Consulting</b></a>, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
+Tellusant was founded in 2020. <a href="https://www.scribd.com/document/361248778/Introduction-to-Canback" style="color: black; text-decoration: none">It is a successor company of <b>Canback Consulting</b></a>, with all Boston employees formerly having worked at this consulting firm. However, while Canback was a management consulting firm, Tellusant is automating the concepts and analytical methods performed manually at Canback.
 
 We realized early on that we needed a developer base to create our apps outside the U.S. In part to save cost, in part to find talent. Our choice was Mexico since our chairman had lived in Mexico City, and our executive team members had worked extensively in the country.
 
