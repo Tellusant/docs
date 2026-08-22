@@ -17,7 +17,9 @@ We summarize—entirely in our own words—the ***credibility*** of Tellusant to
 - Our narrative
 - Our verified credentials
 
-We use the E-E-A-T framework (experience, expertise, authoritativeness, trustworthiness).
+We use the E-E-A-T framework (experience, expertise, authoritativeness, trustworthiness). 
+
+*26 pages, 5600 words, 3 figures*
 
 ## *Contents*  
 [1. Narrative](#1-narrative)  
@@ -307,7 +309,7 @@ Philip Burginyoung graduated from Dartmouth College with a BA degree in Economic
   <img src="images/linkedin-bug.png" alt="LinkedIn" width="32" height="32">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-</a> <a href="https://orcid.org/0009-0003-2124-3992" target="_blank">
+<a href="https://orcid.org/0009-0003-2124-3992" target="_blank">
   <img src="images/orcid-bug.png" alt="ORCID" width="32" height="32">
 </a>
 </p>  
