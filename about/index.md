@@ -304,11 +304,11 @@ Philip Burginyoung graduated from Dartmouth College with a BA degree in Economic
 
 <p align="center">
 <a href="https://www.linkedin.com/in/philipburgin-young/" target="_blank">
-  <img src="images/linkedin-icon.png" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" height="32">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </a> <a href="https://orcid.org/0009-0003-2124-3992" target="_blank">
-  <img src="images/orcid-bug.png" alt="ORCID" width="32" height="32">
+  <img src="images/orcid-bug.png" alt="ORCID" height="32">
 </a>
 </p>  
 
@@ -323,11 +323,11 @@ Bobo Shen graduated from Boston University with a BA in Mathematics, BSBA in Bus
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bobo-shen/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" height="32">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0008-8633-8104" target="_blank">
-  <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
+  <img src="images/orcid-bug.png" alt="ORCID" height="32">
 </a> 
 </p>
 
@@ -349,11 +349,11 @@ Shane holds a B.S. in Mechanical Engineering from Boston University, where he gr
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shane-ezepik/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" height="32">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0001-6182-3858" target="_blank">
-<img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
+<img src="images/orcid-bug.png" alt="ORCID" height="32">
 </a> 
 </p>
 
