@@ -370,7 +370,7 @@ He has extensive experience over several decades, mostly from large corporations
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-maciel-9b39835/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
 
@@ -382,7 +382,7 @@ He brings over 15 years of IT expertise, specializing in building robust, scalab
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mauricio-gonzález-ramos-76806614/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
 
@@ -393,7 +393,7 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-amaro-g/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
 
@@ -408,7 +408,7 @@ Carlos a long and distinguished background in marketing and sales. He has held i
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-alzate-soto-marketing-transformacion-revenue/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
 
@@ -423,7 +423,7 @@ Kennet is the CEO and Founder of Techboard AB. He is the former chairman and cou
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kennetradne/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-bug.png" alt="LinkedIn" width="32" height="32">
 </a>
 </p>
 
