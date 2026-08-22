@@ -281,7 +281,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 </a>  
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
-  <img src="images/orcid-icon.bug" alt="ORCID" height="32">
+  <img src="images/orcid-bug.png" alt="ORCID" height="32">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">
@@ -304,11 +304,11 @@ Philip Burginyoung graduated from Dartmouth College with a BA degree in Economic
 
 <p align="center">
 <a href="https://www.linkedin.com/in/philipburgin-young/" target="_blank">
-  <img src="images/linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
+  <img src="images/linkedin-icon.png" alt="LinkedIn" width="32" height="32">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </a> <a href="https://orcid.org/0009-0003-2124-3992" target="_blank">
-  <img src="images/orcid-icon.svg" alt="ORCID" width="32" height="32">
+  <img src="images/orcid-bug.png" alt="ORCID" width="32" height="32">
 </a>
 </p>  
 
