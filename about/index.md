@@ -277,7 +277,7 @@ Today, Staffan reserves that capability for leaders who are intellectually curio
 
 <p align="center">
 <a href="https://www.linkedin.com/in/scanback/" target="_blank" style="color: white; text-decoration: none;">
-  <img src="images/linkedin-icon.png" alt="LinkedIn"height="32">
+  <img src="images/linkedin-icon.png" alt="LinkedIn" height="32">
 </a>  
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://orcid.org/0009-0006-9892-398X" target="_blank">
