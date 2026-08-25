@@ -194,6 +194,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Skift Research (2025): *State of Travel 2025*](https://skift.com/insights/state-of-travel/)  
 #### [Slate Afrique (2015): *Pourquoi les Africains sont soit très riches, soit très pauvres*](http://www.slateafrique.com/625551/afrique-revenu-par-habitant)
 #### [Social Science and Medicine (2022): *Quantifying public preferences for healthcare priorities in Taiwan through an integrated citizens jury and discrete choice experiment*](https://www.sciencedirect.com/science/article/pii/S0277953622007109)
+#### [Social Science Research and Review, International Journal of (2025): *An Empirical Analysis of the Impact of Macroeconomic Variables on Maggi Sales in India’s Fast Moving Consumer Goods Industry*](https://ijssrr.com/journal/article/download/3498/2401/) 
 #### [Solina Health (2017): *Preliminary results from direct-to-facilityvaccine deliveries in Kano, Nigeria*](https://pdfs.semanticscholar.org/a6a6/d5a2204da4df0a11d8bac076fc28b9b3ffce.pdf)  
 #### [South African Cities Network (2015): *Potential of a Better Life - The Tale of Nine Cities*](https://www.sacities.net/wp-content/uploads/2019/12/final_sa_cities_growth_index_assessment_report_Jan_2015.pdf)
 #### [South Carolina, University of: *Can Argentina Overcome the Lithium Natural Resource Curse? A Case Study into Argentina's Institutional Framework for Lithium Supply Chain Development and Innovation*](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1854&context=senior_theses)  
