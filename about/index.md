@@ -495,7 +495,7 @@ There are four main themes:
 |Centre for Affordable Housing Finance in Africa (2021)|IEEE (2025)|NordicLight / Swedish Chamber of Commerce Brazil (2020)|TAP-TUMI (2025)|
 |Chicago, University of (2025)|IGI Global (publisher) (2020)|Nova, Universidade (2023)|United Nations (2020)|
 |Constellation Brands (2025)|IJARSCT (2025)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
-|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Putnam Investments (2022)||
+|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Putnam Investments (2022)|Social Science Research and Review, International Journal of (2025)|
 |De Nederlandsche Bank (2021)|International Economics, Journal of (2024)|Reall (2021)||
 
 <a href="/citations/" style="color: black; text-decoration: none;">The <b>full set of citations with hyperlinks</b> to the publications is available here.</a>  
