@@ -11,7 +11,7 @@ Auto-translated. [The original Swedish report is found here](https://canback.net
 
 ## About the Author
 
-> Dr. Staffan Canback is a Swedish strategy consultant and business executive who has lived in Boston, Massachusetts, since 1993. He is Executive Chairman of Tellusant, Inc. Before that, he was CEO of Canback Consulting, a global strategy consulting firm in Boston, which he sold to The Economist Group in 2015. Earlier in his career, he was a partner at McKinsey & Company and Monitor Company.  
+> Dr. Staffan Canback is a Swedish strategy consultant and business executive who has lived in Boston, Massachusetts, since 1993. He is Executive Chairman of Tellusant, Inc. Before this, he was CEO of Canback Consulting, a global strategy consulting firm in Boston, which he sold to The Economist Group in 2015. Earlier in his career, he was a partner at McKinsey & Company and Monitor Company.  
 >
 > Canback earned his doctorate from Henley Business School in 2002 based on research into diseconomies of scale in large corporations. He also holds an MBA from Harvard Business School and an MSc in Electrical Engineering from KTH Royal Institute of Technology. Canback is a Fulbright Scholar and Wallenberg Scholar, and in 2003 won first prize in EDAMBA’s competition for Europe’s best doctoral dissertation in business administration.  
 
