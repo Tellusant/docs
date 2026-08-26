@@ -1,14 +1,15 @@
 # Simplified Global Real Exchange Rate Method for Volatility Measurement
+Thoughts for   Q-Risk
 
-## Initial qusetion by SC
+## Initial question by SC
 
-Idea  for differential inflation adjusted exchange rates (real XR).  
+*Idea for differential inflation adjusted exchange rates (real XR).*  
 
 I have a model that calculates RER in such a way that the US exchange varies over time and is not the reference currency. However, while correct, the model is too cumbersome to use in practice.  
 
 How about this. 1) I calculate global inflation and I assume I do this correctly (I will use Mobius transfromation to avoid high inflation countries to unduly influence the numbers). 2) I calculet a countries RER with its US exchange rate and adjusted for differential inflation against my global inflation (this would also apply to the USD with the difference between US inflation and my global inflation). 3) all currencies would then have a sort of RER, including the US. 
 
-I am doing this to calculate XR volatility so I take the std dev of my reultas. Does this make sense? It is a much faster method than I currently have and I know exactly how to do this.
+I am doing this to calculate XR volatility so I take the std dev of my results. Does this make sense? It is a much faster method than I currently have and I know exactly how to do this.
 
 ## Objective
 
