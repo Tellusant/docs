@@ -81,8 +81,8 @@ Our PoluSim solution has expanded majorly since the launch in 2022. It now cover
 ### [The Low Productivity of MBB](consulting-firm-productivity.md)
 There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue.  
 
-### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)  
-Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.  
+### [Sweden's Export Opportunities in a Difficult Trade Climate](sweden-exports-en.md)  
+How should a small export-reliant country like Swweden act to maintain and grow its experts? The report gives a deeply analytcial perspective.  
 
 ### [Elasticity Math](elasticity-math.md)
 Why do we use logarithms when calculating elasticities? Here is the answer.  
