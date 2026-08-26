@@ -2,7 +2,7 @@
 
 *Dr. Staffan Canback, Tellusant*
 
-Auto-translated. [The original Swedish report is found here](https://canback.net/docs/articles-posts/sweden-exports.md)
+Auto-translated. [The original Swedish report is found here](https://canback.net/docs/sverige/sweden-exports.html)
 
 ---
 <p align="center">
