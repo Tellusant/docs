@@ -42,8 +42,7 @@ Let:
 Ignoring sign-convention differences in the definition of the nominal exchange rate, the proposed change in the inflation-adjusted exchange rate is:
 
 $$
-\Delta r_{i,t}
-=
+\Delta r_{i,t}=
 \Delta e_{i,t}
 +
 \pi^G_t-\pi_{i,t}
@@ -58,8 +57,7 @@ $$
 and therefore:
 
 $$
-\Delta r_{US,t}
-=
+\Delta r_{US,t}=
 \pi^G_t-\pi_{US,t}
 $$
 
@@ -76,24 +74,17 @@ $$
 Substitution gives:
 
 $$
-=
-\Delta e_{i,t}
-+
-\pi^G_t-\pi_{i,t}
--
-(\pi^G_t-\pi_{US,t})
+\Delta e_{i,t}+\pi^G_t-\pi_{i,t}-(\pi^G_t-\pi_{US,t})
+$$
+
+$$
+\Delta e_{i,t}+\pi^G_t-\pi_{i,t}-(\pi^G_t-\pi_{US,t})
 $$
 
 so that:
 
 $$
-\boxed{
-\Delta r_{i,t}-\Delta r_{US,t}
-=
-\Delta e_{i,t}
-+
-\pi_{US,t}-\pi_{i,t}
-}
+\boxed{\Delta r_{i,t}-\Delta r_{US,t}=\Delta e_{i,t}+\pi_{US,t}-\pi_{i,t}}
 $$
 
 This is the conventional bilateral real exchange-rate change against the United States.
@@ -134,9 +125,7 @@ For the latter objective, a small extension solves the problem.
 Construct a global nominal exchange-rate movement from the individual USD exchange rates:
 
 $$
-\Delta e^G_t
-=
-\sum_i w_i \Delta e_{i,t}
+\Delta e^G_t=\sum_i w_i \Delta e_{i,t}
 $$
 
 where $w_i$ are appropriate country weights.
@@ -151,12 +140,7 @@ The full global real exchange-rate change becomes:
 
 $$
 \boxed{
-\Delta RER_{i,t}
-=
-(\Delta e_{i,t}-\Delta e^G_t)
-+
-(\pi^G_t-\pi_{i,t})
-}
+\Delta RER_{i,t}=(\Delta e_{i,t}-\Delta e^G_t)+(\pi^G_t-\pi_{i,t})}
 $$
 
 This is the preferred simplified method.
@@ -164,11 +148,7 @@ This is the preferred simplified method.
 It has two components:
 
 $$
-\text{Global RER change}
-=
-\text{relative nominal FX change}
-+
-\text{relative inflation change}
+\text{Global RER change}=\text{relative nominal FX change}+\text{relative inflation change}
 $$
 
 Both components are therefore measured relative to a global benchmark.
@@ -186,13 +166,7 @@ because the underlying exchange-rate database expresses currencies against USD.
 The US measure nevertheless becomes:
 
 $$
-\boxed{
-\Delta RER_{US,t}
-=
--\Delta e^G_t
-+
-(\pi^G_t-\pi_{US,t})
-}
+\boxed{\Delta RER_{US,t}=-\Delta e^G_t+(\pi^G_t-\pi_{US,t})}
 $$
 
 The USD now moves just like every other currency.
@@ -214,19 +188,13 @@ $$
 equals:
 
 $$
-(\Delta e_i-\Delta e^G+\pi^G-\pi_i)
--
-(\Delta e_j-\Delta e^G+\pi^G-\pi_j)
+(\Delta e_i-\Delta e^G+\pi^G-\pi_i)-(\Delta e_j-\Delta e^G+\pi^G-\pi_j)
 $$
 
 and therefore:
 
 $$
-\boxed{
-\Delta RER_i-\Delta RER_j
-=
-\Delta e_i-\Delta e_j+\pi_j-\pi_i
-}
+\boxed{\Delta RER_i-\Delta RER_j=\Delta e_i-\Delta e_j+\pi_j-\pi_i}
 $$
 
 Both global inflation and the global nominal exchange-rate factor cancel.
@@ -238,11 +206,7 @@ Thus, the simplified global construction preserves the economically relevant bil
 Because the purpose of the exercise is to measure exchange-rate volatility, the standard deviation should preferably be calculated from **changes** in the RER rather than from its level:
 
 $$
-\boxed{
-\sigma_{RER,i}
-=
-SD(\Delta RER_{i,t})
-}
+\boxed{\sigma_{RER,i}=SD(\Delta RER_{i,t})}
 $$
 
 Using changes avoids confusing a persistent trend in the real exchange-rate level with volatility.
@@ -264,13 +228,7 @@ The important point is that the global inflation and nominal FX aggregates shoul
 The preferred practical approach is therefore:
 
 $$
-\boxed{
-\Delta RER_{i,t}
-=
-(\Delta e_{i,t}-\Delta e^G_t)
-+
-(\pi^G_t-\pi_{i,t})
-}
+\boxed{\Delta RER_{i,t}=(\Delta e_{i,t}-\Delta e^G_t)+(\pi^G_t-\pi_{i,t})}
 $$
 
 with:
@@ -284,9 +242,7 @@ and a robust global inflation measure $\pi^G_t$, potentially using the Möbius t
 Finally:
 
 $$
-\boxed{
-RERVol_i=SD(\Delta RER_{i,t})
-}
+\boxed{RERVol_i=SD(\Delta RER_{i,t})}
 $$
 
 This approach appears to capture most of the conceptual advantage of the existing more cumbersome model while being substantially easier to calculate, explain, maintain, and reproduce.
