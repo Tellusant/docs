@@ -62,13 +62,13 @@ Tellusant is focused on helping executives make better decisions. We achieve thi
 
 For example, instead of having subsidiaries make demand projections with all kinds of different methods and the report to corporate geadquarters, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
 
-We base this on more than 75 years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond mere model builders and into the realm of *judgment mechanics*.
+We base this on more than 75 person-years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond run-of-the-mill model builders and into the realm of *judgment mechanics*.
 
-We complement this with exceptional capabilities in statistical analyses and model building as evidenced by our educations and practical deliveries of applications.
+We complement this with exceptional capabilities in mathematics, statistical analysis, economic theory, and AI, as evidenced by our educational backgrounds and practical deliveries of applications.
 
 With Tellusant solutions, our large global clients and smaller local clients <a href="/articles-posts/polusim-business-impact.html" style="color: black; text-decoration: none;">achieve better <b>accuracy</b>, increased <b>consistency</b>, and higher <b>efficiency</b> when making critical decisions.</a>
 
-> *I am convinced that no other company on the planet have our capabilities. In hundreds of conversations I have never been impressed by other professionals or their companies' capabilities in our field.* - Staffan Canback
+> *I am convinced that no other company on the planet have our capabilities. In hundreds of conversations I have never been impressed by other professionals or their companies' capabilities in our field.* - Staffan Canback, Exec. Chair.
 
 ### 1.2 Products
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
@@ -190,7 +190,7 @@ What we particularly like is that we have our own ability to fully populate Polu
 
 None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years. We notice that few people recognize the progress in search, yet AI does not have any independent search capability and relies on the third party search (Google, Bing, Brave, Yandex, and a few more).
 
-> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung
+> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung, CEO & Pres.
 
 ***Deep Intellectual Properties***
 
