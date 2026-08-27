@@ -58,7 +58,7 @@ This is the story of Tellusant and its people, six years into our journey.
 
 ### 1.1 Value Proposition
 
-Tellusant is focused on helping executives making better decisions. We achieve this by implementing decision augmentation applications that takes out the error-prone manual component from preparing decision support materials. A key concept for us is to reduce the information overflow in organizations: "*A wealth of information creates a poverty of attention*" - Herbert Simon
+Tellusant is focused on helping executives make better decisions. We achieve this by implementing decision augmentation applications that takes out the error-prone manual component from preparing decision support materials. A key concept for us is to reduce the information overflow in organizations: "*A wealth of information creates a poverty of attention*" - Herbert Simon
 
 For example, instead of having subsidiaries make demand projections with all kinds of different methods and the report to corporate geadquarters, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
 
