@@ -17,8 +17,6 @@ We summarize—entirely in our own words—the ***credibility*** of Tellusant to
 - Our narrative
 - Our verified credentials
 
-We use the E-E-A-T framework (experience, expertise, authoritativeness, trustworthiness). 
-
 *26 pages, 5600 words, 3 figures*
 
 ## *Contents*  
