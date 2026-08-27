@@ -14,6 +14,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 ## Recent  
 
+### [Sweden's Export Opportunities in a Difficult Trade Climate](sweden-exports-en.md)  
+How should a small export-reliant country like Swweden act to maintain and grow its experts? The report gives a deeply analytcial perspective.  
+
 ### [Quantitative Decision Consulting: Three of Our Case Stories](quantitative-decision-consulting-case-stories.md)
 The three case stories show what we mean by quantitative decision consulting. We focus on those decisions where quantitative analysis. These are typically of strategic nature, and occasionally operational.  
 
@@ -80,9 +83,6 @@ Our PoluSim solution has expanded majorly since the launch in 2022. It now cover
 
 ### [The Low Productivity of MBB](consulting-firm-productivity.md)
 There is a sad state of affairs at the large management consulting firms—MBB. Not the quality of deliverables. The lack of productivity is the issue.  
-
-### [Sweden's Export Opportunities in a Difficult Trade Climate](sweden-exports-en.md)  
-How should a small export-reliant country like Swweden act to maintain and grow its experts? The report gives a deeply analytcial perspective.  
 
 ### [Elasticity Math](elasticity-math.md)
 Why do we use logarithms when calculating elasticities? Here is the answer.  
