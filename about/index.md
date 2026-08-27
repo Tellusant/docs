@@ -192,7 +192,7 @@ What we particularly like is that we have our own ability to fully populate Polu
 
 None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years. We notice that few people recognize the progress in search, yet AI does not have any independent search capability and relies on the third party search (Google, Bing, Brave, Yandex, and a few more).
 
-> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung, CEO & Pres.
+> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung, CEO and Pres.
 
 ***Deep Intellectual Properties***
 
@@ -397,7 +397,7 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 
 *BOGOTÁ*
 
-***Carlos Alzate, Global Chief Commercial Officer & Andean Region Head***
+***Carlos Alzate, Global Chief Commercial Officer and Andean Region Head***
 Carlos is our CCO, based in Bogotá, Colombia. He oversees marketing and sales activities globally, with a specific focus on Latin America and the U.S.
 
 Staffan Canback and Carlos started working together in 2009 when Carlos was responsible for premium beer at Bavaria, SABMiller's Colombian subsidiary and the second largest profit generator of this global company. They then met again in Argentina, and in Panama. In 2023, Carlos decided to take on the role of CCO at Tellusant.
@@ -412,7 +412,7 @@ Carlos a long and distinguished background in marketing and sales. He has held i
 
 *STOCKHOLM*
 
-***Kennet Rådne, Region Head—Nordic-Baltic Eight & Senior Advisor***
+***Kennet Rådne, Region Head—Nordic-Baltic Eight and Senior Advisor***
 Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as a senior advisor to Tellusant.
 
 Staffan Canback and Kennet first met during his Ericsson years. They then collaborated at Telia intermittently. We approached him about joining us as an advisor when we founded the company in 2020. In 2024, when we saw an opportunity in the NB-8 region, we decided to expand the cooperation.
