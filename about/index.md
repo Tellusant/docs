@@ -10,14 +10,12 @@ redirect_from:
 ---
  
 # About Us
-<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a>$\qquad$ *26 pages, 5600 words, 3 figures* 
 
 We summarize—entirely in our own words—the ***credibility*** of Tellusant to show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our verified credentials
-
-*26 pages, 5600 words, 3 figures*
 
 ## *Contents*  
 [1. Narrative](#1-narrative)  
