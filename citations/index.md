@@ -24,7 +24,7 @@ Alphabetically listed by authority.
 #### [AB InBev (2014): *Quarterly divisional seminar series—South Africa*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/divisional-seminars/quarterly-divisional-seminar-south-africa-2014.pdf)
 #### [Accenture (2013): *Consumer Goods in Africa and Nigeria*](http://www.slideshare.net/accenture/consumer-goods-in-africa-and-nigeria)
 #### [Advances in Management & Applied Economics (2014): *The Analysis of the Four Paradigms of Business Management consulting in Portugal in the Light of the Research Field of Strategy-as-practice*](https://www.scienpress.com/Upload/AMAE/Vol%204_3_3.pdf)
-#### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”*](https://www.affarsvarlden.se/intervju/svensk-export-inget-att-vara-stolt-over)
+#### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”*](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 #### [Affärsvärlden (2026): *"Svensk export inget att vara stolt över"*](https://www.affarsvarlden.se/intervju/svensk-export-inget-att-vara-stolt-over)
 #### [Ahmadu Bello University (2014): *The imperative of sand dune stabilization in semi arid zone*](https://physicalsciences.abu.edu.ng/department/geography/public/journal/2014/files/12.pdf)
 #### [AIG (2013): *AIG in Africa*](assets/pdf/aig-africa.pdf)  
