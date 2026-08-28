@@ -62,7 +62,7 @@ Alphabetically listed by authority.
 #### [Confederation on Indian Industry / Tata (2018): *Joining hands to unlock Africa’s Potential*](https://afdb-org.jp/wp-content/uploads/2018/08/JABF2014_Ms.Janaki_Mr.Kuppuswamy.pdf)
 #### [Constellation Brands (2025): FY25 Financial Results](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)
 #### [CSIL Market Research (2020): *The European market for lighting fixtures*](https://www.lighting.csilmilano.com/fixtures/Lighting-market-Europe-30-countries-2020-0001280.html)
-#### [Dagens Industri (2025): *Fly tullkaoset – länderna med störst exportpotential*]([Fly tullkaoset – länderna med störst exportpotential](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/))
+#### [Dagens Industri (2025): *Fly tullkaoset – länderna med störst exportpotential*](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/))
 #### [Daily Trust (2016): *Nigeria: Enugu Free Trade Zone to Attract N240 Billion Investment*](https://allafrica.com/stories/201611210941.html)
 #### [De Nederlandsche Bank (2021): *Have Scale Effects on Cost Margins of Pension Fund Investment Portfolios Disappeared?*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836451)
 #### [Dewan Energi Nasional, Sekretariat Jenderal (2019): *Penguatan Riset Institut Teknologi*](assets/pdf/den-strengthening-research-at-the-kalimantan-institute-of-technology.pdf)
