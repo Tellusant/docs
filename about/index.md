@@ -62,7 +62,7 @@ Tellusant is focused on helping executives make better decisions. We achieve thi
 
 For example, instead of having subsidiaries make demand projections with all kinds of different methods and then report to corporate headquarters which sees chaos, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
 
-We base this on more than 75 person-years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond run-of-the-mill model builders and into the realm of *judgment mechanics*.
+We base this on more than 75 person-years of working with senior executives on high-stakes decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond run-of-the-mill model builders and into the realm of *judgment mechanics*.
 
 We complement this with exceptional capabilities in mathematics, statistical analysis, economic theory, and AI, as evidenced by our educational backgrounds and practical deliveries of applications.
 
