@@ -12,7 +12,7 @@ redirect_from:
 # About Us
 <a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a> | *26 pages, 5600 words, 3 figures*
 
-We summarize—entirely in our own words—the ***credibility*** of Tellusant and to show the breadth and depth of our company beyond mere products. Below you find:
+We summarize—entirely in our own words—the ***credibility*** of Tellusant and show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our verified credentials
@@ -58,17 +58,19 @@ This is the story of Tellusant and its people, six years into our journey.
 
 ### 1.1 Value Proposition
 
-Tellusant is focused on helping executives making better decisions. We achieve this by implementing decision augmentation applications that takes out the error-prone manual component from preparing decision support materials. A key concept for us is to reduce the information overflow in organizations: "*A wealth of information creates a poverty of attention*" - Herbert Simon
+Tellusant is focused on helping executives make better decisions. We achieve this by implementing decision augmentation applications that takes out the error-prone manual component from preparing decision support materials. A key concept for us is to reduce the information overflow in organizations: "*A wealth of information creates a poverty of attention*" - Herbert Simon
 
-For example, instead of having subsidiaries make demand projections with all kinds of different methods and the report to corporate geadquarters, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
+For example, instead of having subsidiaries make demand projections with all kinds of different methods and then report to corporate headquarters which sees chaos, we offer a standardized framework that give analysts flexibility, yet forces the use of robust statistical models and harmonized data.
 
-We base this on more than 75 years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond mere model builders and into the realm of *judgment mechanics*.
+We base this on more than 75 person-years of working with senior executives on critical decisions, such as if a potential acquisition should go ahead or not. This experience base takes us beyond run-of-the-mill model builders and into the realm of *judgment mechanics*.
 
-We complement this with exceptional capabilities in statistical analyses and model building as evidenced by our educations and practical deliveries of applications.
+We complement this with exceptional capabilities in mathematics, statistical analysis, economic theory, and AI, as evidenced by our educational backgrounds and practical deliveries of applications.
+
+This we apply mainly in consumer goods with occasional forays into other industries.
 
 With Tellusant solutions, our large global clients and smaller local clients <a href="/articles-posts/polusim-business-impact.html" style="color: black; text-decoration: none;">achieve better <b>accuracy</b>, increased <b>consistency</b>, and higher <b>efficiency</b> when making critical decisions.</a>
 
-> *I am convinced that no other company on the planet have our capabilities. In hundreds of conversations I have never been impressed by other professionals or their companies' capabilities in our field.* - Staffan Canback
+> *I am convinced that no other company on the planet have our capabilities. In hundreds of conversations I have never been impressed by other professionals or their companies' capabilities in our field.* - Staffan Canback, Exec. Chair.
 
 ### 1.2 Products
 Tellusant is recognized among the world’s largest consumer goods companies for its expertise in predictive planning in the strategic and commercial areas. Our management decision augmented platform with its applications are unique in the field of quantitative management tools.
@@ -190,7 +192,7 @@ What we particularly like is that we have our own ability to fully populate Polu
 
 None of this would be possible without the amazing advancements in web search and AI LLM over the past 3 years. We notice that few people recognize the progress in search, yet AI does not have any independent search capability and relies on the third party search (Google, Bing, Brave, Yandex, and a few more).
 
-> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung
+> *Our methods for data management can and will be extended to several other areas.* - Philip Burginyoung, CEO and Pres.
 
 ***Deep Intellectual Properties***
 
@@ -395,7 +397,7 @@ He has vast experience from both large and small companies, such as Qualcomm, Ho
 
 *BOGOTÁ*
 
-***Carlos Alzate, Global Chief Commercial Officer & Andean Region Head***
+***Carlos Alzate, Global Chief Commercial Officer and Andean Region Head***
 Carlos is our CCO, based in Bogotá, Colombia. He oversees marketing and sales activities globally, with a specific focus on Latin America and the U.S.
 
 Staffan Canback and Carlos started working together in 2009 when Carlos was responsible for premium beer at Bavaria, SABMiller's Colombian subsidiary and the second largest profit generator of this global company. They then met again in Argentina, and in Panama. In 2023, Carlos decided to take on the role of CCO at Tellusant.
@@ -410,7 +412,7 @@ Carlos a long and distinguished background in marketing and sales. He has held i
 
 *STOCKHOLM*
 
-***Kennet Rådne, Region Head—Nordic-Baltic Eight & Senior Advisor***
+***Kennet Rådne, Region Head—Nordic-Baltic Eight and Senior Advisor***
 Kennet Rådne is responsible for Tellusant's Nordic-Baltic Eight region and also serves as a senior advisor to Tellusant.
 
 Staffan Canback and Kennet first met during his Ericsson years. They then collaborated at Telia intermittently. We approached him about joining us as an advisor when we founded the company in 2020. In 2024, when we saw an opportunity in the NB-8 region, we decided to expand the cooperation.
@@ -471,7 +473,7 @@ While our products are analytical, our experiences are personal and human.
 <a href="../about/global-footprint-list.html" style="color: black; text-decoration: none;">For searchability, see the <b>global footprint list</b></a>
 
 ### 1.10 External Citations
-Because of our rich intellectual content published in various settings, we have over 750 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
+Because of our rich intellectual content published in various settings, we have over 800 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
 There are four main themes:
 - Quoted insights about the world and countries from an economic perspective  
@@ -481,18 +483,19 @@ There are four main themes:
 
 |||||
 |---|---|---|---|
-|Ambev (2022)|Economisch Bureau Amsterdam (2024)|ISEAS (2021)|Reddal (2024)|
-|Applied Business and Economics, Journal of (2024)|EconPol Forum (2025)|Krane Funds Advisors (2021)|Research and Innovation in Social Science, International Journal of (2024)|
-|Bangladesh Journal of Agricultural Economics (2020)|Environment & Urbanization (2020)|Landscape and Urban Planning (2020)|Revue de l’Entrepreneuriat (2023)|
-|Bioscience Research, Open Journal of (2020)|FUDMA Journal of Sciences (2023)|Management and Entrepreneurship, Journal of (2022)|RUAF (2024)|
-|Bogotá, Secretaría General de la Alcaldía Mayor de (2025)|Health Sciences and Research, International Journal of (2020)|McKinsey (2022)|Skift Research (2025)|
-|British Council (2021)|Heineken (2025) —Dolf van den Brink, CEO|New York State Metropolitan Transit Authority (2020)|Social Science and Medicine (2022)|
-|Central European University (2023)|Heineken (2025)—Bram Westenbrink, CCO|Newsweek (2020)|Sustainable Energy for All (2020)|
-|Centre for Affordable Housing Finance in Africa (2021)|IEEE (2025)|NordicLight / Swedish Chamber of Commerce Brazil (2020)|TAP-TUMI (2025)|
-|Chicago, University of (2025)|IGI Global (publisher) (2020)|Nova, Universidade (2023)|United Nations (2020)|
-|Constellation Brands (2025)|IJARSCT (2025)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
-|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Putnam Investments (2022)|Social Science Research and Review, International Journal of (2025)|
-|De Nederlandsche Bank (2021)|International Economics, Journal of (2024)|Reall (2021)||
+|Affärsvärlden (2026) I|Dagens Industri (2025)|International Economics, Journal of (2024)|Reddal (2024)|
+|Affärsvärlden (2026) II|De Nederlandsche Bank (2021)|ISEAS (2021)|Research and Innovation in Social Science, International Journal of (2024)|
+|Ambev (2022)|Economisch Bureau Amsterdam (2024)|Krane Funds Advisors (2021)|Revue de l’Entrepreneuriat (2023)|
+|Applied Business and Economics, Journal of (2024)|EconPol Forum (2025)|Landscape and Urban Planning (2020)|RUAF (2024)|
+|Bangladesh Journal of Agricultural Economics (2020)|Environment & Urbanization (2020)|Management and Entrepreneurship, Journal of (2022)|Skift Research (2025)|
+|Bioscience Research, Open Journal of (2020)|FUDMA Journal of Sciences (2023)|McKinsey (2022)|Social Science and Medicine (2022)|
+|Bogotá, Secretaría General de la Alcaldía Mayor de (2025)|Health Sciences and Research, International Journal of (2020)|New York State Metropolitan Transit Authority (2020)|Social Science Research and Review, International Journal of (2025)|
+|British Council (2021)|Heineken (2025) —Dolf van den Brink, CEO|Newsweek (2020)|Sustainable Energy for All (2020)|
+|Central European University (2023)|Heineken (2025)—Bram Westenbrink, CCO|NordicLight / Swedish Chamber of Commerce Brazil (2020)|TAP-TUMI (2025)|
+|Centre for Affordable Housing Finance in Africa (2021)|IEEE (2025)|Nova, Universidade (2023)|United Nations (2020)|
+|Chicago, University of (2025)|IGI Global (publisher) (2020)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
+|Constellation Brands (2025)|IJARSCT (2025)|Putnam Investments (2022)||
+|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Reall (2021)||
 
 <a href="/citations/" style="color: black; text-decoration: none;">The <b>full set of citations with hyperlinks</b> to the publications is available here.</a>  
 
