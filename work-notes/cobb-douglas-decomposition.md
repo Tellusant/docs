@@ -36,7 +36,7 @@ where:
 
 ## Growth Accounting
 
-Taking growth rates (that follow from taking logarithms of above equation):
+Establishing growth rates (that follow from taking logarithms of above equation):
 
 $$
 g_Y = g_A + \alpha g_K + (1-\alpha)g_L
