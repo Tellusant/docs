@@ -497,9 +497,6 @@ There are four main themes:
 |Constellation Brands (2025)|IJARSCT (2025)|Putnam Investments (2022)||
 |CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Reall (2021)||  
 
-<img width="161" height="1807" alt="image" src="https://github.com/user-attachments/assets/831ba206-2457-4a18-93ac-1014b9e3837a" />
-
-
 <a href="/citations/" style="color: black; text-decoration: none;">The <b>full set of citations with hyperlinks</b> to the publications is available here.</a>  
 
 ---
