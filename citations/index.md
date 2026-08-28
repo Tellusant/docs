@@ -7,9 +7,9 @@ image: /assets/social-card-cite.png
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited Tellusant and its team members publicly over the years.
+See how external publications (academic journals, newspapers, TV, governments, NGOs, companies) have cited Tellusant and its team members publicly over the years.
 
-These are the first 200+ of our citations (to be built out during 2026).
+We have more than 200 citations. In addition, our chairman has 600 citations from his doctoral work.
 
 <p align="center">
 <img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
