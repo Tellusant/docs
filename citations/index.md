@@ -9,7 +9,7 @@ image: /assets/social-card-cite.png
 
 See how external publications (academic journals, newspapers, TV, governments, NGOs, companies) have cited Tellusant and its team members publicly over the years.
 
-We have more than 200 citations. In addition, our chairman has 600 citations from his doctoral work.
+We have more than 200 citations. In addition, our chairman has 600 citations from his academic research at Reading University / Henley Business School.
 
 <p align="center">
 <img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
