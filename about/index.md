@@ -473,7 +473,7 @@ While our products are analytical, our experiences are personal and human.
 <a href="../about/global-footprint-list.html" style="color: black; text-decoration: none;">For searchability, see the <b>global footprint list</b></a>
 
 ### 1.10 External Citations
-Because of our rich intellectual content published in various settings, we have over 750 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
+Because of our rich intellectual content published in various settings, we have over 800 public citations of our company and our leaders. Here are recent citations by a mix of authorities (we mention only the publishers to save space).
 
 There are four main themes:
 - Quoted insights about the world and countries from an economic perspective  
