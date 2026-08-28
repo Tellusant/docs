@@ -483,9 +483,9 @@ There are four main themes:
 
 |||||
 |---|---|---|---|
-|Ambev (2022)|Dagens Industri (2025)|International Economics, Journal of (2024)|Reddal (2024)|
-|Affärsvärlden (2026) I|De Nederlandsche Bank (2021)|ISEAS (2021)|Research and Innovation in Social Science, International Journal of (2024)|
-|Affärsvärlden (2026) II|Economisch Bureau Amsterdam (2024)|Krane Funds Advisors (2021)|Revue de l’Entrepreneuriat (2023)|
+|Affärsvärlden (2026) I|Dagens Industri (2025)|International Economics, Journal of (2024)|Reddal (2024)|
+|Affärsvärlden (2026) II|De Nederlandsche Bank (2021)|ISEAS (2021)|Research and Innovation in Social Science, International Journal of (2024)|
+|Ambev (2022)|Economisch Bureau Amsterdam (2024)|Krane Funds Advisors (2021)|Revue de l’Entrepreneuriat (2023)|
 |Applied Business and Economics, Journal of (2024)|EconPol Forum (2025)|Landscape and Urban Planning (2020)|RUAF (2024)|
 |Bangladesh Journal of Agricultural Economics (2020)|Environment & Urbanization (2020)|Management and Entrepreneurship, Journal of (2022)|Skift Research (2025)|
 |Bioscience Research, Open Journal of (2020)|FUDMA Journal of Sciences (2023)|McKinsey (2022)|Social Science and Medicine (2022)|
@@ -495,7 +495,7 @@ There are four main themes:
 |Centre for Affordable Housing Finance in Africa (2021)|IEEE (2025)|Nova, Universidade (2023)|United Nations (2020)|
 |Chicago, University of (2025)|IGI Global (publisher) (2020)|Public Administration Review (2023)|World Bank / NPHCDA (2024)|
 |Constellation Brands (2025)|IJARSCT (2025)|Putnam Investments (2022)||
-|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Reall (2021)||  
+|CSIL Market Research (2020)|Innovative Science and Research Technology, International Journal of (2026)|Reall (2021)||
 
 <a href="/citations/" style="color: black; text-decoration: none;">The <b>full set of citations with hyperlinks</b> to the publications is available here.</a>  
 
