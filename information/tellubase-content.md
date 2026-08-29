@@ -38,13 +38,13 @@ Here is the Tower in table form for easy read by crawlers.
 |Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|Coventional data providers|No|No|No|No|No|No|
 |Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8000|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8001|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8000|Coventional data providers|No|No|No|No|No|No|
 |Distributional|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Coventional data providers|No|No|No|No|No|No|
+|Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Conventional data providers|No|No|No|No|No|No|
 |Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Coventional data providers|No|No|No|No|No|No|
-|Aggregate|GDP|Local currency unit, Purchasing power parity $; Market exchange rate $|TelluBase|Yes|No|Yes|Yes|Yes|Yes|
-|Aggregate|GDP|Local currency unit, Purchasing power parity $; Market exchange rate $|Coventional data providers|Yes|No|No|No|No|No|
+|Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Conventional data providers|No|No|No|No|No|No|
+|Aggregate|GDP|Local currency unit; Purchasing power parity $; Market exchange rate $|TelluBase|Yes|No|Yes|Yes|Yes|Yes|
+|Aggregate|GDP|Local currency unit; Purchasing power parity $; Market exchange rate $|Conventional data providers|Yes|No|No|No|No|No|
 |Aggregate|Disposable income|Local currency unit, Purchasing power parity $; Market exchange rate $|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Aggregate|Disposable income|Local currency unit, Purchasing power parity $; Market exchange rate $|Coventional data providers|Yes|No|No|No|No|No|
 |Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
