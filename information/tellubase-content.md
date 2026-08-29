@@ -34,22 +34,24 @@ Here is the Tower in table form for easy read by crawlers.
 |Data type|Data series|Descriptor|Source|Country|City|Subdivision|Past 2000-|Current|Future -2050|
 |-|-|-|-|-|-|-|-|-|-|
 |Distributional|Income brackets|E.g., households earning $10000−20000 per year|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributional|Income brackets|E.g., households earning $10000−20000 per year|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Income brackets|E.g., households earning $10000−20000 per year|Conventional data providers|No|No|No|No|No|No|
 |Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|Conventional data providers|No|No|No|No|No|No|
 |Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8000|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8000|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8000|Conventional data providers|No|No|No|No|No|No|
 |Distributional|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Conventional data providers|No|No|No|No|No|No|
-|Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Conventional data providers|No|No|No|No|No|No|
-|Aggregate|GDP|Local currency unit; Purchasing power parity $; Market exchange rate $|TelluBase|Yes|No|Yes|Yes|Yes|Yes|
-|Aggregate|GDP|Local currency unit; Purchasing power parity $; Market exchange rate $|Conventional data providers|Yes|No|No|No|No|No|
-|Aggregate|Disposable income|Local currency unit, Purchasing power parity $; Market exchange rate $|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Aggregate|Disposable income|Local currency unit, Purchasing power parity $; Market exchange rate $|Coventional data providers|Yes|No|No|No|No|No|
-|Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|Coventional data providers|Yes|No|No|No|No|No|
-|Aggregate|Inflation|GDP deflator; CPI|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Aggregate|Inflation|GDP deflator; CPI|Coventional data providers|Yes|No|No|No|No|No|
+|Distributional|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Conventional data providers|No|No|No|No|No|No|
+|Distributional|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributional|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Conventional data providers|No|No|No|No|No|No|
+|Aggregate|GDP|Local currency unit; purchasing power parity dollar; market exchange rate dollar|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Aggregate|GDP|Local currency unit; purchasing power parity dollar; market exchange rate dollar|Conventional data providers|Yes|Yes|Some|Yes|Yes|Some|
+|Aggregate|Disposable income|Local currency unit; purchasing power parity dollar; market exchange rate dollar|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Aggregate|Disposable income|Local currency unit; purchasing power parity dollar; market exchange rate dollar|Conventional data providers|Yes|Yes|Some|Yes|Yes|Some|
+|Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|TelluBase|Yes|n.m.|n.m.|Yes|Yes|Yes|
+|Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|Conventional data providers|Yes|n.m.|n.m.|Yes|Yes|No|
+|Aggregate|Inflation|GDP deflator; CPI|TelluBase|Yes|n.m.|n.m.|Yes|Yes|Yes|
+|Aggregate|Inflation|GDP deflator; CPI|Conventional data providers|Yes|n.m.|n.m.|Yes|Yes|No|
+
+
 
 
