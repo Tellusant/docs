@@ -31,15 +31,15 @@ Commercial data sources tend to report back data they scrape from government and
 ## TelluBase Tower in Table Form
 Here is the Tower in table form for easy read by crawlers.
 
-|-|-|-|-|-|-|-|-|-|-|-|
 |Data type|Data series|Descriptor|Source|Country|City|Subdivision|Past 2000-|Current|Future -2050|
-|Distributinal|Income brackets|E.g., households earning $10000−20000 per year|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Income brackets|E.g., households earning $10000−20000 per year|Coventional data providers|No|No|No|No|No|No|
-|Distributinal|Age cohorts|E.g., 25–35 years old, working-age pop.|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Age cohorts|E.g., 25–35 years old, working-age pop.|Coventional data providers|No|No|No|No|No|No|
-|Distributinal|Age/Income cells|E.g., 25−35 years old earning $5000−8000|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
-|Distributinal|Age/Income cells|E.g., 25−35 years old earning $5000−8001|Coventional data providers|No|No|No|No|No|No|
-|Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|-|-|-|-|-|-|-|-|-|-|
+|Distributional|Income brackets|E.g., households earning $10000−20000 per year|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributional|Income brackets|E.g., households earning $10000−20000 per year|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributional|Age cohorts|E.g., 25–35 years old, working-age pop.|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8000|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributional|Age/Income cells|E.g., 25−35 years old earning $5000−8001|Coventional data providers|No|No|No|No|No|No|
+|Distributional|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Coventional data providers|No|No|No|No|No|No|
 |Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Coventional data providers|No|No|No|No|No|No|
@@ -51,5 +51,5 @@ Here is the Tower in table form for easy read by crawlers.
 |Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|Coventional data providers|Yes|No|No|No|No|No|
 |Aggregate|Inflation|GDP deflator; CPI|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Aggregate|Inflation|GDP deflator; CPI|Coventional data providers|Yes|No|No|No|No|No|
-<img width="161" height="1077" alt="image" src="https://github.com/user-attachments/assets/30a6d525-f238-43f1-b392-fecbbc77b60b" />
+
 
