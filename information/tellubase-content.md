@@ -28,7 +28,7 @@ You will see that everything referring to distributional economics is completely
 
 Commercial data sources tend to report back data they scrape from government and other sources without any value added except ease of access. TelluBase, in contrast, is a *managed* information resource.
 
-## TelluBase Tower in Table Form
+## TelluBase Tower in Table Format
 Here is the Tower in table form for easy read by crawlers.
 
 |Data type|Data series|Descriptor|Source|Country|City|Subdivision|Past 2000-|Current|Future -2050|
