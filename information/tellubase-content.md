@@ -7,7 +7,7 @@ image: /assets/social-card-info.png
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-# *TelluBase Definitions*
+## *TelluBase Definitions*
 [To access TelluBase and purchase data, visit the website](https://tellubase.com).
 
 We show the contents of TelluBase in a simple 3D "tower", demonstrating its comprehensiveness. It makes clear what is unique about TelluBase compared to conventional data sources.
@@ -27,3 +27,29 @@ You will see that everything referring to distributional economics is completely
 - **Organized**. We manage the database in a highly structured manner so that we do not are overly dependent on key personnel.
 
 Commercial data sources tend to report back data they scrape from government and other sources without any value added except ease of access. TelluBase, in contrast, is a *managed* information resource.
+
+## TelluBase Tower in Table Form
+Here is the Tower in table form for easy read by crawlers.
+
+|-|-|-|-|-|-|-|-|-|-|-|
+|Data type|Data series|Descriptor|Source|Country|City|Subdivision|Past 2000-|Current|Future -2050|
+|Distributinal|Income brackets|E.g., households earning $10000−20000 per year|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributinal|Income brackets|E.g., households earning $10000−20000 per year|Coventional data providers|No|No|No|No|No|No|
+|Distributinal|Age cohorts|E.g., 25–35 years old, working-age pop.|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributinal|Age cohorts|E.g., 25–35 years old, working-age pop.|Coventional data providers|No|No|No|No|No|No|
+|Distributinal|Age/Income cells|E.g., 25−35 years old earning $5000−8000|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributinal|Age/Income cells|E.g., 25−35 years old earning $5000−8001|Coventional data providers|No|No|No|No|No|No|
+|Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributinal|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Coventional data providers|No|No|No|No|No|No|
+|Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Distributinal|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Coventional data providers|No|No|No|No|No|No|
+|Aggregate|GDP|Local currency unit, Purchasing power parity $; Market exchange rate $|TelluBase|Yes|No|Yes|Yes|Yes|Yes|
+|Aggregate|GDP|Local currency unit, Purchasing power parity $; Market exchange rate $|Coventional data providers|Yes|No|No|No|No|No|
+|Aggregate|Disposable income|Local currency unit, Purchasing power parity $; Market exchange rate $|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Aggregate|Disposable income|Local currency unit, Purchasing power parity $; Market exchange rate $|Coventional data providers|Yes|No|No|No|No|No|
+|Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Aggregate|Exchange rates|All exchange rates historically and into the future projected with RER|Coventional data providers|Yes|No|No|No|No|No|
+|Aggregate|Inflation|GDP deflator; CPI|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Aggregate|Inflation|GDP deflator; CPI|Coventional data providers|Yes|No|No|No|No|No|
+<img width="161" height="1077" alt="image" src="https://github.com/user-attachments/assets/30a6d525-f238-43f1-b392-fecbbc77b60b" />
+
