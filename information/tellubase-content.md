@@ -43,7 +43,7 @@ Here is the Tower in table form for easy read by crawlers.
 |Distributional|Consumer class sizes|World population divided into 11 classes: 0–10%…90–99%, 99%–100%|Conventional data providers|No|No|No|No|No|No|
 |Distributional|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Distributional|Socioeconomic levels sizes|E.g., Mexico, Colombia, South Africa definitions|Conventional data providers|No|No|No|No|No|No|
-|Aggregate|GDP|Local currency unit; purchasing power parity &dollar;; market exchange rate \$|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
+|Aggregate|GDP|Local currency unit; purchasing power parity \$, market exchange rate \$|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Aggregate|GDP|Local currency unit; purchasing power parity \$; market exchange rate \$|Conventional data providers|Yes|Yes|Some|Yes|Yes|Some|
 |Aggregate|Disposable income|Local currency unit; purchasing power parity dollar; market exchange rate dollar|TelluBase|Yes|Yes|Yes|Yes|Yes|Yes|
 |Aggregate|Disposable income|Local currency unit; purchasing power parity \$; market exchange rate \$|Conventional data providers|Yes|Yes|Some|Yes|Yes|Some|
