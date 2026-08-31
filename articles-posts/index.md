@@ -17,6 +17,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ### [Sweden's Export Opportunities in a Difficult Trade Climate](sweden-exports-en.md)  
 How should a small export-reliant country like Swweden act to maintain and grow its experts? The report gives a deeply analytcial perspective.  
 
+### [Lousy as It Gets: Sweden’s Economic Growth, 2015–2025](sweden-growth-en.md)  
+xyz.  
+
 ### [Quantitative Decision Consulting: Three of Our Case Stories](quantitative-decision-consulting-case-stories.md)
 The three case stories show what we mean by quantitative decision consulting. We focus on those decisions where quantitative analysis. These are typically of strategic nature, and occasionally operational.  
 
