@@ -1,9 +1,9 @@
 ---
-title: "Articles & Posts"
+title: "Articles and Posts"
 description: "This section will over time contain all our substance-oriented articles and posts from LinkedIn, Medium, and more."
 image: /assets/social-card-pub.png
 ---
-# Articles & Posts
+# Articles and Posts
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
@@ -15,10 +15,10 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ## Recent  
 
 ### [Sweden's Export Opportunities in a Difficult Trade Climate](sweden-exports-en.md)  
-How should a small export-reliant country like Swweden act to maintain and grow its experts? The report gives a deeply analytcial perspective.  
+How should an export-dependent country such as Sweden act to maintain and increase its exports? The solution must start from the fact that our exports have not been particularly successful over the past quarter century.
 
 ### [Lousy as It Gets: Sweden’s Economic Growth, 2015–2025](sweden-growth-en.md)  
-xyz.  
+Sweden’s growth is often discussed in dramatic terms. But what do the most fundamental economic measures tell us about developments over the past few decades?
 
 ### [Quantitative Decision Consulting: Three of Our Case Stories](quantitative-decision-consulting-case-stories.md)
 The three case stories show what we mean by quantitative decision consulting. We focus on those decisions where quantitative analysis. These are typically of strategic nature, and occasionally operational.  
