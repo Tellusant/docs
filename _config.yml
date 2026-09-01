@@ -8,6 +8,12 @@ description: "This open access repository contains the complete published works 
 url: "https://docs.tellusant.com"
 baseurl: ""
 
+author: tellusant
+authors:
+  tellusant:
+    name: "Tellusant, Inc."
+    type: "Organization"
+
 image: "/assets/social-card-publ.png"
 logo: "/assets/images/logo-tellusant-v.png"
 
