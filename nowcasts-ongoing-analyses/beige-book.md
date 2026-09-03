@@ -9,11 +9,11 @@ image: /assets/social-card-beig.png
 
 # Beige Book Nowcast: Sentiment Analysis of Economic Activity — September 2, 2026
 
-U.S. Economic activity increased modestly in the September Beige Book, with conditions improving across 11 of 12 districts. National performance was slightly lower than in the June Beige Book. 
+U.S. Economic activity increased modestly in the September Beige Book, with conditions improving across 10 of 12 districts. National performance was slightly lower than in the June Beige Book. 
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-no06.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
-</p> 
+</p>  
 
 Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
 
@@ -21,7 +21,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-no06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-The GDP-weighted growth index is 1.71, up from 1.16 in June, which indicates a modest growth rate, up from slight. Both unweighted and weighted diffusion measures rose, suggesting that activity is becoming more evenly spread across ditricts. 
+The GDP-weighted growth index is 1.65 which is at the lower end of modest growth growth amd down from from 1.71 in the July Beige Book. Both unweighted and weighted diffusion measures are stable. 
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-no06.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
