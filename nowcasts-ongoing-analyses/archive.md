@@ -1,8 +1,7 @@
 # Beige Book Nowcast Archive
 
-# Beige Book Nowcast: Sentiment Analysis of Economic Activity — July 15, 2026
-
 ---
+## July 2026
 U.S. Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
 
 <p align="center">
@@ -20,6 +19,7 @@ The GDP-weighted growth index is 1.71, up from 1.16 in June, which indicates a m
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-07.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
 </p>
+
 ---
 ## June 2026
 Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts. National performance was higher than in the April Beige Book. 
