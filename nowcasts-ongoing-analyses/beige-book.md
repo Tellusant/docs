@@ -21,7 +21,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-no06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-The GDP-weighted growth index is 1.65 which is at the lower end of modest growth growth amd down from from 1.71 in the July Beige Book. Both unweighted and weighted diffusion measures are stable. 
+The GDP-weighted growth index is 1.65 which is at the lower end of modest growth and down from from 1.71 in the July Beige Book. Both unweighted and weighted diffusion measures are stable. 
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-no06.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
