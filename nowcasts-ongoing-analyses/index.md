@@ -1,7 +1,7 @@
 ---
-title: "Periodicals"
+title: "Nowcasts & Ongoing Analyses"
 description: "Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to quarterly."
-date: 2026-08-19
+date: 2026-09-03
 image: /assets/social-card-publ.png
 ---
 # Nowcasts & Ongoing Analyses
