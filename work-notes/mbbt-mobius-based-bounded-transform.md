@@ -1,4 +1,4 @@
-# Normalized Differences and Bounded Transformations
+# Möbius-based bounded transformation (MBBT): Normalized Differences and Bounded Transformations
 
 *Discussion: September 8, 2026*
 
