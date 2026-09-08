@@ -1,11 +1,11 @@
-# Möbius-based bounded transformation (MBBT): Normalized Differences and Bounded Transformations
+# Möbius-based bounded transformation (MBBT)
 
 *Discussion: September 8, 2026*
 
-## Preamble: Summary of earlier learnings
+## 1. Preamble: Summary of earlier learnings
 What design considerations are important.  
 
-### Normalized difference
+### 1.1 Normalized difference
 
 For the downside-risk work, the asymmetry measure is
 
@@ -57,7 +57,7 @@ $$
 \sigma_{\mathrm{adj}}=\sigma(1+A).
 $$
 
-### A recurring preference in metric design
+### 1.2 A recurring preference in metric design
 
 A broader methodological preference emerged: favor transformations that
 improve mathematical behavior while preserving economic meaning.
@@ -79,7 +79,10 @@ A concise statement is:
 Examples include the Möbius transformation, normalized differences,
 logarithms, and arithmetic-geometric interpolation.
 
-## Existing Möbius transformation
+# Möbius
+Benefits and one main drawback  
+
+### 2.1 Existing Möbius transformation
 
 The current transformation is
 
@@ -129,7 +132,7 @@ $$
 The drawback is therefore that small changes are approximately halved on
 the transformed scale.
 
-## Why the Möbius slope cannot simply be changed
+### 2.2 Why the Möbius slope cannot simply be changed
 
 For the general Möbius form
 
@@ -160,7 +163,9 @@ $$
 There is no alternative within the Möbius family that preserves all
 three anchors while doubling the slope at zero to $1$.
 
-## Bounded extension with unit slope at zero
+## 3. Möbius-based bounded transformation
+
+### 3.1 Bounded extension with unit slope at zero
 
 The desired properties can be obtained by extending the Möbius
 transformation.
@@ -214,7 +219,7 @@ $$
 Small changes retain approximately their original magnitude while large
 changes remain compressed toward the bounds.
 
-## Monotonicity
+### 3.2 Monotonicity
 
 The derivative is
 
@@ -231,7 +236,7 @@ $$
 The transformation is therefore monotonic throughout the relevant
 domain.
 
-## Interpretation
+### 3.3 Interpretation
 
 The extended transformation combines four desirable properties:
 
@@ -250,7 +255,7 @@ $$
 The function is **not itself a Möbius transformation**. A suitable
 description is a **Möbius-based bounded transformation**.
 
-## Design implication
+### 3.4 Design implication
 
 The comparison illustrates the broader design principle. The original
 Möbius transformation has excellent bounds and economic anchors, but its
@@ -263,7 +268,7 @@ A useful general criterion for applied economic metrics is therefore:
 > choosing local behavior that remains intuitive around normal
 > observations.**
 
-## Inverse of the Möbius-based bounded transformation
+### 3.5 Inverse of the Möbius-based bounded transformation
 
 For
 
