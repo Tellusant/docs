@@ -2,7 +2,10 @@
 
 *Discussion: September 8, 2026*
 
-## Normalized difference
+## Preamble: Summary of earlier learnings
+What design considerations are important.  
+
+### Normalized difference
 
 For the downside-risk work, the asymmetry measure is
 
@@ -54,7 +57,7 @@ $$
 \sigma_{\mathrm{adj}}=\sigma(1+A).
 $$
 
-## A recurring preference in metric design
+### A recurring preference in metric design
 
 A broader methodological preference emerged: favor transformations that
 improve mathematical behavior while preserving economic meaning.
@@ -289,11 +292,7 @@ $$
 Completing the square,
 
 $$
-(x+1)^2
-=
-1+\frac{2y}{1-y}
-=
-\frac{1+y}{1-y}.
+(x+1)^2=1+\frac{2y}{1-y}=\frac{1+y}{1-y}.
 $$
 
 On the economically relevant domain $x\geq-1$, take the positive square
