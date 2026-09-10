@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "We summarize the credibility of Tellusant and show the breadth and depth of our company beyond mere products."
+description: "We describe the credibility of Tellusant and show the breadth and depth of our company beyond mere products."
 date: 2026-08-20
 image: /assets/social-card-about.png
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 # About Us
 <a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a> | *26 pages, 5600 words, 3 figures*
 
-We summarize—entirely in our own words—the ***credibility*** of Tellusant and show the breadth and depth of our company beyond mere products. Below you find:
+We describe—entirely in our own words—the ***credibility*** of Tellusant and show the breadth and depth of our company beyond mere products. Below you find:
 
 - Our narrative
 - Our verified credentials
