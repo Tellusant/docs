@@ -5,6 +5,8 @@ image: /assets/social-card-info.png
 ---
 # Tellusant Etymology
 
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant</i>
+
 What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
 
 <p align="center">
