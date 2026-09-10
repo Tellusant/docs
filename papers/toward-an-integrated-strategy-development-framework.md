@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 # Toward an Integrated Strategy Development Framework
 ## A New Synthesis Based on the Giants of the Past
-*Dr Staffan Canback & Philip Burginyoung, Tellusant*
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a> *and Philip Burginyoung* <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant</i>
 
 There are numerous definitions of strategy for corporate planning purposes. Most are poorly thought through and of little value. The goal of this paper is to to take the most important contributions to strategy science since the late 1950s and integrate them into coherent perspective.  
 
