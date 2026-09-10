@@ -5,7 +5,7 @@ image: /assets/social-card-map.png
 ---
 # China – Cities and Subdivisions Covered in TelluBase
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 ## *TelluBase Definitions*
 
