@@ -4,6 +4,7 @@ description: "We summarize and give structure to validation methods in time-depe
 image: /assets/social-card-pub.png
 ---
 #  Ex-post and Ex-ante Validation of Statistical Models
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 We summarize and give structure to validation methods in time-dependent forecasts.  
 
