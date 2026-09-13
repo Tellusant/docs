@@ -5,7 +5,7 @@ image: /assets/social-card-publ.png
 ---
 
 # The Future of Companies Is Math
-*Dr. Staffan Canback, Tellusant*
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 ---
 The future of companies is math. They should have **Chief Math Officers** (CδO) who cover all aspects of math, not only AI. Yet few CEOs outside tech now anything about math. They will find it increasingly difficult to navigate the modern management landscape.  
