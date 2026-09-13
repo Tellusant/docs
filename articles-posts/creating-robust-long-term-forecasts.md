@@ -5,8 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method
-
-***Dr. Staffan Canback, Tellusant***  
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 ---
 This short document describes how sophisticated and careful our long-term predictive models are and allows readers to glean under the hood.  
