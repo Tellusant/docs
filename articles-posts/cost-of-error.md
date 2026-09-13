@@ -5,6 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # The Cost of Error
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 In January 2025, Tellusant started researching the cost of forecasting errors at large companies. Here we report some findings.  
 
