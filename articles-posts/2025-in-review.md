@@ -8,6 +8,8 @@ image: /assets/social-card-pub.png
 </p>
 
 # Tellusant 2025 Review
+<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+
 As we approach the holidays, here's a review of the past year. We made excellent progress across the board.
 
 ## Market Position
