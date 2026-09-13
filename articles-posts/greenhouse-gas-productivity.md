@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # Greenhouse Gas Productivity
-*Dr. Staffan Canback, Tellusant*
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?  
 
