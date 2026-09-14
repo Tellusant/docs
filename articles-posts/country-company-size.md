@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # Comparing Country and Company Size: Value-Added (VA) as the Common Metric
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 Our ***Paragonal*** database quantifies productivity of countries, companies, and their business units. As a by-product, it measures [value-added](value-added.md) of both countries and companies. This allows for a direct comparison of size.
 
