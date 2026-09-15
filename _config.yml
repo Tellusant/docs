@@ -57,6 +57,10 @@ related_sites:
     name: "TelluBase"
     url: "https://tellubase.com/"
 
+  canback:
+    name: "CANBACK think"
+    url: "https://canback.net/docs/"
+
 
 # ------------------------------------------------------------
 # Jekyll plugins
