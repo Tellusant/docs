@@ -1,5 +1,5 @@
 # Structural Diversity and Time-Space Relationships via the Gini Coefficient
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>  
 
 When annual time series data (e.g., beer consumption per capita, 1970–2022) is decoupled from chronology, sorted from lowest to highest value, and accumulated, the Gini coefficient transforms from an inequality metric into a measure of **Structural Diversity** and **Regime Concentration**. 
 
