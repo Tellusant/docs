@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 
 # America's Largest Enterprises in 2025
 
-<a href="{{ site.related_sites.canback.url }}" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 
 Tellusant's third official **America's Largest Enterprises Ranking in the Twenties (ALERT)** is out. It ranks the largest U.S. companies by value-added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.  
