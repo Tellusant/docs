@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 
 # America's Largest Enterprises in 2024
 
-<a href="{{ site.related_sites.canback.url }}" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" style="color: black; text-decoration: none;"><i>{{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
 
 Tellusant's second official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)—economist's preferred way to measure size—and a better method than ranking by revenue like Fortune does.
 
