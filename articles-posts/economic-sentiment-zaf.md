@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # South Africa Economic Sentiment Analysis Using AI
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>  
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>  
 
 This article shows how we perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
