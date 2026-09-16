@@ -1,6 +1,6 @@
 # Sweden’s Export Opportunities in a Difficult Trade Climate
 
-<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback, Tellusant.</i> <span>|</span> *2025-10-18*
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i> | *2025-10-18*
 
 Auto-translated. [The original Swedish report is found here](https://canback.net/docs/sverige/sweden-exports.html)
 
