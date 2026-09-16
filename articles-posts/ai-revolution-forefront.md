@@ -5,10 +5,8 @@ image: /assets/social-card-pub.png
 ---
 
 # Tellusant at the Forefront of the AI Revolution
-
-<a href="{{ site.company.url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
-
----
+ <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i> | <i>2025-08-29</i>
+ 
 Tellusant has always been at the forefront of the AI revolution. It was the intent behind founding the company and abandoning management consulting (we retain those consulting skills and infuse them in our predictive solutions).  
 
 We are known for the accuracy of our strategic planning solutions. We do not want to jeopardize this by bringing half-baked ideas to market. Our rollout is therefore measured, yet forceful. CEOs should be able to talk with confidence about insights from our solutions in analyst calls (our acid test for success).  
