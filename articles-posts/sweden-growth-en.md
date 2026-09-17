@@ -6,7 +6,8 @@ image: /assets/social-card-sverige.png
 ---
 # Lousy as It Gets: Sweden’s Economic Growth, 2015–2025
 
-*By Dr. Staffan Canback, Tellusant* | *2026-02-28*
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+ <span> | </span>*2026-02-28*
 
 **Sweden’s growth is often discussed in dramatic terms.
 But what do the most fundamental economic measures tell us about developments over the past few decades?**
