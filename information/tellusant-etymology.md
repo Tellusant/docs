@@ -4,8 +4,7 @@ description: "What is the etymology of Tellusant? It derives from Tellus and Qua
 image: /assets/social-card-info.png
 ---
 # Tellusant Etymology
-
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 What is the etymology of Tellusant? It derives from ***Tellus*** and ***Quantitative***.
 
