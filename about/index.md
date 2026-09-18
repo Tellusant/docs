@@ -10,7 +10,7 @@ redirect_from:
 ---
  
 # About Us
-<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a> | *26 pages, 5600 words, 3 figures*
+<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a><span> | </span>*26 pages, 5600 words, 3 figures*
 
 We describe—entirely in our own words—the ***credibility*** of Tellusant and show the breadth and depth of our company beyond mere products. Below you find:
 
