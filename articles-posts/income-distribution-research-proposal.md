@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # Research on Income Distribution's Explanatory Power on Product Demand
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
 This proposal shows how we conduct research on, e.g., income distribution. It is written to limit scope and avoid runaway explorations. It is an update on the same research documented in [Canback, S. and F. D'Agnese (2008): *Where in the World Is the Market*](../papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf).
 
