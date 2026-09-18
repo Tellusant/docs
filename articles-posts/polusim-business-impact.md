@@ -4,6 +4,7 @@ description: "Our PoluSim forecasting solution is widely appreciated by customer
 image: /assets/social-card-pub.png
 ---
 # PoluSim Business Impact: Board Room and Operating Level Views
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 Our **PoluSim forecasting solution** is widely appreciated by customers around the world. A key reason is that we design it for total business impact instead of narrow gauges like accuracy alone.
 
@@ -82,5 +83,4 @@ It is part of a management revolution not seen since the advent of the mult-divi
 
 ---
 [See our collection of thought pieces on predictive model theory](predictive-modeling-collection.md)  
-
 [Find more articles and posts](index.md)  
