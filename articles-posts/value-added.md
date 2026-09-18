@@ -1,4 +1,6 @@
 # What Is *Value-Added*?
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+
 Value-added is the increase in value of a product or service at each stage of production, calculated as revenue minus the cost of purchased goods and services. It represents the true contribution to GDP by a firm or industry, reflecting value generated through labor and capital.  
 ## Key Aspects of Value-Added
 - Formula: Value-added = Revenue - Purchased goods/services
