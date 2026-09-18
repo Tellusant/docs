@@ -5,7 +5,7 @@ image: /assets/social-card-info.png
 ---
 <p align="center">
 <iframe
-  src="https://tellusant.github.io/docs/information/Tellusant-Introduction.pdf"
+  src="../Tellusant-Introduction.pdf"
   style="
     width: 600px;
     height: 400px;
