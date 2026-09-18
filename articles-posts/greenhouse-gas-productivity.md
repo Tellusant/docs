@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # Greenhouse Gas Productivity
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a><span> | </span>*2024-12-02*  
 
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?  
 
@@ -35,6 +35,5 @@ The underlying thought in this post is that climate change and greenhouse gas em
 As of Dec. 2025, the World Bank has updated its data till 2023. The graphs will be updated, but changes will be small, if any.
 
 ---
-[2024-12-02]  
 [© Canback Map Projection](https://publicrecords.copyright.gov/detailed-record/voyager_31865619)  
 [Find more articles and posts](index.md)  
