@@ -4,6 +4,7 @@ description: "For searchability, here is the Tellusant global footprint map as a
 image: /assets/social-card-about.png
 ---
 # Global Footprint List
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
 For searchability, here is the Tellusant global footprint map as a list.
 
