@@ -5,8 +5,7 @@ date: 2025-10-11
 image: /assets/social-card-publ.png
 ---
 # Subnational ICT Opportunities in South Africa  
-
-<a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 ## Case Example for How to Use TelluBase Income Distribution Data  
 
