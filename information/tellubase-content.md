@@ -4,8 +4,7 @@ description: "We show the contents of TelluBase in a simple 3D ''tower'', demons
 image: /assets/social-card-info.png
 ---
 # The Tower of TelluBase
-
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+ <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
 ## *TelluBase Definitions*
 [To access TelluBase and purchase data, visit the website](https://tellubase.com).
