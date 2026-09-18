@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 # Philosophical Stances for Predictive Modeling
 
-*by Dr. Staffan Canback, Tellusant*
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 Forecasting differs by what it tries to approximate: the world around us, the data as it comes, a set of possible futures, or informed human judgment. Each orientation reflects a distinct view of what makes a forecast valid. 
 
