@@ -1,3 +1,6 @@
+# Recent Citations
+ <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
+
 |||||
 |---|---|---|---|
 |Ambev (2022)|Economisch Bureau Amsterdam (2024)|ISEAS (2021)|Reddal (2024)|
