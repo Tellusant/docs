@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # How do I Know If My Model Works? Hypothesis Validation Approaches
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 There is a tension that runs through modern epistemology: between a science of refutation and a desire for affirmation. We want hypotheses "proven", but this is impossible. Here we delineate the approaches that can be used to get closer to proof.
 
