@@ -1,6 +1,7 @@
 
 
 # Ratiocination of Tellusant's Judgmental-Mechanical Model
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 Here is an example of how our models are created for those interested in ratiocination (epistemic strategy): the process of exact thinking.
 
