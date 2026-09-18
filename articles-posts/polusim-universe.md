@@ -4,6 +4,8 @@ description: "Our PoluSim solution has expanded majorly since the launch in 2022
 image: /assets/social-card-pub.png
 ---
 # The PoluSim Universe
+ <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
+
 Our **PoluSim** solution has expanded majorly since the launch in 2022. It now has three distinct modules plus **TelluBase** to help companies create a strategic view of the future and to predict demand.  
 
 We have subscribers in more than 100 countries and are featured in clients' quarterly and annual reports, as documented by the SEC.  
