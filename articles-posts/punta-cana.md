@@ -4,6 +4,8 @@ description: "Our global retreat was held in November in Punta Cana, Dominican R
 image: /assets/social-card-pub.png
 ---
 # Global Retreat in Punta Cana 2025
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
+
 The Tellusant Global Retreat is held in Punta Cana, Dominican Republic, this year. We have four days of work and relaxation at the ultra-luxury Live Aqua resort, a Grupo Posadas property. This follows the 2024 retreat in Panama City, Panama.  
 
 We picked Punta Cana because it is served by direct flights from Boston, Mexico and Bogota. And having perfect weather and a turquoise ocean also helped!
