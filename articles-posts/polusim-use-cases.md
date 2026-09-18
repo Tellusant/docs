@@ -5,6 +5,8 @@ image: /assets/social-card-info.png
 ---
 
 # PoluSim Use-Cases
+ <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
+ 
 PoluSim has multiple uses within large companies. Here we share summaries of six use-cases.  
 
 The graph is self-explanatory. Below it we describe some additional considerations for the prime case at the top.
