@@ -9,8 +9,7 @@ image: /assets/social-card-pub.png
 <p align="center">
 <img  src="assets/images/tellusant-triple-a-0.svg" width="300" alt="Tellusant triple-A logo">  
 </p>
-
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
 Quantifying market opportunities requires clear definitions. The **Addressable – Available – Actual** market sizing method provides this. It is a logical way to understand not only current market size, but also the latent market opportunities.  
 
