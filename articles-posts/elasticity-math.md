@@ -4,7 +4,7 @@ description: "Why do we use logarithms when calculating elasticities? Here is th
 image: /assets/social-card-pub.png
 ---
 # Elasticity Math  
-<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>  
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 >*To my pleasant surprise, this is my most popular substance-oriented post ever. There is hope.*
 
