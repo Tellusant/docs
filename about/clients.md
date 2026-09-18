@@ -5,6 +5,8 @@ description: "These are client companies and institutions served by Tellusant an
 image: /assets/social-card-about.png
 ---
 # Significant Clients
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
+
 These are client companies and institutions served by Tellusant and its leaders over the years.
 
 Recent clients in bold.
