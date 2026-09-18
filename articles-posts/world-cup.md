@@ -4,7 +4,7 @@ description: "How have countries performed at the World Cup this century? A comp
 image: /assets/social-card-pub.png
 ---
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
-*Dr. Staffan Canback, Tellusant*  
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.¹  
 
