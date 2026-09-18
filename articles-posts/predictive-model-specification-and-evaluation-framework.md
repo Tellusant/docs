@@ -5,9 +5,8 @@ image: /assets/social-card-pub.png
 ---
 
 # How to Specify and Evaluate Predictive Models
-**Under journal pre-consideration**
-
-*by Dr. Staffan Canback, Tellusant*
+**Under journal pre-consideration**  
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 >This paper builds on the author's decades of top management consulting experience, increasingly supported by predictive and other statistical models. It also leverages the author's academic experience over the past 30 years.
 >
