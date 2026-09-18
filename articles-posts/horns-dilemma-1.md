@@ -6,7 +6,7 @@ image: /assets/social-card-pub.png
 
 # The Horns of the Dilemma in Strategy Development
 ## Trade-offs between generality, precision, and realism in strategy development
-<a href="https://canback.net/docs/" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
 
 In strategy development and strategic planning efforts, the team responsible has to decide upfront what it wants to achieve. It cannot get general results, precise results, and realistic results simultaneously. This is called the ***Horns of the Dilemma*** in sociology (of which management science is a part).
 
@@ -24,6 +24,4 @@ The issue is that it is impossible to cover all three at the same time no matter
 Senior executives tend to prefer generality. Junior employees often think in terms of precision or realism. But many people have no structured way to think about the dilemma and want it all.
 
 ---
-*AI was not used.*
-
 [Find more articles and posts](index.md)
