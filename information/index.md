@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 # Company Information
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
 Learn about Tellusant, its applications and quantitative decision consulting.
 
