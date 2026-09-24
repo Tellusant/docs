@@ -8,10 +8,7 @@ seo:
 ---
 # Repository Contents
 
-<a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;">
-  
-  <i>By Tellusant, Inc.</i>
-</a>
+<a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a>  
 
 This open access repository contains the published works by Tellusant team members. 
 
