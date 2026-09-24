@@ -1,6 +1,6 @@
 ---
 title: "Tellusant Publications Repository"
-description: "This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more."
+description: "This open access repository contains the published works by Tellusant team members."
 date: 2026-08-19
 image: /assets/social-card-publ.png
 seo:
@@ -9,10 +9,11 @@ seo:
 # Repository Contents
 
 <a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;">
+  
   <i>By Tellusant, Inc.</i>
 </a>
 
-This open access repository will contain the complete published works by Tellusant team members. They range from scientific papers, to TV and radio appearances, to social media posts, and much more. 
+This open access repository contains the published works by Tellusant team members. 
 
 *[This is a subdomain of our main website](https://tellusant.com).*  
 
