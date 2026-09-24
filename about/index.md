@@ -23,7 +23,7 @@ We describe—entirely in our own words—the ***credibility*** of Tellusant and
 [1.2 Products](#12-products)  
 $\quad \~$ [1.2.1 TelluPlan and Its Applications](#121-telluplan-and-its-applications)  
 $\quad \~$ [1.2.2 TelluBase](#122-tellubase)  
-[1.3 Quantitative Decision Consulting](#13-quantitative-decision-consulting)  
+[1.3 Quantitative Strategy Consulting](#13-quantitative-strategy-consulting)  
 [1.4 AI Uses at Tellusant](#14-ai-uses-at-tellusant)  
 $\quad \~$ [1.4.1 Applying AI in Coding Practices](#141-applying-ai-in-coding-practices)  
 $\quad \~$ [1.4.2 Enhancing Core Apps with AI](#142-enhancing-core-apps-with-ai)  
@@ -128,12 +128,12 @@ The graph below summarizes our main properties.
 <img src="images/telluplan-tellubase-concept.svg" width="400"  alt="Telluplan-Tellubase concept">
 </p>
 
-### 1.3 Quantitative Decision Consulting
+### 1.3 Quantitative Strategy Consulting
 ***"The central problem is not how to organize to produce efficiently...but how to organize to make decisions”*** said Prof. Herbert Simon, Nobel Prize winner and intellectual giant at the intersection of economics and psychology.
 
-Decision consultants help executives and organizations structure the logic of decisions, breaking them down into manageable parts with factual support.
+We help executives and organizations structure the logic of strategic decisions, breaking them down into manageable parts with factual support.
 
-We focus on those decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our Strategy Grid: growth, productivity, and risk, at the country, company, and business unit levels. As such, our decision consulting work complements our solutions shown in Section 1.2.
+We focus on those strategic decisions where quantitative analysis, performed by us in collaboration with client teams, is key. These are typically in strategic areas, and occasionally in operations. Our quantitative focus is seen in our Strategy Grid: growth, productivity, and risk, at the country, company, and business unit levels. As such, our decision consulting work complements our solutions shown in Section 1.2.
 
 The success of our projects is, like for MBB, largely set in the proposal discussions. We therefore invest significant time and effort in interviewing key stakeholders and aligning expectations. We find it important always to maintain line of sight with the senior decision makers. If the negotiation is delegated to lower level of the organization, the proposal quality will suffer.
 
@@ -142,7 +142,7 @@ When work begins, the mid-level of the client company is, however, critical. Thi
 Typical assignments are:
 - Strategy development with a decision focus  
 - Working in parallel with MBB responsible for demand predictions (this is to reduce conflict of interest when one consulting firm both makes recommendations and predicts outomes). The approach started in M&A due diligence, and is now fairly common in regular strategy work.  
-- Decision diagnostic to ensure our products are realistically set up.  
+- Strategy diagnostic to ensure our products are realistically set up.  
 
 <a href="../articles-posts/quantitative-decision-consulting-case-stories.html" style="color: black; text-decoration: none"> To make the concept of quantitative decision consulting come alive, read our three <b>case examples</b></a>
 
