@@ -98,11 +98,13 @@ Typical uses include creating new methodologies, mathematical transformations, m
 
 The defining characteristic is not simply that AI produces something new, but that it contributes to the development of the underlying method or concept.  
 
-<div align="center";>— — —</div>  
+<p align="center">— — —</p>  
 
 The four levels therefore represent a progression in cognitive contribution:  
 
-Execute → Analyze → Synthesize → Invent
+$$
+\textbf{Execute} \rightarrow \textbf{Analyze} \rightarrow \textbf{Synthesize} \rightarrow \textbf{Create}
+$$
 
 A practical way to distinguish the levels is to ask how much of the problem and solution method is known in advance:
 
