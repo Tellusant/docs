@@ -1,6 +1,7 @@
 ---
-title: "Tellusant Publications Repository"
-description: "This open access repository contains the published works by Tellusant team members."
+title: Tellusant Publications Repository
+seo_title: Tellusant Publications Repository
+description: This open access repository contains the published works by Tellusant team members.
 date: 2026-08-19
 image: /assets/social-card-publ.png
 seo:
