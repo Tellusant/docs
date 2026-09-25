@@ -71,6 +71,7 @@ AI use can be classified according to the cognitive role it plays in completing 
 > - Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)  
 > - Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the past year (Level 4)  
 
+## The Cognitive AI Use-Stack
 Here is a bit deep more on the graph. From bottom to top:
 
 ### Level 1 — Execute: Task execution
