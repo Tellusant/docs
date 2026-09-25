@@ -91,7 +91,7 @@ The problem is known, but the method for solving it is not fully specified. AI h
 
 Typical uses include designing an analytical approach, developing a model architecture, combining research findings into a coherent framework, exploring trade-offs, designing an algorithm, or finding a solution to a novel and incompletely structured problem.
 
-### Level 4 — Invent: Method and Concept Development
+### Level 4 — Invent: Theory, Method and Concept Development
 AI participates in the development of new intellectual constructs rather than primarily applying existing ones. Both the framing of the problem and the method may be open to development. 
 
 Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. 
