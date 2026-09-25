@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Enterprise Commercialization Strategy: Subscription, Licensing, and Source Code Options
 
 This document captures the complete discussion regarding pricing structures, valuation multiples, strategic considerations, and key legal terms for transitioning a **$500,000/year enterprise subscription** into software licensing or source code buyout models.
