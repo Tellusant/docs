@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Testing Ergodicity in Panel Data (Stata)
 
 ## Key Point
