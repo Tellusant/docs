@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Downside Risk Adjustment for Corporate Operating Risk: A New Method
