@@ -1,6 +1,8 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
+
 # Akaike Information Criterion (AIC) for Comparing Models
 
 ## Equations
