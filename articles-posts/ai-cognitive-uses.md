@@ -1,6 +1,6 @@
 ---
-title: "America's Largest Enterprises in 2025"
-description: "Tellusant's third official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value-added (VA)."
+title: "How to Classify AI Work: The Cognitive Use Approach"
+description: "We operate daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task."
 image: /assets/social-card-pub.png
 ---
 
