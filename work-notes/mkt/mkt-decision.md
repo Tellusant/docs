@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Commercial Decision Difficulty
 
 This document is a verbatim rendering of the previous discussion in
