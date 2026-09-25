@@ -52,6 +52,38 @@ classDef none fill:transparent,stroke:transparent,color:#111;
 </div>
 </figure>
 
+## Interpretation
+
+AI use can be classified according to the cognitive role that AI plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.
+
+### Level 1 — Execute: Task execution
+The problem and the method are known. AI performs a well-specified task with limited need for interpretation or problem solving. Typical uses include formatting and restructuring information, translation, data conversion, routine coding, syntax correction, straightforward information retrieval, and executing established calculations or procedures. A task can be technically extensive and still belong at this level if the method is predetermined.
+
+### Level 2 — Analyze: Analytical support
+The problem is known and the general method is substantially understood, but interpretation and judgment are required. AI processes information to identify patterns, diagnose problems, make comparisons, or derive conclusions. Typical uses include summarizing and comparing evidence, debugging code, analyzing data, interpreting statistical results, identifying anomalies, assessing alternatives against specified criteria, and explaining why a result occurred.
+
+### Level 3 — Synthesize: Problem solving and synthesis
+The problem is known, but the method for solving it is not fully specified. AI helps formulate an approach, integrate information from different sources or disciplines, evaluate alternative methods, and construct a solution. Typical uses include designing an analytical approach, developing a model architecture, combining research findings into a coherent framework, exploring trade-offs, designing an algorithm, or finding a solution to a novel and incompletely structured problem.
+
+### Level 4 — Create: Method and concept development
+AI participates in the development of new intellectual constructs rather than primarily applying existing ones. Both the framing of the problem and the method may be open to development. Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. The defining characteristic is not simply that AI produces something new, but that it contributes to the development of the underlying method or concept.
+
+The four levels therefore represent a progression in cognitive contribution:
+
+Execute → Analyze → Synthesize → Create
+
+A practical way to distinguish the levels is to ask how much of the problem and solution method is known in advance:
+
+Level 1: problem known, method known.
+
+Level 2: problem known, method substantially known, interpretation required.
+
+Level 3: problem known, method must be developed.
+
+Level 4: problem framing and/or method itself is being developed.
+
+The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 creation.
+
 ## Sources
 Anderson, Lorin W., and David R. Krathwohl, eds. 2001. *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives*. New York: Longman.
 Parasuraman, Raja, Thomas B. Sheridan, and Christopher D. Wickens. 2000. “A Model for Types and Levels of Human Interaction with Automation.” *IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans* 30 (3): 286–297. [https://doi.org/10.1109/3468.844354](https://doi.org/10.1109/3468.844354).
