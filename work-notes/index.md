@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Work Notes
 Various ideas, techniques, reminders
 
