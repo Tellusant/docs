@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Tellusant marketing approach
 To be buildt out during July and August.
 
