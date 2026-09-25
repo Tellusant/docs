@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Gemini on TelluBase: Comprehensive Thread Transcript & Strategy Document
