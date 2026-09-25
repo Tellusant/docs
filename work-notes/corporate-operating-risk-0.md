@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 Finally for today: do you see this kind of operating risk assessment elsewhere?
