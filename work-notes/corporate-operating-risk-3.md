@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Corporate Operating Risk Model — Extended Notes
 
 ## 1. Objective
