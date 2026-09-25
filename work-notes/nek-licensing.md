@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Enterprise Commercialization Strategy: Subscription, Licensing, and Source Code Options
