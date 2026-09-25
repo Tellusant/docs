@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Gemini on TelluBase: Comprehensive Thread Transcript & Strategy Document
 
 ## Section 1: Initial Assessment & Initial Recommendations
