@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Recursive Linear Regression
 Work note
 
