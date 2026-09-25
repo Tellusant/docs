@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Example of Stata Beeswarm Graph (stripplot)
