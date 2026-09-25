@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Creating a Symmetrical Beeswarm Plot in Stata
