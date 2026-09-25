@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Creating a Symmetrical Beeswarm Plot in Stata
 
 This document captures the full step-by-step development of creating an organic, curved, and perfectly symmetrical vertical beeswarm plot for 200 countries using log(GDP) data in Stata.
