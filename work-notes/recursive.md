@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Recursive Linear Regression
