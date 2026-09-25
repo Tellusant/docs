@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # NEK Discussion Points (2026-08-11)
 
 ## Background
