@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # nek 1 nek1
 
 <div style="max-width: 600px; margin: 0 auto;">
