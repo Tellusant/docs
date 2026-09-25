@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # World Bank ICP Imputation Methodology: A Summary
 
 This document outlines the framework used by the World Bank’s International Comparison Program (ICP) to estimate Purchasing Power Parities (PPPs) and Price Level Indices (PLIs) for economies that do not participate in regional price survey collection cycles.
