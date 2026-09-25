@@ -5,7 +5,10 @@ image: /assets/social-card-pub.png
 ---
 
 # How to Classify AI Work: The Cognitive Use Approach
-We operate daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task.
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+ <span> | </span>*2026-09-25*
+ 
+Tellusant operates daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognitive order.
 
 It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
