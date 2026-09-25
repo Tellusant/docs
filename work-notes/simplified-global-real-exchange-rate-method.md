@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Simplified Global Real Exchange Rate Method for Volatility Measurement
 Thoughts for   Q-Risk
 
