@@ -62,7 +62,7 @@ classDef none fill:transparent,stroke:transparent,color:#111;
 </div>
 </figure>
 
-## My and Tellusant's Uses of AI
+## Our Uses of AI
 AI use can be classified according to the cognitive role it plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.  
 
 > My AI use can range from figuring out how to:  
@@ -103,7 +103,7 @@ The defining characteristic is not simply that AI produces something new, but th
 The four levels therefore represent a progression in cognitive contribution:  
 
 $$
-\textbf{Execute} \rightarrow \textbf{Analyze} \rightarrow \textbf{Synthesize} \rightarrow \textbf{Create}
+\mathbf{Execute \rightarrow Analyze \rightarrow Synthesize \rightarrow Invent}
 $$
 
 A practical way to distinguish the levels is to ask how much of the problem and solution method is known in advance:
