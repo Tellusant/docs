@@ -1,7 +1,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+{% if page.url == "/" %}
+  {% seo title=false %}
+  <title>Tellusant Publications Repository</title>
+{% else %}
+  {% seo %}
+{% endif %}
 
 <script type="application/ld+json">
 {
