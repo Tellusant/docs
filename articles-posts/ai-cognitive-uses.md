@@ -12,7 +12,7 @@ Tellusant operates daily at different cognitive levels with AI, from the mundane
 
 It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
-The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 are what distinguishes us, while levels 1 and 2 are critical for our productivity.
+The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 are what distinguish us, while levels 1 and 2 are critical for our productivity.
 
 
 
@@ -28,9 +28,9 @@ flowchart LR
 AI["`**AI Cognitive Use**`"]:::none
 
 L4["`**Level 4 — Invent**
-*Theory, method & concept invention*
+*Theory, method & concept development*
 Problem framing and/or
-method is new`"]:::strong
+method is being invented`"]:::strong
 
 L3["`**Level 3 — Synthesize**
 *Problem solving & synthesis*
@@ -75,7 +75,7 @@ AI use can be classified according to the cognitive role it plays in completing 
 Here is a bit more detail on the graph. From bottom to top:
 
 ### Level 1 — Execute: Task Execution
-The problem and the method are known. AI performs a well-specified, mundane, task with limited need for interpretation or problem solving.  
+The problem and the method are known. AI performs a well-specified, mundane task with limited need for interpretation or problem solving.  
 
 Typical uses include formatting and restructuring information, translation, data conversion, routine coding, syntax correction, straightforward information retrieval, and executing established calculations or procedures.  
 
@@ -116,7 +116,7 @@ A practical way to distinguish the levels is to ask how much of the problem and 
 
 * Level 4: problem framing and/or method itself is being developed.
 
-The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 creation.
+The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 invention.
 
 ---
 ## Sources
