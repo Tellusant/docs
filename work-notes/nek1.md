@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # nek 1 nek1
