@@ -7,6 +7,10 @@ image: /assets/social-card-pub.png
 # How to Classify AI Work: The Cognitive Use Approach
 We operate daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task.
 
+It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
+
+
+
 <figure>
     <figcaption style="font-weight: bold; text-align: center;">AI CLASSIFICATION SCHEMA</figcaption>
     <br/>
@@ -18,10 +22,10 @@ flowchart LR
 
 AI["`**AI Cognitive Use**`"]:::none
 
-L4["`**Level 4 — Create**
-*Method & concept development*
+L4["`**Level 4 — Invent**
+*Method & concept creation*
 Problem framing and/or
-method is being created`"]:::strong
+method is new`"]:::strong
 
 L3["`**Level 3 — Synthesize**
 *Problem solving & synthesis*
@@ -53,21 +57,35 @@ classDef none fill:transparent,stroke:transparent,color:#111;
 </div>
 </figure>
 
-## Interpretation
+## My and Tellusant's Uses of AI
 
-AI use can be classified according to the cognitive role that AI plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.
+AI use can be classified according to the cognitive role it plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.  
+
+From bottom to top in the graph:
 
 ### Level 1 — Execute: Task execution
-The problem and the method are known. AI performs a well-specified task with limited need for interpretation or problem solving. Typical uses include formatting and restructuring information, translation, data conversion, routine coding, syntax correction, straightforward information retrieval, and executing established calculations or procedures. A task can be technically extensive and still belong at this level if the method is predetermined.
+The problem and the method are known. AI performs a well-specified, mundane, task with limited need for interpretation or problem solving.  
+
+Typical uses include formatting and restructuring information, translation, data conversion, routine coding, syntax correction, straightforward information retrieval, and executing established calculations or procedures.  
+
+A task can be technically extensive and still belong at this level if the method is predetermined.  
 
 ### Level 2 — Analyze: Analytical support
-The problem is known and the general method is substantially understood, but interpretation and judgment are required. AI processes information to identify patterns, diagnose problems, make comparisons, or derive conclusions. Typical uses include summarizing and comparing evidence, debugging code, analyzing data, interpreting statistical results, identifying anomalies, assessing alternatives against specified criteria, and explaining why a result occurred.
+The problem is known and the general method is substantially understood, but interpretation and judgment are required. AI processes information to identify patterns, diagnose problems, make comparisons, or derive conclusions.  
 
-### Level 3 — Synthesize: Problem solving and synthesis
-The problem is known, but the method for solving it is not fully specified. AI helps formulate an approach, integrate information from different sources or disciplines, evaluate alternative methods, and construct a solution. Typical uses include designing an analytical approach, developing a model architecture, combining research findings into a coherent framework, exploring trade-offs, designing an algorithm, or finding a solution to a novel and incompletely structured problem.
+Typical uses include summarizing and comparing evidence, debugging code, analyzing data, interpreting statistical results, identifying anomalies, assessing alternatives against specified criteria, and explaining why a result occurred.
+
+### Level 3 — Synthesize: Problem Solving and Conclusioning
+The problem is known, but the method for solving it is not fully specified. AI helps formulate an approach, integrate information from different sources or disciplines, evaluate alternative methods, and construct a solution. 
+
+Typical uses include designing an analytical approach, developing a model architecture, combining research findings into a coherent framework, exploring trade-offs, designing an algorithm, or finding a solution to a novel and incompletely structured problem.
 
 ### Level 4 — Create: Method and concept development
-AI participates in the development of new intellectual constructs rather than primarily applying existing ones. Both the framing of the problem and the method may be open to development. Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. The defining characteristic is not simply that AI produces something new, but that it contributes to the development of the underlying method or concept.
+AI participates in the development of new intellectual constructs rather than primarily applying existing ones. Both the framing of the problem and the method may be open to development. 
+
+Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. 
+
+The defining characteristic is not simply that AI produces something new, but that it contributes to the development of the underlying method or concept.
 
 The four levels therefore represent a progression in cognitive contribution:
 
@@ -75,13 +93,13 @@ Execute → Analyze → Synthesize → Create
 
 A practical way to distinguish the levels is to ask how much of the problem and solution method is known in advance:
 
-Level 1: problem known, method known.
+* Level 1: problem known, method known.
 
-Level 2: problem known, method substantially known, interpretation required.
+* Level 2: problem known, method substantially known, interpretation required.
 
-Level 3: problem known, method must be developed.
+*Level 3: problem known, method must be developed.
 
-Level 4: problem framing and/or method itself is being developed.
+* Level 4: problem framing and/or method itself is being developed.
 
 The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 creation.
 
