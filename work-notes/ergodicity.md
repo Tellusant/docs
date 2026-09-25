@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Structural Diversity and Time-Space Relationships via the Gini Coefficient
