@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # The General and Special Models for Demand Forecasting
 Work note
 
