@@ -61,15 +61,17 @@ classDef none fill:transparent,stroke:transparent,color:#111;
 
 ## My and Tellusant's Uses of AI
 
-My Ai use can range from figuring out how to :
-- Create a graph in *Mermaid* like the one above in 10 minutes (Level 1)
-- Analyze productivity trends for all countries and a few thousand companies. Countries in a few hours; entire task over weeks (Level 2)
-- Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)
-- Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the last year (Level 4)
+
 
 AI use can be classified according to the cognitive role it plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.  
 
-From bottom to top in the graph:
+> My AI use can range from figuring out how to:  
+> - Create a graph in *Mermaid* like the one above in 10 minutes (Level 1)  
+> - Analyze productivity trends for all countries and a few thousand companies. Countries in a few hours; entire task over weeks (Level 2)  
+> - Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)  
+> - Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the last year (Level 4)  
+
+Here is a bit deep more on the graph. From bottom to top:
 
 ### Level 1 — Execute: Task execution
 The problem and the method are known. AI performs a well-specified, mundane, task with limited need for interpretation or problem solving.  
@@ -97,7 +99,7 @@ The defining characteristic is not simply that AI produces something new, but th
 
 The four levels therefore represent a progression in cognitive contribution:
 
-Execute → Analyze → Synthesize → Create
+Execute → Analyze → Synthesize → Invent
 
 A practical way to distinguish the levels is to ask how much of the problem and solution method is known in advance:
 
@@ -111,6 +113,7 @@ A practical way to distinguish the levels is to ask how much of the problem and 
 
 The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 creation.
 
+---
 ## Sources
 Anderson, Lorin W., and David R. Krathwohl, eds. 2001. *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives*. New York: Longman.
 Parasuraman, Raja, Thomas B. Sheridan, and Christopher D. Wickens. 2000. “A Model for Types and Levels of Human Interaction with Automation.” *IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans* 30 (3): 286–297. [https://doi.org/10.1109/3468.844354](https://doi.org/10.1109/3468.844354).
