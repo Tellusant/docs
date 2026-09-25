@@ -9,7 +9,7 @@ We operate daily at different cognitive levels with AI, from the mundane to the 
 
 It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
-The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 is what distinguishes us, but levels 1 and 2 are critical for productivity.
+The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 is what distinguishes us, but levels 1 and 2 are critical for our productivity.
 
 
 
@@ -61,10 +61,11 @@ classDef none fill:transparent,stroke:transparent,color:#111;
 
 ## My and Tellusant's Uses of AI
 
-My Ai use in a given day can range from figuring out how to 
-- Create a graph in *Mermaid* (Level 1)
-- Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry (Level 3)
-- Invent The Strategy Grid framework.
+My Ai use can range from figuring out how to :
+- Create a graph in *Mermaid* like the one above in 10 minutes (Level 1)
+- Analyze productivity trends for all countries and a few thousand companies. Countries in a few hours; entire task over weeks (Level 2)
+- Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)
+- Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the last year (Level 4)
 
 AI use can be classified according to the cognitive role it plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.  
 
