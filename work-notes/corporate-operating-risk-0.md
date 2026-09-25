@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 Finally for today: do you see this kind of operating risk assessment elsewhere?
 
 Short answer: yes—but not in the integrated, systematic way you’re building it. 
