@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Summary of Income Bracket Demand Modeling Discussion
 
 ## Objective
