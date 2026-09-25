@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Simplified Global Real Exchange Rate Method for Volatility Measurement
