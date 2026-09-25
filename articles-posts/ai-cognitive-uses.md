@@ -12,7 +12,7 @@ Tellusant operates daily at different cognitive levels with AI, from the mundane
 
 It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
-The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 is what distinguishes us, but levels 1 and 2 are critical for our productivity.
+The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 are what distinguishes us, but levels 1 and 2 are critical for our productivity.
 
 
 
@@ -28,7 +28,7 @@ flowchart LR
 AI["`**AI Cognitive Use**`"]:::none
 
 L4["`**Level 4 — Invent**
-*Method & concept creation*
+*Theory, method & concept invention*
 Problem framing and/or
 method is new`"]:::strong
 
@@ -68,30 +68,30 @@ AI use can be classified according to the cognitive role it plays in completing 
 > My AI use can range from figuring out how to:  
 > - Create a graph in *Mermaid* like the one above in 10 minutes (Level 1)  
 > - Analyze productivity trends for all countries and a few thousand companies. Countries in a few hours; entire task over weeks (Level 2)  
-> - Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)  
+> - Apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)  
 > - Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the past year (Level 4)  
 
 ## The Cognitive AI Use-Stack
-Here is a bit deep more on the graph. From bottom to top:
+Here is a bit more detail on the graph. From bottom to top:
 
-### Level 1 — Execute: Task execution
+### Level 1 — Execute: Task Execution
 The problem and the method are known. AI performs a well-specified, mundane, task with limited need for interpretation or problem solving.  
 
 Typical uses include formatting and restructuring information, translation, data conversion, routine coding, syntax correction, straightforward information retrieval, and executing established calculations or procedures.  
 
 A task can be technically extensive and still belong at this level if the method is predetermined.  
 
-### Level 2 — Analyze: Analytical support
+### Level 2 — Analyze: Analytical Support
 The problem is known and the general method is substantially understood, but interpretation and judgment are required. AI processes information to identify patterns, diagnose problems, make comparisons, or derive conclusions.  
 
 Typical uses include summarizing and comparing evidence, debugging code, analyzing data, interpreting statistical results, identifying anomalies, assessing alternatives against specified criteria, and explaining why a result occurred.
 
-### Level 3 — Synthesize: Problem Solving and Conclusioning
+### Level 3 — Synthesize: Problem Solving and Synthesis
 The problem is known, but the method for solving it is not fully specified. AI helps formulate an approach, integrate information from different sources or disciplines, evaluate alternative methods, and construct a solution. 
 
 Typical uses include designing an analytical approach, developing a model architecture, combining research findings into a coherent framework, exploring trade-offs, designing an algorithm, or finding a solution to a novel and incompletely structured problem.
 
-### Level 4 — Invent: Method and concept development
+### Level 4 — Invent: Method and Concept Development
 AI participates in the development of new intellectual constructs rather than primarily applying existing ones. Both the framing of the problem and the method may be open to development. 
 
 Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. 
