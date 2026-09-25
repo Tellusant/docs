@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Shock Elasticities
 Work note
 
