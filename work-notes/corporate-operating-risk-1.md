@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Corporate Operating Risk – Discussion Notes
 
 ---
