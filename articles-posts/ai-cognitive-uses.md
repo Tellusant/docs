@@ -12,7 +12,7 @@ Tellusant operates daily at different cognitive levels with AI, from the mundane
 
 It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
-The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 are what distinguishes us, but levels 1 and 2 are critical for our productivity.
+The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 are what distinguishes us, while levels 1 and 2 are critical for our productivity.
 
 
 
