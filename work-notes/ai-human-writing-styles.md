@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Strategic Tips for Humanizing Structured, Fact-Based Writing
 
 ### 1. Own Your Professional Authority
