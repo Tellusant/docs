@@ -5,7 +5,7 @@ image: /assets/social-card-ext.png
 ---
 # Recommended Readings
 
-<a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
 Here we recommend high quality works by external authorities, touching on our mission on to transform strategy development. ***These are works we wish we had written, but did not.***
 
