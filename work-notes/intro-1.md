@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Review Memorandum
 
 ## Tellusant Intro Deck
