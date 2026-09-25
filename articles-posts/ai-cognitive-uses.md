@@ -5,6 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # How to Classify AI Work: The Cognitive Use Approach
+We operate daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task.
 
 <figure>
     <figcaption style="font-weight: bold; text-align: center;">AI CLASSIFICATION SCHEMA</figcaption>
