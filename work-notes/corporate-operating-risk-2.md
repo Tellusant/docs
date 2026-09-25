@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Corporate Operating Risk Framework – Summary
 
 ## 1. Objective
