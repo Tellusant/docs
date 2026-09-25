@@ -66,7 +66,7 @@ AI use can be classified according to the cognitive role it plays in completing 
 > - Create a graph in *Mermaid* like the one above in 10 minutes (Level 1)  
 > - Analyze productivity trends for all countries and a few thousand companies. Countries in a few hours; entire task over weeks (Level 2)  
 > - Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry. On and off over 6 months (Level 3)  
-> - Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the last year (Level 4)  
+> - Invent [The Strategy Grid](https://docs.tellusant.com/articles-posts/strategy-grid.html) framework over the past year (Level 4)  
 
 Here is a bit deep more on the graph. From bottom to top:
 
@@ -92,9 +92,11 @@ AI participates in the development of new intellectual constructs rather than pr
 
 Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. 
 
-The defining characteristic is not simply that AI produces something new, but that it contributes to the development of the underlying method or concept.
+The defining characteristic is not simply that AI produces something new, but that it contributes to the development of the underlying method or concept.  
 
-The four levels therefore represent a progression in cognitive contribution:
+<div align="center";>— — —</div>  
+
+The four levels therefore represent a progression in cognitive contribution:  
 
 Execute → Analyze → Synthesize → Invent
 
@@ -112,8 +114,12 @@ The levels describe the nature of AI use rather than the inherent difficulty of 
 
 ---
 ## Sources
-Anderson, Lorin W., and David R. Krathwohl, eds. 2001. *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives*. New York: Longman.
-Parasuraman, Raja, Thomas B. Sheridan, and Christopher D. Wickens. 2000. “A Model for Types and Levels of Human Interaction with Automation.” *IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans* 30 (3): 286–297. [https://doi.org/10.1109/3468.844354](https://doi.org/10.1109/3468.844354).
-Doshi, Anil R., and Alastair P. Moore. 2026. “Toward a Human–AI Task Tensor: A Taxonomy for Organizing Work in the Age of Generative AI.” In *Handbook of Artificial Intelligence and Strategy*, 124–142. Edward Elgar Publishing. [https://doi.org/10.4337/9781035345885.00014](https://doi.org/10.4337/9781035345885.00014).
-Scott, Inara. 2026. “The AI Cognitive Pyramid: A Conceptual Framework for Generative AI Use, Critical Thinking, and Learning Design in Higher Education.” SSRN, March 1. [https://doi.org/10.2139/ssrn.6353318](https://doi.org/10.2139/ssrn.6353318).
+Anderson, Lorin W., and David R. Krathwohl, eds. 2001. *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives*. New York: Longman.  
+
+Parasuraman, Raja, Thomas B. Sheridan, and Christopher D. Wickens. 2000. “A Model for Types and Levels of Human Interaction with Automation.” *IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans* 30 (3): 286–297. 
+[https://doi.org/10.1109/3468.844354](https://doi.org/10.1109/3468.844354).  
+
+Doshi, Anil R., and Alastair P. Moore. 2026. “Toward a Human–AI Task Tensor: A Taxonomy for Organizing Work in the Age of Generative AI.” In *Handbook of Artificial Intelligence and Strategy*, 124–142. Edward Elgar Publishing. [https://doi.org/10.4337/9781035345885.00014](https://doi.org/10.4337/9781035345885.00014).  
+
+Scott, Inara. 2026. “The AI Cognitive Pyramid: A Conceptual Framework for Generative AI Use, Critical Thinking, and Learning Design in Higher Education.” SSRN, March 1. [https://doi.org/10.2139/ssrn.6353318](https://doi.org/10.2139/ssrn.6353318).  
 
