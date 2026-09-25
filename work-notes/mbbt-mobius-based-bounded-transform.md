@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # Möbius-based bounded transformation (MBBT)
 
 *Discussion: September 8, 2026*
