@@ -18,10 +18,15 @@ flowchart LR
 
 AI["`**AI Cognitive Use**`"]:::none
 
-L1["`**Level 1 — Execute**
-*Task execution*
+L4["`**Level 4 — Create**
+*Method & concept development*
+Problem framing and/or
+method is being created`"]:::strong
+
+L3["`**Level 3 — Synthesize**
+*Problem solving & synthesis*
 Problem known
-Method known`"]:::strong
+Method must be developed`"]:::strong
 
 L2["`**Level 2 — Analyze**
 *Analytical support*
@@ -29,20 +34,15 @@ Problem known
 Method substantially known
 Interpretation needed`"]:::strong
 
-L3["`**Level 3 — Synthesize**
-*Problem solving & synthesis*
+L1["`**Level 1 — Execute**
+*Task execution*
 Problem known
-Method must be developed`"]:::strong
+Method known`"]:::strong
 
-L4["`**Level 4 — Create**
-*Method & concept development*
-Problem framing and/or
-method is being created`"]:::strong
-
-AI --> L1
-AI --> L2
-AI --> L3
 AI --> L4
+AI --> L3
+AI --> L2
+AI --> L1
 
 %% ========= STYLES =========
 
