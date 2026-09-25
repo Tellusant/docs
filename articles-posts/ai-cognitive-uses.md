@@ -9,6 +9,8 @@ We operate daily at different cognitive levels with AI, from the mundane to the 
 
 It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
+The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 is what distinguishes us, but levels 1 and 2 are critical for productivity.
+
 
 
 <figure>
@@ -59,6 +61,11 @@ classDef none fill:transparent,stroke:transparent,color:#111;
 
 ## My and Tellusant's Uses of AI
 
+My Ai use in a given day can range from figuring out how to 
+- Create a graph in *Mermaid* (Level 1)
+- Figure out how to apply Möbius transforms to inflation or relative market share in order to achieve symmetry (Level 3)
+- Invent The Strategy Grid framework.
+
 AI use can be classified according to the cognitive role it plays in completing a task. The classification is not based on the technical complexity or size of the output. Instead, it reflects how well the problem and method are specified and how much analysis, synthesis, and conceptual development are required.  
 
 From bottom to top in the graph:
@@ -80,7 +87,7 @@ The problem is known, but the method for solving it is not fully specified. AI h
 
 Typical uses include designing an analytical approach, developing a model architecture, combining research findings into a coherent framework, exploring trade-offs, designing an algorithm, or finding a solution to a novel and incompletely structured problem.
 
-### Level 4 — Create: Method and concept development
+### Level 4 — Invent: Method and concept development
 AI participates in the development of new intellectual constructs rather than primarily applying existing ones. Both the framing of the problem and the method may be open to development. 
 
 Typical uses include creating new methodologies, mathematical transformations, metrics, conceptual frameworks, theories, algorithms, or decision approaches. 
