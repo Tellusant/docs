@@ -1,3 +1,7 @@
+---
+robots: noindex, nofollow
+---
+
 # NEK 2 NEK2
 
 <div style="max-width: 600px; margin: 0 auto;">
