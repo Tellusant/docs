@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # On Brashness
 *July 13, 2026*
 
