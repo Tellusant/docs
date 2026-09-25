@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Commercial Decision Difficulty
 
 ```At one point, you mentioned "Commercial decisions have become dramatically more difficult". Is there evidence for this statement? Has someone proven it? Are there dimensions of the difficulty? I believe the statement is right, but it would be great to somehow substantiate it.```
