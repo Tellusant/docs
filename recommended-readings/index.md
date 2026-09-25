@@ -1,13 +1,13 @@
 ---
 title: "Recommended Readings"
-description: "These are works we wish we had written, but did not."
+description: "Here we recommend high quality works by external authorities, touching on our mission on to transform strategy development."
 image: /assets/social-card-ext.png
 ---
 # Recommended Readings
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-Here we recommend high quality readings by external authorities, touching on our mission on to transform strategy development. ***These are works we wish we had written, but did not.***
+Here we recommend high quality works by external authorities, touching on our mission on to transform strategy development. ***These are works we wish we had written, but did not.***
 
 ---
 #### [Vaswani, A., N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A.N. Gomez, L. Kaiser, & I. Polosukhin (2017): Attention Is All You Need](google-attention-is-all-you-need-transformer-paper.pdf)
