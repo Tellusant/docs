@@ -1,5 +1,6 @@
 ---
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # NEK 2 NEK2
