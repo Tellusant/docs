@@ -1,7 +1,7 @@
 ---
 title: Tellusant Publications Repository
 seo_title: Tellusant Publications Repository
-description: This open access repository contains the published works by Tellusant team members.
+description: This open access repository contains the published works of Tellusant team members.
 date: 2026-08-19
 image: /assets/social-card-publ.png
 seo:
@@ -11,7 +11,7 @@ seo:
 
 <a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a>  
 
-This open access repository contains the published works by Tellusant team members. 
+This open access repository contains the published works of Tellusant team members. 
 
 *[This is a subdomain of our main website](https://tellusant.com).*  
 
