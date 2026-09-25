@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 ## Recent  
 
-### [How to Classify AI Work: The Cognitive Use Approach](https://docs.tellusant.com/articles-posts/ai-cognitive-levels.md)
+### [How to Classify AI Work: The Cognitive Use Approach](https://docs.tellusant.com/articles-posts/ai-cognitive-uses.md)
 We operate daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition rather than tasks.
 
 ### [Sweden's Export Opportunities in a Difficult Trade Climate](sweden-exports-en.md)  
