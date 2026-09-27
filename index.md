@@ -30,8 +30,8 @@ Public speeches, lectures and other presentations in slide format by Tellusant m
 Interviews with our leaders on TV, radio, podcasts and more.
 ## [Nowcasts & Ongoing Analyses](nowcasts-ongoing-analyses/index.md)  
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily. They include our nowcasted **recession predictor**, the global **economic sentiment engine**, and the **beige book nowcast**.   
-## [Fact Sheets](fact-sheets/index.md)  
-We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product.  
+## [Factsheets](factsheets/index.md)  
+We provide free TelluBase data to select public institutions and media. These are small, but important subsets of the full product.  
 ## [Videos](videos/index.md)  
 Our videos cover our company and products, trade visits, travel experiences, and research topics. They are hosted on Vimeo (and on our website).  
 ## [Maps](maps/index.md)
