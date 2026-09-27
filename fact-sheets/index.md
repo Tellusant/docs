@@ -1,9 +1,9 @@
 ---
-title: "TelluBase Fact Sheets"
+title: "TelluBase Factsheets"
 description: "We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product."
 image: /assets/social-card-pub.png
 ---
-# TelluBase Fact Sheets
+# TelluBase Factsheets
 
 <a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
@@ -29,24 +29,26 @@ We provide free TelluBase data to select public institutions and media through t
 #### [El Salvador](tellubase-factsheet-slv.pdf)  
 #### [Guatemala](tellubase-factsheet-gtm.pdf)  
 #### [Honduras](tellubase-factsheet-hnd.pdf)  
-#### [India](tellubase-factsheet-ind.pdf)  
-#### [Iran](tellubase-factsheet-irn.pdf)  
+#### [India](ind-tellubase-factsheet.pdf)  
+#### [Indonesia](idn-tellubase-factsheet.pdf)  
+#### [Iran](irn-tellubase-factsheet.pdf)  
 #### [Iraq](tellubase-factsheet-irq.pdf)  
 #### [Jordan](tellubase-factsheet-jor.pdf)  
 #### [Kuwait](tellubase-factsheet-kwt.pdf)  
 #### [Mexico](tellubase-factsheet-mex.pdf)  
 #### [Morocco](tellubase-factsheet-mar.pdf)  
+#### [Nepal](npl-tellubase-factsheet.pdf)  
 #### [Nicaragua](tellubase-factsheet-nic.pdf)  
-#### [Nigeria](tellubase-factsheet-nga.pdf)  
+#### [Nigeria](nga-tellubase-factsheet.pdf)  
 #### [Oman](tellubase-factsheet-omn.pdf)  
-#### [Pakistan](tellubase-factsheet-pak.pdf)  
+#### [Pakistan](pak-tellubase-factsheet.pdf)  
 #### [Panama](tellubase-factsheet-pan.pdf)  
 #### [Paraguay](tellubase-factsheet-pry.pdf)  
 #### [Peru](tellubase-factsheet-per.pdf)  
 #### [Philippines](tellubase-factsheet-phl.pdf)  
 #### [Qatar](tellubase-factsheet-qat.pdf)  
 #### [Saudi Arabia](tellubase-factsheet-sau.pdf)  
-#### [Sri Lanka](tellubase-factsheet-lka.pdf)  
+#### [Sri Lanka](lka-tellubase-factsheet.pdf)  
 #### [Tunisia](tellubase-factsheet-tun.pdf)  
 #### [United Arab Emirates](tellubase-factsheet-are.pdf)  
 #### [Uruguay](tellubase-factsheet-ury.pdf)  
