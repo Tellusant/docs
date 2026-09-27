@@ -15,7 +15,7 @@ We provide free TelluBase data to select public institutions and media through t
 #### [Algeria](tellubase-factsheet-dza.pdf)  
 #### [Argentina](tellubase-factsheet-arg.pdf)  
 #### [Bahrain](tellubase-factsheet-bhr.pdf)  
-#### [Bangladesh](tellubase-factsheet-bgd.pdf)  
+#### [Bangladesh](bgd-tellubase-factsheet.pdf)  
 #### [Dhaka, Bangladesh](tellubase-factsheet-dhaka.pdf)  
 #### [Bolivia](tellubase-factsheet-bol.pdf)  
 #### [Brazil](tellubase-factsheet-bra.pdf)  
