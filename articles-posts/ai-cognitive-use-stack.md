@@ -116,7 +116,7 @@ A practical way to distinguish the levels is to ask how much of the problem and 
 
 * Level 4: problem framing and/or method itself is being developed.
 
-The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 invention.
+The levels describe the nature of AI use rather than the inherent difficulty of the task. For example, generating hundreds of lines of routine code may constitute Level 1 execution, while developing a short new mathematical formulation could constitute Level 4 invention.  
 
 ---
 ## Sources
