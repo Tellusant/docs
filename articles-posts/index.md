@@ -12,6 +12,9 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 ## Recent  
 
+### [What Do Income Distribution Curves Look Like? A Few Examples](income-distribution-curves.md)
+Most executives have heard of income distribution, but usually do not know what the actual curves look like. Here we show examples and a few uses.
+
 ### [How to Classify AI Work: The Cognitive Use-Stack Approach](ai-cognitive-use-stack.md)
 Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task.
 
