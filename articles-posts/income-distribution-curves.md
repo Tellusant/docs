@@ -1,7 +1,9 @@
 ---
-title: "America's Largest Enterprises in 2024"
-description: "Tellusant's second official America's Largest Enterprises Ranking in 2020s (ALERT) is out. It ranks the largest U.S. companies by value added (VA)."
+title: "Inc dist"
+description: "Inc dist."
 image: /assets/social-card-publ.png
 ---
 
 # Inc Dist
+
+ <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a> <span> | </span>*2026-09-28*
