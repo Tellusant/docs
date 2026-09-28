@@ -32,12 +32,14 @@ There are other ways to present the vertical axes, but we chose this way because
 
 Why are these curves important?
 
-*First*, they show that the size of, e.g., the middle class varies tremendously by country or city even if average income were the same.
+***First***, they show that the size of, e.g., the middle class varies tremendously by country or city even if average income were the same.
 
-*Second*, the income brackets and socioeconomic levels grow at wildly varying rates because the curves are not linear. For example, the explosive growth of China's car market in the 2010s can largely be explained by the fact that the middle and upper classes grew much faster than average income. Knowing this, income elasticity was not 2-3, but in the range of 1-1.5.
+***Second***, the income brackets and socioeconomic levels grow at wildly varying rates because the curves are not linear. For example, the explosive growth of China's car market in the 2010s can largely be explained by the fact that the middle and upper classes grew much faster than average income. Knowing this, income elasticity was not 2-3, but in the range of 1-1.5.
 
-*Third*, premiumization opportunities are easily explained by these income curves. A regression analusis between price segment and the relevant income bracket shows where the sweet spot is.
+***Third***, premiumization opportunities are easily explained by these income curves. A regression analusis between price segment and the relevant income bracket shows where the sweet spot is.
 
-*Fourth*, the income curves also explain the impact of recessions on category or product demand. People tend to trade down or abandon the category, but it is not a universal phenomenon.
+***Fourth***, the income curves also explain the impact of recessions on category or product demand. People tend to trade down or abandon the category, but it is not a universal phenomenon.
+
+<p align="center">— — —</p>
 
 Understanding income distribution is critical for consumer goods companies, be it at the country or subnational levels. Yet we know of no company that has taken this to heart. It is intellectually straining, but at the same time the payoff is large. Yet income distribution is still surprisingly underused in corporate demand analysis. Understanding its mechanics can materially improve market sizing, forecasting, and resource allocation.
