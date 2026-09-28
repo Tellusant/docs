@@ -13,6 +13,10 @@ This is not surprising because there are not all that many such curves easily av
 
 Here we show four income distribution curves, with income expressed relative to each city's median income. We cap the maximum at the 99th percentile since the curves go to infinity.
 
+<p align="center">
+<img  src="assets/images/income-distribution/tellusant-income-distribution-curves.svg" width="600" alt="Tellusant: Select income distribution curves">
+</p>
+
 We chose the cities for the following reasons.
 
 - Bogotá as an example of a city with high income inequality. It is interesting to note that the top 1% of people make about the same amount of money as Stockholm, even though average income levels are much lower.
@@ -26,10 +30,6 @@ What to note in the graphs:
 3. Mean and median incomes per capita are indicated, as are the income levels at the 99% of the population cutoff.
 There are other ways to present the vertical axes, but we chose this way because it shows the differences in the curves.
 
-<p align="center">
-<img  src="assets/images/income-distribution/tellusant-income-distribution-curves.svg" width="600" alt="Tellusant: Select income distribution curves">
-</p>
-
 Why are these curves important?
 
 First, they show that the size of, e.g., the middle class varies tremendously by country or city even if average income were the same.
@@ -41,5 +41,3 @@ Third, Premiumization opportunities are easily explained by these income curves.
 Fourth, the income curves also explain the impact of recessions on category or product demand. People tend to trade down or abandon the category, but it is not a universal phenomenon.
 
 Understanding income distribution is critical for consumer goods companies, be it at the country or subnational levels. Yet we know of no company that has taken this to heart. It is intellectually straining, but at the same time the payoff is large. Yet income distribution is still surprisingly underused in corporate demand analysis. Understanding its mechanics can materially improve market sizing, forecasting, and resource allocation.
-
-
