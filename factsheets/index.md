@@ -2,6 +2,7 @@
 title: "TelluBase Factsheets"
 description: "We provide free TelluBase data to select public institutions and media. These are small, but important, subsets of the full product."
 image: /assets/social-card-pub.png
+redirect_from: /legitimacy/
 ---
 # TelluBase Factsheets
 
