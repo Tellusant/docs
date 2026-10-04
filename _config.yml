@@ -62,6 +62,9 @@ related_sites:
     name: "Dr. Staffan Canback"
     url: "https://canback.net/docs/"
 
+social:
+  name: "Tellusant, Inc."
+  threads: "https://www.threads.com/@tellussant"
 
 # ------------------------------------------------------------
 # Jekyll plugins
