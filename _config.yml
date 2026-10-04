@@ -38,6 +38,7 @@ company:
 
 social:
   name: "Tellusant, Inc."
+  threads: "https://www.threads.com/@tellussant"
   links:
     - "https://www.linkedin.com/company/tellusant/"
     - "https://vimeo.com/tellusant"
@@ -61,10 +62,6 @@ related_sites:
   canback:
     name: "Dr. Staffan Canback"
     url: "https://canback.net/docs/"
-
-social:
-  name: "Tellusant, Inc."
-  threads: "https://www.threads.com/@tellussant"
 
 # ------------------------------------------------------------
 # Jekyll plugins
