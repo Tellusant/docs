@@ -21,7 +21,7 @@ Building on previous posts in this series on inflation management, we discuss:
 - Inflation management levers  
 - The path forward  
 
-## Tellusant’s integrated inflation response framework
+## Tellusant’s Inflation Response Framework (TIRF)
 Inflation management is a multifaceted task for a CEO. We created TIRF based on academic literature to give an integrated view on what levers to pull.
 
 [g]
@@ -126,7 +126,7 @@ This means that companies should update cost-of-capital tables. It also means (r
 
 > What does it mean for the CEO? Make sure to review the current investment / project portfolio. Previously profitable acquisitions or projects may have become unprofitable.<sup>2</sup>
 
-## The Path Forward
+## The Road Forward
 CEOs need to energize executives to meet the inflation management challenge in a robust and scientific manner. Our TIRF approach is an organizing framework.
 
 The CEOs agenda does not need to be clogged. It is for the CEO to *initiate* proposals for action. Then the board *ratifies* those and/or other actions. Units *implement* the chosen actions. Finally, the board *monitors* the outcomes.<sup>3</sup>.
