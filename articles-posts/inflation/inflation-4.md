@@ -1,11 +1,13 @@
 ---
-title: "How to Classify AI Work: The Cognitive Use-Stack Approach"
-description: "Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task."
+title: "Pricing During Inflationary Times (Part 4 of 5 on Inflation Management)"
+description: "."
+date: 2022-07-21
 image: /assets/social-card-publ.png
 ---
 
-# 4
-PRICING DURING INFLATIONARY TIMES
+# Pricing During Inflationary Times (Part 4 of 5 on Inflation Management)
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+ <span> | </span>*2022-07-21*
 
 The most important decisions in times of high inflation are pricing related. Here we describe methods for how companies should optimize pricing.
 
