@@ -1,11 +1,11 @@
 ---
-title: "CEO Actions When Inflation Hits — A Checklist"
+title: "CEO Actions When Inflation Hits — A Checklist (Article 5 of 5)"
 description: "What should CEOs do when high inflation suddenly is the norm? Certainly not manage as usual. Structured, integrated inflation management is required. What must be done is not complicated, but it is easy to omit levers."
 date: 2022-07-28
 image: /assets/social-card-publ.png
 ---
 
-# CEO Actions When Inflation Hits — Our Checklist (5th of 5 Articles)
+# CEO Actions When Inflation Hits — Our Checklist (Article 5 of 5)
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2022-07-28*
 
@@ -23,8 +23,8 @@ The path forward
 TELLUSANT INFLATION RESPONSE FRAMEWORK (TIRF)
 Inflation management is a multifaceted task for a CEO. We created TIRF based on academic literature to give an integrated view on what levers to pull.
 
-Press enter or click to view image in full size
-Tellusant inflation response framework (TIRF) (inflation; CEO; management; global business)
+
+## Tellusant inflation response framework (TIRF) (inflation; CEO; management; global business)
 © Tellusant
 The five elements are all influenced by the same inflation rate. It is important that the same inflation assumptions feed into each of these levers.
 
@@ -38,10 +38,10 @@ In a large company around one month if the automated tools are available and app
 
 Next, we discuss each of the TIRF levers.
 
-INFLATION MANAGEMENT LEVERS
+## INFLATION MANAGEMENT LEVERS
 Revenue and cost were discussed in Part 4 of this series. We add a few observations here. The three other levers are new.
 
-Revenue
+### Revenue
 First, the company should track inflation-adjusted sales for internal purposes (how to communicate with the stock market is another matter). It is easy to be think one has increased sales when the real reason is inflation.
 
 For multinational companies that track country sales at market exchange rates, the consolidated revenue should be deflated by the inflation rate in the home country. The exchange rate already captures the differential inflation between countries and home).
@@ -64,7 +64,7 @@ Importantly, premiumization is sometimes possible in inflationary times if the r
 
 The leadership of a company needs to ensure these WisePrice levers are evaluated and acted on in business units and in countries.
 
-Cost
+### Cost
 Here are some additional recommendations beyond what was covered in Part 4 of this series.
 
 In inflationary times it is important to track variable and fixed costs diligently.
@@ -81,7 +81,7 @@ Second, this split into true variable or fixed cost has profound impact on the u
 
 What does it mean for the CEO? Make sure sensitivity analyses of budgets are based on true fixed / variable numbers. Never use EBITDA as a proxy.
 
-Asset Replacement Value
+### Asset Replacement Value
 One may think that assets bought at a lower price before inflation sets in is an advantage. The book value takes up less and less space on the balance sheet.
 
 But the stock market is not concerned with book value. It looks at replacement value for the machines, buildings, trucks, and other physical assets. Tobin’s Q sets this out:
@@ -101,7 +101,7 @@ A detailed Tobin’s Q graph is found here.
 
 What does it mean for the CEO? Make sure replacement values are reported quarterly so that the budget expectations on profitability and growth can be adjusted.
 
-Exchange Rates
+### Exchange Rates
 Too many companies think only of exchange rates in nominal terms. A CFO we know said “Why am I always negatively surprised by the exchange rate when I look at our East African companies?”
 
 The reason was that inflation was higher in those countries than in the home country. That those currencies declined was a healthy sign that the currency markets worked.
@@ -117,7 +117,7 @@ Tellusant — Real exchange rates: Ugandan shilling versus U.S. dollar (infl
 Source Tellusant REX (a part of TelluPlan)
 What does it mean for the CEO? Make sure the finance unit tracks RER and that they are applied when comparing countries. This is especially important for forward-looking plans like strategies and budgets. It also means that the company needs to have a perspective on future inflation.
 
-Cost of Capital
+### Cost of Capital
 Finally, cost of capital related to inflation. This affects both WACC and project hurdle rates.
 
 For simplicity, assume a company that has no debt; it is thus financed by equity. Then the cost of capital equals cost of equity Kₑ:
@@ -130,12 +130,14 @@ This means that companies should update cost-of-capital tables. It also means (r
 
 What does it mean for the CEO? Make sure to review the current investment / project portfolio. Previously profitable acquisitions or projects may have become unprofitable.²
 
-THE PATH FORWARD
+## The Path Forward
 CEOs need to energize executives to meet the inflation management challenge in a robust and scientific manner. Our TIRF approach is an organizing framework.
 
 The CEOs agenda does not need to be clogged. It is for the CEO to initiate proposals for action. Then the executive leadership (C-suite) ratifies those and/or other actions. Units implement the chosen actions. Finally, the CEO monitors the outcomes.³ Initiating and monitoring are not time consuming.
 
 Many of the suggested CEO actions will have to be handled manually and will take time. This is a shame because most of this is possible to automate. However, large companies are far behind the curve on such automation.
+
+>>This was written before LLMs. Today, four years later, the automation possibility is real. But large companies are still behind the curve.
 
 Tellusant is building its strategy management software to be able to handle such automation tasks. Instead of spending months and activating hundreds of people, much of the task is handled quickly and cost-efficiently.
 
@@ -143,8 +145,9 @@ Tellusant’s expertise and suite of products help companies handle high inflati
 
 To learn more, contact us by filling out this online form.
 
+---
 ¹ We also performed the analysis using the primitive hi-lo method. Its correlation with the regression method is 0.76.
 
 ² In fact, the main conduit for reducing inflation in a country is by reducing investments.
 
-³ Initiative — Ratify — Implement — Monitor is the famous decision process defined by Eugene Fama (Nobel Prize winner) and Michael Jensen (the most cited economics academic ever) in 1983. IRIM has other names too, but they are all copycats of the original. bit.ly/3JvWYin
+³ *Initiation — Ratification — Implementation — Monitoring* is the famous decision process defined by Eugene Fama (Nobel Prize winner) and Michael Jensen (the most cited economics academic ever) in 1983. IRIM has other names too, but they are all copycats of the original. [Fama, E.F. and M.C. Jensen: *Separation of Ownership and Control*](https://www.jstor.org/stable/725104)
