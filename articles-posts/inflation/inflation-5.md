@@ -48,15 +48,7 @@ For those using fixed exchange rates for the year, an adjustment for the differe
 
 The inflation metric should be the CPI. It is more up to date than the GDP deflator, which otherwise would be the better metric.
 
-<p align="center>
-∙ ∙ ∙
-</p>
-
 > What does it mean for the CEO? Make sure inflation-adjusted revenues are the metric for setting targets and are tracked monthly.
-
-<p align="center>
-∙ ∙ ∙
-</p>
 
 ***Second***, in Part 4 [l] we discussed how to make the trade-off between price and advertising. This does not imply that price cuts are the only way to optimize pricing.
 
@@ -140,8 +132,9 @@ CEOs need to energize executives to meet the inflation management challenge in a
 The CEOs agenda does not need to be clogged. It is for the CEO to *initiate* proposals for action. Then the board *ratifies* those and/or other actions. Units *implement* the chosen actions. Finally, the board *monitors* the outcomes.<sup>3</sup>.
 
 Many of the suggested CEO actions will have to be handled manually and will take time. This is a shame because most of this is possible to automate. However, large companies are far behind the curve on such automation.
-
+>>
 >>This was written before LLMs. Today, four years later, the automation possibility is real. But large companies are still behind the curve.
+>>
 
 ---
 Tellusant is building its strategy management software to be able to handle such automation tasks. Instead of spending months and activating hundreds of people, much of the task is handled quickly and cost-efficiently.
