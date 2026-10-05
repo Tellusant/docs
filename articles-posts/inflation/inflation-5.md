@@ -132,9 +132,8 @@ CEOs need to energize executives to meet the inflation management challenge in a
 The CEOs agenda does not need to be clogged. It is for the CEO to *initiate* proposals for action. Then the board *ratifies* those and/or other actions. Units *implement* the chosen actions. Finally, the board *monitors* the outcomes.<sup>3</sup>.
 
 Many of the suggested CEO actions will have to be handled manually and will take time. This is a shame because most of this is possible to automate. However, large companies are far behind the curve on such automation.
->>
->>This was written before LLMs. Today, four years later, the automation possibility is real. But large companies are still behind the curve.
->>
+ 
+```This was written before LLMs. Today, four years later, the automation possibility is real. But large companies are still behind the curve.```
 
 ---
 Tellusant is building its strategy management software to be able to handle such automation tasks. Instead of spending months and activating hundreds of people, much of the task is handled quickly and cost-efficiently.
