@@ -1,7 +1,8 @@
 ---
-title: "How to Classify AI Work: The Cognitive Use-Stack Approach"
-description: "Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task."
+title: "Characteristics of Inflation (Part 1 of 5)"
+description: "."
+date: 2022-06-16
 image: /assets/social-card-publ.png
 ---
 
-# 1
+# Characteristics of Inflation (Part 1 of 5)
