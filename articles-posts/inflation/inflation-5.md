@@ -1,11 +1,11 @@
 ---
-title: "CEO Actions When Inflation Hits — A Checklist (Article 5 of 5)"
+title: "CEO Actions When Inflation Hits — A Checklist (Part 5 of 5 on Inflation Management)"
 description: "What should CEOs do when high inflation suddenly is the norm? Certainly not manage as usual. Structured, integrated inflation management is required. What must be done is not complicated, but it is easy to omit levers."
 date: 2022-07-28
 image: /assets/social-card-publ.png
 ---
 
-# CEO Actions When Inflation Hits — Our Checklist (Part 5 of 5)
+# CEO Actions When Inflation Hits — Our Checklist (Part 5 of 5 on Inflation Management)
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2022-07-28*
 
