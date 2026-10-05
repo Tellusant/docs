@@ -5,7 +5,7 @@ date: 2022-07-28
 image: /assets/social-card-publ.png
 ---
 
-# CEO Actions When Inflation Hits — Our Checklist (Article 5 of 5)
+# CEO Actions When Inflation Hits — Our Checklist (Part 5 of 5)
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2022-07-28*
 
@@ -13,42 +13,44 @@ What should CEOs do when high inflation suddenly is the norm? Certainly not mana
 
 Structured, integrated inflation management is required. What must be done is not complicated, but it is easy to omit levers.
 
-Here we prescribe an integrated framework for action. Tellusant has considerable experience with this topic. Contact us at info@tellusant.com if you have questions.
+Here we prescribe an integrated framework for action based on our considerable experience with this topic.
 
-Building on previous posts in this series on inflation management, we discuss:
+Building on previous posts in this series on inflation management, we discuss:  
 
-Tellusant’s integrated inflation response model
-Inflation management levers
-The path forward
-TELLUSANT INFLATION RESPONSE FRAMEWORK (TIRF)
+- Tellusant’s integrated inflation response framework  
+- Inflation management levers  
+- The path forward  
+
+## Tellusant’s integrated inflation response framework
 Inflation management is a multifaceted task for a CEO. We created TIRF based on academic literature to give an integrated view on what levers to pull.
 
+[g]
 
-## Tellusant inflation response framework (TIRF) (inflation; CEO; management; global business)
-© Tellusant
 The five elements are all influenced by the same inflation rate. It is important that the same inflation assumptions feed into each of these levers.
 
 The framework is the starting point for discussions within the C-suite, business units, and geographic units. It also points to what various executives need to report back on to headquarters.
 
 Once the company has quantified and operationalized TIRF, the results should feed into an update of strategic and financial plans.
 
-How long does implementing TIRF take?
-
-In a large company around one month if the automated tools are available and appropriate processes are in place. Longer if the current planning processes are based on “Excel-Powerpoint-Email.”
+How long does implementing TIRF take? In a large company around one month if the automated tools are available and appropriate processes are in place. Longer if the current planning processes are based on “Excel-Powerpoint-Email.”
 
 Next, we discuss each of the TIRF levers.
 
-## INFLATION MANAGEMENT LEVERS
-Revenue and cost were discussed in Part 4 of this series. We add a few observations here. The three other levers are new.
+## Inflation Management Levers
+Revenue and cost were discussed in Part 4 [l] of this series. We add a few observations here. The three other levers are new.
 
 ### Revenue
-First, the company should track inflation-adjusted sales for internal purposes (how to communicate with the stock market is another matter). It is easy to be think one has increased sales when the real reason is inflation.
+*First*, the company should track inflation-adjusted sales for internal purposes (how to communicate with the stock market is another matter). It is easy to believe one has increased sales when the real reason is inflation.
 
 For multinational companies that track country sales at market exchange rates, the consolidated revenue should be deflated by the inflation rate in the home country. The exchange rate already captures the differential inflation between countries and home).
 
 For those using fixed exchange rates for the year, an adjustment for the differential exchange rate between country and home is necessary.
 
 The inflation metric should be the CPI. It is more up to date than the GDP deflator, which otherwise would be the better metric.
+
+<p align="center>
+∙ ∙ ∙
+</p>
 
 What does it mean for the CEO? Make sure inflation-adjusted revenues are the metric for setting targets and are tracked monthly.
 
