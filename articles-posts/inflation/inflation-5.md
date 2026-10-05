@@ -37,7 +37,7 @@ How long does implementing TIRF take? In a large company around one month if the
 Next, we discuss each of the TIRF levers.
 
 ## Inflation Management Levers
-Revenue and cost were discussed in Part 4 [l] of this series. We add a few observations here. The three other levers are new.
+Revenue and cost were discussed in [Part 4](inflation-4.md) of this series. We add a few observations here. The three other levers are new.
 
 ### Revenue
 ***First***, companies should track inflation-adjusted sales for internal purposes (how to communicate with the stock market is another matter). It is easy to believe one has increased sales when the real reason is inflation.
@@ -50,20 +50,20 @@ The inflation metric should be the CPI. It is more up to date than the GDP defla
 
 > What does it mean for the CEO? Make sure inflation-adjusted revenues are the metric for setting targets and are tracked monthly.
 
-***Second***, in Part 4 [l] we discussed how to make the trade-off between price and advertising. This does not imply that price cuts are the only way to optimize pricing.
+***Second***, in [Part 4](inflation-4.md) we discussed how to make the trade-off between price and advertising. This does not imply that price cuts are the only way to optimize pricing.
 
-The framework below points to the possibilities.
+The framework below points to additional possibilities.
 
 [g]
 
-We expand on the framework in a separate article [l]. For now, we point out that regular price cuts or promotional spending are not the only possibilities.
+We expand on the framework in a [separate article](https://medium.com/tellusant/pricing-mechanisms-for-managing-through-inflation-da6f6a234259?source=friends_link&sk=7305c2a8d7e608e89d13eee184a60997). For now, we point out that regular price cuts or promotional spending are not the only possibilities.
 
 Importantly, premiumization is sometimes possible in inflationary times if the right consumer groups are targeted.
 
 The leadership of a company needs to ensure these WisePrice levers are evaluated and acted on in business units and in countries.
 
 ### Cost
-Here are some additional recommendations beyond what was covered in Part 4 [l] of this series.
+Here are some additional recommendations beyond what was covered in [Part 4](inflation-4.md) of this series.
 
 In inflationary times it is important to track variable and fixed costs diligently.
 
@@ -94,7 +94,7 @@ When inflation is high, replacement values go up quickly. This increases the ass
 
 [g]
 
-A detailed Tobin’s **Q** graph is found here. [l]
+A detailed Tobin’s **Q** graph is found [here.](https://www.advisorperspectives.com/dshort/updates/2026/09/11/qratio-market-valuation-august-2026)
 
 > What does it mean for the CEO? Make sure replacement values are reported quarterly so that the budget expectations on profitability and growth can be adjusted.
 
@@ -107,7 +107,7 @@ The market exchange rate view is important. It is how companies report financial
 
 But for internal purposes the real (inflation-adjusted) exchange rates should be used. These are called *RERs*.
 
-The graph below from **Q-Risk** [l], our quantitative risk product which includes real exchange and inflation, shows an example:
+The graph below from [**Q-Risk**](https://docs.tellusant.com/work-notes/corporate-operating-risk-2.html), our quantitative risk product which includes real exchange and inflation, shows an example:
 
 [g]
 
