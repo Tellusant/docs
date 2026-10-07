@@ -24,7 +24,9 @@ Building on previous posts in this series on inflation management, we discuss:
 ## Tellusant’s Inflation Response Framework (TIRF)
 Inflation management is a multifaceted task for a CEO. We created TIRF based on academic literature to give an integrated view on what levers to pull.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-tirf.png" width="600" alt="TellusantInflation Response Framework">
+</p>
 
 The five elements are all influenced by the same inflation rate. It is important that the same inflation assumptions feed into each of these levers.
 
