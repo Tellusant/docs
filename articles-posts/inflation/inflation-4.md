@@ -9,6 +9,8 @@ image: /assets/social-card-publ.png
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2022-07-21*
 
+WIP. [To be ported from Medium](https://medium.com/tellusant/pricing-during-inflationary-times-8e15e2c25cee)
+
 The most important decisions in times of high inflation are pricing related. Here we describe methods for how companies should optimize pricing.
 
 These methods are universal. But in inflationary times most factors that go into pricing analyses are in flux. It is therefore critical to track those factors and have an at least semi-automated way to set prices.
