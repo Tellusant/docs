@@ -1,5 +1,5 @@
 ---
-title: "CEO Actions When Inflation Hits — A Checklist (Part 5 of 5 on Inflation Management)"
+title: "CEO Actions When Inflation Hits — Our Checklist (Part 5 of 5 on Inflation Management)"
 description: "What should CEOs do when high inflation suddenly is the norm? Certainly not manage as usual. Structured, integrated inflation management is required. What must be done is not complicated, but it is easy to omit levers."
 date: 2022-07-28
 image: /assets/social-card-publ.png
@@ -90,7 +90,10 @@ One may think that assets bought at a lower price before inflation sets in is an
 
 But the stock market is not concerned with book value. It looks at replacement value for the machines, buildings, trucks, and other physical assets. Tobin’s **Q** sets this out:
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-tobin.png" width="400" alt="Tellusant: Tobin's Q">
+</p>
+
 
 **Q** is widely used by economists, less so by businesses. It shows that the relative value of a company declines if replacement value increases, but profitability and growth (the parts that combine to create market value) do not keep up.
 
@@ -98,9 +101,11 @@ When inflation is high, replacement values go up quickly. This increases the ass
 
 1968–1980 in the graph below illustrates the point.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-tobin-q-timeseries.png" width="400" alt="Tellusant: Tobin's Q">
+</p>
 
-A detailed Tobin’s **Q** graph is found [here.](https://www.advisorperspectives.com/dshort/updates/2026/09/11/qratio-market-valuation-august-2026)
+A detailed Tobin’s **Q** graph for the entire U.S. economy is found [here.](https://www.advisorperspectives.com/dshort/updates/2026/09/11/qratio-market-valuation-august-2026)
 
 > What does it mean for the CEO? Make sure replacement values are reported quarterly so that the budget expectations on profitability and growth can be adjusted.
 
@@ -115,7 +120,9 @@ But for internal purposes the real (inflation-adjusted) exchange rates should be
 
 The graph below from [**Q-Risk**](https://docs.tellusant.com/work-notes/corporate-operating-risk-2.html), our quantitative risk product which includes real exchange and inflation, shows an example:
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-rer.png" width="300" alt="Tellusant: Real exchange rate example">
+</p>
 
 > What does it mean for the CEO? Make sure the finance unit tracks RER and that they are applied when comparing countries. This is especially important for forward-looking plans like strategies and budgets. It also means that the company needs to have a perspective on future inflation.
 
@@ -124,7 +131,9 @@ Finally, cost of capital is related to inflation. This affects both WACC and pro
 
 For simplicity, assume a company that has no debt; it is thus financed by equity. Then the cost of capital equals cost of equity Kₑ $Ke$:
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-wacc.png" width="300" alt="Tellusant: Weighted average cost of capital equation">
+</p>
 
 Without going into financial theory, the risk-free rate is essentially the same as future inflation. Thus, capital cost increases with inflation.
 
