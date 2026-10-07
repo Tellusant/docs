@@ -106,7 +106,7 @@ However, suppose that within a defined class of high-potential projects, cases a
 
 ### The Payoff Matrix and Expected Value ($EV$)
 
-| Decision / State | Project Fails ($P = 0.85$) | Project Succeeds ($P = 0.15$) |
+| Decision / State | Project Fails<br>($P = 0.85$) | Project Succeeds<br>($P = 0.15$) |
 | :--- | :--- | :--- |
 | **Invest ($D_1$)** | -<span>$</span>10,000,000 | +<span>$</span>90,000,000 |
 | **Do Not Invest ($D_2$)** | <span>$</span>0 | <span>$</span>0 |
@@ -213,10 +213,10 @@ In that sense, $R^2$ can be an input to a decision process. **Calibrated Decisio
 
 ## References
 
-Brier, Glenn W. 1950. “Verification of Forecasts Expressed in Terms of Probability.” *Monthly Weather Review* 78 (1): 1–3. https://doi.org/10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2.
+[Brier, Glenn W. 1950. “Verification of Forecasts Expressed in Terms of Probability.” *Monthly Weather Review* 78 (1): 1–3.](https://doi.org/10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2).
 
-DeGroot, Morris H., and Stephen E. Fienberg. 1983. “The Comparison and Evaluation of Forecasters.” *Journal of the Royal Statistical Society. Series D (The Statistician)* 32 (1–2): 12–22. https://doi.org/10.2307/2987588.
+[DeGroot, Morris H., and Stephen E. Fienberg. 1983. “The Comparison and Evaluation of Forecasters.”](*Journal of the Royal Statistical Society. Series D (The Statistician)* 32 (1–2): 12–22. https://doi.org/10.2307/2987588).
 
-Gneiting, Tilmann, and Adrian E. Raftery. 2007. “Strictly Proper Scoring Rules, Prediction, and Estimation.” *Journal of the American Statistical Association* 102 (477): 359–378. https://doi.org/10.1198/016214506000001437.
+[Gneiting, Tilmann, and Adrian E. Raftery. 2007. “Strictly Proper Scoring Rules, Prediction, and Estimation.”*Journal of the American Statistical Association* 102 (477): 359–378.](https://doi.org/10.1198/016214506000001437).
 
-Hubbard, Douglas W. 2010. *How to Measure Anything: Finding the Value of Intangibles in Business*. 2nd ed. Hoboken, NJ: John Wiley & Sons.
+[Hubbard, Douglas W. 2010. *How to Measure Anything: Finding the Value of Intangibles in Business*.](2nd ed. Hoboken, NJ: John Wiley & Sons.)
