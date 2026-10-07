@@ -102,7 +102,7 @@ When inflation is high, replacement values go up quickly. This increases the ass
 1968–1980 in the graph below illustrates the point.
 
 <p align="center">
-<img  src="assets/images/tellusant-tobin-q-timeseries.png" width="500" alt="Tellusant: Tobin's Q">
+<img  src="assets/images/tellusant-tobin-q-timeseries.png" width="600" alt="Tellusant: Tobin's Q">
 </p>
 
 A detailed Tobin’s **Q** graph for the entire U.S. economy is found [here.](https://www.advisorperspectives.com/dshort/updates/2026/09/11/qratio-market-valuation-august-2026)
@@ -121,7 +121,7 @@ But for internal purposes the real (inflation-adjusted) exchange rates should be
 The graph below from [**Q-Risk**](https://docs.tellusant.com/work-notes/corporate-operating-risk-2.html), our quantitative risk product which includes real exchange and inflation, shows an example:
 
 <p align="center">
-<img  src="assets/images/tellusant-rer.png" width="400" alt="Tellusant: Real exchange rate example">
+<img  src="assets/images/tellusant-rer.png" width="600" alt="Tellusant: Real exchange rate example">
 </p>
 
 > What does it mean for the CEO? Make sure the finance unit tracks RER and that they are applied when comparing countries. This is especially important for forward-looking plans like strategies and budgets. It also means that the company needs to have a perspective on future inflation.
@@ -132,7 +132,7 @@ Finally, cost of capital is related to inflation. This affects both WACC and pro
 For simplicity, assume a company that has no debt; it is thus financed by equity. Then the cost of capital equals cost of equity Kₑ $Ke$:
 
 <p align="center">
-<img  src="assets/images/tellusant-wacc.png" width="400" alt="Tellusant: Weighted average cost of capital equation">
+<img  src="assets/images/tellusant-wacc-def.png" width="400" alt="Tellusant: Weighted average cost of capital equation">
 </p>
 
 Without going into financial theory, the risk-free rate is essentially the same as future inflation. Thus, capital cost increases with inflation.
