@@ -162,4 +162,4 @@ Thus, Tellusant’s expertise and suite of products help companies handle high i
 
 <sup>3</sup> *Initiation — Ratification — Implementation — Monitoring* is the famous decision process defined by Eugene Fama (Nobel Prize winner) and Michael Jensen (the most cited economics academic ever) in 1983. IRIM has other names too, but they are all copycats of the original. [Fama, E.F. and M.C. Jensen: *Separation of Ownership and Control*](https://www.jstor.org/stable/725104)
 
-<sup>4</sup>
+<sup>4</sup> Calibrated decisions refer to outputs where a model's stated probability or confidence score accurately matches its real-world frequency of being correct
