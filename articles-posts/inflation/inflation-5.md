@@ -52,7 +52,7 @@ The inflation metric should be the CPI. It is more up to date than the GDP defla
 
 > What does it mean for the CEO? Make sure inflation-adjusted revenues are the metric for setting targets and are tracked monthly.
 
-***Second***, in [Part 4](inflation-4.md) we discussed how to make the trade-off between price and advertising. This does not imply that price cuts are the only way to optimize pricing.
+***Second***, in Part 4 we discussed how to make the trade-off between price and advertising. This does not imply that price cuts are the only way to optimize pricing.
 
 The framework below points to additional possibilities.
 
@@ -67,7 +67,7 @@ Importantly, premiumization is sometimes possible in inflationary times if the r
 The leadership of a company needs to ensure these WisePrice levers are evaluated and acted on in business units and in countries.
 
 ### Cost
-Here are some additional recommendations beyond what was covered in [Part 4](inflation-4.md) of this series.
+Here are some additional recommendations beyond what was covered in Part 4 of this series.
 
 In inflationary times it is important to track variable and fixed costs diligently.
 
@@ -148,12 +148,12 @@ The CEOs agenda does not need to be clogged. It is for the CEO to *initiate* pro
 
 Many of the suggested CEO actions will have to be handled manually and will take time. This is a shame because most of this is possible to automate. However, large companies are far behind the curve on such automation.
  
-```This was written before LLMs. Today, four years later, the automation possibility is real. But large companies are still behind the curve.```
+```This was written before LLMs. Today, four years later, the automation possibility is even larger. But large companies are still behind the curve.```
 
 ---
-Tellusant is building its strategy management software to be able to handle such automation tasks. Instead of spending months and activating hundreds of people, much of the task is handled quickly and cost-efficiently.
+Tellusant builds its **calibrated decision**<sup>4</sup> applications to be able to handle such automation tasks. Instead of spending months and activating hundreds of people, much of the task is handled quickly and cost-efficiently.
 
-Tellusant’s expertise and suite of products help companies handle high inflation effectively.
+Thus, Tellusant’s expertise and suite of products help companies handle high inflation effectively.
 
 ---
 <sup>1</sup> We also performed the analysis using the primitive hi-lo method. Its correlation with the regression method is 0.76.
@@ -161,3 +161,5 @@ Tellusant’s expertise and suite of products help companies handle high inflati
 <sup>2</sup> In fact, the main conduit for reducing inflation in a country is by reducing investments.
 
 <sup>3</sup> *Initiation — Ratification — Implementation — Monitoring* is the famous decision process defined by Eugene Fama (Nobel Prize winner) and Michael Jensen (the most cited economics academic ever) in 1983. IRIM has other names too, but they are all copycats of the original. [Fama, E.F. and M.C. Jensen: *Separation of Ownership and Control*](https://www.jstor.org/stable/725104)
+
+<sup>4</sup>
