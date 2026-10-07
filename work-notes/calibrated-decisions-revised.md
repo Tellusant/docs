@@ -20,6 +20,8 @@ A useful summary is:
 
 ## 2. Why CD Applies to a Broader Decision Domain
 
+<div style="mermaid">
+
 ```mermaid
 flowchart LR
 
@@ -47,6 +49,8 @@ flowchart LR
     R3 -->|"Useful evidence"| C2
     C5 --> D["Operational Decision"]
 ```
+
+</div>
 
 The two approaches are therefore not substitutes in every setting. Model fit can provide useful evidence inside a broader decision process. The key difference is that CD is explicitly designed to carry uncertainty through to an operational choice.
 
