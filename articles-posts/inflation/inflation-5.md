@@ -25,7 +25,7 @@ Building on previous posts in this series on inflation management, we discuss:
 Inflation management is a multifaceted task for a CEO. We created TIRF based on academic literature to give an integrated view on what levers to pull.
 
 <p align="center">
-<img  src="assets/images/tellusant-tirf.png" width="600" alt="TellusantInflation Response Framework">
+<img  src="assets/images/tellusant-tirf.png" width="600" alt="Tellusant iInflation response framework (TIRF)">
 </p>
 
 The five elements are all influenced by the same inflation rate. It is important that the same inflation assumptions feed into each of these levers.
@@ -56,7 +56,9 @@ The inflation metric should be the CPI. It is more up to date than the GDP defla
 
 The framework below points to additional possibilities.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-wisepricing.png" width="600" alt="Tellusant: Wise-pricing framework">
+</p>
 
 We expand on the framework in a [separate article](https://medium.com/tellusant/pricing-mechanisms-for-managing-through-inflation-da6f6a234259?source=friends_link&sk=7305c2a8d7e608e89d13eee184a60997). For now, we point out that regular price cuts or promotional spending are not the only possibilities.
 
@@ -73,7 +75,9 @@ In inflationary times it is important to track variable and fixed costs diligent
 
 Instead, regression analyses should be performed to find the true split. Below is such an analysis for ten companies.
 
-[g]
+<p align="center">
+<img  src="assets/images/tellusant-variable-cost.png" width="600" alt="Tellusant: Variable cost from regression analysis">
+</p>
 
 The level of variable cost may be surprising.¹ But note that short term (current year) variable cost usually is lower. (We save this analysis for our customers.) Nevertheless, variable cost is usually higher than executives believe.
 
