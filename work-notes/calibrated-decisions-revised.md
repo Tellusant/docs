@@ -1,4 +1,4 @@
-# Framework: Calibrated Decisions vs. R-Squared for Corporate Teams
+# Calibrated Decisions vs. R-Squared for Corporate Teams
 
 Corporate teams frequently rely on $R^2$ as a familiar measure of explanatory power. But $R^2$ and **Calibrated Decisions (CD)** answer different questions. $R^2$ evaluates how well a statistical model explains variation in observed outcomes; calibration evaluates whether stated probabilities correspond to observed frequencies. CD goes one step further by combining reliable probabilities with economic payoffs and decision thresholds to guide action.
 
@@ -219,8 +219,8 @@ In that sense, $R^2$ can be an input to a decision process. **Calibrated Decisio
 
 [Brier, Glenn W. 1950. “Verification of Forecasts Expressed in Terms of Probability.” *Monthly Weather Review* 78 (1): 1–3.](https://doi.org/10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2).
 
-[DeGroot, Morris H., and Stephen E. Fienberg. 1983. “The Comparison and Evaluation of Forecasters.”](*Journal of the Royal Statistical Society. Series D (The Statistician)* 32 (1–2): 12–22. https://doi.org/10.2307/2987588).
+[DeGroot, Morris H., and Stephen E. Fienberg. 1983. “The Comparison and Evaluation of Forecasters.” *Journal of the Royal Statistical Society. Series D (The Statistician)* 32 (1–2): 12–22.](https://doi.org/10.2307/2987588).
 
 [Gneiting, Tilmann, and Adrian E. Raftery. 2007. “Strictly Proper Scoring Rules, Prediction, and Estimation.”*Journal of the American Statistical Association* 102 (477): 359–378.](https://doi.org/10.1198/016214506000001437).
 
-[Hubbard, Douglas W. 2010. *How to Measure Anything: Finding the Value of Intangibles in Business*.](2nd ed. Hoboken, NJ: John Wiley & Sons.)
+[Hubbard, Douglas W. (2010) 2014. *How to Measure Anything: Finding the Value of Intangibles in Business*. 3rd ed. Hoboken, NJ: John Wiley & Sons.](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273/ref=sr_1_1?nsdOptOutParam=true&sr=8-1)
