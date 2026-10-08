@@ -29,10 +29,8 @@ A useful summary is:
 
 
 <div class="mermaid">
-    
-flowchart TD
-    
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
+flowchart TD
 
     A["`**Corporate Decision Problem**`"]:::red
 
@@ -51,6 +49,12 @@ flowchart TD
         C4["Apply asymmetric payoffs"]
         C5["Set decision thresholds"]
     end
+    
+classDef blue fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
+classDef green fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
+
+class R blue;
+class C green;
 
     A --> R
     A --> C
