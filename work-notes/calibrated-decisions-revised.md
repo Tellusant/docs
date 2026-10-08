@@ -56,7 +56,7 @@ flowchart LR
 
 The two approaches are therefore not substitutes in every setting. Model fit can provide useful evidence inside a broader decision process. The key difference is that CD is explicitly designed to carry uncertainty through to an operational choice.
 
-### A. CD can incorporate expert judgment when historical evidence is limited
+### 2.1 CD can incorporate expert judgment when historical evidence is limited
 
 $R^2$ requires an estimated statistical model and observed outcomes against which model fit can be assessed. When a team faces a genuinely novel macroeconomic shock, new technology, market entry, regulatory change, or other situation with little relevant historical evidence, $R^2$ may offer limited guidance.
 
@@ -74,7 +74,7 @@ $$
 
 Lower scores are better. A forecast of 80% followed by occurrence of the event receives a score of $(0.8-1)^2=0.04$; the same forecast followed by non-occurrence receives $(0.8-0)^2=0.64$. Across repeated decisions, scoring rules provide a disciplined way to track the quality of probability estimates rather than relying on confidence or model fit alone. Calibration remains a distinct property: a forecaster can be calibrated yet insufficiently discriminating, so both reliability and the informativeness of the probabilities matter (DeGroot and Fienberg 1983; Gneiting and Raftery 2007).
 
-### B. CD handles asymmetric corporate payoffs directly
+### 2.2 CD handles asymmetric corporate payoffs directly
 
 Standard $R^2$ is derived from squared prediction errors and is indifferent to the economic consequences of those errors. In business, however, a false positive and a false negative can have radically different financial consequences.
 
@@ -85,7 +85,7 @@ CD separates two questions that should remain separate:
 
 This allows probabilities to be combined directly with an economic payoff matrix rather than treating statistical fit as the decision criterion.
 
-### C. CD naturally supports binary and threshold actions
+### 2.3 CD naturally supports binary and threshold actions
 
 Many corporate choices are discrete: invest or do not invest, enter or stay out, launch or delay, hedge or remain exposed, approve or reject. In such settings, overall variance explained may be less important than whether estimated probabilities are sufficiently reliable around the threshold at which the preferred action changes.
 
@@ -97,23 +97,23 @@ $R^2$ can still be informative about an underlying model, but it is not itself a
 
 The following example shows how a model with **low explanatory power can still support a valuable decision when the relevant probability estimate is well calibrated and the payoff structure is strongly asymmetric.**
 
-### Scenario: Deep-Tech R&D Capital Allocation
+### 3.1 Scenario: Deep-Tech R&D Capital Allocation
 
 A corporate venture team is deciding whether to invest **<span>$</span>10,000,000** in an early-stage deep-tech R&D project.
 
 * **Success outcome:** The project succeeds, yielding a net payout of **<span>$</span>100,000,000**, equivalent to a **<span>$</span>90,000,000 net profit** after the investment.
 * **Failure outcome:** The project fails, resulting in a loss of the **<span>$</span>10,000,000** investment.
 
-### The Decision Model
+### 3.2 The Decision Model
 
 Suppose the engineering team's model explains little of the overall variation in ultimate project returns, with **$R^2 = 0.05$**. If the model were judged only by explanatory fit, it would appear weak.
 
 However, suppose that within a defined class of high-potential projects, cases assigned a **15% probability of success** succeed approximately 15% of the time. The 15% probability estimate is therefore well calibrated for that class of decisions.
 
-### The Payoff Matrix and Expected Value ($EV$)
+### 3.3 The Payoff Matrix and Expected Value ($EV$)
 
 | Decision / State | Project Fails<br>($P = 0.85$) | Project Succeeds<br>($P = 0.15$) |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | **Invest ($D_1$)** | -<span>$</span>10,000,000 | +<span>$</span>90,000,000 |
 | **Do Not Invest ($D_2$)** | <span>$</span>0 | <span>$</span>0 |
 
@@ -143,7 +143,7 @@ $$
 EV(D_1) - EV(D_2) = +\$5{,}000{,}000
 $$
 
-### The Decision Threshold
+### 3.4 The Decision Threshold
 
 The same example can be expressed as a minimum probability required to justify investment. Let $p$ be the probability of success. Investing is preferred when:
 
@@ -165,7 +165,7 @@ The **break-even probability is therefore 10%**. A calibrated estimate of 15% ex
 
 This is the essential CD logic: the decision depends not on whether $R^2$ is high, but on whether the relevant probability estimate is reliable enough and whether it lies above or below the economically meaningful threshold.
 
-### Corporate Conclusion
+### 3.5 Corporate Conclusion
 
 * **An $R^2$-focused interpretation:** The model appears weak because it explains only 5% of overall variation. If explanatory power were the primary evaluation criterion, the model might be dismissed.
 * **The Calibrated Decisions interpretation:** The relevant probability estimate is 15%, while the economic break-even threshold is 10%. Given the stated payoffs, investing has an expected value of **+<span>$</span>5,000,000**.
