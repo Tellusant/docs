@@ -24,7 +24,6 @@ A useful summary is:
 
 <div style="mermaid">
 
-```mermaid
 flowchart LR
 
     A["Corporate Decision Problem"]
@@ -50,7 +49,6 @@ flowchart LR
 
     R3 -->|"Useful evidence"| C2
     C5 --> D["Operational Decision"]
-```
 
 </div>
 
