@@ -61,7 +61,7 @@ flowchart TD
     C5 --> D["`**Operational Decision**`"]:::red
 
     %% ========= SUBGRAPH STYLES =========
-    style R fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111
+    style R fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111
     style C fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111
 
     %% ========= NODE STYLES =========
