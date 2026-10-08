@@ -28,20 +28,21 @@ A useful summary is:
 ## 2. Why CD Applies to a Broader Decision Domain
 
 
+
 <div class="mermaid">
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 flowchart TD
 
     A["`**Corporate Decision Problem**`"]:::red
 
-    subgraph R["`**Statistical Validation**`"]:::base
+    subgraph R["Statistical Validation"]
         direction TB
         R1["Historical data"]
         R2["Explain variation"]
         R3["Assess model fit"]
     end
 
-    subgraph C["`**Calibrated Decisions**`"]:::base
+    subgraph C["Calibrated Decisions"]
         direction TB
         C1["Data and/or expert judgment"]
         C2["Estimate probabilities"]
@@ -49,12 +50,6 @@ flowchart TD
         C4["Apply asymmetric payoffs"]
         C5["Set decision thresholds"]
     end
-    
-classDef blue fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
-classDef green fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
-
-class R blue;
-class C green;
 
     A --> R
     A --> C
@@ -65,16 +60,14 @@ class C green;
     R3 -->|"Useful evidence"| C2
     C5 --> D["`**Operational Decision**`"]:::red
 
-%% ========= STYLES =========
-classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
-classDef blue    fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
-classDef orange  fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
-classDef red     fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
-classDef grey    fill:#F5F5F5,stroke:#424242,stroke-width:2px,color:#111;
-classDef base    fill:#ECECFF,stroke:#9370DB,stroke-width:2px,color:#111;
-classDef clear   fill:transparent,stroke:transparent;
-    
+    %% ========= SUBGRAPH STYLES =========
+    style R fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111
+    style C fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111
+
+    %% ========= NODE STYLES =========
+    classDef red fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
 </div>
+
 
 
 The two approaches are therefore not substitutes in every setting. Model fit can provide useful evidence inside a broader decision process. The key difference is that CD is explicitly designed to carry uncertainty through to an operational choice.
