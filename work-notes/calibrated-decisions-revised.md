@@ -1,5 +1,7 @@
 # Calibrated Decisions vs. R-Squared for Corporate Teams
 
+> **Calibrated decisions** (CD) have come to the forefront with the launch of Jev. But it is much more than a tool for optimization AI reposnses. Here we discuss what it is and how it is used, following the trajectory since the seminal Brier paper of 1950.
+
 Corporate teams frequently rely on $R^2$ as a familiar measure of explanatory power. But $R^2$ and **Calibrated Decisions (CD)** answer different questions. $R^2$ evaluates how well a statistical model explains variation in observed outcomes; calibration evaluates whether stated probabilities correspond to observed frequencies. CD goes one step further by combining reliable probabilities with economic payoffs and decision thresholds to guide action.
 
 The distinction matters because many important corporate decisions are not primarily about explaining the past. They are about choosing what to do under uncertainty.
