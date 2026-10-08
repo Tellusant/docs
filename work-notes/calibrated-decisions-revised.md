@@ -34,7 +34,7 @@ flowchart TD
     
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 
-    A["Corporate Decision Problem"]:::orange
+    A["`**Corporate Decision Problem**`"]:::orange
 
     subgraph R["STATISTICAL VALIDATION"]
         direction TB
