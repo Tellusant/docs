@@ -356,6 +356,35 @@ width: 90%;
     justify-content: center;
   }
 
+/* ---------------------------------------------------------
+   MARKDOWN TABLES
+--------------------------------------------------------- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+table th,
+table td {
+  border: 1px solid #cccccc;
+  padding: 6px 10px;
+}
+
+table th {
+  background-color: #eeeeee;
+  font-weight: 600;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+table tbody tr:hover {
+  background-color: #f0f0f0;
+}
+
   .header-search-form {
     max-width: 320px;  /* smartphone-friendly width */
     width: 100%;
