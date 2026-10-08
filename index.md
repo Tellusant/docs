@@ -1,7 +1,7 @@
 ---
-title: Tellusant Publications Repository
-seo_title: Tellusant Publications Repository
-description: This open access repository contains the published works of Tellusant team members.
+title: Tellusant Open-Access Publications Repository for Businesses, Academics, Governments & News Media
+seo_title: Tellusant Open-Access Publications Repository for Businesses, Academics, Governments & News Media
+description: This open access repository contains the published works of Tellusant team members covering strategy, management and economics.
 date: 2026-08-19
 image: /assets/social-card-publ.png
 seo:
