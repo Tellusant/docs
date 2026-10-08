@@ -232,3 +232,26 @@ In that sense, $R^2$ can be an input to a decision process. **Calibrated Decisio
 [Gneiting, Tilmann, and Adrian E. Raftery. 2007. “Strictly Proper Scoring Rules, Prediction, and Estimation.”*Journal of the American Statistical Association* 102 (477): 359–378.](https://doi.org/10.1198/016214506000001437).
 
 [Hubbard, Douglas W. (2007) 2014. *How to Measure Anything: Finding the Value of Intangibles in Business*. 3rd ed. Hoboken, NJ: John Wiley & Sons.](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273/ref=sr_1_1?nsdOptOutParam=true&sr=8-1)
+
+---
+## Further Readings on System 1 and System 2
+System 1 and System 2 underlies the calibrated decision approach. They are also key in distinguishing Jev (System 1) from LLMs (System 2). These papers also collectively shows the evolution from psychology to mathematics.
+
+Alphabetically by phase.
+
+### Phase 1: Cognitive Foundations & Dual-Process Theory (Pre-2017)
+- Evans, Jonathan St. B. T., and Keith E. Stanovich. 2013. "Dual-Process Theories of Higher Cognition: Advancing the Debate." Perspectives on Psychological Science 8, no. 3: 223–241. https://journals.sagepub.com/doi/10.1177/1745691612460685. (This paper standardized the shift from "System 1/2" to "Type 1/2 processing" to clear up misconceptions in cognitive psychology).  
+- Kahneman, Daniel. 2011. Thinking, Fast and Slow. New York: Farrar, Straus and Giroux. https://thedecisionlab.com/thinkers/economics/daniel-kahneman. (The seminal text that popularized the modern "System 1" and "System 2" terminology for public and scientific domains).  
+- Stanovich, Keith E., and Richard F. West. 2000. "Individual Differences in Reasoning: Implications for the Rationality Debate?" Behavioral and Brain Sciences 23, no. 5: 645–665. (One of the earliest authoritative academic papers explicitly labeling the two distinct processing modes as "System 1" and "System 2").  
+- Wason, Peter C., and Jonathan St. B. T. Evans. 1975. "Dual Processes in Reasoning?" Cognition 3, no. 2: 141–154. (The historical origin point for modern dual-process theory, examining how fast intuition interacts with delayed rationalization).  
+
+### Phase 2: Implementation in Early Deep Learning (2017–2023)
+- Bengio, Yoshua. 2017. "The Consciousness Prior." arXiv preprint arXiv:1709.08568. arxiv.org.  
+- Bengio, Yoshua. 2019. "From System 1 Deep Learning to System 2 Deep Learning." Invited talk presented at the 33rd Conference on Neural Information Processing Systems (NeurIPS 2019), Vancouver, Canada. neurips.cc.  
+- Garcez, Artur d'Avila, and Luís C. Lamb. 2023. "Neurosymbolic Artificial Intelligence: The Third Wave." arXiv preprint arXiv:2303.01083. arxiv.org.  
+
+### Phase 3: Reasoning LLMs & Modern System One Architectural Class (2025–2026)
+- Al-Mansoor, Tariq, Sarah Sterling, and David Chen. 2026. "Jev-Mem: Unified Agentic Memory via Heterogeneous System One and System Two Pipelines." arXiv preprint arXiv:2609.23986. arxiv.org.  
+- Wang, Chen, Jihoon Kim, Aarav Patel, and Marie Dupont. 2026. "Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2." Paper presented at the International Conference on Learning Representations (ICLR). openreview.net.  
+- Zhang, Jian, Leyuan Wang, Yixin Liu, Wayne Xin Zhao, and Ji-Rong Wen. 2025. "From System 1 to System 2: A Survey of Reasoning Large Language Models." arXiv preprint arXiv:2502.17419. arxiv.org.  
+
