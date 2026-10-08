@@ -29,6 +29,7 @@ For those familiar with control theory, you immediately see a P controller (prop
 flowchart TD
 
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
+
 %% ===== Inputs =====
 D1["`**Demand (t−1)**`"]:::orange
 X["`**Independent Variables**<br/>(Forecasted Externally / Exogenous)`"]:::orange
