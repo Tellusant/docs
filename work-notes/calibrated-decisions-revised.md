@@ -34,16 +34,16 @@ flowchart TD
     
 %%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
 
-    A["`**Corporate Decision Problem**`"]:::orange
+    A["`**Corporate Decision Problem**`"]:::red
 
-    subgraph R["STATISTICAL VALIDATION"]
+    subgraph R["`**Statistical Validation**`"]:::base
         direction TB
         R1["Historical data"]
         R2["Explain variation"]
         R3["Assess model fit"]
     end
 
-    subgraph C["CALIBRATED DECISIONS"]
+    subgraph C["`**Calibrated Decisions**`"]:::base
         direction TB
         C1["Data and/or expert judgment"]
         C2["Estimate probabilities"]
@@ -59,7 +59,7 @@ flowchart TD
     C1 --> C2 --> C3 --> C4 --> C5
 
     R3 -->|"Useful evidence"| C2
-    C5 --> D["Operational Decision"]:::orange
+    C5 --> D["`**Operational Decision**`"]:::red
 
 %% ========= STYLES =========
 classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
