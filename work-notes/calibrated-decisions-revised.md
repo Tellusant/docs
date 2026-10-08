@@ -119,9 +119,9 @@ However, suppose that within a defined class of high-potential projects, cases a
 
 The expected value of investing is:
 
-$
+$$
 EV(D_1) = P(\text{Success}) \times \text{Payoff}_{\text{Success}} + P(\text{Failure}) \times \text{Payoff}_{\text{Failure}}
-$
+$$
 
 $$
 EV(D_1) = (0.15 \times \$90{,}000{,}000) + (0.85 \times -\$10{,}000{,}000)
