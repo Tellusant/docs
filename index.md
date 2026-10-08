@@ -1,13 +1,13 @@
 ---
-title: Tellusant Publications Repository for Business, Academia, Government & Media
-seo_title: Tellusant Publications Repository for Business, Academia, Government & Media
+title: Tellusant Publications for Business, Academia, Government & Media
+seo_title: Tellusant Publications for Business, Academia, Government & Media
 description: This open access repository contains the published works of Tellusant team members covering strategy, management and economics.
 date: 2026-08-19
 image: /assets/social-card-publ.png
 seo:
   type: WebSite
 ---
-# Tellusant Publications Repository for Business, Academia, Government & Media
+# Tellusant Publications for Business, Academia, Government & Media
 
 <a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a>  
 
