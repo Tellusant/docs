@@ -62,7 +62,7 @@ flowchart TD
 
     %% ========= SUBGRAPH STYLES =========
     style R fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
-    style C fill:#FFF8E1,stroke:#FF6F00,stroke-width:2px,color:#111;
+    style C fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
 
     %% ========= NODE STYLES =========
     classDef red fill:#FDECEA,stroke:#B71C1C,stroke-width:2px,color:#111;
