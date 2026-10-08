@@ -7,11 +7,11 @@ image: /assets/social-card-publ.png
 seo:
   type: WebSite
 ---
-# Repository Contents
+# Tellusant Open-Access Publications Repository for Businesses, Academics, Governments & News Media
 
 <a href="https://tellusant.com" target="_blank" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i></a>  
 
-This open access repository contains the published works of Tellusant team members. 
+This open access repository contains the published works of Tellusant team members covering strategy, management and economics.
 
 *[This is a subdomain of our main website](https://tellusant.com).*  
 
