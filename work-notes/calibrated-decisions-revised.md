@@ -35,14 +35,14 @@ flowchart TD
 
     A["`**Corporate Decision Problem**`"]:::red
 
-    subgraph R["Statistical Validation"]
+    subgraph C["`**Statistical Validation**`"]
         direction TB
         R1["Historical data"]
         R2["Explain variation"]
         R3["Assess model fit"]
     end
 
-    subgraph C["Calibrated Decisions"]
+    subgraph C["`**Calibrated Decisions**`"]
         direction TB
         C1["Data and/or expert judgment"]
         C2["Estimate probabilities"]
@@ -265,3 +265,4 @@ Alphabetically by phase.
 - Wang, Chen, Jihoon Kim, Aarav Patel, and Marie Dupont. 2026. "Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2." Paper presented at the International Conference on Learning Representations (ICLR). openreview.net.  
 - Zhang, Jian, Leyuan Wang, Yixin Liu, Wayne Xin Zhao, and Ji-Rong Wen. 2025. "From System 1 to System 2: A Survey of Reasoning Large Language Models." arXiv preprint arXiv:2502.17419. arxiv.org.  
 
+https://arxiv.org/abs/2502.17419
