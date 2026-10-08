@@ -24,7 +24,7 @@ A useful summary is:
 
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
 
     A["Corporate Decision Problem"]
 
