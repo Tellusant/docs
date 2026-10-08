@@ -35,7 +35,7 @@ flowchart TD
 
     A["`**Corporate Decision Problem**`"]:::red
 
-    subgraph C["`**Statistical Validation**`"]
+    subgraph R["`**Statistical Validation**`"]
         direction TB
         R1["Historical data"]
         R2["Explain variation"]
