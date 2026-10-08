@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Calibrated Decisions vs. R-Squared for Corporate Teams
 
 > **Calibrated decisions** (CD) have come to the forefront with the launch of Jev. But it is much more than a tool for optimization of AI responses. Here we discuss what it is and how it is used, following the trajectory since the seminal Brier paper of 1950.
@@ -28,7 +33,7 @@ flowchart TD
 
     A["Corporate Decision Problem"]
 
-    subgraph R["R² / MODEL FIT"]
+    subgraph R["STATISTICAL VALIDATION"]
         direction TB
         R1["Historical data"]
         R2["Explain variation"]
