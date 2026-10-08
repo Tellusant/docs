@@ -1,3 +1,4 @@
+
 /* ---------------------------------------------------------
    GLOBAL TYPOGRAPHY & BASE
 --------------------------------------------------------- */
@@ -7,43 +8,36 @@ html {
   scroll-behavior: smooth;
 }
 
-.site-title {
-  color: ##002BB9 !important /* previously #0066c */ ;
-   text-decoration: none;
-  font-weight: 600;
-}
-
-/* Desktop layout: match body margin */
-.header-row-top,
-.header-row-bottom {
-  padding-left: 4rem;   /* matches .wrapper padding */
-  padding-right: 4rem;
-}
-
-*, *:before, *:after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-               "Helvetica Neue", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
-  line-height: 1.5; /* 1.6 */
-  background: #ffffff;  /* light gray background #f7f7f7*/
+  line-height: 1.5;
+  background: #ffffff;
   color: #333;
 }
 
-/* Make images never overflow */
+/* Images never overflow their containers */
+
 img {
   max-width: 100%;
   height: auto;
 }
 
-/* Links */
+/* ---------------------------------------------------------
+   LINKS
+--------------------------------------------------------- */
+
 a {
-  color: #002BB9 /* previously #0066cc */ ;
+  color: #002BB9;
   text-decoration: none;
 }
 
@@ -51,31 +45,42 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ---------------------------------------------------------
+   BLOCKQUOTES AND COMMENTS
+--------------------------------------------------------- */
+
 blockquote {
-  border-left: 4px solid #66CCFF; /* #0066cc; */
+  border-left: 4px solid #66CCFF;
   background: #f6f8fa;
   padding: 0.75rem 1rem;
   margin: 1.5rem 0;
   color: #000000;
-  /* font-style: italic; */
 }
 
-/* Created to allow blocks that are not quotes, such as comments */
+/* Blocks used for comments rather than quotations */
+
 .blockcomment {
   border-left: 4px solid #3a7bd5;
   background: #f6f8fa;
   padding: 0.75rem 1rem;
   margin: 1.5rem 0;
   color: #24292f;
-  /* font-style: italic;*/
 }
+
+/* ---------------------------------------------------------
+   HORIZONTAL RULES
+--------------------------------------------------------- */
 
 hr {
   border: none;
-  height: 4px;        /* thickness */
-  background-color: #ccc;  /* grey */
+  height: 4px;
+  background-color: #ccc;
   margin: 2rem 0;
 }
+
+/* ---------------------------------------------------------
+   ACCESSIBILITY
+--------------------------------------------------------- */
 
 .unseen {
   position: absolute;
@@ -84,13 +89,40 @@ hr {
   margin: -1px;
   padding: 0;
   overflow: hidden;
-  clip: rect(0,0,0,0);
+  clip: rect(0, 0, 0, 0);
   border: 0;
 }
 
 /* ---------------------------------------------------------
    HEADER
 --------------------------------------------------------- */
+
+.site-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  background: white;
+  border-bottom: 1px solid #eee;
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  transition:
+    opacity 0.25s ease,
+    transform 0.25s ease;
+}
+
+/* Header fade behavior */
+
+.site-header.is-hidden {
+  opacity: 0;
+  transform: translateY(-10px);
+  pointer-events: none;
+}
+
+/* Header branding */
 
 .header-brand {
   display: flex;
@@ -108,15 +140,8 @@ hr {
   display: block;
 }
 
-.site-header {
-  background: white;
-  border-bottom: 4px solid #ddd;
-  padding: 0.8rem 0;
-  position: sticky;   /* makes it stick */
-  top: 0;             /* stick to top */
-  z-index: 1000;      /* stay above content */
-  background: white;  /* ensure it doesn’t become transparent */
-}
+/* Header inner container */
+
 .header-inner {
   max-width: 960px;
   margin: 0 auto;
@@ -126,11 +151,50 @@ hr {
   align-items: center;
 }
 
+/* Site title */
+
 .site-title {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #002BB9 !important /* previously #0066cc */;
+  color: #002BB9 !important;
   text-decoration: none;
+}
+
+/* ---------------------------------------------------------
+   HEADER ROWS
+--------------------------------------------------------- */
+
+/* Desktop alignment */
+
+.header-row-top,
+.header-row-bottom {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+/* Row 1: title and navigation */
+
+.header-row-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Row 2: centered search */
+
+.header-row-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+/* ---------------------------------------------------------
+   HEADER NAVIGATION
+--------------------------------------------------------- */
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
 .site-nav a {
@@ -143,21 +207,29 @@ hr {
   text-decoration: underline;
 }
 
-/* ---Header fade--- */
+/* ---------------------------------------------------------
+   HEADER SEARCH
+--------------------------------------------------------- */
 
-.site-header {
-  position: sticky;      /* or fixed if you prefer */
-  top: 0;
-  z-index: 1000;
-  transition:
-    opacity 0.25s ease,
-    transform 0.25s ease;
+.header-search-form {
+  display: inline-block;
+  width: 100%;
+  max-width: 550px;
+  margin: 0 auto;
 }
 
-.site-header.is-hidden {
-  opacity: 0;
-  transform: translateY(-10px); /* subtle upward motion */
-  pointer-events: none;         /* prevents invisible clicks */
+.header-search-input {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.header-search-input:focus {
+  outline: none;
+  border-color: #888;
 }
 
 /* ---------------------------------------------------------
@@ -174,7 +246,9 @@ hr {
   margin: 0 auto;
   padding: 0 1rem;
 }
-/* Testing image centering 12/19/2025
+
+/* Optional image centering class */
+
 .ctr {
   text-align: center;
 }
@@ -183,28 +257,43 @@ hr {
    HEADINGS
 --------------------------------------------------------- */
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-weight: 600;
   color: #111;
-  margin-top: 0rem;
-  margin-bottom: 0rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
-h1 { font-size: 2.2rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.4rem; }
-h4 { font-size: 1.2rem; }
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
 
 h4 + h4 {
   margin-top: 0.6rem;
 }
 
 h4 + p {
-  margin-top: 0.6rem   /* Earlier 0 to tighten space  */
+  margin-top: 0.6rem;
 }
 
 /* ---------------------------------------------------------
-   CODE BLOCKS & PRE
+   CODE BLOCKS AND PRE
 --------------------------------------------------------- */
 
 code {
@@ -222,7 +311,58 @@ pre {
 }
 
 /* ---------------------------------------------------------
-   FOOTER (if you decide to enable it)
+   MARKDOWN TABLES
+--------------------------------------------------------- */
+
+/* General table appearance */
+
+table {
+  border-collapse: collapse;
+  width: auto;
+  max-width: 100%;
+  margin: 1.5rem 0;
+}
+
+/* Borders and cell spacing */
+
+table th,
+table td {
+  border: 1px solid #cccccc;
+  padding: 6px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+/* Header shading */
+
+table th {
+  background-color: #eeeeee;
+  font-weight: 600;
+}
+
+/* Alternating row shading */
+
+table tbody tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+/* Row highlight on hover */
+
+table tbody tr:hover {
+  background-color: #f0f0f0;
+}
+
+/* Optional centered tables using Kramdown:
+   {: .centered-table }
+*/
+
+table.centered-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------------------------------------------------------
+   FOOTER
 --------------------------------------------------------- */
 
 .site-footer {
@@ -230,163 +370,71 @@ pre {
   border-top: 4px solid #ddd;
   background: white;
   color: #777;
-   font-size: 75%;
+  font-size: 75%;
 }
 
 /* ---------------------------------------------------------
-   RESPONSIVE
+   RESPONSIVE: SMARTPHONES
 --------------------------------------------------------- */
 
-@media (max-width: 600px) {
-  .header-inner {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-
-  .site-nav a {
-    margin-left: 0.8rem;
-    font-size: 0.95rem;
-  }
-}
-
-/* --- Header Search Box Styles --- */
-
-.header-search-form {
-  display: inline-block;
-  margin-left: 1rem;
-width: 90%;
-  max-width: 300px;
-  margin: 0 auto;     /* stays perfectly centered */   
-}
-
-.header-search-input {
-  padding: 4px 8px;
-  font-size: 0.95rem;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  background: #fff;
-}
-
-/* Make the input look good inside the horizontal nav */
-.site-nav {
-  display: flex;
-  align-items: center;
-  gap: 1rem; /* spacing between links and search box */
-}
-
-.header-search-input:focus {
-  outline: none;
-  border-color: #888;
-}
-.site-header {
-  background: white;
-  padding: 0.8rem 0 1.2rem;
-  border-bottom: 1px solid #eee;
-}
-/* ---------------------------------------------------------
-   HEADER ON 2 ROWS
---------------------------------------------------------- */
-/* Make header a column layout */
-.site-header {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  padding: 1rem 0;
-  background: white;
-  border-bottom: 1px solid #eee;
-}
-
-/* FORCE row 1 to be horizontal, spaced left/right */
-.header-row-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/* row 2: center the search */
-.header-row-bottom {
-  display: flex;
-  justify-content: center;
-}
-
-/* search width */
-.header-search-form {
-  width: 100%;
-  max-width: 550px;
-}
-
-.header-search-input {
-  width: 100%;
-  padding: 0.6rem 0.8rem;
-  font-size: 1rem;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-}
-/* Smartphones: stack into three rows */
 @media (max-width: 600px) {
 
   /* Header becomes a vertical layout */
+
   .site-header {
     gap: 0.4rem;
     padding: 0.8rem 0 1.2rem;
   }
 
-  /* Row 1: title centered */
+  .header-inner {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  /* Header row 1: title and navigation stacked */
+
   .header-row-top {
     flex-direction: column;
     align-items: center;
     gap: 0.3rem;
   }
 
-  /* Title centered */
+  /* Center site title */
+
   .site-title {
     text-align: center;
   }
 
-  /* Row 2: navigation centered on its own line */
+  /* Center navigation */
+
   .site-nav {
     display: flex;
     justify-content: center;
     gap: 1rem;
   }
 
-  /* Row 3: search centered as its own line */
+  .site-nav a {
+    margin-left: 0.8rem;
+    font-size: 0.95rem;
+  }
+
+  /* Center search on its own row */
+
   .header-row-bottom {
     display: flex;
     justify-content: center;
   }
 
-/* ---------------------------------------------------------
-   MARKDOWN TABLES
---------------------------------------------------------- */
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1.5rem 0;
-}
-
-table th,
-table td {
-  border: 1px solid #cccccc;
-  padding: 6px 10px;
-}
-
-table th {
-  background-color: #eeeeee;
-  font-weight: 600;
-}
-
-table tbody tr:nth-child(even) {
-  background-color: #f7f7f7;
-}
-
-table tbody tr:hover {
-  background-color: #f0f0f0;
-}
-
   .header-search-form {
-    max-width: 320px;  /* smartphone-friendly width */
+    max-width: 320px;
     width: 100%;
   }
+
+  /* Compact table spacing on small screens */
+
+  table th,
+  table td {
+    padding: 4px 6px;
+  }
+
 }
