@@ -23,7 +23,7 @@ A useful summary is:
 <div style="mermaid">
 
 ```mermaid
-flowchart TD
+flowchart LR
 
     A["Corporate Decision Problem"]
 
