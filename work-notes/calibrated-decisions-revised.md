@@ -1,9 +1,16 @@
 ---
+title: "Calibrated Decisions for Corporate Teams"
+description: "."
+image: /assets/social-card-publ.png
+robots: noindex, nofollow
+sitemap: false
+---
+---
 robots: noindex, nofollow
 sitemap: false
 ---
 
-# Calibrated Decisions vs. R-Squared for Corporate Teams
+# Calibrated Decisions for Corporate Teams
 
 > **Calibrated decisions** (CD) have come to the forefront with the launch of Jev. But it is much more than a tool for optimization of AI responses. Here we discuss what it is and how it is used, following the trajectory since the seminal Brier paper of 1950.
 

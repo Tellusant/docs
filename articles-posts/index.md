@@ -10,7 +10,7 @@ This section will over time contain all our substance-oriented articles and post
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
 ---
-## Recent  
+## 1. Recent  
 
 ### [What Do Income Distribution Curves Look Like? A Few Examples](income-distribution-curves.md)
 Most executives have heard of income distribution, but usually do not know what the actual curves look like. Here we show examples and a few uses.
@@ -36,7 +36,7 @@ Tellusant's **Strategy Grid** is rooted in economic theory that shows how value 
 <br/>
 
 ---
-## Past
+## 2. Past
 
 ### [Comparing Country and Company Size: Value-Added as the Common Metric](country-company-size.md)
 Our Paragonal database quantifies productivity of countries, companies, and their business units. As a by-product, it measures value-added of both countries and companies. This allows for a direct comparison of size.
@@ -113,7 +113,7 @@ We are often asked what levers can be pulled to stimulate demand. Is there a sys
 Trade-offs between generality, precision, and realism in strategy development.  
 
 ---
-## Collections
+## 3. Collections
 
 ### [Predictive Modeling Collection](predictive-modeling-collection.md)
 This page collects our philosophical and theoretical work on predictive modeling in one place.
@@ -121,7 +121,5 @@ This page collects our philosophical and theoretical work on predictive modeling
 ### [Five Insights on Strategic Predictions](tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
----
-Source: Tellusant, Inc.
-
-[Return to Repository home](../index.md)
+## 4. [Minor Posts](minor-posts/index.md)
+Shorter pieces, often with high value points made, but not in a substantive manner.
