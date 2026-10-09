@@ -1,6 +1,6 @@
 ---
-title: "The High Churn of FMCG CEO's in 2026"
-description: "I noticed, when I updated my LI follower list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? I have 3 hypotheses."
+title: "The High Churn of FMCG CEOs in 2026"
+description: "I noticed, when I updated my LinkedIn follower list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? I have 3 hypotheses."
 date: 2026-10-09
 image: /assets/social-card-publ.png
 ---
