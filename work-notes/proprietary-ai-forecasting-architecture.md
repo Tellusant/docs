@@ -127,8 +127,10 @@ Calibration procedures must be fitted using historical calibration data, not the
 
 ## 6. Proposed end-to-end architecture
 
-```mermaid
+<div class="mermaid">
+    
 flowchart TD
+
     A["Proprietary historical data and data vintages"]
     B["Existing econometric model and economic constraints"]
     C["Learning engine: loss, estimation, regularization"]
@@ -146,7 +148,8 @@ flowchart TD
     class A,B,C blue;
     class D,E green;
     class F,G red;
-```
+
+</div>
 
 This diagram represents one model's lifecycle. The same infrastructure may be instantiated separately for all six models.
 
