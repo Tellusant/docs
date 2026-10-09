@@ -128,12 +128,14 @@ Calibration procedures must be fitted using historical calibration data, not the
 ## 6. Proposed end-to-end architecture
 
 <div class="mermaid">
+
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
     
 flowchart TD
 
-    A["Proprietary historical data and data vintages"]
-    B["Existing econometric model and economic constraints"]
-    C["Learning engine: loss, estimation, regularization"]
+    A["`Proprietary historical<br/> data and data vintages`"]
+    B["`Existing econometric model<br/> and economic constraints`"]
+    C["`Learning engine: loss, <br/>estimation, regularization`"]
     D["Rolling-origin validation and benchmark comparison"]
     E["Predictive distributions and calibration"]
     F["Point forecasts, intervals, and downside probabilities"]
