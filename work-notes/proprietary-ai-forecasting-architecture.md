@@ -8,6 +8,10 @@ sitemap: false
 
 # Building a Proprietary AI Forecasting System
 
+> If I and my colleagues were to build our own AI system with System 1 logic (not using existing systems like Jev), what are the critical components? Back-propagation? Calibrated decisions? Anything else? 
+
+> So we can make a credible claim. It is for continuous math, not classification. Specifically demand forecasting, productivity forecasting, and risk forecasting for countries or companies (3 by 2 matrix without interconnections, so 6 models, starting the work with 1). We have the data and have modeled the historical behavior.
+
 ## Executive summary
 
 Tellusant can build a proprietary AI forecasting system using its existing historical datasets and econometric models as a foundation. The objective is to learn from historical economic and corporate behavior, produce continuous numerical forecasts, quantify uncertainty, and improve performance through systematic validation and recalibration.
