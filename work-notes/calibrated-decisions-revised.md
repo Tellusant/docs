@@ -1,4 +1,11 @@
 ---
+title: "Calibrated Decisions for Corporate Teams"
+description: "."
+image: /assets/social-card-publ.png
+robots: noindex, nofollow
+sitemap: false
+---
+---
 robots: noindex, nofollow
 sitemap: false
 ---
