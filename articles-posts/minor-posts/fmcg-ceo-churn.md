@@ -9,7 +9,11 @@ image: /assets/social-card-publ.png
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2026-10-09*  
 
-I noticed, when I updated my LI follow list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? I have 3 hypotheses:  
+I noticed, when I updated my LI follow list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? 
+
+> *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?*
+
+I have 3 hypotheses:  
 
 - FMCG is not doing well in general. This conforms with Engel's Law from 1857 that FMCG cannot grow with the economy at large. FMCG will be an ever shrinking part of the household wallet.<br/><br/>
 Not much can be done about this except diversification (FEMSA being an example of success in this). Global expansion is a hard slog since there are established players in most parts of the world. Not impossible, requires precision.<br/><br/><a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><b>Tellusant </b>will benefit from this since we have lived with such issues for decades.</a>  
