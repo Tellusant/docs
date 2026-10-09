@@ -1,6 +1,6 @@
 ---
 title: "The High Churn of FMCG CEO's in 2026"
-description: "What should CEOs do when high inflation suddenly is the norm? Certainly not manage as usual. Structured, integrated inflation management is required. What must be done is not complicated, but it is easy to omit levers."
+description: "I noticed, when I updated my LI follow list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? I have 3 hypotheses."
 date: 2026-10-09
 image: /assets/social-card-publ.png
 ---
