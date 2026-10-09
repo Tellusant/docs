@@ -133,16 +133,16 @@ Calibration procedures must be fitted using historical calibration data, not the
     
 flowchart TD
 
-    A["`Proprietary historical br/>data and data vintages`"]
+    A["`Proprietary historical <br/>data and data vintages`"]
     B["`Existing econometric model <br/>and economic constraints`"]
     C["`Learning engine: loss, <br/>estimation, regularization`"]
     D["`Rolling-origin validation <br/>and benchmark comparison`"]
-    E["`Predictive distributions<br/> and calibration`"]
+    E["`Predictive distributions <br/>and calibration`"]
     F["`Point forecasts, intervals, <br/>and downside probabilities`]
     G["`Monitoring, governance, <br/>and controlled retraining`"]
 
     A --> B --> C --> D --> E --> F --> G
-    G -. "`New observations and<br/> scheduled model review`" .-> C
+    G -. "`New observations and <br/>scheduled model review`" .-> C
 
     classDef blue fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
     classDef green fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
