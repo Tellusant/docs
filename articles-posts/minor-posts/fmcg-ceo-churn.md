@@ -1,15 +1,15 @@
 ---
 title: "The High Churn of FMCG CEOs in 2026"
-description: "I noticed, when I updated my LinkedIn follower list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? I have 3 hypotheses."
+description: "I noticed, when I updated my LinkedIn follower list, that there has been an incredible churn of CEOs at large FMCG companies over the past year. Why is that? I have 3 hypotheses."
 date: 2026-10-09
 image: /assets/social-card-publ.png
 ---
 
-# The High Churn of FMCG CEO's in 2026
+# The High Churn of FMCG CEOs in 2026
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2026-10-09*  
 
-I noticed, when I updated my LI follower list, that there has been an incredible churn of CEOs at large FMCG companies over the last year. Why is that? 
+I noticed, when I updated my LI follower list, that there has been an incredible churn of CEOs at large FMCG companies over the past year. Why is that? 
 
 > *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?*
 
