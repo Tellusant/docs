@@ -121,5 +121,5 @@ This page collects our philosophical and theoretical work on predictive modeling
 ### [Five Insights on Strategic Predictions](tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
-## 4. [Minor Posts](minor-posts.md)
+## 4. [Minor Posts](minor-posts/index.md)
 Shorter pieces, often with high value points made, but not in a substantive manner.
