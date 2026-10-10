@@ -117,8 +117,6 @@ A point forecast, such as 3.2% growth, is useful but incomplete. A predictive di
 - Nominal 80% prediction interval: 1.5%–4.9%.
 - A calibrated 80% interval should cover approximately 80% of future observations over an appropriate evaluation sample.
 
-
-
 For a predictive cumulative distribution $F_t(y)$, calibration can be assessed using probability integral transform diagnostics, quantile coverage, and interval coverage. Forecast quality also depends on **sharpness**: excessively wide intervals may achieve coverage while offering little decision value.
 
 Recommended diagnostics include:
@@ -146,7 +144,7 @@ flowchart TD
     C["`Learning engine: loss, <br/>estimation, regularization`"]
     D["`Rolling-origin validation <br/>and benchmark comparison`"]
     E["`Predictive distributions <br/>and calibration`"]
-    F["`Point forecasts, intervals, <br/>and downside probabilities`]
+    F["`Point forecasts, intervals, <br/>and downside probabilities`"]
     G["`Monitoring, governance, <br/>and controlled retraining`"]
 
     A --> B --> C --> D --> E --> F --> G
