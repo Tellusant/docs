@@ -101,15 +101,23 @@ These are alternatives to test, not assumed improvements. Residual correction ca
 
 Panel data may be especially valuable: a country forecasting model can learn common relationships across countries while allowing country-specific effects; likewise for firms. Pooling within a model does not require connections among the six models.
 
+
+
 ## 5. Continuous forecasts and uncertainty
 
-A point forecast, such as 3.2% growth, is useful but incomplete. A predictive distribution also characterizes uncertainty and downside outcomes.
+I would make calibration a distinguishing feature of the Tellusant system.  
 
-**Illustrative, not estimated:**
+A point forecast, such as 3.2% growth, is useful but incomplete. A predictive distribution also characterizes uncertainty and downside outcomes.  
+
+**Illustrative, not estimated:**  
+
+![Point](assets/images/point.svg)
 
 - Point forecast: 3.2% growth.
 - Nominal 80% prediction interval: 1.5%–4.9%.
 - A calibrated 80% interval should cover approximately 80% of future observations over an appropriate evaluation sample.
+
+
 
 For a predictive cumulative distribution $F_t(y)$, calibration can be assessed using probability integral transform diagnostics, quantile coverage, and interval coverage. Forecast quality also depends on **sharpness**: excessively wide intervals may achieve coverage while offering little decision value.
 
