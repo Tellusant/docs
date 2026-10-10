@@ -101,15 +101,23 @@ These are alternatives to test, not assumed improvements. Residual correction ca
 
 Panel data may be especially valuable: a country forecasting model can learn common relationships across countries while allowing country-specific effects; likewise for firms. Pooling within a model does not require connections among the six models.
 
+
+
 ## 5. Continuous forecasts and uncertainty
 
-A point forecast, such as 3.2% growth, is useful but incomplete. A predictive distribution also characterizes uncertainty and downside outcomes.
+I would make calibration a distinguishing feature of the Tellusant system.  
 
-**Illustrative, not estimated:**
+A point forecast, such as 3.2% growth, is useful but incomplete. A predictive distribution also characterizes uncertainty and downside outcomes.  
+
+**Illustrative, not estimated:**  
+
+![Point](assets/images/point.svg)
 
 - Point forecast: 3.2% growth.
 - Nominal 80% prediction interval: 1.5%–4.9%.
 - A calibrated 80% interval should cover approximately 80% of future observations over an appropriate evaluation sample.
+
+
 
 For a predictive cumulative distribution $F_t(y)$, calibration can be assessed using probability integral transform diagnostics, quantile coverage, and interval coverage. Forecast quality also depends on **sharpness**: excessively wide intervals may achieve coverage while offering little decision value.
 
@@ -128,19 +136,21 @@ Calibration procedures must be fitted using historical calibration data, not the
 ## 6. Proposed end-to-end architecture
 
 <div class="mermaid">
+
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
     
 flowchart TD
 
-    A["Proprietary historical data and data vintages"]
-    B["Existing econometric model and economic constraints"]
-    C["Learning engine: loss, estimation, regularization"]
-    D["Rolling-origin validation and benchmark comparison"]
-    E["Predictive distributions and calibration"]
-    F["Point forecasts, intervals, and downside probabilities"]
-    G["Monitoring, governance, and controlled retraining"]
+    A["`Proprietary historical <br/>data and data vintages`"]
+    B["`Existing econometric model <br/>and economic constraints`"]
+    C["`Learning engine: loss, <br/>estimation, regularization`"]
+    D["`Rolling-origin validation <br/>and benchmark comparison`"]
+    E["`Predictive distributions <br/>and calibration`"]
+    F["`Point forecasts, intervals, <br/>and downside probabilities`]
+    G["`Monitoring, governance, <br/>and controlled retraining`"]
 
     A --> B --> C --> D --> E --> F --> G
-    G -. "New observations and scheduled model review" .-> C
+    G -. "`New observations and <br/>scheduled model review`" .-> C
 
     classDef blue fill:#E3F2FD,stroke:#0D47A1,stroke-width:2px,color:#111;
     classDef green fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
