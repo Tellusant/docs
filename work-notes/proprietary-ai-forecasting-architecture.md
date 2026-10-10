@@ -9,8 +9,10 @@ sitemap: false
 # Building a Proprietary AI Forecasting System
 
 > If my colleagues and I were to build our own AI system with System 1 logic (not using existing systems like Jev), what are the critical components? Back-propagation? Calibrated decisions? Anything else? 
-
-> So we can make a credible claim. It is for continuous math, not classification. Specifically demand forecasting, productivity forecasting, and risk forecasting for countries or companies (3 by 2 matrix without interconnections, so 6 models, starting the work with 1). We have the data and have modeled the historical behavior.
+>
+> It is for continuous math, not classification. Specifically demand forecasting, productivity forecasting, and risk forecasting for countries or companies (3 by 2 matrix without interconnections, so 6 models, starting the work with 1). We have the data and have modeled the historical behavior.
+>
+> We want it to be robust in the sense that when we make the AI claim, it holds up.
 
 ## Executive summary
 
