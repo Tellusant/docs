@@ -12,7 +12,7 @@ sitemap: false
 >
 > It is for continuous math, not classification. Specifically demand forecasting, productivity forecasting, and risk forecasting for countries or companies (3 by 2 matrix without interconnections, so 6 models, starting the work with 1). We have the data and have modeled the historical behavior.
 >
-> We want it to be robust in the sense that when we make the AI claim, it holds up.
+> We want it to be robust in the sense that when we make the AI claim, it holds up to scrutiny by outsiders. (And it should work.)
 
 ## Executive summary
 
