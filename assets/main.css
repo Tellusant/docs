@@ -60,7 +60,7 @@ blockquote {
 /* Blocks used for comments rather than quotations */
 
 .blockcomment {
-  border-left: 4px solid #3a7bd5;
+  border-left: 4px solid #c1440f;
   background: #f6f8fa;
   padding: 0.75rem 1rem;
   margin: 1.5rem 0;
