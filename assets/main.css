@@ -61,6 +61,7 @@ blockquote {
 
 .blockcomment {
   border-left: 4px solid #c1440f;
+  border-right: 4px solid #c1440f;
   background: #f6f8fa;
   padding: 0.75rem 1rem;
   margin: 1.5rem 0;
