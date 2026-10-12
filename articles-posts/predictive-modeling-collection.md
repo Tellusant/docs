@@ -2,7 +2,7 @@
 title: "Predictive Modeling Collection"
 description: "This page collects our philosophical and theoretical work on predictive modeling in one place."
 image: /assets/social-card-pub.png
-redirect_from: /predictive-model-collection.html/
+redirect_from: /predictive-model-collection.html
 ---
 # Predictive Modeling Collection  
 This page collects our philosophical and theoretical work on predictive modeling in one place.    
