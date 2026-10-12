@@ -2,6 +2,7 @@
 title: "Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025"
 description: "The map shows income levels at the city and primary subdivision levels for the emerging NB8 region."
 image: https://tellusant.github.io/docs/assets/social-card-map.png
+redirect: tellusant-nordic-baltic-eight-nb8-sub-city.html
 ---
 # Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025
 
