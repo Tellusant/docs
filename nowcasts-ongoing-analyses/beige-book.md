@@ -28,6 +28,6 @@ The GDP-weighted growth index is 1.65 which is at the lower end of modest growth
 </p>
 
 ---
-#### [Archive](archive.md)
+#### [Archive](beige-book-archive.md)
 
-#### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](retrospective.md)  
+#### [Retrospective Comparison of Fed Beige Book Nowcast and Actual GDP Growth](beige-book-retrospective.md)  

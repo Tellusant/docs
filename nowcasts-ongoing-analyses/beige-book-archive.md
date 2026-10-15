@@ -1,6 +1,23 @@
 # Beige Book Nowcast Archive
 
 ---
+## September 2026
+
+U.S. Economic activity increased modestly in the September Beige Book, with conditions improving across 10 of 12 districts. National performance was slightly lower than in the June Beige Book. 
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-no06.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>  
+
+Underlying conditions point to continued support from demand and labor markets, though persistent price pressures remain a constraint on overall economic momentum.
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-no06.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+</p>
+
+The GDP-weighted growth index is 1.65 which is at the lower end of modest growth and down from from 1.71 in the July Beige Book. Both unweighted and weighted diffusion measures are stable. 
+
+---
 ## July 2026
 U.S. Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
 
