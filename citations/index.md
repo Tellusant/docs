@@ -48,6 +48,7 @@ Alphabetically listed by authority.
 #### [Bogotá, Secretaría General de la Alcaldía Mayor de (2025): *Entorno Economico*](https://secretariageneral.gov.co/sites/default/files/2025-09/4._entorno_economico.pdf)
 #### [British Council (2021): *Managing Conflict in Nigeria*](https://www.justice-security.ng/sites/default/files/research_report_sgbv_yobe_final_web.pdf)
 #### [Bucharest University (2014): *Constructing official poverty lines for countries in transition*](https://www.econstor.eu/bitstream/10419/168830/1/aej-v16-i35-p0368.pdf)
+#### [Business Venturing Insights, Journal of (2024): *Stars everywhere: Revealing the prevalence of star performers using empirical data published in entrepreneurship research*](https://www.sciencedirect.com/science/article/abs/pii/S2352673424000441#references)
 #### [CARD International Journal of Medical Science and Applied Biosciences (2017): *Survey and control of tomato (Solanum lycopersicum L.) wilt caused by Fusarium oxysporum Schlecht*](https://casirmediapublishing.com/wp-content/uploads/2019/09/Pages-44-61.pdf)
 #### [CDP (2013): *Wealtier, healthier cities*](assets/pdf/cdp-cities.pdf)   
 #### [Chronos Info Consulting (2012): *Management Consulting as a Form of Entrepreneurial Learning and a Source of Business Knowledge*](https://hrcak.srce.hr/file/192292)
