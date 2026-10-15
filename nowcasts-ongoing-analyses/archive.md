@@ -1,7 +1,7 @@
 # Beige Book Nowcast Archive
 
 ---
-## Beige Book Nowcast: Sentiment Analysis of Economic Activity — September 2, 2026
+## September 2026
 
 U.S. Economic activity increased modestly in the September Beige Book, with conditions improving across 10 of 12 districts. National performance was slightly lower than in the June Beige Book. 
 
