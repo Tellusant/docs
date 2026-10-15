@@ -18,7 +18,7 @@ This open access repository contains the published works of Tellusant team membe
 --- 
 ## [Company Information](information/index.md)
 Find the main descriptions of Tellusant and its products.  
-## [Articles & Posts](articles-posts/index.md)  
+## [Articles and Posts](articles-posts/index.md)  
 We have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. We gradually save them for posterity here.  
 ## [Quick Reads](quick-reads/index.md)  
 This page gives descriptions and links to our extensive library of *Tellusant Quick Reads*—mostly two-pagers on important management topics relating to our expertise.  
@@ -28,7 +28,7 @@ Here we share academic and business papers (journal articles, working papers, di
 Public speeches, lectures and other presentations in slide format by Tellusant members. 
 ## [Media Appearances](media/index.md)  
 Interviews with our leaders on TV, radio, podcasts and more.
-## [Nowcasts & Ongoing Analyses](nowcasts-ongoing-analyses/index.md)  
+## [Nowcasts and Ongoing Analyses](nowcasts-ongoing-analyses/index.md)  
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily. They include our nowcasted **recession predictor**, the global **economic sentiment engine**, and the **beige book nowcast**.   
 ## [Factsheets](factsheets/index.md)  
 We provide free TelluBase data to select public institutions and media. These are small, but important subsets of the full product.  
