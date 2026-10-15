@@ -1,6 +1,7 @@
 ---
 title: "Beige Book Nowcast: Sentiment Analysis of U.S. Economic Activity"
 description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast."
+date: 2026-10-14
 image: /assets/social-card-beig.png
 ---
 <p align="center">
