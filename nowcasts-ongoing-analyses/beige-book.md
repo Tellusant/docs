@@ -1,6 +1,6 @@
 ---
 title: "Beige Book Nowcast: Sentiment Analysis of U.S. Economic Activity"
-description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast."
+description: "The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast using our Fedora agent."
 date: 2026-10-14
 image: /assets/social-card-beig.png
 ---
@@ -9,6 +9,8 @@ image: /assets/social-card-beig.png
 </p>
 
 # Beige Book Nowcast: Sentiment Analysis of U.S. Economic Activity — October 14, 2026
+
+The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast using our ***Fedora*** agent.
 
 U.S. Economic activity increased slightly in the October Beige Book period, with conditions improving across 10 of 12 districts. National performance was lower than in the September Beige Book, resulting in slight instead of modest growth.
 
