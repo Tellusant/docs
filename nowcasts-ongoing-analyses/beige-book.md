@@ -5,7 +5,7 @@ date: 2026-10-14
 image: /assets/social-card-beig.png
 ---
 <p align="center">
-<a href="background.html">Find the background to Tellusant's Beige Book nowcast here</a>
+<a href="background.md">Find the background to Tellusant's Beige Book nowcast here</a>
 </p>
 
 # Beige Book Nowcast: Sentiment Analysis of U.S. Economic Activity — October 14, 2026
