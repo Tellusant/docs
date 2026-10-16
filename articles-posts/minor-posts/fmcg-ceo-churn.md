@@ -11,7 +11,7 @@ image: /assets/social-card-publ.png
 
 I noticed (when I updated my LinkedIn follower list, that there has been an incredible churn of CEOs at large FMCG companies over the past year. Why is that?
 
-> *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?*  
+> FYI: *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?*  
 {: .blockcomment}
 
 I have 3 hypotheses:  
