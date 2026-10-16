@@ -30,4 +30,4 @@ To verify, I asked ChatGPT if my high churn observation is correct. It said yes:
 
 Separately, I have researched leadership team compositions. The team members' educations and career evolutions also suggest why the change is happening. [See *The Fabric of Executive Teams*](https://canback.net/docs/articles-posts/fabric-of-executive-teams),  
 
-Fortunately, a company is not **THE COMPANY** anymore. It is the entire network of capabilities, including professional services firms and other advisors. Managing this is in many ways the most important task. [See my piece *The Nexus Organization: The 4th Wave of Corporate Structure*](https://canback.net/docs/articles-posts/nexus-organization).  
+Fortunately, a company is not **THE COMPANY** anymore. It is the entire network of capabilities, including professional services firms and other advisors. Managing this is in many ways the most important task for CEOs. [See my piece *The Nexus Organization: The 4th Wave of Corporate Structure*](https://canback.net/docs/articles-posts/nexus-organization).  
