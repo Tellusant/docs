@@ -1,10 +1,10 @@
 ---
-title: "Nowcasts & Ongoing Analyses"
+title: "Nowcasts and Ongoing Analyses"
 description: "Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to quarterly."
 date: 2026-09-03
 image: /assets/social-card-publ.png
 ---
-# Nowcasts & Ongoing Analyses
+# Nowcasts and Ongoing Analyses
 
 <a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
