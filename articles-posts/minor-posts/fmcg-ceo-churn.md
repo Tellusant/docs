@@ -11,7 +11,7 @@ image: /assets/social-card-publ.png
 
 I noticed (when I updated my LinkedIn follower list, that there has been an incredible churn of CEOs at large FMCG companies over the past year. Why is that?
 
-> FYI: *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?*  
+> *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?*  
 {: .blockcomment}
 
 I have 3 hypotheses:  
@@ -19,8 +19,8 @@ I have 3 hypotheses:
 - FMCG is not doing well in general. This conforms with <a href="https://docs.tellusant.com/quick-reads/Tellusant-Quick-Read-Engel-Curve.pdf"  target="_blank" ><span style="color: black; text-decoration: none"></span><i>Engel's Law</i></a> from 1857 that FMCG cannot grow with the economy at large. FMCG will be an ever shrinking part of the household wallet.<br/><br/>
 Not much can be done about this except diversification (FEMSA being an example of success in this; from brewer to retail giant and more). Global expansion is a hard slog since there are established players in most parts of the world. Not impossible, but requires precision.<br/><br/><a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><b>Tellusant </b>will benefit from this since we have lived with such issues for decades.</a>
 
-> Large U.S. FMCG companies have declined 0.6% annually 2015-2025 in real (inflation-adjusted) terms.
-{::blockcomment}
+> FYI: Large U.S. FMCG companies have declined 0.6% annually 2015-2025 in real (inflation-adjusted) terms.
+{: .blockcomment}
  
 - AI requires new skills. Leadership is shifting toward tech-literate executives who can manage automated, algorithm-driven business models rather than traditional brand equity and legacy marketing spend. <a href="https://canback.net/docs/articles-posts/minor-posts/ai-reshaping-boards.html"  target="_blank"><span style="color: black; text-decoration: none">I posted a year ago that this will</span> impact supervisory and executive boards</a> (who largely know little about AI).<br/><br/>One comment I hear "we have really smart data scientists". That may be in the FMCG CEO's eyes, but in comparison to the universe of data scientists it is usually not true.<br/><br/><a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;">This skill shift is to <b>Tellusant's</b> advantage. We will have easier dialogues in future with senior leaders.</a>
 
