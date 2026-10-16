@@ -1,5 +1,5 @@
 ---
-title: "External Citation𝘀"
+title: "External Citations"
 description: "See how scientific, governmental, and business authorities have cited Tellusant and its senior members publicly over the years."
 image: /assets/social-card-cite.png
 ---
@@ -217,7 +217,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [Sustainable Energy for All (2020): *Scope of Work - LOT 1: Nigeria Integrated Energy and COVID-19 Vaccine Distribution Plans*](https://www.seforall.org/system/files/2020-12/LOT1-Nigeria-IEP-COVID-19-Vaccine-Distribution.pdf)
 #### [Swiss Political Science Association (2016): *Survival of the fittest: Explaining the success of ethnic autonomy arrangements*](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12229)
 #### [Switzerland Global Enterprise (2015): *Rising middle class: Global outlook and growth potential*](https://issuu.com/s-ge/docs/151118093151-17f61e7caa9244bebd6f7c9b93dced45) (broken)
-#### [Systems (2025): *Is Economies of Scale Driving Everything as a Service?*]() tbd
+#### [Systems (2025): *Is Economies of Scale Driving Everything as a Service?*](assets/pdf/systems-laudal-is-economies-of -scale-driving-everything-as-a-service.pdf)
 #### [TAP-TUMI (2025): *Investor Brief*](https://transformative-mobility.org/wp-content/uploads/2025/06/TAP-TUMI-Investor-Brief_VF.pdf)
 #### [T.RowePrice (2012): *Africa & Middle East – The final investment frontier*](assets/pdf/t.roweprice-africa-and-middle-east-the-final-investment-frontier.pdf)
 #### [United Nations (2013): *Abuja +12: Shaping the future of health in Africa*](assets/pdf/united-nations-abuja+12-shaping-the-future-of-health-in-africa.pdf)
