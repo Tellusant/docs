@@ -9,6 +9,11 @@ This section will over time contain all our substance-oriented articles and post
 
 Search engines and AI bots cannot see through the firewalls on these sites (they at best get snippets), so we publish them here for posterity.  
 
+[1. Recent](#1-recent)  
+[2. Past](#2-past)  
+[3. Collections](#3-collections)  
+[4. Minor Posts](#4-minor-posts)  
+
 ---
 ## 1. Recent  
 
