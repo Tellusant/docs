@@ -9,9 +9,9 @@ image: /assets/social-card-publ.png
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2026-10-09*  
 
-I noticed (when I updated my LinkedIn follower list, that there has been an incredible churn of CEOs at large FMCG companies over the past year. Why is that?
+I noticed that there has been an incredible churn of CEOs at large FMCG companies over the past year. Why is that?
 
-> *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?* – S.C.
+> *Are FMCG companies experiencing a leadership crisis, or is what appears to be a leadership crisis fundamentally a strategic decision-quality crisis?* <span style="font-size: 0.8rem;">– S.C.</span>
 
 I have 3 hypotheses:  
 
