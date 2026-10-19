@@ -157,3 +157,76 @@ The anticipated benefit of the hybrid model is a hypothesis, not a foregone conc
 The 60-year panel is a strategic research asset, even if clients prefer recent data. It can reveal how much historical information five-year forecasting actually requires and which structural relationships survive changes in consumer behavior. The 20-year panel can then serve as the practical estimation environment, while three-year client datasets anchor market-specific applications.
 
 The recommended starting point is **nonlinear panel demand estimation with parsimonious autoregressive adjustment**, benchmarked rigorously against ARIMA and naive forecasts.
+
+## 9. Handling COVID-19 in beverage-demand forecasting
+
+The COVID-19 pandemic introduced exceptional disturbances in 2020, 2021, and, in some markets, 2022. These observations can distort estimates of income elasticities, secular trends, and autoregressive persistence. The impact also differed across countries, beverage categories, and on-premise versus off-premise channels. The forecasting problem is to distinguish a temporary deviation from underlying demand from a persistent change in consumption behavior.
+
+### 9.1. Alternative treatments
+
+| Method | Interpretation | Main consideration |
+|---|---|---|
+| Year dummies | Separate average effects for 2020–2022 | Transparent baseline, but imposes common timing unless interactions are added |
+| Intervention with decay | Temporary shock that gradually dissipates | Parsimonious, but a single monotonic decay may not describe all countries |
+| Downweighting or robust estimation | Limit the influence of exceptional observations | Useful complement; does not itself distinguish structural change from temporary shock |
+| Treat affected observations as missing | Estimate a counterfactual underlying demand path | Useful benchmark, but can overlook permanent shifts |
+| Temporary shock plus level shift | Allow both recovery and lasting change | Flexible, but hard to identify with limited post-pandemic data |
+
+### 9.2. Temporary intervention model
+
+Extend the structural panel model with a pandemic intervention:
+
+$$
+\ln q_{it}=\alpha_i+f(\ln Y_{it})+\gamma_i t+\delta_i C_t+u_{it}.
+$$
+
+A simple decaying intervention is:
+
+$$
+C_t=\begin{cases}
+0, & t<2020,\\
+1, & t=2020,\\
+\rho C_{t-1}, & t>2020,
+\end{cases}
+\qquad 0\leq\rho<1.
+$$
+
+With $\rho=0.5$, the intervention retains 100% of its initial magnitude in 2020, 50% in 2021, 25% in 2022, and 12.5% in 2023. This is illustrative, not an assumed empirical pattern. The peak may occur later than 2020, and the effects may reverse sign. More flexible pulse interventions or beverage-specific timing may therefore be warranted.
+
+For a panel with only 20 annual observations per country, estimate a common or partially pooled decay parameter rather than a separate unconstrained decay process for every country.
+
+### 9.3. Allowing for permanent changes
+
+A combined temporary-and-permanent specification is:
+
+$$
+\ln q_{it}=\alpha_i+f(\ln Y_{it})+\gamma_i t
++\delta_i C_t+\psi_i S_t+u_{it},
+$$
+
+where $S_t=0$ before 2020 and $S_t=1$ from 2020 onward. Here $\delta_i$ captures the transitory effect and $\psi_i$ a lasting level shift. Because a slow recovery can resemble a permanent break, the two effects should be estimated conservatively, with partial pooling and sensitivity analysis. A post-pandemic change in slope could also be tested, but adds further identification demands.
+
+### 9.4. Exclusion and robust estimation as benchmarks
+
+A practical alternative is to treat 2020–2022 as missing **for estimation of the normal-demand trajectory**, while retaining actual observations for validation and reporting. A state-space smoother can estimate a counterfactual path through the affected years. This should not be interpreted as evidence that COVID had no permanent effects.
+
+Robust regression or explicit lower weights for affected observations offers a middle ground:
+
+$$
+\min_{\theta}\sum_{i,t}w_{it}
+\left[\ln q_{it}-\widehat{\ln q}_{it}(\theta)\right]^2.
+$$
+
+Because COVID was a systematic shock rather than merely random outliers, robust estimation is best used alongside an explicit intervention or exclusion strategy.
+
+### 9.5. Proposed empirical comparison
+
+Using the 60-year research panel, compare three approaches under the same underlying demand specification:
+
+1. **A — Dummies:** The existing 2020–2022 dummy-variable approach.
+2. **B — Exclusion:** Omit pandemic-affected observations when estimating the structural trajectory.
+3. **C — Intervention:** Estimate a decaying temporary effect, optionally with a permanent level shift.
+
+Assess how each approach reconstructs the underlying trend and predicts post-pandemic demand, particularly 2023–2025. Where the data permit, test the same methods on earlier major disruptions using genuine rolling-origin forecasts. Avoid choosing the smoothest fitted trend merely because it looks plausible: compare terminal-year forecast errors, five-year cumulative growth errors, bias, and market-volume-weighted performance. When using 2023–2025 to evaluate a method, do not use those observations to fit that method's forecast at the evaluation origin.
+
+**Recommendation:** Retain the year-dummy specification as a benchmark. Test exclusion as the simplest alternative and a pooled intervention model as the leading candidate. Permit lasting level changes where supported by the post-pandemic data, rather than forcing all countries and beverage categories back to their pre-2020 trajectories.
