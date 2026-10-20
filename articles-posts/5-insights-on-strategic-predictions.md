@@ -7,4 +7,7 @@ hide_header: true
 hide_footer: true
 ---
 
-<iframe src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" width="100%"></iframe>
+<iframe 
+  src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" 
+  style="width: 600px; aspect-ratio: 1 / 1.414; height: auto;">
+</iframe>
