@@ -7,6 +7,8 @@ hide_header: true
 hide_footer: true
 ---
 
+<embed src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf type="application/pdf" width="100%" height="850px" />
+
 <iframe 
   src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" 
   style="width: 600px; aspect-ratio: 1 / 1.573; height: auto;">
