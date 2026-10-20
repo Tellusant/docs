@@ -7,7 +7,11 @@ hide_header: true
 hide_footer: true
 ---
 
-<embed src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf type="application/pdf" width="100%" height="850px" />
+<embed src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" type="application/pdf" width="100%" height="850px" />
+
+<object data="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" type="application/pdf" width="100%" height="850px">
+    <p>Your browser does not support embedding PDFs. <a href="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf">Download the PDF instead</a>.</p>
+</object>
 
 <iframe 
   src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" 
