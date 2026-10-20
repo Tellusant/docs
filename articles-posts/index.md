@@ -99,7 +99,7 @@ There is a sad state of affairs at the large management consulting firms—MBB. 
 ### [Elasticity Math](elasticity-math.md)
 Why do we use logarithms when calculating elasticities? Here is the answer.  
 
-### [5 Insights on Strategic Predictions](tellusant-5-insights-on-strategic-predictions.pdf)
+### [5 Insights on Strategic Predictions](assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
 ### [Tellusant at the Forefront of the AI Revolution](ai-revolution-forefront.md)
