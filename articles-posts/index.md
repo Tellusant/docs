@@ -99,6 +99,9 @@ There is a sad state of affairs at the large management consulting firms—MBB. 
 ### [Elasticity Math](elasticity-math.md)
 Why do we use logarithms when calculating elasticities? Here is the answer.  
 
+### [5 Insights on Strategic Predictions](tellusant-5-insights-on-strategic-predictions.pdf)
+This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
+
 ### [Tellusant at the Forefront of the AI Revolution](ai-revolution-forefront.md)
 Tellusant has always been at the forefront of the AI revolution. It was the intent behind founding the company and abandoning management consulting.  
 
@@ -122,9 +125,6 @@ Trade-offs between generality, precision, and realism in strategy development.
 
 ### [Predictive Modeling Collection](predictive-modeling-collection.md)
 This page collects our philosophical and theoretical work on predictive modeling in one place.
-
-### [Five Insights on Strategic Predictions](tellusant-five-insights-on-strategic-predictions.pdf)
-This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
 ## 4. [Minor Posts](minor-posts/index.md)
 Shorter pieces, often with high value points made, but not in a substantive manner.
