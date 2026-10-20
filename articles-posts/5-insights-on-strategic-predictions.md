@@ -8,3 +8,4 @@ hide_footer: true
 ---
 
 ![x](assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf)
+<iframe src="assets/pdf/tellusant-5-insights-on-strategic-predictions.pdf" width="100%" height="100%"></iframe>
