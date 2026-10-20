@@ -8,7 +8,7 @@ image: /assets/social-card-pub.png
 
 Adding expert judgment to models improves their accuracy. We discuss how to do this the best way. What you see here is how PoluSim, our strategic forecasting solution, works.
 
-Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This is what we allow in Polusim. 
+Several authorities have found that mechanical (statistical) forecasts benefit from adding expert judgment as an overlay. This is what we allow in PoluSim. 
 
 There are two systems for how this can be done: 
 1. The judgmental forecast is made independently of the mechanical forecast, and they are then merged.
