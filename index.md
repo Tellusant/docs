@@ -28,7 +28,7 @@ Here we share academic and business papers (journal articles, working papers, di
 Public speeches, lectures and other presentations in slide format by Tellusant members. 
 ## [Media Appearances](media/index.md)  
 Interviews with our leaders on TV, radio, podcasts and more.
-## [Nowcasts and Recurring Analyses](nowcasts-recurring-analyses/index.md)  
+## [Nowcasts & Recurring Analyses](nowcasts-recurring-analyses/index.md)  
 These are models Tellusant updates and publishes on a regular, year in and year out. Some of them are daily. They include our nowcasted **recession predictor**, the global **economic sentiment engine**, and the **beige book nowcast**.   
 ## [Factsheets](factsheets/index.md)  
 We provide free TelluBase data to select public institutions and media. These are small, but important subsets of the full product.  
