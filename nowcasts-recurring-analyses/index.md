@@ -1,17 +1,17 @@
 ---
-title: "Nowcasts and Ongoing Analyses"
-description: "Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to quarterly."
+title: "Nowcasts and Recurring Analyses"
+description: "Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to semiannually."
 date: 2026-09-03
 image: /assets/social-card-publ.png
 ---
-# Nowcasts and Ongoing Analyses
+# Nowcasts and Recurring Analyses
 
 <a href="https://tellusant.com" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
 Tellusant updates and publishes these models on a regular basis, year in and year out. They range from daily to quarterly.
 
 ## [Global Economic Growth 1970-2027](global-economic-gauss.md)
-How is the world economy performing in 2026? And what can we expect in 2027? IMF's World Economic Outlook (WEO) was recently released and we use it to assess performance by year from 1970 till 2027, illustrated with a Gauss curve.
+How is the world economy performing in 2026? And what can we expect in 2027? IMF's World Economic Outlook (WEO) was recently released and we use it to assess performance by year from 1970 till 2027, illustrated with a Gauss curve. **Semiannually**
 ## [Economic Sentiment Tool](https://tellubase.com/country-sentiment-analysis/)
 This AI agent analyses the economic sentiment in almost any country based on written reports that have been selected by Tellusant (this approach avoids anomalous artifacts). Get a snapshot of current or past sentiment along various dimensions. **Daily**
 ## [Quantitative Risk Explorer](https://tellubase.com/quantitative-risk-explorer/)
