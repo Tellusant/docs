@@ -20,7 +20,7 @@ The graph shows that the 2026 growth is expected to be above average despite war
 <img  src="assets/images/gauss/s.canback-tellusant-global-economic-performance-gauss-2026-october.svg" width="700" alt=".">
 </p>  
 
-We measure economic performance as growth i GDP per working-age population, in line with most serious observers. The graph below shows that many think of as an economic decline is in fact a demographic decline. Around i percentage point in growth is due to demographic headwinds since the 1980s.
+We measure economic performance as growth in GDP per working-age population, in line with serious authorities. The graph below shows that what many think of as an economic decline is in fact a demographic decline. Around 1 percentage point decline in annual growth is due to demographic headwinds since the 1980s.
 
 <p align="center">
 <img  src="assets/images/gauss/s.canback-tellusant-global-working-age-pop-growth-2026-october.svg" width="700" alt=".">
