@@ -10,10 +10,20 @@ image: /assets/social-card-gauss.png
 
 How is the world economy performing in 2026? And what can we expect in 2027? IMF's World Economic Outlook (WEO) was recently released and we use it to assess performance by year from 1970 till 2027, illustrated with a Gauss curve.  
 
+[**TelluBase**](https://telubase) has been updated with new forecasts from October 2026. We have aggregated the data to the global level to compare 2026 with 1970-2025 in a Gauss (normal) distribution.
+
+The graph shows that the 2026 growth is expected to be above average despite wars and tariffs. 2027 may be slightly higher. The 202os have been above average in all years except the 2020 pandemic year.
+— — —
+
+
 <p align="center">
 <img  src="assets/images/gauss/s.canback-tellusant-global-economic-performance-gauss-2026-october.svg" width="700" alt=".">
 </p>  
 
+We measure economic performance as growth i GDP per working-age population, in line with most serious observers. The graph below shows that many think of as an economic decline is in fact a demographic decline. Around i percentage point in growth is due to demographic headwinds since the 1980s.
+
 <p align="center">
 <img  src="assets/images/gauss/s.canback-tellusant-global-working-age-pop-growth-2026-october.svg" width="700" alt=".">
 </p>  
+
+The same analysis is available by regions and countries (from 1970), and cities (from 2000).
