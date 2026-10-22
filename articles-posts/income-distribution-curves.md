@@ -9,9 +9,9 @@ image: /assets/social-card-publ.png
 
 Most executives have heard of income distribution, but usually do not know what the actual curves look like.
 
-This is not surprising because there are not all that many such curves easily available. Instead, the focus is on the 1 percent, the Gini coefficient, and other shorthands for income distribution.
+This is not surprising because there are not all that many such curves easily available. Instead, the focus is on the 1 percent, the Gini coefficient, and other short hands for income distribution that give no sense of what is going on.
 
-Here we show four income distribution curves, with income expressed relative to each city's median income. We cap the maximum at the 99th percentile since the curves go to infinity.
+Here we show four city income distribution curves, with income expressed relative to each city's median income. We cap the maximum at the 99th percentile since the curves go to infinity. Similar curves can be created for countries, provinces, rural areas and so on using [TelluBase](https://tellubase.com).
 
 <p align="center">
 <img  src="assets/images/income-distribution/tellusant-income-distribution-curves.svg" width="600" alt="Tellusant: Select income distribution curves">
