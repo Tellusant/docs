@@ -13,11 +13,6 @@ How is the world economy performing in 2026? And what can we expect in 2027? IMF
 The graph shows that the 2026 growth is expected to be above average despite wars and tariffs. 2027 may be slightly higher. The 202os have been above average in all years except the 2020 pandemic year.
 
 <p align="center">
-<a href="assets/images/gauss/s.canback-tellusant-global-economic-performance-gauss-2026-october.svg" target="_blank">
-  <img src="assets/images/gauss/s.canback-tellusant-global-economic-performance-gauss-2026-october.svg" alt="Click to expand" width="100%"></a>
-</p>
-
-<p align="center">
 <img  src="assets/images/gauss/s.canback-tellusant-global-economic-performance-gauss-2026-october.svg" width="800" alt="Global economic growth gauss curve 1970-">
 </p>  
 
