@@ -16,7 +16,7 @@ The graph shows that the 2026 growth is expected to be above average despite war
 <img  src="assets/images/gauss/s.canback-tellusant-global-economic-performance-gauss-2026-october.svg" width="800" alt="Global economic growth gauss curve 1970-">
 </p>  
 
-We have verified with a Shapiro-Wilk normality test that the Gauss curve represents the distribution of economic growth.
+We have verified, with a Shapiro-Wilk normality test, that the Gauss curve represents the distribution of economic growth.
 
 We measure economic performance as growth in GDP per working-age population, in line with serious authorities. The graph below shows that what many think of as an economic decline is in fact a demographic decline. Around 1 percentage point decline in annual growth is due to demographic headwinds since the 1980s.
 
