@@ -1,11 +1,12 @@
 ---
 title: "Tellusant's Corporate Decision-Making Framework"
 description: "Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework."
+date: 2021-11-17
 image: /assets/social-card-pub.png
 ---
 # Tellusant's Corporate Decision-Making Framework
 
-<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i>
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By Dr. Staffan Canback</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>Tellusant, Inc.</i> | *2021-11-17*
 
 Companies are often described as decision factories. Based on the academic literature and extensive interviews, Tellusant created this decision-making framework.
 
