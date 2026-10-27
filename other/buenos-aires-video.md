@@ -1,7 +1,7 @@
 ---
 title: "Buenos Aires by Night"
 description: "Our chairman was on a business trip to Buenos Aires and this is what he encountered from his hotel room."
-image: /assets/social-card-survey.png
+image: /assets/social-cards/social-card-buenos-aires.png
 hide_header: true
 hide_footer: true
 ---
