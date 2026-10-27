@@ -7,7 +7,11 @@ image: /assets/social-card-think.png
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-Bits and pieces such as event posters.  
+Bits and pieces such as travel videos. surveys, and event posters.  
+
+### [Buenos Aires Video](buenos-aires-video.md)
+Our chairman visited Buenos Aires for business. He shot this nigh time video from his hotel room.
+
 
 ### [Poster for "From Greenlands to Tellusant" Presentation](S.Canback-From-Greenlands-to-Tellusant-Academic-Research-Meets-Real-World-Management-Problems-Poster.pdf)
 Henley Business School: 39th Anniversary DBA Research Colloquium - July 20 2022
