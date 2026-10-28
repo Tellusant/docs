@@ -29,6 +29,7 @@ This layer handles abstract reasoning, goal decomposition, and long-horizon plan
 This layer processes raw sensor data to build a real-time model of the robot's internal state and external environment.  
 	What it does: Fuses data from LiDAR, depth cameras, and IMUs (Inertial Measurement Units) to answer: Where am I? What is around me? What is my joint configuration?  
 	Technologies/Concepts: Simultaneous Localization and Mapping (SLAM), 3D computer vision, semantic segmentation, and Kalman filtering for state estimation.  
+	
 ### 2.C The Low-Level Layer: Whole-Body Control & Locomotion
 This is the critical layer that makes a humanoid robot distinct from a software agent or a wheeled robot. It deals directly with physics.  
 
@@ -38,5 +39,40 @@ This is the critical layer that makes a humanoid robot distinct from a software 
   -	Model Predictive Control (MPC): Anticipates physical forces and predicts the robot's movement over a short time horizon to maintain balance.
   -	Reinforcement Learning (RL) for Locomotion: Policies trained in physics simulators (like Isaac Gym) and deployed to hardware to handle uneven terrain, pushes, and slips gracefully.
  
+## 3. Key Terminology
+If you want to sound technically precise, incorporate these industry-standard terms:  
 
+- Degrees of Freedom (DoF): The number of independent joints/movements the humanoid has (often 20 to 50+), which dictates the complexity of the kinematic calculations.  
+
+- Sim-to-Real Transfer: The methodology of training neural networks (especially for walking and grasping) in a physics simulator and transferring those policies to the physical robot.  
+
+- Reactive vs. Deliberative Control: Describing how the robot balances real-time safety reflexes (reactive) with long-term goal execution (deliberative).  
+
+### Summary
+If you need a concise thesis sentence or abstract for your assignment, you can use something like this:
+
+`"The AI operating a modern humanoid robot is an embodied intelligence architecture characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments."`
+
+## 4. LLM vs Emodied AI
+
+> I also want to explain that LLM, much as it discussed, is not the only AI solution, and the kinds of things described here are at least as complex (not that LLM is all that complex)
+
+To effectively communicate this point in a training context, it is helpful to frame the contrast directly: Large Language Models (LLMs) operate in a discrete, statistical domain, whereas physical AI operates in a continuous, dynamic, and safety-critical environment. 
+While LLMs are impressive in scale, processing text is fundamentally simpler in a mathematical sense than operating physical hardware in real time.  
+
+** Key Conceptual Arguments to Make**
+### 4.1 Token Space vs. Physical Action Space
+- LLMs: Text prediction is a discrete token problem. The model predicts the next word out of a finite vocabulary. It operates without real-time temporal or physical consequences—if it generates a bad token, no physical damage occurs. 
+- Robotic Control: The physical world operates in continuous vector spaces across dozens of dimensions simultaneously. The robot’s system must output continuous control signals (torques, joint angles, voltage levels) dynamically. 
+### 4.2 The Determinism and Timing Gap
+- LLMs: Can afford variable latency. A response taking 1.5" seconds"  vs. 0.5" seconds"  is trivial.
+- Low-Level Controllers: Must run at strict, deterministic update frequencies—typically 100" Hz"  to 1,000" Hz"  (1" to " 10" milliseconds"  per cycle). Delay in calculating dynamic stability for a bipedal robot will cause the machine to fall and break. 
+### 4.3 Spatial Geometry & Newtonian Physics vs. Semantic Association
+- LLMs: Lack spatial grounding or physical world models. An LLM "knows" a glass can break because of textual patterns, but it has no internal mechanism to compute mass, moment of inertia, friction coefficients, or contact forces. 
+- Physical AI: Must solve real-time dynamic equations involving gravity, center of mass (CoM), surface friction, and object impedance. 
+
+**How to Frame the System Taxonomy**
+To clearly structure this for your presentation, you can present a comparison between the different types of AI systems:
+
+**TABLE**
 
