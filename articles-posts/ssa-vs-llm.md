@@ -51,7 +51,8 @@ If you want to sound technically precise, incorporate these industry-standard te
 ### Summary
 If you need a concise thesis sentence or abstract for your assignment, you can use something like this:
 
-`"The AI operating a modern humanoid robot is an embodied intelligence architecture characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments."`
+>"The AI operating a modern humanoid robot is an embodied intelligence architecture characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments."
+{::Blockcomment}
 
 ## 4. LLM vs Emodied AI
 
