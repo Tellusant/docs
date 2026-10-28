@@ -1,3 +1,10 @@
+---
+title: "Assume a humanoid robot"
+description: "How should I describe the AI that runs it. I'm not interested in the human interface through LLM, but what operates it. I need this for a training session."
+date: 2026-10-27
+image: /assets/social-cards/social-card-publ.png
+---
+
 > Assume a humanoid robot. How should I describe the AI that runs it. I'm not interested in the human interface through LLM, but what operates it. I need this for a training session.
 
 To describe the AI that operates a humanoid robot for an academic setting, you need to look beyond conversational models (like LLMs) and focus on **embodied AI**, **robotic control architectures**, and **cognitive-motor frameworks**.
