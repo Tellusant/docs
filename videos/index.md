@@ -17,7 +17,7 @@ This video describes Tellusant's mission, who we are, our global reach, and our 
 This video gives an overview of our PoluSim strategic forecasting solution. In 5 minutes, we explain the why, what, and how of PoluSim. [🇹🇷🇦🇩🇪 🇸🇪🇨🇷🇪🇹]
 
 #### [A Quick Tour of TelluBase](https://tellusant.com/repo/video/tellusant-tellubase-introduction.mp4)  
-This video intoduces our subnational income distribution database TelluBase in 3 minutes. The database covers 218 countries, 2600 cities, and 2500 subdivions for an exhaustive view of the world. [🇹🇷🇦🇩🇪 🇸🇪🇨🇷🇪🇹]
+This video introduces our subnational income distribution database TelluBase in 3 minutes. The database covers 218 countries, 2600 cities, and 2500 subdivions for an exhaustive view of the world. [🇹🇷🇦🇩🇪 🇸🇪🇨🇷🇪🇹]
 
 #### [Intro to PACE](https://tellusant.com/repo/video/tellusant-pace-introduction.mp4)  
 Do you know who, where, and when your consumers are buying your products? The PACE (Pricing Aligned with Consumer Economics) latent demand estimator answers these questions. [🇹🇷🇦🇩🇪 🇸🇪🇨🇷🇪🇹]
