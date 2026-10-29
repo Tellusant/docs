@@ -14,32 +14,32 @@ Humanoid robots require a sophisticated stack because they operate in unstructur
 
 Here is a structured framework and breakdown you can use, organized by the functional layers of the AI stack.
 
-**1. The Core Concept: Embodied AI**
+## 1. The Core Concept: Embodied AI
 
 Instead of treating AI as a disembodied "brain" that only processes text or images, describe the system as **Embodied AI**.
 
 * **Definition:** AI that is physically instantiated in an artificial body, capable of perceiving the world through sensors, reasoning about physical constraints, and acting upon the world through actuators.
 * **Key characteristic:** It bridges the gap between high-level semantic reasoning (understanding what to do) and low-level continuous control (managing physics, torque, and balance at 500+ Hz).
 
-**2. The Architectural Layers (How to Describe the Stack)**
+# 1.2 The Architectural Layers (How to Describe the Stack)**
 
 When writing about or presenting this for an audience, it is best to break the software/AI architecture into three hierarchical tiers:
 
-**A. The High-Level Layer: Cognitive & Task Planning**
+# 1.2.1 The High-Level Layer: Cognitive & Task Planning**
 
 This layer handles abstract reasoning, goal decomposition, and long-horizon planning.
 
 * **What it does:** Breaks down a vague command (e.g., "Clean up the kitchen") into sequential tasks (walk to table $\rightarrow $locate cup $\rightarrow $grasp handle).
 * **Technologies/Concepts:** Vision-Language-Action (VLA) models, hierarchical task networks (HTNs), and behavior trees. (Note: While LLMs/VLMs might be used here for semantic understanding, they sit at the top of the stack and hand off instructions to lower-level controllers).
 
-**B. The Mid-Level Layer: Perception, State Estimation, & Navigation**
+# 1.2.2 The Mid-Level Layer: Perception, State Estimation, & Navigation**
 
 This layer processes raw sensor data to build a real-time model of the robot's internal state and external environment.
 
 * **What it does:** Fuses data from LiDAR, depth cameras, and IMUs (Inertial Measurement Units) to answer: Where am I? What is around me? What is my joint configuration?
 * **Technologies/Concepts:** Simultaneous Localization and Mapping (SLAM), 3D computer vision, semantic segmentation, and Kalman filtering for state estimation.
 
-**C. The Low-Level Layer: Whole-Body Control & Locomotion**
+# 1.2.3 The Low-Level Layer: Whole-Body Control & Locomotion**
 
 This is the critical layer that makes a humanoid robot distinct from a software agent or a wheeled robot. It deals directly with physics.
 
@@ -48,7 +48,7 @@ This is the critical layer that makes a humanoid robot distinct from a software 
   + **Model Predictive Control (MPC):** Anticipates physical forces and predicts the robot's movement over a short time horizon to maintain balance.
   + **Reinforcement Learning (RL) for Locomotion:** Policies trained in physics simulators (like Isaac Gym) and deployed to hardware to handle uneven terrain, pushes, and slips gracefully.
 
-**3. Key Terminology**
+# 1.3 Key Terminology
 
 If you want to sound technically precise, incorporate these industry-standard terms:
 
@@ -56,7 +56,7 @@ If you want to sound technically precise, incorporate these industry-standard te
 * **Sim-to-Real Transfer:** The methodology of training neural networks (especially for walking and grasping) in a physics simulator and transferring those policies to the physical robot.
 * **Reactive vs. Deliberative Control:** Describing how the robot balances real-time safety reflexes (reactive) with long-term goal execution (deliberative).
 
-**Suggested Summary Statement**
+# 1.4 Suggested Summary Statement
 
 If you need a concise thesis sentence or abstract for your assignment, you can use something like this:
 
