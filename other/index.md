@@ -9,8 +9,8 @@ image: /assets/social-card-think.png
 
 Bits and pieces such as travel videos. surveys, and event posters.  
 
-### [Buenos Aires Video](buenos-aires-video.md)
-Our chairman visited Buenos Aires for business. He shot this nigh time video from his hotel room.
+### [Buenos Aires by Night Video](buenos-aires-by-night.md)
+Our chairman visited Buenos Aires for business. He shot this night time video from his hotel room.
 
 
 ### [Poster for "From Greenlands to Tellusant" Presentation](S.Canback-From-Greenlands-to-Tellusant-Academic-Research-Meets-Real-World-Management-Problems-Poster.pdf)
