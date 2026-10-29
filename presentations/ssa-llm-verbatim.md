@@ -1,5 +1,5 @@
 ---
-title: "Assume a humanoid robot"
+title: "Assume a Humanoid Robot"
 description: "How should I describe the AI that runs it. I'm not interested in the human interface through LLM, but what operates it. I need this for a training session."
 date: 2026-10-27
 image: /assets/soca/social-card-prez.png
@@ -59,7 +59,7 @@ If you want to sound technically precise, incorporate these industry-standard te
 
 If you need a concise thesis sentence or abstract for your assignment, you can use something like this:
 
-> "The AI operating a modern humanoid robot is an **embodied intelligence architecture** characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments."
+> The AI operating a modern humanoid robot is an **embodied intelligence architecture** characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments.
 {: .blockcomment}
 
 Would you like to focus more heavily on the hardware-software interface, or do you need to compare traditional algorithmic control with modern machine-learning approaches (like end-to-end neural policies)?
@@ -105,7 +105,7 @@ To clearly structure this for your presentation or assignment, you can present a
 
 A compelling way to phrase this point for your audience:
 
-> "While Large Language Models excel at symbolic reasoning and pattern-matching across discrete text tokens, they represent only one narrow facet of artificial intelligence. Operating a physical humanoid robot requires addressing an entirely different, high-dimensional problem space. Physical AI must maintain deterministic, high-frequency control loops that actively calculate non-linear dynamics, contact dynamics, and spatial geometry in real time. Integrating physics, perception, and continuous motion control presents a technical challenge at least as complex as statistical text generation." -*Grzegorz Kamiński*  
+> While Large Language Models excel at symbolic reasoning and pattern-matching across discrete text tokens, they represent only one narrow facet of artificial intelligence. Operating a physical humanoid robot requires addressing an entirely different, high-dimensional problem space. Physical AI must maintain deterministic, high-frequency control loops that actively calculate non-linear dynamics, contact dynamics, and spatial geometry in real time. Integrating physics, perception, and continuous motion control presents a technical challenge at least as complex as statistical text generation. -*Grzegorz Kamiński*  
 {: .blockcomment}
 
 Is there a particular discipline your session focuses on (e.g., computer science, mechanical engineering, cognitive science, or philosophy of AI) that we should tailor the specific terminology toward?
@@ -165,7 +165,8 @@ Here is a breakdown of the parallel architectures, mathematical foundations, and
 
 You can synthesize this comparison with a concise, high-level thesis statement:
 
-"Despite operating in radically different domains, embodied robotic control and advanced economic forecasting share a fundamental mathematical architecture. Both reject the discrete, sequence-based paradigms of LLMs in favor of continuous state-space models, real-time feedback loops, and dynamic optimal control. Whether optimizing joint torques to maintain bipedal balance or calculating continuous income distribution responses to macro shocks, both systems solve non-linear optimization problems under structural uncertainty."
+> Despite operating in radically different domains, embodied robotic control and advanced economic forecasting share a fundamental mathematical architecture. Both reject the discrete, sequence-based paradigms of LLMs in favor of continuous state-space models, real-time feedback loops, and dynamic optimal control. Whether optimizing joint torques to maintain bipedal balance or calculating continuous income distribution responses to macro shocks, both systems solve non-linear optimization problems under structural uncertainty.    
+{: .blockcomment}
 
 Would you like me to update the Markdown file (humanoid\_robot\_ai\_architecture.md) to append this entire economics comparison section to your reference document?
 
@@ -223,7 +224,8 @@ When presenting, you can categorize both systems under standardized architectura
 
 **Suggested Thesis Statement for Unifying the Two**
 
-"Both humanoid robotics and macroeconomic forecasting are instances of **State-Space Adaptive Systems (SSAS)**. Rather than relying on static, discrete symbolic logic like LLMs, both fields require continuous mathematical modeling, real-time state estimation, and rolling-horizon optimization to navigate complex, non-linear environments where current actions permanently alter future states."
+> Both humanoid robotics and macroeconomic forecasting are instances of **State-Space Adaptive Systems (SSAS)**. Rather than relying on static, discrete symbolic logic like LLMs, both fields require continuous mathematical modeling, real-time state estimation, and rolling-horizon optimization to navigate complex, non-linear environments where current actions permanently alter future states.  
+{: .blockcomment}
 
 Would you like me to update your humanoid\_robot\_ai\_architecture.md file to include this unified naming convention and taxonomy?
 
