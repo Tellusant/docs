@@ -59,15 +59,14 @@ If you want to sound technically precise, incorporate these industry-standard te
 
 If you need a concise thesis sentence or abstract for your assignment, you can use something like this:
 
-"The AI operating a modern humanoid robot is an **embodied intelligence architecture** characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments."
+> "The AI operating a modern humanoid robot is an **embodied intelligence architecture** characterized by a hierarchical stack. It integrates high-level task planning and semantic perception with real-time, physics-aware mid-level navigation and low-level whole-body control systems—such as Model Predictive Control and learned motor policies—to achieve autonomous dynamic locomotion and dexterous manipulation in human-centric environments."
+{: .blockcomment}
 
 Would you like to focus more heavily on the hardware-software interface, or do you need to compare traditional algorithmic control with modern machine-learning approaches (like end-to-end neural policies)?
 
 > I also want to explain that LLM, as much as it discussed, is not the only AI solution, and the kinds of things described here are at least as complex (not that LLM is all that complex).
 
 To effectively communicate this point in an academic context, it is helpful to frame the contrast directly: **Large Language Models (LLMs) operate in a discrete, statistical domain, whereas physical AI operates in a continuous, dynamic, and safety-critical environment**.
-
-Forbes
 
 While LLMs are impressive in scale, processing text is fundamentally simpler in a mathematical sense than operating physical hardware in real time.
 
@@ -77,28 +76,18 @@ While LLMs are impressive in scale, processing text is fundamentally simpler in 
 
 * **LLMs:** Text prediction is a **discrete token problem**. The model predicts the next word out of a finite vocabulary. It operates without real-time temporal or physical consequences—if it generates a bad token, no physical damage occurs.
 
-Forbes
-
 * **Robotic Control:** The physical world operates in **continuous vector spaces** across dozens of dimensions simultaneously. The robot’s system must output continuous control signals (torques, joint angles, voltage levels) dynamically.
-
-Forbes
 
 **2. The Determinism and Timing Gap**
 
 * **LLMs:** Can afford variable latency. A response taking $1.5 seconds$vs. $0.5 seconds$is trivial.
 * **Low-Level Controllers:** Must run at strict, deterministic update frequencies—typically $100 Hz$**to** $1,000 Hz$**(**$1 to 10 milliseconds$ **per cycle)**. Delay in calculating dynamic stability for a bipedal robot will cause the machine to fall and break.
 
-Forbes
-
 **3. Spatial Geometry & Newtonian Physics vs. Semantic Association**
 
-* **LLMs:** Lack spatial grounding or physical world models. An LLM "knows" a glass can break because of textual patterns, but it has no internal mechanism to compute mass, moment of inertia, friction coefficients, or contact forces.
+* **LLMs:** Lack spatial grounding or physical world models. An LLM "knows" a glass can break because of textual patterns, but it has no internal mechanism to compute mass, moment of inertia, friction coefficients, or contact forces. -*Grzegorz Kamiński*
 
-Grzegorz Kamiński+ 1
-
-* **Physical AI:** Must solve real-time dynamic equations involving gravity, center of mass (CoM), surface friction, and object impedance.
-
-Grzegorz Kamiński
+* **Physical AI:** Must solve real-time dynamic equations involving gravity, center of mass (CoM), surface friction, and object impedance. -*Grzegorz Kamiński*
 
 **How to Frame the System Taxonomy**
 
@@ -116,9 +105,8 @@ To clearly structure this for your presentation or assignment, you can present a
 
 A compelling way to phrase this point for your audience:
 
-"While Large Language Models excel at symbolic reasoning and pattern-matching across discrete text tokens, they represent only one narrow facet of artificial intelligence. Operating a physical humanoid robot requires addressing an entirely different, high-dimensional problem space. Physical AI must maintain deterministic, high-frequency control loops that actively calculate non-linear dynamics, contact dynamics, and spatial geometry in real time. Integrating physics, perception, and continuous motion control presents a technical challenge at least as complex as statistical text generation."
-
-*Grzegorz Kamiński*
+> "While Large Language Models excel at symbolic reasoning and pattern-matching across discrete text tokens, they represent only one narrow facet of artificial intelligence. Operating a physical humanoid robot requires addressing an entirely different, high-dimensional problem space. Physical AI must maintain deterministic, high-frequency control loops that actively calculate non-linear dynamics, contact dynamics, and spatial geometry in real time. Integrating physics, perception, and continuous motion control presents a technical challenge at least as complex as statistical text generation." -*Grzegorz Kamiński*  
+{: .blockcomment}
 
 Is there a particular discipline your session focuses on (e.g., computer science, mechanical engineering, cognitive science, or philosophy of AI) that we should tailor the specific terminology toward?
 
