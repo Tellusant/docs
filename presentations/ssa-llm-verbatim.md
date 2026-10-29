@@ -124,7 +124,7 @@ I have compiled the full discussion, framework, and comparative analysis into hu
 
 Let me know if you would like to expand on any specific section, such as adding detailed mathematical formulations for low-level control or detailing specific simulator software!
 
-. Looks great! Next step: Can you draw parallels between the humanoid robotics embodied AI and economics AI such as forecasting which also is based on continuous math?
+> Looks great! Next step: Can you draw parallels between the humanoid robotics embodied AI and economics AI such as forecasting which also is based on continuous math?
 
 The conceptual parallels between **embodied AI in humanoid robotics** and **AI applied to macroeconomics and forecasting** are striking. Both domains operate in continuous, dynamic, non-linear systems where predictions have immediate downstream consequences and models must continuously interact with a changing world.
 
