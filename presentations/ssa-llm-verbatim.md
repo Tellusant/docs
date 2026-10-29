@@ -5,6 +5,7 @@ date: 2026-10-27
 image: /assets/soca/social-card-prez.png
 ---
 
+# Assume a Humanoid Robot
 > Assume a humanoid robot. How should I describe the AI that runs it. I'm not interested in the human interface through LLM, but what operates it every millisecond. I need this for a training session.
 
 To describe the AI that operates a humanoid robot for an academic setting, you need to look beyond conversational models (like LLMs) and focus on **embodied AI**, **robotic control architectures**, and **cognitive-motor frameworks**.
