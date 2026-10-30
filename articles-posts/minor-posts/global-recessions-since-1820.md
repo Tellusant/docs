@@ -6,6 +6,7 @@ image: /assets/social-card-publ.png
 ---
 
 # Global Recessions Since 1820
+<a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a> <span> | </span>*2026-10-30*
 
 <a href="https://tellubase.com"  target="_blank" ><span style="color: black; text-decoration: none">Here is an example of how </span>TelluBase<span style="color: black; text-decoration: none"> can be used:</span></a> We took a two-centuries view to see which years have seen the worst economic performance globally.
 
