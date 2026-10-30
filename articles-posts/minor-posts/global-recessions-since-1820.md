@@ -1,5 +1,5 @@
 ---
-title: Global Recessions Since 1820"
+title: Global Recessions Since 1820
 description: "We took a two centuries view to see which years have been the worst globally."
 date: 2026-10-30
 image: /assets/social-card-publ.png
@@ -7,13 +7,13 @@ image: /assets/social-card-publ.png
 
 # Global Recessions Since 1820
 
-How does the current recession year stack up against earlier recessions? I took a two centuries view to see which years have been worse.
+Here is an example of how TelluBase can be used. I took a two-centuries view to see which years have been the worst globally.
 
-Global GDP has declined 14 times in a single year. 2020 is the third worst. The previous last large drop was 1946.
+Global GDP has declined 14 times in a single year. The pandemic year 2020 is the third worst. The previous last drop was in 1946.
 
-2020 is obviously in the top decile of declines. In comparison, those close to retirement now have witnessed 6 top decile growth years. So this year is one to remember.
+Country recessions are rarer today than 50, 100, 150 or 200 years ago. Looking at the graph, this is not obvious. The 1800s had few global recessions. The reason is synchronicity. Way back, countries did not move in synchronicity, today they tend to do this.
 
-The problem is synchronicity. It is rare that almost all major countries decline at the same time. This is why Federal Reserve Chairman Powell was pessimistic today. There is no engine of growth.
+Still, only one major global recseesion since World War II is quite an achievement and something to be lauded.
 
 <p align="center">
 <img  src="assets/tellusant-global-decline-years-2020-2026.svg" width="500" alt="Tellusant: Global recessions since 1820">
