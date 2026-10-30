@@ -1,6 +1,6 @@
 ---
 title: Global Recessions Since 1820
-description: "We took a two centuries view to see which years have been the worst globally."
+description: "We took a two centuries view to see which years have seen the worst economic performance globally."
 date: 2026-10-30
 image: /assets/social-card-publ.png
 ---
