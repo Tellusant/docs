@@ -1,12 +1,12 @@
 ---
 title: "Minor Posts"
-description: "Shorter pieces, often with high value points made, but not in a substantive manner."
+description: "Shorter pieces, often making high-value points, but not in a substantial manner."
 date: 2026-10-09
 image: /assets/social-card-publ.png
 ---
 
 # Minor Posts
-Shorter pieces, often with high value points made, but not in a substantive manner.
+Shorter pieces, often with high value points made, but not in a substantial manner.
 
 ### [Global Recessions Since 1820](global-recessions-since-1820.md)
 Here is an example of how TelluBase can be used: We took a two-centuries view to see which years have seen the worst economic performance globally.
