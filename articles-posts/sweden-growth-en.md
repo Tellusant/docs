@@ -140,7 +140,3 @@ On a more personal note, I notice a lack of optimism and vitality when I visit t
 ³ [More about structural productivity = TFP = the Solow residual is available here](https://en.wikipedia.org/wiki/Solow_residual).
 
 ⁴ The dynamic adjustment has a small positive effect on Sweden, but a larger negative effect on fast-growing countries such as China. The United States is neutral.
-
----
-See [Swedish color scales based on the flag’s blue and yellow](sweden-colors.md) to understand how the colors were selected.
-[More about Sweden and the NB8](../sverige/index.md)
