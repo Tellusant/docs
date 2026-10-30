@@ -126,5 +126,8 @@ Trade-offs between generality, precision, and realism in strategy development.
 ### [Predictive Modeling Collection](predictive-modeling-collection.md)
 This page collects our philosophical and theoretical work on predictive modeling in one place.
 
+### [Inflation Management Collection](inflation-management-collection.md)
+Under construction. The five articles are currently on *Medium*.
+
 ## 4. [Minor Posts](minor-posts/index.md)
 Shorter pieces, often with high value points made, but not in a substantive manner.
