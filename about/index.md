@@ -6,7 +6,7 @@ image: /assets/social-card-about.png
 redirect_from:
   - /legitimacy/
   - /credibility/
-  - about.html
+  - ./about.html
 ---
  
 # About Us
