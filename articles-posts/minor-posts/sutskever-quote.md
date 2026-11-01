@@ -7,4 +7,4 @@ Hinton gave sutskever some papers to read, which he devoured. he remembers bein 
 ilya sutskever cofounded openai. chief scientist
 One of the most highly cited computer scientists in history
 
-In Why Machines Learn The Elegant Math Behind Modern AI. Anil Ananthaswamy
+In Why Machines Learn The Elegant Math Behind Modern AI. Anil Ananthaswamy. 2024
