@@ -1,7 +1,7 @@
 ---
 title: "Presentations"
 description: "Public speeches, lectures and other presentations in slide format by Tellusant members"
-image: /assets/social-card-pub.png
+image: /assets/soca/social-card-prez.png
 ---
 # Presentations
 
