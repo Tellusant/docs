@@ -34,8 +34,8 @@ Seven slides give a quick impression of PoluSim ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇ
 ## [Introduction to TelluBase](Tellusant-Introduction-TelluBase.pdf)
 Learn about our subnational income distribution and consumer classes database TelluBase ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. 218 countries – 2600 cities – 2500 subdivisions. See also [TelluBase On-Demand website](https://tellubase.com "target=_blank") and [TelluBase Subscription website](https://tellubase.telluplan.com "target=_blank")
 
-## [Announcing Stratboard — Intelligent Report Generator](../press-releases/tellusant-stratboard-press-release.md)
-See how our new AI-driven application Stratboard is integrated with PoluSim to enhance its capabilities. ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼.
+## [Introduction to Stratboard](stratboard.md)
+Stratboard is Tellusant’s advanced report automation tool. It converts PoluSim and TelluBase insights into full reports and presentations using LLM-based AI. ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼
 
 ## [Introduction to PACE — Pricing Aligned with Consumer Economics](https://sway.cloud.microsoft/OrAhc3ZmmJsp81yv?ref=Link&loc=mysways "target=_blank")
 See a Sway presentation of how to find latent demand opportunities in consumer goods with PACE. ⎼ᴛʀᴀᴅᴇ ꜱᴇᴄʀᴇᴛ⎼. See also [PACE website](https://pace.telluplan.com "target=_blank")

@@ -5,7 +5,7 @@
 # Introduction to Stratboard Intelligent Report Generator
  <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
-**Stratboard** is Tellusant’s advanced report automation tool. It converts PoluSim and TelluBase insights into full reports and presentations using AI. It delivers structured, consistent, and comprehensive presentations on strategic topics, leveraging the latest and most accurate data available.
+**Stratboard** is Tellusant’s advanced report automation tool. It converts PoluSim and TelluBase insights into full reports and presentations using LLM-based AI. It delivers structured, consistent, and comprehensive presentations on strategic topics, leveraging the latest and most accurate data available.
 
 Stratboard is based on LLM (semantic tokens AI), while PoluSim and TelluBase are based on SSA (continuous math AI). We thus bridge the best of the two worlds.
 
@@ -13,8 +13,8 @@ A common criticism of artificial intelligence is its tendency to aggregate infor
 
 The approach ensures that the generated presentations are based on precise and reliable analyses, rather than randomly incorporated information.
 
+Stratboard provides substantial productivity benefits to organizations utilizing PoluSim. While Stratboard does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan.
+
 <figure align="center">
 <img  src="assets/images/stratboard/stratboard-3-report.jpg" width="600" alt="Stratboard report example">
 </figure>
-
-Stratboard provides substantial productivity benefits to organizations utilizing PoluSim. While Stratboard does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan.
