@@ -1,5 +1,5 @@
 <figure align="center">
-<img  src="assets/images/stratboard/logo-stratboard.svg" width="500" alt="Stratboard logo">
+<img  src="assets/images/stratboard/logo-stratboard.png" width="500" alt="Stratboard logo">
 </figure>
 
 # Introduction to Stratboard Intelligent Report Generator
