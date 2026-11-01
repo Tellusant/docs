@@ -9,7 +9,7 @@
 
 Stratboard is based on LLM (semantic tokens AI), while PoluSim and TelluBase are based on SSA (continuous math AI). We thus bridge the best of the two worlds.
 
-A common criticism of artificial intelligence is its tendency to aggregate information from various, frequently unrelated sources, leading to an uninspiring summary. Stratboard mitigates this issue by exclusively utilizing PoluSim’s restricted data and by focusing on quantitative findings. This is ane a critical part of Stratboard's ***harness***.
+A common criticism of artificial intelligence is its tendency to aggregate information from various, frequently unrelated sources, leading to an uninspiring summary. Stratboard mitigates this issue by exclusively utilizing PoluSim’s restricted data and by focusing on quantitative findings. This is ane a critical part of Stratboard's *harness*.
 
 The approach ensures that the generated presentations are based on precise and reliable analyses, rather than randomly incorporated information.
 
