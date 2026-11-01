@@ -2,7 +2,7 @@
 title: "Assume a Humanoid Robot"
 description: "How should I describe the AI that runs it. I'm not interested in the human interface through LLM, but what operates it every millisecond. I need this for a training session."
 date: 2026-10-27
-image: /assets/soca/social-card-prez.png
+image: /assets/soca/social-card-publ.png
 ---
 
 # Assume a Humanoid Robot
