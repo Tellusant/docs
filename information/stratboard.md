@@ -1,4 +1,6 @@
-![Stratboard](/assets/images/stratboard/logo-stratboard.svg)
+<figure align="center">
+<img  src="assets/images/stratboard/logo-stratboard.svg" width="500" alt="Stratboard logo">
+</figure>
 
 # Stratboard Intelligent Report Generator
  <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
