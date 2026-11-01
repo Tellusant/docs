@@ -1,5 +1,5 @@
 <figure align="center">
-<img  src="assets/images/stratboard/logo-stratboard.svg" width="500" alt="Stratboard logo">
+<img  src="assets/images/stratboard/logo-stratboard.png" width="500" alt="Stratboard logo">
 </figure>
 
 # Introduction to Stratboard Intelligent Report Generator
@@ -14,7 +14,7 @@ A common criticism of artificial intelligence is its tendency to aggregate infor
 The approach ensures that the generated presentations are based on precise and reliable analyses, rather than randomly incorporated information.
 
 <figure align="center">
-<img  src="assets/images/stratboard/stratboard-3-report" width="600" alt="Stratboard report example">
+<img  src="assets/images/stratboard/stratboard-3-report.jpg" width="600" alt="Stratboard report example">
 </figure>
 
 Stratboard provides substantial productivity benefits to organizations utilizing PoluSim. While Stratboard does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan.
