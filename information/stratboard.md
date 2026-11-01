@@ -1,3 +1,5 @@
+![Stratboard](/assets/images/stratboard/logo-stratboard.svg)
+
 # Stratboard Intelligent Report Generator
  <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.company.name }}</i></a>
 
@@ -9,4 +11,4 @@ A common criticism of artificial intelligence is its tendency to aggregate infor
 
 The approach ensures that the generated presentations are based on precise and reliable analyses, rather than randomly incorporated information.
 
-Stratboard provides substantial productivity benefits to organizations utilizing PoluSim. While Stratboard does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan. Typically, a strategic plan addresses Environment, Market, Initiatives, and Outcomes. Stratboard supplies quantitative slides for the first two categories, facilitating informed decision-making.
+Stratboard provides substantial productivity benefits to organizations utilizing PoluSim. While Stratboard does not generate a complete strategic plan, it quickly offers key insights that form the basis of such a plan.
