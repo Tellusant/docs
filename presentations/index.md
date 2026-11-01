@@ -10,7 +10,7 @@ image: /assets/soca/social-card-prez.png
 Public speeches, lectures and other presentations in slide format by Tellusant members.     
 
 ---
-### [State-Space Adaptive AI vs Large Language Model AI](S.Canback-Tellusant-SSA-AI-vs-LLM-AI.pdf)
+### [Staffan Canback: How Tellusant Uses AI Beyond Large Language Models](S.Canback-Tellusant-SSA-AI-vs-LLM-AI.pdf)
 This is from an internal training session at Tellusant. The topic was that LLMs are not the only AI models. Most people think of LLMs (ChatGPT, Claude etc.) as defining AI, but this is an incorrect view.  
 $\qquad$ *The deck was in part created based on a dialogue with Gemini, [reported verbatim here](ssa-llm-verbatim.md).*
 
