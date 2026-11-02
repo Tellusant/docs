@@ -13,6 +13,6 @@ image: /assets/social-card-publ.png
 
 <style align="right">In *Why Machines Learn: The Elegant Math Behind Modern AI* by Anil Ananthaswamy (2024).</style>
 
-Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He has 870,000 scientific citations to his name.
+Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He is currently CEO of SSI. Sutskever has 870,000 scientific citations to his name.
 
 
