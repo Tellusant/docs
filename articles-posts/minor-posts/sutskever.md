@@ -13,4 +13,4 @@ image: /assets/social-card-publ.png
 
 <p style="font-size: 80%;">Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He is currently CEO of SSI. Sutskever has 870,000 scientific citations to his name.</p>
 
-<p style="font-size: 80%;">Geoffrey Hinton is University Professor Emeritus at the University of Toronto (where modern AI was created), Nobel Prize winner, and Turing Prize winner. He is referred to as the "godfather of AI."</p>
+<p style="font-size: 80%;">Geoffrey Hinton is University Professor Emeritus at the University of Toronto (where modern AI was created); Nobel Prize winner; Turing Prize winner. He is referred to as the "godfather of AI."</p>
