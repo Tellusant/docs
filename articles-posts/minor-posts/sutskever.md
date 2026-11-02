@@ -2,9 +2,10 @@
 
 *Being edited*
 
-Hinton gave sutskever some papers to read, which he devoured. he remembers bein perpexed by the simplicity of the math, compared ro the math and physics of hir regular undergrad coursework. he could read these papers on deep learning and understand powerful concepts. "how can it be that it's so simple...so simple that you can explain it to high school students without too much effort?" he told me. "i think that's actually miraculous. this is also, to me, an indication that we are probably on the right track. [it can't] be a coincidence that such simple concepts go so fat.
+'Hinton gave Sutskever some papers to read, which he devoured. He remembers bein perpexed by the simplicity of the math, compared to the math and physics of his regular undergrad coursework. He could read these papers on deep learning and understand powerful concepts. "How can it be that it's so simple...so simple that you can explain it to high school students without too much effort?" he told me. "I think that's actually miraculous. This is also, to me, an indication that we are probably on the right track. [it can't] be a coincidence that such simple concepts go so far."'
 
-ilya sutskever cofounded openai. chief scientist
-One of the most highly cited computer scientists in history
+<style align="right">In *Why Machines Learn: The Elegant Math Behind Modern AI* by Anil Ananthaswamy (2024).</style>
 
-In Why Machines Learn The Elegant Math Behind Modern AI. Anil Ananthaswamy. 2024
+Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He is one of the most highly cited computer scientists in history.
+
+
