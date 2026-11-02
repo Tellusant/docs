@@ -1,4 +1,4 @@
-# Sutskever (OpenAI co-founder) on the Simplicity of LLM AI
+# Sutskever (OpenAI Co-Founder) on the Simplicity of LLM AI
 
 *Being edited*
 
