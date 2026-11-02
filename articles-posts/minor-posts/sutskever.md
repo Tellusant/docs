@@ -1,6 +1,6 @@
 ---
 title: "Sutskever (OpenAI Co-Founder) on the Simplicity of LLM AI"
-description: "How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?"
+description: "'How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?'"
 date: 2026-11-01
 image: /assets/social-card-publ.png
 ---
