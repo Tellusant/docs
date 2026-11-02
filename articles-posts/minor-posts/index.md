@@ -8,6 +8,8 @@ image: /assets/social-card-publ.png
 # Minor Posts
 Shorter pieces, often with high value points made, but not in a substantial manner.
 
+### [Sutskever](sutskever.md)
+
 ### [Global Recessions Since 1820](global-recessions-since-1820.md)
 Here is an example of how TelluBase can be used: We took a two-centuries view to see which years have seen the worst economic performance globally.
 
