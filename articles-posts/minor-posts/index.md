@@ -8,7 +8,8 @@ image: /assets/social-card-publ.png
 # Minor Posts
 Shorter pieces, often with high value points made, but not in a substantial manner.
 
-### [Sutskever](sutskever.md)
+### [Sutskever (OpenAI Co-Founder) on the Simplicity of LLM AI](sutskever.md)
+'How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?' from *Why Machines Learn* by Anil Ananthaswamy
 
 ### [Global Recessions Since 1820](global-recessions-since-1820.md)
 Here is an example of how TelluBase can be used: We took a two-centuries view to see which years have seen the worst economic performance globally.
