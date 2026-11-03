@@ -11,9 +11,9 @@ hide_footer: true
  
 
 
-<p align="center">
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1242898642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:60%;height:60%;" title="tellusant-chocolate-candy-section-large-swedish-supermarket ORIGINAL"></iframe></div>
-</p>
+
+<div style="padding:177.78% 0 0 0;position:relative;"><p align="center"><iframe src="https://player.vimeo.com/video/1242898642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:60%;height:60%;" title="tellusant-chocolate-candy-section-large-swedish-supermarket ORIGINAL"></iframe></p></div>
+
 
 This video shows how large the chocolate & candy section can be in an extremely well-developed market: Sweden.
 
