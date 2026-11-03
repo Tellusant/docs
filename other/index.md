@@ -1,13 +1,16 @@
 ---
 title: "Other Materials"
-description: "Bits and pieces such as event posters"
+description: "Bits and pieces such as travel videos, surveys, and event posters."
 image: /assets/social-card-think.png
 ---
 # Other Materials
 
 <a href="{{ site.company_url }}" style="color: black; text-decoration: none;"><i>By Tellusant, Inc.</i>
 
-Bits and pieces such as travel videos. surveys, and event posters.  
+Bits and pieces such as travel videos, surveys, and event posters.  
+
+### [Swedish Supermarket Chocolate and Candy Section Video](sweden-supermarket-chocolate-candy.md)
+This video shows how large the chocolate & candy section can be in an extremely well-developed market: Sweden.
 
 ### [Buenos Aires by Night Video](buenos-aires-by-night.md)
 Our chairman visited Buenos Aires for business. He shot this night time video from his hotel room.
