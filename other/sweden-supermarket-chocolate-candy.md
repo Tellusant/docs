@@ -2,7 +2,7 @@
 title: "Chocolate & Candy Section at a Large Swedish Supermarket 🇸🇪"
 description: "This video shows how large the chocolate & candy section can be in an extremely well-developed market: Sweden.
 "
-image: /assets/soca/social-card-buenos-aires.png
+image: /assets/soca/social-card-sweden-chocolate-candy.jpg
 hide_header: true
 hide_footer: true
 ---
