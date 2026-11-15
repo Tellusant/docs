@@ -98,7 +98,7 @@ $$
 
 Eigenvalues indicate the amount of standardized variance represented by each component. Choose the number of components using several criteria: scree plot, parallel analysis where feasible, interpretability, stability, and practical usefulness. **Do not use the eigenvalue-greater-than-one rule as the sole criterion.**
 
-For a correlation matrix with $p\$ variables, the proportion of total standardized variance explained by the first $\q$ components is:
+For a correlation matrix with $p$ variables, the proportion of total standardized variance explained by the first $q$ components is:
 
 $$
 \frac{\sum_{j=1}^{q}\lambda_j}{p}
