@@ -12,7 +12,7 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 [1. Recent](#1-recent)  
 [2. Past](#2-past)  
 [3. Collections](#3-collections)  
-[4. Minor Posts](/minor-posts/index.md)  
+[4. Minor Posts](../minor-posts/)  
 
 ---
 ## 1. Recent  
