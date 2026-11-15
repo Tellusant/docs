@@ -4,8 +4,16 @@ date: 2026-11-15
 description: "A practical guide to reducing ordinal and mixed survey indicators to interpretable dimensions, drawing on the alcohol-policy restrictions analysis."
 ---
 
+<<<<<<< HEAD
 # From Cross-Tabs to Latent Dimensions: Polychoric/Polyserial PCA and Varimax for Surveys
 ## Polychoric and polyserial PCA with Varimax rotation for survey research
+=======
+# From Cross-Tabs to Latent Dimensions
+
+> This document is still work in progress and will be finalized when time and need exists. It is already now useful.
+
+## Polychoric and Polyserial Principal Component Analysis with Varimax Rotation (for, e.g., Survey Analysis)
+>>>>>>> ee2723b0d2e94981f95ea5c16207b4da92a62b6b
 
 ### Executive summary
 
