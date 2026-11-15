@@ -6,7 +6,7 @@ description: "A practical guide to reducing ordinal and mixed survey indicators 
 
 # From Cross-Tabs to Latent Dimensions: Polychoric/Polyserial PCA and Varimax for Surveys
 
-> This document is still work in progress and will be finalized when time and need exists. It is already now useful.  
+> This document is still work in progress and will be finalized when time and need exists. It is useful already now.  
 {: .blockcomment}
 
 ## Executive summary
