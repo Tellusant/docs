@@ -5,7 +5,10 @@ description: "A practical guide to reducing ordinal and mixed survey indicators 
 ---
 
 # From Cross-Tabs to Latent Dimensions
-## Polychoric and polyserial PCA with Varimax rotation for survey research
+
+> This document is still work in progress and will be finalized when time and need exists. It is already now useful.
+
+## Polychoric and Polyserial Principal Component Analysis with Varimax Rotation (for, e.g., Survey Analysis)
 
 ### Executive summary
 
