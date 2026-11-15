@@ -4,14 +4,14 @@ date: 2026-11-15
 description: "A practical guide to reducing ordinal and mixed survey indicators to interpretable dimensions, drawing on the alcohol-policy restrictions analysis."
 ---
 
-# From Cross-Tabs to Latent Dimensions
+# From Cross-Tabs to Latent Dimensions: Polychoric/Polyserial PCA and Varimax for Surveys
 ## Polychoric and polyserial PCA with Varimax rotation for survey research
 
 ### Executive summary
 
-Traditional cross-tabulations remain excellent for answering questions such as *“Do responses to question A differ by customer segment B?”* But a large survey may contain dozens of related questions. Examining them two at a time generates many tables, obscures shared patterns, and makes it difficult to construct a small number of reusable measures.
+Traditional cross-tabulations remain excellent for answering questions such as *“Do responses to question A differ by customer segment B?”* But a large survey may contain dozens of related questions. Examining them in cross-tabs generates many tables, obscures shared patterns, and makes it difficult to construct a small number of reusable measures.
 
-A complementary approach is to estimate **polychoric correlations** between ordinal items, **polyserial correlations** between ordinal and continuous items, and ordinary correlations where appropriate; then use **principal component analysis (PCA)** to reduce the correlation matrix to a few dimensions and **Varimax rotation** to make those dimensions easier to interpret. The result can be a concise map of a complex survey: not just which answers are associated, but which *underlying response patterns* organize the dataset and how respondents score on them.
+An alternative approach is to estimate **polychoric correlations** between ordinal items, **polyserial correlations** between ordinal and continuous items, and ordinary correlations where appropriate; then use **principal component analysis (PCA)** to reduce the correlation matrix to a few dimensions and **Varimax rotation** to make those dimensions easier to interpret. The result can be a concise map of a complex survey: not just which answers are associated, but which *underlying response patterns* organize the dataset and how respondents score on them.
 
 **Key distinction:** Cross-tabs answer specific pairwise questions; mixed-correlation PCA with rotation summarizes *multivariate structure*. Neither replaces the other, and neither alone proves causality.
 
