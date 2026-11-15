@@ -17,6 +17,8 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 ## 1. Recent  
 
+### [Polychoric](polychoric-polyserial-pca-varimax-survey-guide.md)
+
 ### [What Do Income Distribution Curves Look Like? A Few Examples](income-distribution-curves.md)
 Most executives have heard of income distribution, but usually do not know what the actual curves look like. Here we show examples and a few uses.
 
