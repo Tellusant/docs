@@ -48,9 +48,9 @@ Coding ordinal responses as 1–5 and correlating them with Pearson's *product-m
 
 The latent-response framework instead assumes an unobserved continuous variable underlying each ordinal response. The observed response is determined by thresholds:
 
-\[
+$$\[
 Y_i=k \quad\text{when}\quad \tau_{k-1}<Y_i^*\leq\tau_k.
-\]
+\]$$
 
 - **Polychoric correlation:** estimated correlation between two latent continuous responses underlying **two ordinal variables** (binary variables are a special case: tetrachoric correlation).
 - **Polyserial correlation:** estimated correlation between a **continuous** variable and a latent continuous response underlying an **ordinal** variable.
@@ -91,17 +91,17 @@ A valid PCA correlation matrix must be symmetric, have unit diagonal, and be PSD
 
 Diagonalize the corrected correlation matrix:
 
-\[
+$$\[
 R=V\Lambda V^{\mathsf T}.
-\]
+\]$$
 
 Eigenvalues indicate the amount of standardized variance represented by each component. Choose the number of components using several criteria: scree plot, parallel analysis where feasible, interpretability, stability, and practical usefulness. **Do not use the eigenvalue-greater-than-one rule as the sole criterion.**
 
-For a correlation matrix with \(p\) variables, the proportion of total standardized variance explained by the first \(q\) components is:
+For a correlation matrix with $(p\$) variables, the proportion of total standardized variance explained by the first $\(q\$ components is:
 
-\[
+$$\[
 \frac{\sum_{j=1}^{q}\lambda_j}{p}.
-\]
+\]$$
 
 ### Step 6 — Apply orthogonal Varimax rotation
 
