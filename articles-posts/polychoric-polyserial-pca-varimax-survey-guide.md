@@ -1,10 +1,10 @@
 ---
-title: "From Cross-Tabs to Latent Dimensions: Polychoric/Polyserial PCA with Varimax Rotation for Surveys"
+title: "From Cross-Tabs to Latent Dimensions: Mixed-Correlation PCA with Varimax Rotation for Surveys"
 date: 2026-11-15
 description: "A practical guide to reducing ordinal and mixed survey indicators to interpretable dimensions, drawing on the alcohol-policy restrictions analysis."
 ---
 
-# From Cross-Tabs to Latent Dimensions: Polychoric/Polyserial PCA and Varimax for Surveys
+# From Cross-Tabs to Latent Dimensions: Mixed-Correlation PCA with Varimax Rotation for Surveys
 
 > This document is still work in progress and will be finalized when time and need exists. It is useful already now.  
 {: .blockcomment}
