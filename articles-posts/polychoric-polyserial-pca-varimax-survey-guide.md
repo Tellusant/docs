@@ -2,7 +2,7 @@
 title: "From Cross-Tabs to Latent Dimensions: Mixed-Correlation Principal Component Analysis with Varimax Rotation for Surveys"
 date: 2026-11-15
 description: "A practical guide to reducing ordinal and mixed survey indicators to interpretable dimensions, drawing on the alcohol-policy restrictions analysis."
-image: soca/social-card-publ
+image: /assets/soca/social-card-publ.png
 ---
 
 # From Cross-Tabs to Latent Dimensions: Mixed-Correlation Principal Component Analysis with Varimax Rotation for Surveys
