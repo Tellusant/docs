@@ -7,7 +7,7 @@ image: /assets/soca/social-card-publ.png
 
 # From Cross-Tabs to Latent Dimensions: Mixed-Correlation Principal Component Analysis with Varimax Rotation for Surveys
 
-> This document is still work in progress and will be finalized when time and need exists. It is useful already now. The main limitation is that it goes into too much detail. If all steps are followed, the analysis may take forever. The next version will reduce the number of steps and sub-step; and number of ifs and buts.
+> This document is still work in progress and will be finalized when time and need exists. It is useful already now. The main limitation is that it goes into too much detail. If all steps are followed, the analysis may take forever. The next version will reduce the number of steps and sub-step; and the number of ifs and buts.
 {: .blockcomment}
 
 ## Executive summary
