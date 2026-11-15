@@ -17,10 +17,11 @@ Search engines and AI bots cannot see through the firewalls on these sites (they
 ---
 ## 1. Recent  
 
-### [Polychoric](polychoric-polyserial-pca-varimax-survey-guide.md)
+### [From Cross-Tabs to Latent Dimensions: Polychoric/Polyserial PCA and Varimax for Surveys](polychoric-polyserial-pca-varimax-survey-guide.md)  
+Traditional cross-tabulations remain excellent for answering questions such as *“Do responses to question A differ by customer segment B?”* But a large survey may contain dozens of related questions. Examining them two at a time generates many tables, obscures shared patterns, and makes it difficult to construct a small number of reusable measures. Thus, a better method is needed.  
 
-### [What Do Income Distribution Curves Look Like? A Few Examples](income-distribution-curves.md)
-Most executives have heard of income distribution, but usually do not know what the actual curves look like. Here we show examples and a few uses.
+### [What Do Income Distribution Curves Look Like? A Few Examples](income-distribution-curves.md)  
+Most executives have heard of income distribution, but usually do not know what the actual curves look like. Here we show examples and a few uses.  
 
 ### [How to Classify AI Work: The Cognitive Use-Stack Approach](ai-cognitive-use-stack.md)
 Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task.
