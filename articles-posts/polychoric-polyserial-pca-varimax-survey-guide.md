@@ -10,6 +10,8 @@ image: /assets/soca/social-card-publ.png
 > This document is still work in progress and will be finalized when time and need exists. It is useful already now. The main limitation is that it goes into too much detail. If all steps are followed, the analysis may take forever. The next version will reduce the number of steps and sub-step; and the number of ifs and buts.
 {: .blockcomment}
 
+![image](assets/images/s.canback-tellusant-consumer-survey-matrix.svg)
+
 ## Executive summary
 
 Traditional cross-tabulations remain excellent for answering questions such as *“Do responses to question A differ by customer segment B?”* But a large survey may contain dozens of related questions. Examining them in cross-tabs generates many tables, obscures shared patterns, and makes it difficult to construct a small number of reusable measures.
