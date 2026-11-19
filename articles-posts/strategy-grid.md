@@ -62,7 +62,7 @@ Then follows the company and its competitors. Growth is often reasonably well un
 
 Productivity is poorly understood. It is usually done in a scattered manner through benchmarking. But this should not be the starting point. The starting point is the high level picture using exactly the same method as in country analysis: labor, capital, and structural productivity. These are well-known metrics, but rarely used.  
 
-Risk at the company level should also focus on volatility (stock market beta is not part of the consideration though). Quarterly or monthly data makes it easy to measure volatility for the company, its competitors, and the market as a whole.  
+Risk at the company level should focus on volatility (stock market beta is not part of the consideration though) and shocks. Quarterly or monthly data make it easy to measure volatility and shocksfor the company, its competitors, and the market as a whole.  
 
 ### Business Unit
 The logic for business units is the same as for the company as a whole, just scaled down. The comparisons are both against competition and against other business units. The latter allows for a way to calibrate BU performance in a scientific way.
