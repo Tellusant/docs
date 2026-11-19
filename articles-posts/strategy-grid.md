@@ -35,11 +35,11 @@ The horizontal axis starts with macro. Any CEO would say it is better to be in a
 But they should also prefer countries with strong productivity growth. Yet few are aware this metric. Instead the focus is on, e.g., GDP growth in total instead of the quality of that growth.  
 
 How should we think about productivity? There are three components working on GDP:
-- Labor
-- Capital
+- Labor productivity
+- Capital productivity
 - Structural productivity ≡ total factor productivity (TFP) ≡  Solow residual  
 
-Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity improves beyond this, the country is said to be improving.
+Structural productivity is whether the country is *getting better*, in some sense. If labor and capital are growing at the pace of the country, it is said to be scaling. If structural productivity improves beyond this, the country is said to be progressing.
 
 This is expressed in a Cobb-Douglas equation:  
 
