@@ -7,6 +7,12 @@ image: /assets/soca/social-card-publ.png
 
 # From Cross-Tabs to Latent Dimensions: Mixed-Correlation Principal Component Analysis with Varimax Rotation for Surveys
 
+> In June 2025, I presented this model for analyzing consumer and other surveys. In this article I move from concept to practical implementation.
+
+<p align="center">
+<img  src="assets/images/s.canback-tellusant-consumer-survey-matrix.svg" width="600" alt="Consumer survey analysis model">  
+</p>
+
 > This document is still work in progress and will be finalized when time and need exists. It is useful already now. The main limitation is that it goes into too much detail. If all steps are followed, the analysis may take forever. The next version will reduce the number of steps and sub-step; and the number of ifs and buts.
 {: .blockcomment}
 
