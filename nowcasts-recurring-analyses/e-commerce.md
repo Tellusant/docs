@@ -12,7 +12,7 @@ image: /assets/social-card-ecom.png
 
 E-commerce continuous to grow and the second quarter follows the steady-state trend. No surprises.
 
-This steady increase continues to put pressure on traditional retail. In just 5 years, e-commerce has grown five percentage points (relative to covid-cleansed trend), or 40%. Staggering number. Quarterly year-on-year growth is well above GDP growth.
+This steady increase continues to put pressure on traditional retail. In just 5 years, e-commerce has grown more than 6 percentage points (relative to covid-cleansed trend). A staggering number. Quarterly year-on-year growth is well above GDP growth at .
 
 What we see is a version of boiling the frog. Each increment may not look like much, but combined the change is massive.
 
