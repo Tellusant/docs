@@ -1,6 +1,10 @@
 ---
 title: "Alcohol Consumption Research — Project Summary"
+description: "."
 date: 2026-11-15
+image: /assets/social-card-publ.png
+robots: noindex, nofollow
+sitemap: false
 ---
 
 # Alcohol Consumption Research: Project Summary
@@ -55,13 +59,13 @@ The most recent 2024 cross-sectional density analyses used **142 valid countries
 
 We developed one-dimensional KDEs, two-dimensional KDEs, country-level diagnostics, and comparisons by beverage. The analyses considered income, temperature, humidity, urbanization, culture, and regulatory conditions. Some versions excluded zero-consumption observations to prevent zero masses from distorting continuous density estimates.
 
-A central methodological choice for the later presentation graphics was:
+A central methodological choice for the later presentation graphics was:  
 
-\[
-w_{ib}=q_{ib}\sqrt{P_i},
-\]
+$$
+\w_{ib}=q_{ib}\sqrt{P_i},\]
+$$  
 
-where \(q_{ib}\) is beverage \(b\)'s per-capita consumption in country \(i\), and \(P_i\) is population. This gives greater influence to countries with larger populations and greater beverage consumption, while avoiding the full dominance that direct population weighting can create.
+where $(q_{ib}\$ is beverage $b$'s per-capita consumption in country $i\$, and $P_i\$ is population. This gives greater influence to countries with larger populations and greater beverage consumption, while avoiding the full dominance that direct population weighting can create.
 
 **Interpretation:** These are *beverage-consumption-weighted distributions of country characteristics*, not population probability distributions and not estimates of causal effects.
 
@@ -69,19 +73,19 @@ where \(q_{ib}\) is beverage \(b\)'s per-capita consumption in country \(i\), an
 
 For the 2024 bivariate KDE panels, income was represented by:
 
-\[
+$$
 x_i=\ln(DIcoP\_Pop_i).
-\]
+$$
 
 To distinguish a variable's association with income from its remaining cross-country variation, selected explanatory variables were residualized using unweighted country-level OLS:
 
-\[
+$$
 z_i=\alpha+\beta x_i+\varepsilon_i,\qquad z_i^{\mathrm{resid}}=z_i-(\hat\alpha+\hat\beta x_i).
-\]
+$$
 
 Results recorded in the analyses:
 
-| Dependent variable | Estimated income relationship | OLS \(R^2\) | Countries |
+| Dependent variable | Estimated income relationship | OLS $\(R^2\)$ | Countries |
 |---|---|---:|---:|
 | Temperature | \(52.873-3.761\ln(DIcoP\_Pop)\) | 0.236 | 142 |
 | City share | \(-1.0694+0.1574\ln(DIcoP\_Pop)\) | 0.465 | 142 |
