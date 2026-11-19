@@ -10,9 +10,9 @@ image: /assets/soca/social-card-ecom.png
   <i>By Tellusant, Inc.</i>
 </a><br>
 
-E-commerce continuous to grow and the second quarter follows the steady-state trend. No surprises.
+E-commerce continuous to grow and the second quarter follows the steady-state trend. No surprises in this quarter.
 
-This steady increase continues to put pressure on traditional retail. In just 5 years, e-commerce has grown more than 6 percentage points (relative to covid-cleansed trend). A staggering number. Quarterly year-on-year growth is well above GDP growth at .
+This steady increase continues to put pressure on traditional retail. In just 5 years, e-commerce has grown more than 6 percentage points (relative to covid-cleansed trend). A staggering number. Quarterly year-on-year growth is well above GDP growth.
 
 What we see is a version of boiling the frog. Each increment may not look like much, but combined the change is massive.
 
