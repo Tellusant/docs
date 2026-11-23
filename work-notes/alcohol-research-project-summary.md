@@ -66,7 +66,7 @@ We developed one-dimensional KDEs, two-dimensional KDEs, country-level diagnosti
 A central methodological choice for the later presentation graphics was:  
 
 $$
-\w_{ib}=q_{ib}\sqrt{P_i},\]
+w_{ib}=q_{ib}\sqrt{P_i}
 $$  
 
 where $(q_{ib}\$ is beverage $b$'s per-capita consumption in country $i\$, and $P_i\$ is population. This gives greater influence to countries with larger populations and greater beverage consumption, while avoiding the full dominance that direct population weighting can create.
