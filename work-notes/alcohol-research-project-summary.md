@@ -10,6 +10,9 @@ sitemap: false
 
 # Alcohol Consumption Research: Project Summary
 
+<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+ <span> | </span>*2026-11-13*
+
 **Scope:** International beer, wine, spirits, and total alcohol consumption; explanatory variables, regulatory-policy measurement, statistical modeling, and presentation graphics. Supporting U.S. historical and regional work was also developed.
 
 **Status:** Working research synthesis, reflecting the datasets, diagnostics, model-comparison outputs, and visualizations produced during the project. This is a record of work undertaken, **not** a claim that every model or policy-index candidate has been validated or selected as final.
