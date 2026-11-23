@@ -1,6 +1,30 @@
 # Beige Book Nowcast Archive
 
 ---
+# October 2026
+
+The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast using our ***Fedora*** agent.
+
+---
+U.S. Economic activity increased slightly in the October Beige Book period, with conditions improving across 10 of 12 districts. National performance was lower than in the September Beige Book, resulting in slight instead of modest growth.
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-no07.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>  
+
+Underlying conditions point to continued support from labor tightness, but market demand is now weak. Persistent price pressures remain a major constraint on overall economic momentum.
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-no07.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
+</p>
+
+The GDP-weighted growth index is 1.42 which signals slight growth and down from from 1.62 (modest growth) in the September Beige Book. Both unweighted and weighted diffusion measures are stable meaning that the slight expansion expansion is broad based bth b district, and by district econoic mass (GDP).
+
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-no07.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
+</p>
+
+---
 ## September 2026
 
 U.S. Economic activity increased modestly in the September Beige Book, with conditions improving across 10 of 12 districts. National performance was slightly lower than in the June Beige Book. 
@@ -173,7 +197,9 @@ Tariffs and erratic government policies are likely causes of the poor performanc
 ---
 ## October 2025
 
-![October 2025](assets/images/beige-book/tellusant-fed-beige-book-summary-2025-10.svg)  
+<p align="center">
+<img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2025-10.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
+</p>
 
 The October 2025 report shows significant weakness. It ranks 80th of the 83 periods we have analyzed since beginning of 2016. Discounting two covid periods, it is the second worst in our dataset (June 2025 being the worst).
 
