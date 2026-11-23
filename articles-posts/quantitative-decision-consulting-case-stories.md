@@ -2,6 +2,7 @@
 title: "Quantitative Decision Consulting: Three of Our Case Stories"
 description: "Tellusant has always been at the forefront of the AI revolution. It was the intent behind founding the company and abandoning management consulting."
 image: /assets/social-card-publ.png
+redirect_from: /cases/
 ---
 
 # Quantitative Decision Consulting: Three of Our Case Stories

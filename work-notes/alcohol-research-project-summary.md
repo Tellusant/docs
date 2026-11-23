@@ -3,6 +3,7 @@ title: "Alcohol Consumption Research — Project Summary"
 description: "."
 date: 2026-11-15
 image: /assets/social-card-publ.png
+redirect: /poly/
 robots: noindex, nofollow
 sitemap: false
 ---
