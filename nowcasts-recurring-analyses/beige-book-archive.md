@@ -3,7 +3,7 @@
 The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast using our ***Fedora*** agent.
 
 ---
-# October 2026
+# October 14, 2026
 
 U.S. Economic activity increased slightly in the October Beige Book period, with conditions improving across 10 of 12 districts. National performance was lower than in the September Beige Book, resulting in slight instead of modest growth.
 
@@ -24,7 +24,7 @@ The GDP-weighted growth index is 1.42 which signals slight growth and down from 
 </p>
 
 ---
-## September 2026
+## September 2, 2026
 
 U.S. Economic activity increased modestly in the September Beige Book, with conditions improving across 10 of 12 districts. National performance was slightly lower than in the June Beige Book. 
 
@@ -41,7 +41,7 @@ Underlying conditions point to continued support from demand and labor markets, 
 The GDP-weighted growth index is 1.65 which is at the lower end of modest growth and down from from 1.71 in the July Beige Book. Both unweighted and weighted diffusion measures are stable. 
 
 ---
-## July 2026
+## July 15, 2026
 U.S. Economic activity increased modestly in the July Beige Book, with conditions improving across 11 of 12 districts. National performance was materially higher than in the June Beige Book. 
 
 <p align="center">
@@ -61,7 +61,7 @@ The GDP-weighted growth index is 1.71, up from 1.16 in June, which indicates a m
 </p>
 
 ---
-## June 2026
+## June 3, 2026
 Economic activity increased slightly in the June Beige Book, with conditions improving across a broader set of districts. National performance was higher than in the April Beige Book. 
 
 <p align="center">
@@ -85,7 +85,7 @@ The GDP-weighted growth index is 1.16, up from 0.68 in April, but still represen
 Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book. It has a small effect except on inflation. 
 
 ---
-## April 2026
+## April 15, 2026
 Economic activity increased slightly in the April Beige Book, with conditions improving across a broader set of districts even as overall momentum softened from the prior report. 
 
 <p align="center">
@@ -111,7 +111,7 @@ The GDP-weighted growth index edged down to 0.68, while both unweighted and weig
 Erratic government policies continue to damp growth. The Iran war is reflected in the Beige Book but has a small effect except on inflation.  
 
 ---
-## March 2026
+## March 4, 2026
 The March 2026 report shows only slight growth. Performance is diverging significantly with some districts doing well, others doing poorly. This divergence is larger than usual.  
 
 <p align="center">
@@ -146,7 +146,7 @@ Erratic government policies continue to damp growth. The Iran war is not reflect
 
 
 ---
-## January 2026
+## January 14, 2026
 The January 2026 report shows improved economic economic conditions, but still only slight growth.
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-01.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
@@ -166,7 +166,7 @@ Erratic government policies continue to damp growth.
 <br/>
 
 ---
-## November 2025
+## November 26, 2025
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2025-11.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
@@ -194,7 +194,7 @@ Tariffs and erratic government policies are likely causes of the poor performanc
 <br/>
 
 ---
-## October 2025
+## October 15, 2025
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2025-10.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
