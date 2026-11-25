@@ -13,7 +13,7 @@ image: /assets/social-card-beig.png
 The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast using our ***Fedora*** agent.
 
 ---
-U.S. Economic activity was slightly doen in the November Beige Book period compared to the previous period. Conditions improved in 9 of 12 districts (from 10/12). National performance was lower than in the October Beige Book.
+U.S. Economic activity was slightly down in the November Beige Book period compared to the previous period. Conditions improved in 9 of 12 districts (from 10/12). National performance was lower than in the October Beige Book.
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-summary-2026-no08.svg" width="700" alt="Nowcast: Federal Reserve Beige Book Economic Activity">
