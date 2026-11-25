@@ -3,7 +3,7 @@
 The Fed's Beige Book, Summary of Commentary on Current Economic Conditions, covers current economic activity for the 12 Federal Reserve Districts. Tellusant converts it into a quantitative nowcast using our ***Fedora*** agent.
 
 ---
-# October 14, 2026
+## October 14, 2026
 
 U.S. Economic activity increased slightly in the October Beige Book period, with conditions improving across 10 of 12 districts. National performance was lower than in the September Beige Book, resulting in slight instead of modest growth.
 
