@@ -25,7 +25,7 @@ Underlying conditions point to continued support from labor tightness, but marke
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-contributing-factors-2026-no08.svg" width="450" alt="Nowcast: Federal Reserve Beige Book contributing factors">
 </p>
 
-The GDP-weighted growth index is 1.27 which signals *slight* growth,and down from from 1.41 in the oCTOBER Beige Book. Both unweighted and weighted diffusion measures are stable meaning that the slight expansion is broad, and by district economic mass (GDP).
+The GDP-weighted growth index is 1.27 which signals *slight* growth, down from from 1.41 in the October Beige Book. Both unweighted and weighted diffusion measures are stable, with slight expansion by district (DI) and by district economic mass (WDI).
 
 <p align="center">
 <img  src="assets/images/beige-book/tellusant-fed-beige-book-indexes-2026-no08.svg" width="500" alt="Nowcast: Federal Reserve Beige Book key indexes">
